@@ -1,0 +1,467 @@
+{
+  "id": "exam-a2",
+  "level": "A2",
+  "title": "Simulazione A2 Key",
+  "intro": "Simulazione ispirata al formato Cambridge A2 Key. Contiene tre prove: Reading & Writing (7 parti: letture, due esercizi di completamento e due testi da scrivere), Listening (5 parti, ogni audio si ascolta al massimo 2 volte) e Speaking (4 domande a cui rispondi a voce). Il tempo totale è di circa 90 minuti: ogni parte indica la sua durata consigliata. Lavora senza dizionario e senza traduttore. Il risultato è indicativo: serve a capire a che punto sei, non è un voto ufficiale.",
+  "parts": [
+    {
+      "id": "rw1",
+      "title": "Reading & Writing - Part 1",
+      "skill": "reading",
+      "minutes": 8,
+      "it": "Leggi ogni avviso o messaggio e scegli la risposta giusta.",
+      "steps": [
+        {
+          "t": "mc",
+          "q": "What does the notice say?",
+          "text": "SWIMMING POOL\nNo food or drink in the pool area.\nCafe open 9.00-17.00 on the first floor.",
+          "opts": ["You must not take food into the pool area.", "You can buy food next to the pool.", "The cafe is closed today."],
+          "a": 0,
+          "why": "«No food or drink in the pool area» vieta di portare cibo e bevande nella zona della piscina. Il bar è al primo piano e aperto."
+        },
+        {
+          "t": "mc",
+          "q": "Why is Mum sending this message?",
+          "text": "Hi Dan, I'm stuck in traffic. Start dinner without me. I'll be home at about 8. Mum",
+          "opts": ["To ask Dan to pick her up", "To tell Dan she will be late", "To say she is not coming home"],
+          "a": 1,
+          "why": "Mum è bloccata nel traffico e arriverà verso le 8: avvisa che farà tardi."
+        },
+        {
+          "t": "mc",
+          "q": "What should you do?",
+          "text": "CAR PARK\nPlease keep your ticket.\nYou need it to leave the car park.",
+          "opts": ["Give your ticket to the driver.", "Throw your ticket away at the entrance.", "Keep your ticket until you leave."],
+          "a": 2,
+          "why": "«Keep your ticket» = conserva il biglietto; serve per uscire."
+        },
+        {
+          "t": "mc",
+          "q": "What must the students in Class 3B do?",
+          "text": "Class 3B: Tomorrow's English lesson is cancelled because Mrs Hall is ill. Please read pages 20-21 at home.",
+          "opts": ["Come to school as usual.", "Read some pages at home.", "Visit Mrs Hall at home."],
+          "a": 1,
+          "why": "La lezione è annullata, ma gli studenti devono leggere le pagine 20-21 a casa."
+        },
+        {
+          "t": "mc",
+          "q": "What does the notice say?",
+          "text": "SALE: everything half price.\nLast day: Sunday.\nNo refunds on sale items.",
+          "opts": ["Some things are half price.", "The shop will be cheaper after Sunday.", "You cannot get your money back for sale items."],
+          "a": 2,
+          "why": "«No refunds» = niente rimborsi: non si riavrà il denaro. Tutto è a metà prezzo, ma solo fino a domenica."
+        },
+        {
+          "t": "mc",
+          "q": "What does the notice mean?",
+          "text": "Bus 14 does not stop at Park Road today because of road works. Please use bus 22 or walk from Green Street.",
+          "opts": ["Passengers can use a different bus.", "Bus 14 is not running today.", "Bus 22 does not stop at Green Street."],
+          "a": 0,
+          "why": "Il bus 14 circola ma non ferma a Park Road; il cartello consiglia il bus 22 o di camminare da Green Street."
+        }
+      ]
+    },
+    {
+      "id": "rw2",
+      "title": "Reading & Writing - Part 2",
+      "skill": "reading",
+      "minutes": 8,
+      "it": "Tre persone parlano della loro ultima vacanza. Per ogni domanda scegli A, B o C.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "My last holiday",
+          "genre": "interviews",
+          "text": "**A - Tom**\nWe went to Wales in August. We drove there with our two children and slept in a tent for a week. It rained almost every day, but the children loved swimming in the river. In the evening we cooked on a fire. I want to go again, but with a bigger tent!\n\n**B - Sara**\nI flew from Manchester to Seville on my own. I stayed in a small hotel in the old town for five days. The sun shone every day. I went to a cooking class and learned to make paella. It was my first holiday without my family and I really enjoyed it.\n\n**C - Dev**\nThis year we did not have much money, so my wife and I stayed at home. We took the train to a different town every Saturday and visited the museums. It was cheaper than I expected, and we had a very good time. Next year we would like to go to Italy.",
+          "qs": [
+            { "q": "Who travelled without any family or friends?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 1, "why": "Sara dice «on my own» e «without my family»." },
+            { "q": "Who went on holiday by car?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 0, "why": "Tom: «We drove there»." },
+            { "q": "Who had bad weather?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 0, "why": "Tom: «It rained almost every day»." },
+            { "q": "Who learned to cook something?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 1, "why": "Sara ha fatto un corso di cucina e ha imparato a fare la paella." },
+            { "q": "Who did not sleep away from home?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 2, "why": "Dev: «stayed at home» e gite in treno ogni sabato." },
+            { "q": "Who wants to go abroad next year?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 2, "why": "Dev: «Next year we would like to go to Italy». Tom vuole tornare in Galles, che è nel Regno Unito." },
+            { "q": "Who went by plane?", "opts": ["A (Tom)", "B (Sara)", "C (Dev)"], "a": 1, "why": "Sara: «I flew from Manchester to Seville»." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rw3",
+      "title": "Reading & Writing - Part 3",
+      "skill": "reading",
+      "minutes": 10,
+      "it": "Leggi il blog e rispondi alle domande. Per ogni domanda scegli A, B o C.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "Why I started running",
+          "genre": "blog",
+          "text": "My name is Anna. Two years ago I could not run for a bus. I worked in an office in Bristol, I sat at a desk all day, and in the evening I usually watched TV. Then my sister Helen asked me to do a charity run with her. It was only five kilometres, but I said yes because I did not want to let her down.\n\nThe first week was terrible. I ran for two minutes and then I had to stop. My legs hurt and my face was red. One day a neighbour saw me in the park and told me about a running club. It meets every Tuesday and Saturday. I was nervous, because I thought everyone there would be young and fast. In fact, there were people of all ages, and nobody cared about speed. We ran slowly, talked a lot, and sometimes had a coffee together afterwards.\n\nI finished the charity run in forty minutes. I was not fast, but Helen was waiting for me at the end with a big smile and a bottle of water. Since then I have run in three more races. Now I sleep better, I have more energy at work, and I have made a lot of new friends.\n\nNext month I am going to start helping new runners at the club. If you are thinking about trying it, my advice is simple: start slowly, and find people to run with.",
+          "qs": [
+            { "q": "Why did Anna agree to do the charity run?", "opts": ["She wanted to lose weight.", "She did not want to disappoint her sister.", "Her doctor told her to start."], "a": 1, "why": "«I said yes because I did not want to let her down»." },
+            { "q": "How did Anna find the running club?", "opts": ["A neighbour told her about it.", "Helen took her there.", "She saw an advert at work."], "a": 0, "why": "«A neighbour saw me in the park and told me about a running club»." },
+            { "q": "What was Anna afraid of before her first club session?", "opts": ["The club would be expensive.", "The other runners would be young and fast.", "She would get lost in the park."], "a": 1, "why": "«I thought everyone there would be young and fast»." },
+            { "q": "How long did Anna take to finish the charity run?", "opts": ["Thirty minutes", "Forty minutes", "Fifty minutes"], "a": 1, "why": "«I finished the charity run in forty minutes»." },
+            { "q": "What is Anna going to do next month?", "opts": ["Run in a new race", "Help new runners at the club", "Run with her sister"], "a": 1, "why": "«I am going to start helping new runners at the club»." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rw4",
+      "title": "Reading & Writing - Part 4",
+      "skill": "use",
+      "minutes": 7,
+      "it": "Leggi il testo e scegli la parola giusta per ogni spazio.",
+      "steps": [
+        {
+          "t": "cloze",
+          "title": "A day at the seaside",
+          "mode": "mc",
+          "text": "Last Saturday my friends and I {1} a day trip to the seaside. We {2} the train at eight o'clock because we wanted to arrive early. The journey took two hours, and we {3} lots of photos through the window. When we arrived, the weather was lovely, so we walked along the beach and then {4} a swim in the sea. The water was very cold! At lunchtime we sat in a small cafe and ate fish and chips. In the afternoon we {5} some souvenirs for our families in a little shop near the harbour. We were all tired on the way home, and Luca even {6} asleep on the train. It was a perfect day, and we want to go there again next summer.",
+          "gaps": [
+            { "opts": ["took", "went", "got"], "a": 0 },
+            { "opts": ["went", "caught", "arrived"], "a": 1 },
+            { "opts": ["did", "made", "took"], "a": 2 },
+            { "opts": ["had", "did", "made"], "a": 0 },
+            { "opts": ["sold", "bought", "paid"], "a": 1 },
+            { "opts": ["went", "got", "fell"], "a": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rw5",
+      "title": "Reading & Writing - Part 5",
+      "skill": "use",
+      "minutes": 7,
+      "it": "Completa l'email con UNA parola per ogni spazio.",
+      "steps": [
+        {
+          "t": "cloze",
+          "title": "An email to a friend",
+          "mode": "open",
+          "text": "Hi Jenny,\n\nThanks {1} your message. I am very happy that you are coming to visit me next week! My flat is not very big, but you can sleep {2} the sofa bed in the living room. I {3} working until five on Monday, so I cannot meet you at the station. Take bus number 12. It stops in front {4} my building. On Tuesday we can go {5} a walk by the river, and in the evening we can eat at an Indian restaurant near my flat. Please send {6} a message when you leave home. I cannot wait to see you!\n\nLove,\nKate",
+          "gaps": [
+            { "answers": ["for"] },
+            { "answers": ["on", "in"] },
+            { "answers": ["am", "'m"] },
+            { "answers": ["of"] },
+            { "answers": ["for", "on"] },
+            { "answers": ["me"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rw6",
+      "title": "Reading & Writing - Part 6",
+      "skill": "writing",
+      "minutes": 10,
+      "it": "Scrivi un'email di 25-50 parole. Devi trattare tutti e tre i punti.",
+      "steps": [
+        {
+          "t": "write",
+          "q": "You are going to visit your English friend Sam next month. Write an email to Sam. Say: when you will arrive; what you want to do there; ask what clothes to bring.",
+          "it": "Scrivi un'email a Sam (25-50 parole). Dì quando arrivi, che cosa vuoi fare e chiedi quali vestiti portare.",
+          "min": 25,
+          "max": 50,
+          "checklist": [
+            "Ho scritto quando arrivo",
+            "Ho detto che cosa voglio fare",
+            "Ho chiesto che vestiti portare",
+            "Ho salutato all'inizio e chiuso alla fine",
+            "Ho ricontrollato l'ortografia"
+          ],
+          "useful": ["I'm arriving on...", "I would like to...", "What clothes should I bring?", "See you soon!"],
+          "model": "Hi Sam, I'm arriving on Friday 12th May at ten o'clock. I want to visit the castle and eat in a nice restaurant. What clothes should I bring? Is it cold in May? See you soon! Marco"
+        }
+      ]
+    },
+    {
+      "id": "rw7",
+      "title": "Reading & Writing - Part 7",
+      "skill": "writing",
+      "minutes": 10,
+      "it": "Scrivi una breve storia di 35-60 parole usando i tre eventi indicati, in ordine.",
+      "steps": [
+        {
+          "t": "write",
+          "q": "Write a short story about a lost dog. Use these three events: 1) You took your dog to the park. 2) The dog ran away. 3) You found it near the lake.",
+          "it": "Racconta la storia al passato (35-60 parole). Segui i tre eventi: il parco con il cane, il cane scappa, lo ritrovi vicino al lago.",
+          "min": 35,
+          "max": 60,
+          "checklist": [
+            "Ho raccontato tutti e tre gli eventi, in ordine",
+            "Ho usato il past simple (went, ran, found...)",
+            "Ho usato connettivi come then, after that, finally",
+            "Ho ricontrollato l'ortografia"
+          ],
+          "useful": ["Last Sunday I...", "Suddenly,...", "Then...", "In the end,..."],
+          "model": "Last Sunday I took my dog Max to the park. It was a sunny day. Suddenly, Max saw a cat and ran away. I was very worried and looked for him for an hour. Finally, I found him near the lake. He was happy, and so was I."
+        }
+      ]
+    },
+    {
+      "id": "li1",
+      "title": "Listening - Part 1",
+      "skill": "listening",
+      "minutes": 6,
+      "it": "Ascolta cinque brevi dialoghi. Per ogni domanda scegli la risposta giusta.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "At the cinema",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Man", "Hi, what time does the film start? Is it seven fifteen?"],
+            ["Woman", "No, that's when the doors open. The film starts at seven forty-five."],
+            ["Man", "Oh, good. So we have time for a coffee."]
+          ],
+          "qs": [{ "q": "What time does the film start?", "opts": ["7.15", "7.45", "8.15"], "a": 1 }]
+        },
+        {
+          "t": "listen",
+          "title": "At the museum",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Man", "Hello. How much is a ticket?"],
+            ["Woman", "Adults are ten pounds, and children are five. Children under five are free."],
+            ["Man", "Right. I'm with my daughter, she's six, and my son. He's four."],
+            ["Woman", "Then that's fifteen pounds, please."]
+          ],
+          "qs": [{ "q": "How much does the man pay?", "opts": ["10 pounds", "15 pounds", "20 pounds"], "a": 1 }]
+        },
+        {
+          "t": "listen",
+          "title": "Asking the way",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Woman", "Excuse me, is there a post office near here?"],
+            ["Man", "Yes. Go straight on and walk past the supermarket. It's on the left, between the bank and the chemist."],
+            ["Woman", "Between the bank and the chemist. Thank you very much!"]
+          ],
+          "qs": [{ "q": "Where is the post office?", "opts": ["Next to the supermarket", "Opposite the bank", "Between the bank and the chemist"], "a": 2 }]
+        },
+        {
+          "t": "listen",
+          "title": "Making a plan",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Ella", "Can we meet on Tuesday, Jack?"],
+            ["Jack", "Sorry, I've got a dentist appointment on Tuesday. What about Wednesday?"],
+            ["Ella", "Wednesday is difficult. I'm away all day. Is Thursday OK for you?"],
+            ["Jack", "Yes, Thursday is fine. See you then."]
+          ],
+          "qs": [{ "q": "When will they meet?", "opts": ["On Tuesday", "On Wednesday", "On Thursday"], "a": 2 }]
+        },
+        {
+          "t": "listen",
+          "title": "Getting to work",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Woman", "Do you still drive to work, Paul?"],
+            ["Paul", "No, not any more. Parking is too expensive. I usually cycle, but it's raining today, so I'm taking the bus."],
+            ["Woman", "Good idea. It's a horrible day."]
+          ],
+          "qs": [{ "q": "How is Paul going to work today?", "opts": ["By car", "By bike", "By bus"], "a": 2 }]
+        }
+      ]
+    },
+    {
+      "id": "li2",
+      "title": "Listening - Part 2",
+      "skill": "listening",
+      "minutes": 5,
+      "it": "Ascolta il messaggio e completa le cinque frasi con una parola o un numero.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Welcome to the English class",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            ["Teacher", "Hello everyone, and welcome to the evening English course at Riverside Language Club. My name is Helen Brookes. That's B, R, O, O, K, E, S. Our classes are every Wednesday evening. We start at half past six, so please don't be late. Each class lasts ninety minutes. The whole course costs eighty-five pounds, and you can pay at the office on the ground floor. We meet in room fourteen, on the first floor. That's room fourteen, not forty. There is a coffee machine in the corridor if you need a break. I'm looking forward to meeting you all."]
+          ],
+          "qs": [
+            { "q": "The teacher's surname is ___ .", "answers": ["Brookes"] },
+            { "q": "The classes are every ___ evening.", "answers": ["Wednesday", "Wednesdays"] },
+            { "q": "The classes start at ___ .", "answers": ["6.30", "6:30", "6.30 pm", "6.30pm", "6:30 pm", "18.30", "18:30", "half past six", "half past 6", "six thirty", "6 30"] },
+            { "q": "The course costs ___ pounds.", "answers": ["85", "eighty-five", "eighty five", "£85"] },
+            { "q": "The classroom is room ___ .", "answers": ["14", "fourteen"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li3",
+      "title": "Listening - Part 3",
+      "skill": "listening",
+      "minutes": 5,
+      "it": "Ascolta la telefonata tra Emma e Luke. Per ogni domanda scegli A, B o C.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "A birthday party",
+          "it": "Ascolta la telefonata.",
+          "lines": [
+            ["Emma", "Hi Luke, it's Emma. Are you free on Saturday? It's my mum's fiftieth birthday and we're having a small party."],
+            ["Luke", "Oh, nice! Saturday... yes, I think so. Is it at your house?"],
+            ["Emma", "That was the plan, but our kitchen is too small. So we've booked a table at an Italian restaurant instead. It's called Bella Vita, near the station."],
+            ["Luke", "Great, I love Italian food. What time?"],
+            ["Emma", "Dinner is at seven. But could you come a bit earlier, at half past six? We want it to be a surprise. Mum will arrive at seven with my dad."],
+            ["Luke", "Of course. Shall I bring a cake?"],
+            ["Emma", "No, thanks. My sister is making one. But we need some music. Do you still have that speaker?"],
+            ["Luke", "Yes, I can bring it. And what about a present?"],
+            ["Emma", "Don't worry about that. Actually, just bring a card, we can all sign it."],
+            ["Luke", "OK. How do I get there? I don't have my car this week."],
+            ["Emma", "Take the number five bus. It stops outside the restaurant."],
+            ["Luke", "Perfect. See you on Saturday!"]
+          ],
+          "qs": [
+            { "q": "Where is the party?", "opts": ["At Emma's house", "At a restaurant", "At the station"], "a": 1 },
+            { "q": "What time should Luke arrive?", "opts": ["6.30", "7.00", "7.30"], "a": 0 },
+            { "q": "What does Emma ask Luke to bring?", "opts": ["A cake", "A present", "A speaker"], "a": 2 },
+            { "q": "Who is making the cake?", "opts": ["Emma's mother", "Emma's sister", "Luke"], "a": 1 },
+            { "q": "How will Luke get to the restaurant?", "opts": ["By bus", "By car", "On foot"], "a": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li4",
+      "title": "Listening - Part 4",
+      "skill": "listening",
+      "minutes": 4,
+      "it": "Ascolta cinque brevi conversazioni. Per ogni domanda scegli la risposta giusta.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "The new job",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Anna", "So, how's the new job, Chris?"],
+            ["Chris", "Well, honestly, it's OK. The people are really nice, but I finish so late. I never get home before eight."],
+            ["Anna", "That's not good."]
+          ],
+          "qs": [{ "q": "What does Chris think about his new job?", "opts": ["He likes everything about it.", "He likes the people but not the hours.", "He does not like the people."], "a": 1 }]
+        },
+        {
+          "t": "listen",
+          "title": "In a restaurant",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Customer", "Excuse me. This soup is cold."],
+            ["Waiter", "I'm so sorry. I'll bring you a hot one right away."],
+            ["Customer", "Thank you. The pasta was lovely, by the way."]
+          ],
+          "qs": [{ "q": "What is the customer's problem?", "opts": ["The pasta is cold.", "The soup is too salty.", "The soup is cold."], "a": 2 }]
+        },
+        {
+          "t": "listen",
+          "title": "After the film",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Tina", "Did you like the film?"],
+            ["Ben", "It was OK, but it was a bit too long. I was tired at the end. What about you?"],
+            ["Tina", "I thought it was great! The story was exciting and the music was beautiful."]
+          ],
+          "qs": [{ "q": "What does Tina think about the film?", "opts": ["It was too long.", "It was boring.", "It was very good."], "a": 2 }]
+        },
+        {
+          "t": "listen",
+          "title": "A phone message",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            ["Rob", "Hi Sam, it's Rob. I'm really sorry, but I can't play football tonight. I've got a terrible cold and I'm staying in bed. Say hello to the others for me. I'll see you next week."]
+          ],
+          "qs": [{ "q": "Why is Rob calling Sam?", "opts": ["To invite him to a match", "To say he cannot play tonight", "To change the time of the game"], "a": 1 }]
+        },
+        {
+          "t": "listen",
+          "title": "Holiday plans",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            ["Woman", "Would you prefer a beach holiday or a city break this summer?"],
+            ["Man", "A city break, definitely. I get bored on a beach after one day. I like museums and good restaurants."],
+            ["Woman", "Really? I love lying in the sun."]
+          ],
+          "qs": [{ "q": "Why does the man prefer a city holiday?", "opts": ["Beaches are too expensive.", "He gets bored on a beach.", "He cannot swim."], "a": 1 }]
+        }
+      ]
+    },
+    {
+      "id": "li5",
+      "title": "Listening - Part 5",
+      "skill": "listening",
+      "minutes": 4,
+      "it": "Ascolta Dad, Kate e Ben che organizzano i lavori di casa. Per ogni domanda scegli la persona giusta.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Jobs before Grandma's visit",
+          "it": "Ascolta la conversazione.",
+          "lines": [
+            ["Dad", "Right, Grandma is coming on Sunday, so we all need to help. Kate, can you clean the bathroom?"],
+            ["Kate", "I did it last week! Ben never does it."],
+            ["Ben", "OK, OK. I'll clean the bathroom if Kate does the shopping on Saturday."],
+            ["Kate", "Fine. But I can't carry everything. Dad, can you drive me to the supermarket?"],
+            ["Dad", "Of course, I'll drive."],
+            ["Ben", "What about the garden? The grass is really long."],
+            ["Dad", "Kate, you can cut the grass on Saturday morning, before the shopping."],
+            ["Kate", "Only if Ben washes the car. It's really dirty!"],
+            ["Ben", "Fine, I'll wash the car."],
+            ["Dad", "Good. And I'll wash the dishes after lunch on Sunday, because Grandma always cooks."]
+          ],
+          "qs": [
+            { "q": "Who will clean the bathroom?", "opts": ["Dad", "Kate", "Ben"], "a": 2 },
+            { "q": "Who will drive to the supermarket?", "opts": ["Dad", "Kate", "Ben"], "a": 0 },
+            { "q": "Who will cut the grass?", "opts": ["Dad", "Kate", "Ben"], "a": 1 },
+            { "q": "Who will wash the car?", "opts": ["Dad", "Kate", "Ben"], "a": 2 },
+            { "q": "Who will wash the dishes on Sunday?", "opts": ["Dad", "Kate", "Ben"], "a": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sp",
+      "title": "Speaking",
+      "skill": "speaking",
+      "minutes": 10,
+      "it": "Rispondi a voce a ognuna delle quattro richieste, come in un colloquio con l'esaminatore. Parla con frasi complete e confronta poi la tua risposta con il modello.",
+      "steps": [
+        {
+          "t": "speakTask",
+          "q": "Tell me about yourself. What is your name? Where do you live? What do you do?",
+          "it": "Presentati: nome, dove vivi, che cosa fai nella vita, che cosa ti piace fare nel tempo libero (almeno 4 frasi).",
+          "hints": ["My name is...", "I live in...", "I work as... / I study...", "In my free time I like..."],
+          "min": 25,
+          "model": "My name is Giulia and I live in Bologna. I work in a bank, and I have a brother and a sister. In my free time I like cooking and going for walks with my dog. At the weekend I often see my friends."
+        },
+        {
+          "t": "speakTask",
+          "q": "Describe your typical day. What do you do in the morning, in the afternoon and in the evening?",
+          "it": "Racconta la tua giornata tipo, dal mattino alla sera (almeno 5 frasi).",
+          "hints": ["I get up at...", "I have breakfast...", "In the afternoon I...", "In the evening I usually..."],
+          "min": 30,
+          "model": "I get up at seven and have a coffee and a biscuit for breakfast. Then I take the bus to work. I start at nine and finish at five. In the evening I cook dinner and watch TV. I usually go to bed at eleven."
+        },
+        {
+          "t": "speakTask",
+          "q": "Do you prefer spending your free time at home or going out? Why?",
+          "it": "Di' che cosa preferisci e spiega perché, con almeno due motivi (almeno 4 frasi).",
+          "hints": ["I prefer... because...", "Also, ...", "For example, ...", "But sometimes I..."],
+          "min": 30,
+          "model": "I prefer going out, because I like meeting people. I often go to a cafe with my friends or to the cinema. Also, I work at home two days a week, so I want to be outside in the evening. But sometimes I like a quiet night with a book."
+        },
+        {
+          "t": "speakTask",
+          "q": "A friend's birthday is next week. You want to do something special together. Talk about the different things you could do: go to a restaurant, go to a concert, or have a party at home. Which is the best idea?",
+          "it": "Discuti le tre possibilità (ristorante, concerto, festa a casa), di' pregi e difetti e scegli quella che ti sembra migliore (almeno 5 frasi).",
+          "hints": ["We could...", "A restaurant is nice, but...", "I think a party is...", "Let's... / How about...?"],
+          "min": 35,
+          "model": "We could go to a restaurant, but it can be expensive. A concert is exciting, but the tickets are hard to find. I think a party at home is the best idea, because we can invite many friends and the food is cheap. Let's ask everyone to bring something to eat."
+        }
+      ]
+    }
+  ]
+}

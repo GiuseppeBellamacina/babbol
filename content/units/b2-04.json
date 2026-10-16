@@ -1,0 +1,1528 @@
+{
+ "id": "b2-04",
+ "level": "B2",
+ "position": 4,
+ "title": "Giustizia e servizi",
+ "sub": "Passivo avanzato e causativo - riparazioni, assicurazioni e lettera formale",
+ "grammar": "Passivo avanzato: it is said that / he is thought to, causative have/get sth done",
+ "topic": "Giustizia, servizi, assicurazioni",
+ "situation": "Organizzare riparazioni, denuncia all'assicurazione",
+ "lessons": [
+  {
+   "id": "b2-04-grammar",
+   "kind": "grammar",
+   "title": "Si dice che... Farsi riparare qualcosa",
+   "intro": "Il passivo B2 serve per la lingua dei giornali e dei documenti («si ritiene che...») e per le cose che «facciamo fare» ad altri (riparazioni, controlli, tagli di capelli). Sono strutture che in italiano si rendono con giri diversi: qui impari a riconoscerle e a usarle.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Passivo oltre il present simple",
+     "body": "Il passivo si forma con **be + participio passato** e si adatta a ogni tempo e forma:\n- continuous: The road **is being repaired**. / was being repaired.\n- present perfect: The decision **has been made**.\n- future perfect: The work **will have been finished** by June.\n- modali: The form **must be signed**. / should have been signed.\n- infinito: He expects **to be paid**. / She seems **to have been warned**.\n- gerundio: I hate **being kept** waiting.\n\nSi usa quando conta l'azione e non chi la compie, o quando chi agisce è sconosciuto, ovvio o poco importante. **By + agente** si aggiunge solo se serve. Anche **need + -ing** ha senso passivo: The roof needs repairing (= needs to be repaired).",
+     "table": [
+      [
+       "Forma",
+       "Passivo",
+       "Attivo"
+      ],
+      [
+       "present continuous",
+       "is being repaired",
+       "is repairing"
+      ],
+      [
+       "present perfect",
+       "has been repaired",
+       "has repaired"
+      ],
+      [
+       "modale",
+       "must be repaired",
+       "must repair"
+      ],
+      [
+       "infinito passato",
+       "to have been repaired",
+       "to have repaired"
+      ]
+     ],
+     "ex": [
+      [
+       "Our flat is being painted at the moment.",
+       "Stanno tinteggiando il nostro appartamento in questo momento."
+      ],
+      [
+       "The bridge will have been completed by next year.",
+       "Il ponte sarà stato completato entro l'anno prossimo."
+      ],
+      [
+       "The roof needs repairing.",
+       "Il tetto ha bisogno di essere riparato."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "It is said that... / He is said to...",
+     "body": "Per riferire ciò che «si dice» senza dire chi lo dice, con verbi come **say, believe, think, know, report, expect, consider, understand, allege**, esistono due costruzioni passive:\n- **It is said that + clausola**: It is believed that the thieves escaped by car.\n- **Soggetto + is said to + infinito**: The thieves are believed to have escaped by car.\n\nL'infinito dipende dal tempo di ciò che si riferisce:\n- presente: He is thought **to be** rich. / **to be working** abroad.\n- passato: He is thought **to have left** the country. (**to have been working** per un'azione durata)\n- futuro: The law is expected **to come** into force in May.\n\nSono costruzioni tipiche del registro formale e del giornalismo. **Errore tipico degli italiani**: «It is said that he to be rich» o «He is said that...»: dopo is said si sceglie una sola struttura.",
+     "ex": [
+      [
+       "It is reported that a man has been arrested.",
+       "Si riferisce che un uomo sia stato arrestato."
+      ],
+      [
+       "The actor is said to own six houses.",
+       "Si dice che l'attore possieda sei case."
+      ],
+      [
+       "The painting is believed to have been stolen in 1990.",
+       "Si ritiene che il quadro sia stato rubato nel 1990."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Have / get something done",
+     "body": "Si usa **have + oggetto + participio passato** quando **qualcun altro** esegue un'azione per noi (servizio) o quando subiamo qualcosa di spiacevole:\n- servizio: I **had my hair cut** yesterday. / We're **having the kitchen painted**.\n- esperienza negativa: She **had her bag stolen** on the train.\n\n**Get something done** è più informale e spesso suggerisce fatica o urgenza: I must **get the car serviced**.\nAttenzione alla differenza: «I repaired my car» (l'ho riparata io) / «I had my car repaired» (l'ho fatta riparare).\nNegativa e domanda con l'ausiliare normale: Did you have your eyes tested? / We didn't get the windows cleaned.\n\n**Errore tipico degli italiani**: «I have repaired my car» o «I had repaired my car» per «Ho fatto riparare la macchina». Serve l'oggetto in mezzo: **I had my car repaired**.",
+     "ex": [
+      [
+       "We had the windows replaced last month.",
+       "Abbiamo fatto sostituire le finestre il mese scorso."
+      ],
+      [
+       "I'm going to get my laptop looked at.",
+       "Farò controllare il portatile."
+      ],
+      [
+       "He had his phone stolen outside the station.",
+       "Gli hanno rubato il telefono davanti alla stazione."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Passivo e registro formale",
+     "body": "Nelle lettere e nei documenti ufficiali il passivo rende il tono impersonale e cortese:\n- **You are requested to** complete the form. (invece di «Complete the form.»)\n- **Your claim has been received** and will be dealt with shortly.\n- **We regret that the item cannot be refunded.**\n\nNel parlato lo stesso concetto si rende con l'attivo, più diretto: «We'll deal with your claim shortly.» La scelta dipende dal destinatario e dallo scopo.\nQuando si presentano i **fatti non confermati** (cronaca, voci), il passivo impersonale evita di assumersi la responsabilità: The company is alleged to have ignored the warnings.",
+     "ex": [
+      [
+       "You are requested to complete the enclosed form.",
+       "Si prega di compilare il modulo allegato."
+      ],
+      [
+       "Your claim has been received.",
+       "La sua richiesta è stata ricevuta."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The new bridge ___ by the end of next year.",
+     "opts": [
+      "will have been completed",
+      "will complete",
+      "is completing"
+     ],
+     "a": 0,
+     "it": "Il nuovo ponte sarà stato completato entro la fine del prossimo anno.",
+     "why": "Azione che sarà finita entro una data: future perfect passivo."
+    },
+    {
+     "t": "gap",
+     "s": "Our flat ___ at the moment, so we're staying with friends.",
+     "opts": [
+      "is being painted",
+      "is painted",
+      "has painted"
+     ],
+     "a": 0,
+     "why": "Azione in corso e agente non importante: present continuous passivo."
+    },
+    {
+     "t": "gap",
+     "s": "He is believed ___ the country last night.",
+     "opts": [
+      "to have left",
+      "to leave",
+      "to be left"
+     ],
+     "a": 0,
+     "why": "Azione passata riferita al presente: is believed + to have + participio."
+    },
+    {
+     "t": "gap",
+     "s": "It ___ that the company will cut two hundred jobs.",
+     "opts": [
+      "is reported",
+      "reports",
+      "is reporting"
+     ],
+     "a": 0,
+     "why": "Struttura impersonale: it is reported that + clausola."
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Ho fatto riparare la macchina»?",
+     "opts": [
+      "I had my car repaired.",
+      "I have repaired my car.",
+      "I had repaired my car."
+     ],
+     "a": 0,
+     "why": "Per le cose fatte fare ad altri: have + oggetto + participio. Le altre due frasi significano «l'ho riparata io»."
+    },
+    {
+     "t": "mc",
+     "q": "«She had her bag stolen on the train» significa:",
+     "opts": [
+      "Le hanno rubato la borsa sul treno.",
+      "Ha fatto rubare la borsa sul treno.",
+      "Ha rubato la borsa a qualcuno sul treno."
+     ],
+     "a": 0,
+     "why": "Have + oggetto + participio può indicare un'esperienza spiacevole subita."
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "The suspect is thought ___ (leave) the country two days ago.",
+     "answers": [
+      "to have left"
+     ],
+     "why": "Azione passata: to have + participio."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Si dice che il sindaco si dimetterà.",
+     "answers": [
+      "It is said that the mayor will resign",
+      "It is said that the mayor will step down",
+      "It is said that the mayor is going to resign",
+      "It is said that the mayor is going to step down",
+      "The mayor is said to be going to resign",
+      "The mayor is said to be going to step down",
+      "The mayor is said to be resigning",
+      "The mayor is said to be stepping down",
+      "It is said that the mayor is resigning",
+      "It is said that the mayor is stepping down"
+     ],
+     "why": "Impersonale con say: It is said that + clausola, oppure The mayor is said to be + forma in -ing."
+    },
+    {
+     "t": "type",
+     "q": "Metti i verbi tra parentesi alla forma giusta",
+     "s": "We ___ (have / the windows / replace) last month.",
+     "answers": [
+      "had the windows replaced",
+      "got the windows replaced",
+      "had our windows replaced",
+      "got our windows replaced"
+     ],
+     "why": "Have + oggetto + participio passato: l'azione è stata eseguita da altri."
+    },
+    {
+     "t": "transform",
+     "s1": "People say that the actor owns six houses.",
+     "key": "SAID",
+     "s2": "The actor ___ six houses.",
+     "answers": [
+      "is said to own"
+     ],
+     "why": "Is said to + infinito presente."
+    },
+    {
+     "t": "transform",
+     "s1": "They are repairing our roof at the moment.",
+     "key": "BEING",
+     "s2": "Our roof ___ at the moment.",
+     "answers": [
+      "is being repaired"
+     ],
+     "why": "Present continuous passivo: is being + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "It is believed that the thieves escaped through a window.",
+     "key": "HAVE",
+     "s2": "The thieves ___ escaped through a window.",
+     "answers": [
+      "are believed to have"
+     ],
+     "why": "Is/are believed to have + participio per un'azione passata."
+    },
+    {
+     "t": "transform",
+     "s1": "Someone stole his phone last week.",
+     "key": "HAD",
+     "s2": "He ___ last week.",
+     "answers": [
+      "had his phone stolen"
+     ],
+     "why": "Have + oggetto + participio: esperienza spiacevole subita."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I had repaired my windows by a builder last week.",
+     "answers": [
+      "I had my windows repaired by a builder last week",
+      "I had the windows repaired by a builder last week",
+      "I got my windows repaired by a builder last week"
+     ],
+     "why": "Il costrutto causativo vuole l'oggetto prima del participio: had my windows repaired."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The new law is expected to introduce next spring.",
+     "answers": [
+      "The new law is expected to be introduced next spring"
+     ],
+     "why": "La legge «viene introdotta»: serve l'infinito passivo, to be introduced."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She is known that she is a generous donor.",
+     "answers": [
+      "It is known that she is a generous donor",
+      "She is known to be a generous donor"
+     ],
+     "why": "Dopo is known si sceglie una sola costruzione: It is known that... oppure She is known to be..."
+    },
+    {
+     "t": "order",
+     "it": "Mi hanno rubato il portafoglio sul treno.",
+     "en": "I had my wallet stolen on the train",
+     "extra": [
+      "steal",
+      "has"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Si ritiene che la casa sia stata costruita nel 1890.",
+     "en": "The house is believed to have been built in 1890",
+     "extra": [
+      "be",
+      "being"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2-04-vocab",
+   "kind": "vocab",
+   "title": "Giustizia, servizi, assicurazioni",
+   "intro": "Le parole che servono quando qualcosa si rompe, si perde o finisce in tribunale: polizze, risarcimenti, preventivi e responsabilità. Sono essenziali per leggere un contratto e scrivere una lettera formale.",
+   "minutes": 20,
+   "words": [
+    {
+     "id": "b2-04-w01",
+     "en": "policy",
+     "it": "polizza",
+     "ipa": "ˈpɒləsi",
+     "pos": "n",
+     "ex": [
+      "Please read your insurance policy carefully.",
+      "Leggi con attenzione la tua polizza assicurativa."
+     ],
+     "note": "Policy ha anche il senso di «linea di condotta»: company policy."
+    },
+    {
+     "id": "b2-04-w02",
+     "en": "premium",
+     "it": "premio assicurativo",
+     "ipa": "ˈpriːmiəm",
+     "pos": "n",
+     "ex": [
+      "My premium goes up every year.",
+      "Il mio premio assicurativo sale ogni anno."
+     ],
+     "note": "Pagare un premio: pay a premium."
+    },
+    {
+     "id": "b2-04-w03",
+     "en": "excess",
+     "it": "franchigia",
+     "ipa": "ˈekses",
+     "pos": "n",
+     "ex": [
+      "There is an excess of £200 on this policy.",
+      "Questa polizza ha una franchigia di 200 sterline."
+     ],
+     "note": "Nome (pronuncia ˈekses). In UK la franchigia è «excess»."
+    },
+    {
+     "id": "b2-04-w04",
+     "en": "compensation",
+     "it": "risarcimento",
+     "ipa": "ˌkɒmpenˈseɪʃn",
+     "pos": "n",
+     "ex": [
+      "He received compensation for his injuries.",
+      "Ha ricevuto un risarcimento per le sue ferite."
+     ],
+     "note": "Non numerabile: mai «compensations»."
+    },
+    {
+     "id": "b2-04-w05",
+     "en": "liable",
+     "it": "responsabile (legalmente)",
+     "ipa": "ˈlaɪəbl",
+     "pos": "adj",
+     "ex": [
+      "The owner is liable for any damage caused by the dog.",
+      "Il proprietario è responsabile di eventuali danni causati dal cane."
+     ],
+     "note": "Be liable for + nome."
+    },
+    {
+     "id": "b2-04-w06",
+     "en": "reimburse",
+     "it": "rimborsare",
+     "ipa": "ˌriːɪmˈbɜːs",
+     "pos": "v",
+     "ex": [
+      "The company will reimburse you for your travel costs.",
+      "L'azienda ti rimborserà le spese di viaggio."
+     ],
+     "note": "Si dice reimburse someone for something."
+    },
+    {
+     "id": "b2-04-w07",
+     "en": "sue",
+     "it": "fare causa a",
+     "ipa": "suː",
+     "pos": "v",
+     "ex": [
+      "She decided to sue the airline for losing her luggage.",
+      "Ha deciso di fare causa alla compagnia aerea per aver perso i bagagli."
+     ],
+     "note": "Sue someone for something."
+    },
+    {
+     "id": "b2-04-w08",
+     "en": "verdict",
+     "it": "verdetto",
+     "ipa": "ˈvɜːdɪkt",
+     "pos": "n",
+     "ex": [
+      "The jury reached a verdict after two days.",
+      "La giuria ha raggiunto un verdetto dopo due giorni."
+     ]
+    },
+    {
+     "id": "b2-04-w09",
+     "en": "settle out of court",
+     "it": "accordarsi senza andare in tribunale",
+     "ipa": "ˌsetl aʊt əv ˈkɔːt",
+     "pos": "phr",
+     "ex": [
+      "Both sides preferred to settle out of court.",
+      "Entrambe le parti hanno preferito accordarsi senza andare in tribunale."
+     ]
+    },
+    {
+     "id": "b2-04-w10",
+     "en": "estimate",
+     "it": "preventivo, stima",
+     "ipa": "ˈestɪmət",
+     "pos": "n",
+     "ex": [
+      "We asked three builders for an estimate.",
+      "Abbiamo chiesto un preventivo a tre imprese edili."
+     ],
+     "note": "Il verbo si pronuncia ˈestɪmeɪt."
+    },
+    {
+     "id": "b2-04-w11",
+     "en": "loophole",
+     "it": "scappatoia (legale)",
+     "ipa": "ˈluːphəʊl",
+     "pos": "n",
+     "ex": [
+      "The firm used a legal loophole to avoid paying.",
+      "L'azienda ha usato una scappatoia legale per non pagare."
+     ],
+     "note": "Di solito si trova in a loophole in the law / contract."
+    },
+    {
+     "id": "b2-04-w12",
+     "en": "wear and tear",
+     "it": "normale usura",
+     "ipa": "ˌweər ən ˈteə",
+     "pos": "phr",
+     "ex": [
+      "The policy doesn't cover normal wear and tear.",
+      "La polizza non copre la normale usura."
+     ],
+     "note": "Sempre in questo ordine; non numerabile."
+    },
+    {
+     "id": "b2-04-w13",
+     "en": "file a claim",
+     "it": "presentare una richiesta di risarcimento",
+     "ipa": "ˌfaɪl ə ˈkleɪm",
+     "pos": "phr",
+     "ex": [
+      "You have thirty days to file a claim.",
+      "Hai trenta giorni per presentare una richiesta di risarcimento."
+     ],
+     "note": "Anche make a claim."
+    },
+    {
+     "id": "b2-04-w14",
+     "en": "third party",
+     "it": "terzo",
+     "ipa": "ˌθɜːd ˈpɑːti",
+     "pos": "phr",
+     "ex": [
+      "Third party insurance covers damage to other people's property.",
+      "L'assicurazione contro terzi copre i danni alla proprietà di altre persone."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "file a claim",
+       "presentare una richiesta di risarcimento"
+      ],
+      [
+       "pay a premium",
+       "pagare un premio assicurativo"
+      ],
+      [
+       "settle out of court",
+       "accordarsi fuori dal tribunale"
+      ],
+      [
+       "be held liable",
+       "essere ritenuto responsabile"
+      ],
+      [
+       "get an estimate",
+       "chiedere un preventivo"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The company used a legal ___ in the contract to avoid paying.",
+     "opts": [
+      "loophole",
+      "loop",
+      "keyhole"
+     ],
+     "a": 0,
+     "why": "Loophole = scappatoia in una legge o in un contratto."
+    },
+    {
+     "t": "gap",
+     "s": "You'll have to pay the first £200 yourself: that's the ___ .",
+     "opts": [
+      "excess",
+      "surplus",
+      "extra"
+     ],
+     "a": 0,
+     "why": "La parte a carico dell'assicurato si chiama excess (franchigia)."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "The company was ordered to pay £5,000 in ___ to the injured worker.",
+     "answers": [
+      "compensation",
+      "damages"
+     ],
+     "why": "Risarcimento: compensation (o damages in ambito legale)."
+    },
+    {
+     "t": "wordform",
+     "s": "The company refused to accept ___ for the delays.",
+     "root": "LIABLE",
+     "answers": [
+      "liability"
+     ],
+     "why": "Serve un nome: liable -> liability."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «wear and tear»?",
+     "opts": [
+      "Normale usura",
+      "Danno intenzionale",
+      "Furto con scasso"
+     ],
+     "a": 0,
+     "why": "Wear and tear = deterioramento dovuto all'uso normale, di solito escluso dalle polizze."
+    }
+   ]
+  },
+  {
+   "id": "b2-04-reading",
+   "kind": "reading",
+   "title": "Perché la tua richiesta può essere respinta",
+   "intro": "Un articolo di una rivista per consumatori sui motivi per cui le assicurazioni rifiutano i risarcimenti. Il testo è pieno di passivi e di lessico tecnico: ottimo per riconoscere il registro formale.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Why your insurance claim might be rejected",
+     "genre": "consumer magazine article",
+     "text": "Nobody enjoys thinking about insurance until something goes wrong. Then, as thousands of customers discover every year, the real test begins. According to one consumer group, around one in five claims for household damage is either rejected or reduced, often for reasons the customer had never imagined. The money, it turns out, is paid out most easily to those who have read the contract carefully, and that is a skill few of us have.\n\nTake the case of Maria, a teacher from Leeds, whose kitchen was flooded when a pipe burst while she was on holiday. Her policy covered sudden damage, and she assumed the repairs would be paid for. She had the kitchen redone by a local firm and sent in the invoice. Three weeks later, the insurer replied that the pipe was believed to have been leaking for months, which meant that the damage was gradual rather than sudden, and therefore excluded. Maria was left with a bill for eleven thousand pounds.\n\nStories like hers are common. Insurers are not usually accused of dishonesty; the problem is the language. Terms such as wear and tear, negligence and excess are defined in the small print, and the definitions are rarely what an ordinary person would expect. A policy may be said to cover theft, for example, but only if the doors were locked with a particular type of lock. Customers who leave a window open, even briefly, may find themselves liable for the whole loss.\n\nWhat can be done? Consumer advisers offer several pieces of advice. First, read the key facts page, which insurers are required to provide, and check what is not covered as carefully as what is. Second, take photographs of valuable possessions and keep receipts, since you will be asked for proof. Third, never have repairs carried out before the insurer has inspected the damage, unless it is an emergency. Maria's mistake was to start work too soon, which left the company with nothing to examine. Finally, if a claim is rejected, do not give up. Customers can complain to the insurer in writing and, if the answer is unsatisfactory, to an independent ombudsman, whose decisions are binding on the company if the customer accepts them.\n\nIn the end, Maria's case was reviewed. The ombudsman found that the insurer had not made clear exactly what gradual damage meant, and she was awarded half the cost of the repairs. It was not a complete victory, but it was better than nothing. \"I should have asked more questions at the start,\" she says now. \"I had my kitchen repaired in a hurry, and I didn't check a single word of my policy. I never will again.\"",
+     "qs": [
+      {
+       "q": "What does the writer say about insurance in the first paragraph?",
+       "opts": [
+        "Most people read their policy carefully.",
+        "People only find out what is covered when they make a claim.",
+        "Claims are rarely rejected.",
+        "Insurance companies refuse to explain their terms."
+       ],
+       "a": 1,
+       "why": "«Nobody enjoys thinking about insurance until something goes wrong. Then... the real test begins»."
+      },
+      {
+       "q": "According to the consumer group, what happens to many household claims?",
+       "opts": [
+        "They are paid immediately.",
+        "A significant number are rejected or reduced.",
+        "They are passed to a lawyer.",
+        "Most are accepted without proof."
+       ],
+       "a": 1,
+       "why": "«around one in five claims... is either rejected or reduced»."
+      },
+      {
+       "q": "Why did the insurer reject Maria's claim?",
+       "opts": [
+        "She had not paid her premium.",
+        "The damage was believed to be gradual, not sudden.",
+        "She was not at home when it happened.",
+        "She had asked for too much money."
+       ],
+       "a": 1,
+       "why": "«the pipe was believed to have been leaking for months... gradual rather than sudden»."
+      },
+      {
+       "q": "According to the writer, what is the main problem with insurers?",
+       "opts": [
+        "They are often dishonest.",
+        "They are too slow.",
+        "The terms of the contract are hard to understand.",
+        "They charge too much for premiums."
+       ],
+       "a": 2,
+       "why": "«the problem is the language»."
+      },
+      {
+       "q": "What mistake did Maria make?",
+       "opts": [
+        "She started repairs before the insurer saw the damage.",
+        "She chose an expensive builder.",
+        "She did not take photographs.",
+        "She waited too long to claim."
+       ],
+       "a": 0,
+       "why": "«Maria's mistake was to start work too soon»."
+      },
+      {
+       "q": "What can customers do if the insurer's answer is unsatisfactory?",
+       "opts": [
+        "Cancel the policy and get a refund.",
+        "Complain to an independent ombudsman.",
+        "Sue the insurer immediately.",
+        "Ask the builder to pay."
+       ],
+       "a": 1,
+       "why": "«to an independent ombudsman»."
+      },
+      {
+       "q": "How did Maria's case end?",
+       "opts": [
+        "Her claim was rejected again.",
+        "She received the full amount.",
+        "She received about half the repair costs.",
+        "She decided not to appeal."
+       ],
+       "a": 2,
+       "why": "«she was awarded half the cost of the repairs»."
+      },
+      {
+       "q": "Insurers must provide a key ___ page.",
+       "answers": [
+        "facts"
+       ],
+       "why": "«read the key facts page, which insurers are required to provide»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «gradual» significa:",
+     "opts": [
+      "graduale, che avviene a poco a poco",
+      "improvviso",
+      "accidentale",
+      "intenzionale"
+     ],
+     "a": 0,
+     "why": "Gradual è il contrario di sudden."
+    },
+    {
+     "t": "gap",
+     "s": "The ombudsman said that Maria should ___ half of the repair costs.",
+     "opts": [
+      "be awarded",
+      "award",
+      "have awarded"
+     ],
+     "a": 0,
+     "why": "Il soggetto riceve il risarcimento: passivo, be awarded."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Her policy didn't cover the damage, so it was ___ from the claim.",
+     "answers": [
+      "excluded"
+     ],
+     "why": "Exclude = escludere; participio excluded."
+    }
+   ]
+  },
+  {
+   "id": "b2-04-listening",
+   "kind": "listening",
+   "title": "Una denuncia all'assicurazione",
+   "intro": "Una cliente telefona alla compagnia assicurativa per segnalare un furto. Ascolta i dettagli: cifre, tempi e che cosa deve fare lei prima di poter essere rimborsata.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Reporting a burglary",
+     "it": "Ascolta la telefonata. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Mr Doyle",
+       "Good morning, Clarke Insurance, claims department. Daniel Doyle speaking. How can I help?"
+      ],
+      [
+       "Ms Carter",
+       "Hello. My name's Julia Carter. I'm calling to report a burglary. My policy number is PC two-nine-four-six-one."
+      ],
+      [
+       "Mr Doyle",
+       "Thank you, Ms Carter. I'm sorry to hear that. Has the incident been reported to the police?"
+      ],
+      [
+       "Ms Carter",
+       "Yes, I phoned them this morning. They're sending an officer round this afternoon, and I've been given a crime reference number."
+      ],
+      [
+       "Mr Doyle",
+       "Good. I'll need that number later. Could you tell me what happened?"
+      ],
+      [
+       "Ms Carter",
+       "I came back from work at about six yesterday and found the back door open. The lock had been broken, and my laptop and a camera had been taken. I think it must have happened between nine and five."
+      ],
+      [
+       "Mr Doyle",
+       "I see. Is anything else missing?"
+      ],
+      [
+       "Ms Carter",
+       "Some jewellery, I believe, though I haven't checked everything yet. The place is in a terrible state. Drawers have been emptied all over the floor."
+      ],
+      [
+       "Mr Doyle",
+       "I understand. Please don't throw anything away, and take photographs of the damage if you haven't already. You'll also need to have the lock replaced as soon as possible, so that the house is secure. Keep the receipt, and we'll reimburse you."
+      ],
+      [
+       "Ms Carter",
+       "Will I have to pay the excess?"
+      ],
+      [
+       "Mr Doyle",
+       "Yes, your policy has an excess of two hundred and fifty pounds, which will be deducted from the final payment. Now, for the laptop and the camera, do you have the receipts?"
+      ],
+      [
+       "Ms Carter",
+       "I've got the receipt for the laptop. The camera was a gift, so I'm not sure."
+      ],
+      [
+       "Mr Doyle",
+       "That's fine. A bank statement, or even a photo of you with the camera, can help. I'll send you a claim form by email today. Once it has been returned, a loss adjuster will contact you within five working days."
+      ],
+      [
+       "Ms Carter",
+       "Thank you very much."
+      ],
+      [
+       "Mr Doyle",
+       "You're welcome. And I hope the police find whoever did it."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "The excess on Ms Carter's policy is ___ pounds.",
+       "answers": [
+        "250",
+        "two hundred and fifty",
+        "two hundred fifty"
+       ]
+      },
+      {
+       "q": "What has Ms Carter already done?",
+       "opts": [
+        "She has sent a claim form.",
+        "She has reported the burglary to the police.",
+        "She has replaced the lock.",
+        "She has thrown away the damaged items."
+       ],
+       "a": 1,
+       "why": "«I phoned them this morning»; ha anche un numero di riferimento."
+      },
+      {
+       "q": "When did she discover the burglary?",
+       "opts": [
+        "At six the previous evening",
+        "At nine that morning",
+        "At five the previous afternoon",
+        "During the night"
+       ],
+       "a": 0,
+       "why": "«I came back from work at about six yesterday»."
+      },
+      {
+       "q": "How did the thieves get into the house?",
+       "opts": [
+        "Through a window",
+        "Through the back door after breaking the lock",
+        "Using a spare key",
+        "Through the garage"
+       ],
+       "a": 1,
+       "why": "«found the back door open. The lock had been broken»."
+      },
+      {
+       "q": "What does Mr Doyle tell her to do about the lock?",
+       "opts": [
+        "Wait for the loss adjuster",
+        "Have it replaced and keep the receipt",
+        "Repair it herself",
+        "Send it to the insurer"
+       ],
+       "a": 1,
+       "why": "«have the lock replaced... Keep the receipt, and we'll reimburse you»."
+      },
+      {
+       "q": "What can she use as proof of owning the camera?",
+       "opts": [
+        "The police report",
+        "A bank statement or a photo",
+        "A letter from the shop",
+        "A guarantee"
+       ],
+       "a": 1,
+       "why": "«A bank statement, or even a photo of you with the camera»."
+      },
+      {
+       "q": "What will happen once the claim form is returned?",
+       "opts": [
+        "She will be paid at once.",
+        "A loss adjuster will contact her within five working days.",
+        "The police will call her.",
+        "The policy will be cancelled."
+       ],
+       "a": 1,
+       "why": "«a loss adjuster will contact you within five working days»."
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "The lock had been broken, and my laptop and a camera had been taken.",
+     "it": "La serratura era stata forzata e mi avevano portato via il portatile e una macchina fotografica."
+    },
+    {
+     "t": "dictation",
+     "en": "You'll need to have the lock replaced as soon as possible.",
+     "it": "Dovrà far sostituire la serratura il prima possibile."
+    },
+    {
+     "t": "speak",
+     "en": "I'm calling to report a burglary.",
+     "it": "Chiamo per denunciare un furto."
+    }
+   ]
+  },
+  {
+   "id": "b2-04-situation",
+   "kind": "situation",
+   "title": "Riparazioni e assicurazione",
+   "intro": "Il boiler si rompe, la macchina viene danneggiata o ti rubano qualcosa: come chiedi un preventivo, concordi i tempi e fai una richiesta di risarcimento in modo chiaro e cortese.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Organizzare una riparazione",
+     "body": "Frasi utili con il causativo e le richieste cortesi:\n- **I'd like to have my boiler serviced.** = Vorrei far revisionare il boiler.\n- **Could you give me an estimate?** = Può farmi un preventivo?\n- **Would it be possible to have it done by Friday?** = Sarebbe possibile averlo pronto per venerdì?\n- **How long will the work take?** / **Is the work guaranteed?**\n- **Is the call-out charge included?** (call-out = costo dell'intervento)\n\nPer confermare: **That works for me.** / **Could you confirm that in writing, please?**",
+     "ex": [
+      [
+       "I'd like to have my washing machine looked at.",
+       "Vorrei far controllare la lavatrice."
+      ],
+      [
+       "Could you confirm the price in writing, please?",
+       "Può confermarmi il prezzo per iscritto, per favore?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Fare una richiesta di risarcimento",
+     "body": "Al telefono con l'assicurazione:\n- **I'm calling to make a claim.** = Chiamo per fare una richiesta di risarcimento.\n- **My policy number is...**\n- **The damage appears to have been caused by...** = Il danno sembra essere stato causato da...\n- **Is this covered by my policy?** = È coperto dalla mia polizza?\n- **Is there an excess to pay?** = C'è una franchigia da pagare?\n- **What happens next?** = Come si procede?\n\nDescrivi i fatti con il passivo: The window was smashed, the car was damaged, a laptop was taken. Resta calmo e preciso: date, cifre, numeri di riferimento.",
+     "ex": [
+      [
+       "The damage appears to have been caused by a van.",
+       "Il danno sembra essere stato causato da un furgone."
+      ],
+      [
+       "Is there an excess to pay?",
+       "C'è una franchigia da pagare?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Booking a repair",
+     "it": "Scegli la battuta più naturale e cortese per te (Tu).",
+     "lines": [
+      [
+       "Mr Patel",
+       "Patel Plumbing, good morning."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Good morning. I'd like to have my boiler serviced, please. Could you give me an estimate?",
+         "Hello. I want that you repair my boiler. How much?",
+         "Good morning. My boiler is broken, make it working."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Mr Patel",
+       "Of course. When would suit you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Would it be possible to have it done before Friday? It's making a strange noise.",
+         "I need it fixed Friday, no problem for you?",
+         "Friday is OK, I can't to wait."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Mr Patel",
+       "I can send someone on Thursday morning. The call-out charge is sixty pounds."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That's fine. And is the work guaranteed?",
+         "Sixty pounds? It's too much, you are thieves.",
+         "Okay, but I don't pay if it doesn't work."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "Richiesta cortese con would it be possible e il causativo have it done: registro adatto a un servizio professionale."
+    },
+    {
+     "t": "dialog",
+     "title": "Making a claim",
+     "lines": [
+      [
+       "Insurer",
+       "Hello, how can I help you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm calling to make a claim. My car was damaged in a car park last night.",
+         "I want that you pay me for my car, someone hit it.",
+         "My car has a problem, you must give me money."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Insurer",
+       "I'm sorry to hear that. Do you know who was responsible?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "No, the other driver didn't leave a note. The damage appears to have been caused by a van.",
+         "No, but it was surely a van and the driver was an idiot.",
+         "Not known. I thinking it was a van."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Insurer",
+       "Let me check your policy. Yes, you are covered, but there is an excess of 150 pounds."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I see. And what happens next? Do I need to get an estimate?",
+         "A hundred and fifty? That's ridiculous, I don't pay.",
+         "What is next happen? You tell me."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "I'd like to have it serviced.",
+       "Vorrei farlo revisionare."
+      ],
+      [
+       "Could you give me an estimate?",
+       "Può farmi un preventivo?"
+      ],
+      [
+       "Is it covered by my policy?",
+       "È coperto dalla mia polizza?"
+      ],
+      [
+       "I'm calling to make a claim.",
+       "Chiamo per fare una richiesta di risarcimento."
+      ],
+      [
+       "What happens next?",
+       "Come si procede?"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Sarebbe possibile far riparare il portatile entro venerdì?",
+     "en": "Would it be possible to have it repaired by Friday",
+     "extra": [
+      "get",
+      "does"
+     ],
+     "alts": [
+      "Would it be possible to get it repaired by Friday"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I'd like to have my boiler serviced, please.",
+     "it": "Vorrei far revisionare il boiler, per favore."
+    },
+    {
+     "t": "speak",
+     "en": "Would it be possible to have it done before Friday?",
+     "it": "Sarebbe possibile averlo pronto prima di venerdì?"
+    },
+    {
+     "t": "speak",
+     "en": "I'm calling to make a claim.",
+     "it": "Chiamo per fare una richiesta di risarcimento."
+    },
+    {
+     "t": "speakTask",
+     "q": "Your laptop was damaged during delivery. Phone the shop to explain what happened and ask what can be done.",
+     "it": "Telefona al negozio: spiega che il portatile è arrivato danneggiato, chiedi se può essere riparato o sostituito e quanto ci vorrà (almeno 4 frasi).",
+     "hints": [
+      "I'm calling about an order...",
+      "The laptop appears to have been damaged...",
+      "Would it be possible to have it...?",
+      "How long will it take?"
+     ],
+     "min": 40,
+     "model": "Hello, I'm calling about an order I received yesterday. The laptop appears to have been damaged during delivery: the screen is cracked. I'd like to have it replaced, if possible. Would it be possible to send me a new one by next week? And could you confirm what you'll do in an email, please?"
+    }
+   ]
+  },
+  {
+   "id": "b2-04-production",
+   "kind": "production",
+   "title": "La lettera formale",
+   "intro": "Scriverai una lettera formale a un'assicurazione: struttura, formule di apertura e chiusura, registro. Poi un paio di esercizi e due attività di parlato.",
+   "minutes": 30,
+   "steps": [
+    {
+     "t": "note",
+     "title": "La lettera formale",
+     "body": "Una lettera formale ha una struttura precisa:\n- **Saluto**: Dear Sir or Madam, (destinatario ignoto) / Dear Ms Carter, (nome noto).\n- **Scopo**: I am writing to complain about... / to enquire about... / to make a claim for...\n- **Fatti**: in ordine cronologico, con date e riferimenti. Il passivo rende il tono impersonale: A claim was submitted on 3 March.\n- **Richiesta**: I would be grateful if you could... / I would like to be reimbursed for...\n- **Chiusura**: I look forward to hearing from you.\n- **Formula finale**: **Yours faithfully** (dopo Dear Sir or Madam) oppure **Yours sincerely** (dopo il nome).\n\nNessuna contrazione, nessun tono colloquiale: servono paragrafi ben distinti e un registro costante dall'inizio alla fine. I criteri di valutazione sono gli stessi del saggio: contenuto, comunicazione, organizzazione, lingua.",
+     "ex": [
+      [
+       "I am writing to complain about the way my claim has been handled.",
+       "Scrivo per lamentarmi di come è stata gestita la mia richiesta."
+      ],
+      [
+       "I would be grateful if you could send me a refund.",
+       "Le sarei grato se potesse inviarmi un rimborso."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "I always end a letter that begins \"Dear Sir or Madam\" with \"Yours ___ \".",
+     "opts": [
+      "faithfully",
+      "sincerely",
+      "truly"
+     ],
+     "a": 0,
+     "why": "Dear Sir or Madam -> Yours faithfully. Dear Ms Carter -> Yours sincerely."
+    },
+    {
+     "t": "gap",
+     "s": "I would be ___ if you could send me a full refund.",
+     "opts": [
+      "grateful",
+      "thanked",
+      "pleasant"
+     ],
+     "a": 0,
+     "why": "La formula formale è I would be grateful if you could..."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Please find ___ a copy of the invoice and two photographs of the damage.",
+     "answers": [
+      "enclosed",
+      "attached"
+     ],
+     "why": "Please find enclosed = in allegato (lettera); attached nelle email."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I am writing for complain about the service I received.",
+     "answers": [
+      "I am writing to complain about the service I received"
+     ],
+     "why": "Per esprimere lo scopo serve to + verbo: I am writing to complain."
+    },
+    {
+     "t": "write",
+     "q": "You made a claim to your insurance company six weeks ago after a pipe burst in your kitchen. Nobody has contacted you. Write a formal letter to the company, explaining what has happened, enclosing an invoice for emergency repairs and asking for action.",
+     "it": "Scrivi una lettera formale all'assicurazione (140-190 parole): spiega i fatti in ordine cronologico, dì che allegi la fattura per le riparazioni di emergenza e chiedi un intervento preciso. Usa almeno due passivi.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho spiegato i fatti, indicato l'allegato e chiesto azioni precise",
+      "Comunicazione: registro formale costante, niente contrazioni, formula iniziale e finale coerenti (Dear Sir or Madam / Yours faithfully)",
+      "Organizzazione: scopo, fatti, richiesta, chiusura, in paragrafi distinti",
+      "Lingua: ho usato almeno due passivi e una struttura come have something done",
+      "Ho rispettato il numero di parole (140-190)"
+     ],
+     "useful": [
+      "I am writing to complain about...",
+      "A claim was submitted on...",
+      "I enclose...",
+      "I would be grateful if you could...",
+      "I would also like to be reimbursed for...",
+      "I look forward to hearing from you.",
+      "Yours faithfully,"
+     ],
+     "model": "Dear Sir or Madam,\n\nI am writing to complain about the way in which my insurance claim (reference WD-5517) has been handled.\n\nOn 3 March, a pipe burst in my kitchen, and a claim was submitted the following day. I was told that an assessor would visit within five working days. However, nobody has contacted me in the six weeks since then, and my telephone calls have not been returned.\n\nIn the meantime, I have had the damaged floor temporarily repaired at my own expense, as the kitchen was unsafe to use. I enclose the invoice for £420 and photographs of the damage.\n\nI would be grateful if you could arrange for an assessor to inspect the property as soon as possible. I would also like to be reimbursed for the emergency repairs. If I do not receive a reply within fourteen days, I shall have no choice but to contact the Financial Ombudsman Service.\n\nI look forward to hearing from you.\n\nYours faithfully,\nChiara Romano"
+    },
+    {
+     "t": "speakTask",
+     "q": "Tell me about something you had repaired, serviced or replaced. What happened?",
+     "it": "Racconta una cosa che hai fatto riparare, controllare o sostituire (usa have / get something done) e com'è andata.",
+     "hints": [
+      "Last year I had my... repaired.",
+      "I got an estimate from...",
+      "It took... and it cost...",
+      "I was (not) happy with the work."
+     ],
+     "min": 40,
+     "model": "Last year I had my car's brakes replaced. I got estimates from three garages, and the cheapest was about two hundred euros less. The work was supposed to take a day, but in the end I had to leave the car there for three. I was happy with the result, though, and I had the whole car serviced at the same time."
+    },
+    {
+     "t": "speakTask",
+     "q": "Do you think everyone should have insurance? Why or why not?",
+     "it": "Dì se secondo te tutti dovrebbero avere un'assicurazione e perché (almeno 4 frasi).",
+     "hints": [
+      "In my opinion...",
+      "On the one hand...",
+      "On the other hand...",
+      "It is often said that..."
+     ],
+     "min": 40,
+     "model": "In my opinion, some kinds of insurance are essential, such as health or car insurance, because accidents can be extremely expensive. It is often said that insurance is a waste of money until you need it, and I think that is true. On the other hand, policies can be confusing, so it is important to read the small print and to compare several offers before signing."
+    }
+   ]
+  },
+  {
+   "id": "b2-04-test",
+   "kind": "test",
+   "title": "Test dell'unità 4",
+   "intro": "Verifica finale: passivo avanzato, causativo, lessico di giustizia e assicurazioni, lettura e ascolto. Nessun aiuto durante la prova.",
+   "minutes": 25,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "The documents ___ by the police at the moment.",
+     "opts": [
+      "are being examined",
+      "are examined",
+      "have examined"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The suspect is believed ___ abroad.",
+     "opts": [
+      "to be living",
+      "to have living",
+      "being lived"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "It is thought ___ the fire started in the kitchen.",
+     "opts": [
+      "that",
+      "to",
+      "which"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We need to get the boiler ___ before winter.",
+     "opts": [
+      "serviced",
+      "service",
+      "servicing"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Ho fatto tagliare l'albero»?",
+     "opts": [
+      "I had the tree cut down.",
+      "I had cut down the tree.",
+      "I had the tree to cut down."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The company was found ___ for the accident and had to pay compensation.",
+     "opts": [
+      "liable",
+      "indecisive",
+      "plausible",
+      "reluctant"
+     ],
+     "a": 0,
+     "why": "Liable = legalmente responsabile."
+    },
+    {
+     "t": "mc",
+     "q": "The contract contained a ___ that allowed the firm to avoid paying.",
+     "opts": [
+      "loophole",
+      "excess",
+      "verdict",
+      "estimate"
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Metti i verbi tra parentesi alla forma giusta",
+     "s": "The painting ___ (believe / steal) in 1990.",
+     "answers": [
+      "is believed to have been stolen",
+      "was believed to have been stolen"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Metti i verbi tra parentesi alla forma giusta",
+     "s": "She ___ (have / her car / repair) twice this year.",
+     "answers": [
+      "has had her car repaired",
+      "has got her car repaired"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Ho fatto riparare il telefono.",
+     "answers": [
+      "I had my phone repaired",
+      "I had my phone fixed",
+      "I had my phone mended",
+      "I had the phone repaired",
+      "I had the phone fixed",
+      "I had the phone mended",
+      "I got my phone repaired",
+      "I got my phone fixed",
+      "I got my phone mended",
+      "I got the phone repaired",
+      "I got the phone fixed",
+      "I got the phone mended",
+      "I've had my phone repaired",
+      "I've had my phone fixed",
+      "I've had my phone mended",
+      "I've had the phone repaired",
+      "I've had the phone fixed",
+      "I've had the phone mended",
+      "I have had my phone repaired",
+      "I have had my phone fixed",
+      "I have had my phone mended",
+      "I have had the phone repaired",
+      "I have had the phone fixed",
+      "I have had the phone mended"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "People say that the singer earns millions.",
+     "key": "SAID",
+     "s2": "The singer ___ millions.",
+     "answers": [
+      "is said to earn"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "It is expected that the new law will reduce crime.",
+     "key": "EXPECTED",
+     "s2": "The new law ___ reduce crime.",
+     "answers": [
+      "is expected to"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "A builder is repairing our roof this week.",
+     "key": "HAVING",
+     "s2": "We are ___ repaired this week.",
+     "answers": [
+      "having our roof",
+      "having the roof"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "Someone broke into her car last night.",
+     "key": "HAD",
+     "s2": "She ___ into last night.",
+     "answers": [
+      "had her car broken"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "He had his bike steal outside the station.",
+     "answers": [
+      "He had his bike stolen outside the station"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The suspect is said having left the country.",
+     "answers": [
+      "The suspect is said to have left the country"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "Customers are often ___ with the way claims are handled.",
+     "root": "SATISFY",
+     "answers": [
+      "dissatisfied"
+     ],
+     "why": "Aggettivo negativo: satisfy -> dissatisfied."
+    },
+    {
+     "t": "wordform",
+     "s": "The company's ___ to pay led to a lawsuit.",
+     "root": "WILLING",
+     "answers": [
+      "unwillingness"
+     ],
+     "why": "Nome negativo: willing -> unwillingness."
+    },
+    {
+     "t": "cloze",
+     "title": "A letter to a landlord",
+     "mode": "open",
+     "text": "Dear Mr Hughes,\n\nI am writing {1} request that the broken heating system {2} repaired before the weekend. It was installed only two years ago, so I would have thought it {3} still be under warranty. If the work is not carried out within a week, I shall have {4} choice but to have it {5} by another company and send you the bill.\n\nYours sincerely,\nPeter Wallace",
+     "gaps": [
+      {
+       "answers": [
+        "to"
+       ]
+      },
+      {
+       "answers": [
+        "be",
+        "is"
+       ]
+      },
+      {
+       "answers": [
+        "would",
+        "should"
+       ]
+      },
+      {
+       "answers": [
+        "no"
+       ]
+      },
+      {
+       "answers": [
+        "repaired",
+        "fixed",
+        "done",
+        "replaced",
+        "mended",
+        "serviced"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A message from the garage",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Tom",
+       "Hello, Mrs Davies, it's Tom from Northside Garage. I've had a look at your car. The brakes need replacing, and I'm afraid the estimate is higher than we thought: three hundred and eighty pounds, not three hundred. That includes parts and labour. If you'd like us to go ahead, the work can be done by Thursday afternoon. Please ring me back before ten tomorrow morning and let me know."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "How much is the estimate?",
+       "opts": [
+        "£300",
+        "£380",
+        "£830",
+        "£180"
+       ],
+       "a": 1
+      },
+      {
+       "q": "When can the work be finished?",
+       "opts": [
+        "By Wednesday",
+        "By Thursday afternoon",
+        "By Friday",
+        "By Monday"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What does Tom want Mrs Davies to do?",
+       "opts": [
+        "Collect the car tomorrow",
+        "Phone him before ten the next day",
+        "Send him the money",
+        "Choose another garage"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Phoning the insurer",
+     "lines": [
+      [
+       "Insurer",
+       "Good afternoon, how can I help?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm calling to make a claim: my phone was stolen on a train yesterday.",
+         "I want you to give me a new phone, they stole mine.",
+         "Hello, I am robbed, you pay me."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Insurer",
+       "I'm sorry to hear that. Is there an excess to pay? Yes, it is fifty pounds."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I see. And what happens next?",
+         "Fifty pounds? You are joking.",
+         "I no understand excess."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Si ritiene che sia partito ieri.",
+     "en": "He is believed to have left yesterday",
+     "extra": [
+      "being",
+      "has"
+     ]
+    }
+   ]
+  }
+ ]
+}

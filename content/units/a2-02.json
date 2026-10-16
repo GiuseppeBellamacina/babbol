@@ -1,0 +1,1518 @@
+{
+ "id": "a2-02",
+ "level": "A2",
+ "position": 2,
+ "title": "Vacanze e viaggi",
+ "sub": "Past simple e past continuous - raccontare il weekend",
+ "grammar": "Past simple (regolari e irregolari), past continuous, when e while",
+ "topic": "Vacanze e viaggi",
+ "situation": "Raccontare il weekend a un collega",
+ "lessons": [
+  {
+   "id": "a2-02-grammar",
+   "kind": "grammar",
+   "title": "Raccontare al passato",
+   "intro": "In italiano per il passato usi quasi sempre il passato prossimo («sono andato», «ho visto»). In inglese, per dire quando è successo qualcosa, serve il past simple. Qui impari a raccontare una vacanza senza cadere nelle trappole più comuni.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Past simple: azioni finite nel passato",
+     "body": "Si usa per azioni **concluse**, spesso con un'indicazione di tempo passato: yesterday, last week, in 2019, two days ago.\n\n**Verbi regolari**: base + **-ed**.\n- walk -> walked, visit -> visited\n- con -e finale solo -d: live -> lived\n- consonante + y: study -> studied (ma play -> played)\n- una sillaba breve con una consonante: stop -> stopped\n- in inglese britannico: travel -> **travelled**\n\n**Negative e domande**: si usa **did / didn't + verbo base**. Il verbo base non prende MAI il passato: l'ausiliare lo porta già.",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "tutte le persone",
+       "We visited Rome.",
+       "We didn't visit Rome.",
+       "Did you visit Rome?"
+      ],
+      [
+       "con be",
+       "I was / they were",
+       "I wasn't / they weren't",
+       "Was it good? / Were you there?"
+      ]
+     ],
+     "ex": [
+      [
+       "We stayed in a small hotel near the station.",
+       "Siamo stati in un piccolo albergo vicino alla stazione."
+      ],
+      [
+       "Did you enjoy the trip?",
+       "Ti è piaciuto il viaggio?"
+      ],
+      [
+       "They didn't travel by plane.",
+       "Non hanno viaggiato in aereo."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Verbi irregolari: vanno studiati",
+     "body": "I verbi irregolari non fanno -ed. I più usati in viaggio:",
+     "table": [
+      [
+       "Base",
+       "Past simple",
+       "Base",
+       "Past simple"
+      ],
+      [
+       "go",
+       "went",
+       "buy",
+       "bought"
+      ],
+      [
+       "see",
+       "saw",
+       "take",
+       "took"
+      ],
+      [
+       "eat",
+       "ate",
+       "leave",
+       "left"
+      ],
+      [
+       "have",
+       "had",
+       "lose",
+       "lost"
+      ],
+      [
+       "meet",
+       "met",
+       "forget",
+       "forgot"
+      ],
+      [
+       "get",
+       "got",
+       "write",
+       "wrote"
+      ]
+     ],
+     "ex": [
+      [
+       "I lost my phone on the train.",
+       "Ho perso il telefono sul treno."
+      ],
+      [
+       "We got to the hotel at midnight.",
+       "Siamo arrivati in albergo a mezzanotte."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Attenzione: passato prossimo italiano, non present perfect",
+     "body": "Quando racconti qualcosa che è successo **in un momento preciso** (ieri, sabato scorso, nel 2022) in inglese usi il **past simple**, anche se in italiano diciamo «sono stato», «ho visto».\n\n- «Ieri sono stato a Roma.» -> **I was in Rome yesterday.** (non «I have been to Rome yesterday»)\n- «Sabato ho visto un film.» -> **I saw a film on Saturday.**\n\n**Errori tipici degli italiani**:\n- «Did you went...?» / «She didn't went...»: dopo did/didn't il verbo è alla base -> **Did you go...? / She didn't go...**\n- «goed», «buyed», «eated»: sono forme inventate -> **went, bought, ate**\n- «I am been in London»: mai am/is/are + participio -> **I was in London.**",
+     "ex": [
+      [
+       "Did you go to the beach on Sunday?",
+       "Sei andato in spiaggia domenica?"
+      ],
+      [
+       "I didn't see the castle.",
+       "Non ho visto il castello."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Past continuous e while / when",
+     "body": "Il **past continuous** (**was / were + verbo in -ing**) descrive un'azione **in corso** in un momento del passato, lo «sfondo» della storia (in italiano spesso l'imperfetto: «stavo dormendo»).\n\n- I **was sleeping** at ten o'clock. (stavo dormendo)\n- They **were walking** along the beach.\n\nSi usa insieme al past simple: l'azione lunga è al continuous, quella breve che la interrompe è al simple.\n- **While** we **were having** lunch, it started to rain.\n- It started to rain **when** we **were having** lunch.\n- I **was walking** home **when** I met an old friend.\n\n**While** si usa con l'azione lunga (past continuous). **When** si usa soprattutto con l'azione breve (past simple), ma può introdurre anche l'azione lunga.\nAttenzione: se un'azione ne segue un'altra, usa il simple: **When** I arrived, I called Anna.",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "I / he / she / it",
+       "was playing",
+       "wasn't playing",
+       "Was he playing?"
+      ],
+      [
+       "you / we / they",
+       "were playing",
+       "weren't playing",
+       "Were you playing?"
+      ]
+     ],
+     "ex": [
+      [
+       "While I was packing, my taxi arrived.",
+       "Mentre facevo la valigia, è arrivato il taxi."
+      ],
+      [
+       "We were waiting for the bus when it started to snow.",
+       "Aspettavamo l'autobus quando ha iniziato a nevicare."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Last summer we ___ to Greece.",
+     "opts": [
+      "went",
+      "goed",
+      "gone"
+     ],
+     "a": 0,
+     "it": "L'estate scorsa siamo andati in Grecia.",
+     "why": "«Go» è irregolare: past simple went. «Goed» non esiste."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ my passport at home yesterday.",
+     "opts": [
+      "left",
+      "have left",
+      "leaved"
+     ],
+     "a": 0,
+     "it": "Ieri ho lasciato il passaporto a casa.",
+     "why": "Con «yesterday» serve il past simple, e leave è irregolare: left."
+    },
+    {
+     "t": "gap",
+     "s": "___ you enjoy the film last night?",
+     "opts": [
+      "Did",
+      "Do",
+      "Have"
+     ],
+     "a": 0,
+     "it": "Ti è piaciuto il film ieri sera?",
+     "why": "Domanda al past simple: Did + soggetto + verbo base."
+    },
+    {
+     "t": "gap",
+     "s": "We didn't ___ the museum because it was closed.",
+     "opts": [
+      "visit",
+      "visited",
+      "visiting"
+     ],
+     "a": 0,
+     "it": "Non abbiamo visitato il museo perché era chiuso.",
+     "why": "Dopo didn't il verbo è alla forma base."
+    },
+    {
+     "t": "gap",
+     "s": "I was sleeping when the phone ___ .",
+     "opts": [
+      "rang",
+      "rings",
+      "ringed"
+     ],
+     "a": 0,
+     "it": "Dormivo quando è suonato il telefono.",
+     "why": "Ring è irregolare (ring - rang). L'azione breve che interrompe è al past simple."
+    },
+    {
+     "t": "gap",
+     "s": "While we ___ dinner, the lights went out.",
+     "opts": [
+      "were having",
+      "was having",
+      "are having"
+     ],
+     "a": 0,
+     "it": "Mentre cenavamo, è andata via la luce.",
+     "why": "Azione in corso nel passato con soggetto we: were + -ing."
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Ieri sono stato a Roma»?",
+     "opts": [
+      "I have been to Rome yesterday.",
+      "I was in Rome yesterday.",
+      "I am been in Rome yesterday."
+     ],
+     "a": 1,
+     "why": "Con un tempo preciso (yesterday) si usa il past simple di be: was. Il present perfect non va con yesterday."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "She didn't went to work.",
+      "She didn't go to work.",
+      "She not went to work."
+     ],
+     "a": 1,
+     "why": "Dopo didn't il verbo torna alla forma base: go, non went."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "We ___ (buy) some souvenirs in the market.",
+     "answers": [
+      "bought"
+     ],
+     "why": "Buy è irregolare: bought."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Stavo dormendo quando hai chiamato.",
+     "answers": [
+      "I was sleeping when you called",
+      "I was sleeping when you phoned",
+      "I was sleeping when you rang",
+      "I was sleeping when you called me",
+      "I was sleeping when you phoned me",
+      "I was sleeping when you rang me",
+      "I was asleep when you called",
+      "I was asleep when you phoned",
+      "I was asleep when you rang"
+     ],
+     "why": "Azione in corso (imperfetto italiano) interrotta da una breve: was sleeping + past simple."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "I dropped my phone ___ I was running for the bus.",
+     "answers": [
+      "while",
+      "when"
+     ],
+     "why": "L'azione lunga (was running) si introduce con while; anche when è possibile."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la domanda (you / go)",
+     "s": "Where ___ last weekend?",
+     "answers": [
+      "did you go"
+     ],
+     "why": "Domanda al past simple: did + soggetto + verbo base."
+    },
+    {
+     "t": "fix",
+     "s": "Yesterday I have visited the castle.",
+     "answers": [
+      "Yesterday I visited the castle"
+     ],
+     "why": "Con yesterday serve il past simple, non il present perfect."
+    },
+    {
+     "t": "fix",
+     "s": "Did you went to the beach on Sunday?",
+     "answers": [
+      "Did you go to the beach on Sunday"
+     ],
+     "why": "Dopo did il verbo è alla base: go."
+    },
+    {
+     "t": "fix",
+     "s": "We were walk along the river when it started to rain.",
+     "answers": [
+      "We were walking along the river when it started to rain"
+     ],
+     "why": "Il past continuous vuole il verbo in -ing: were walking."
+    },
+    {
+     "t": "transform",
+     "s1": "I didn't have a good time at the party.",
+     "key": "ENJOY",
+     "s2": "I ___ the party.",
+     "answers": [
+      "didn't enjoy",
+      "did not enjoy"
+     ],
+     "why": "Negativa al past simple: didn't + verbo base."
+    },
+    {
+     "t": "transform",
+     "s1": "The phone rang while I was in the shower.",
+     "key": "WHILE",
+     "s2": "The phone rang ___ a shower.",
+     "answers": [
+      "while I was having",
+      "while I was taking"
+     ],
+     "why": "While + past continuous per l'azione in corso: while I was having a shower."
+    },
+    {
+     "t": "order",
+     "it": "Non abbiamo visto nessuno al museo.",
+     "en": "We didn't see anyone at the museum",
+     "extra": [
+      "saw",
+      "any"
+     ],
+     "alts": [
+      "At the museum we didn't see anyone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-02-vocab",
+   "kind": "vocab",
+   "title": "Il lessico delle vacanze",
+   "intro": "Le parole per organizzare un viaggio, muoversi in aeroporto e raccontare cosa hai fatto in vacanza. Molte entreranno nel ripasso a intervalli.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-02-w01",
+     "en": "suitcase",
+     "it": "valigia",
+     "ipa": "ˈsuːtkeɪs",
+     "pos": "n",
+     "ex": [
+      "I packed my suitcase the night before.",
+      "Ho fatto la valigia la sera prima."
+     ],
+     "emoji": "🧳"
+    },
+    {
+     "id": "a2-02-w02",
+     "en": "passport",
+     "it": "passaporto",
+     "ipa": "ˈpɑːspɔːt",
+     "pos": "n",
+     "ex": [
+      "Don't forget your passport!",
+      "Non dimenticare il passaporto!"
+     ]
+    },
+    {
+     "id": "a2-02-w03",
+     "en": "camera",
+     "it": "macchina fotografica",
+     "ipa": "ˈkæmrə",
+     "pos": "n",
+     "ex": [
+      "I took my camera to the mountains.",
+      "Ho portato la macchina fotografica in montagna."
+     ],
+     "emoji": "📷"
+    },
+    {
+     "id": "a2-02-w04",
+     "en": "luggage",
+     "it": "bagagli",
+     "ipa": "ˈlʌɡɪdʒ",
+     "pos": "n",
+     "ex": [
+      "Our luggage arrived two hours late.",
+      "I nostri bagagli sono arrivati con due ore di ritardo."
+     ],
+     "note": "Non numerabile: mai «luggages». Si dice a piece of luggage."
+    },
+    {
+     "id": "a2-02-w05",
+     "en": "flight",
+     "it": "volo",
+     "ipa": "flaɪt",
+     "pos": "n",
+     "ex": [
+      "The flight to Dublin takes two hours.",
+      "Il volo per Dublino dura due ore."
+     ]
+    },
+    {
+     "id": "a2-02-w06",
+     "en": "delay",
+     "it": "ritardo",
+     "ipa": "dɪˈleɪ",
+     "pos": "n",
+     "ex": [
+      "There was a long delay at the airport.",
+      "C'è stato un lungo ritardo in aeroporto."
+     ],
+     "note": "«Ritardo» di un mezzo = delay. Anche verbo: The train was delayed."
+    },
+    {
+     "id": "a2-02-w07",
+     "en": "book",
+     "it": "prenotare",
+     "ipa": "bʊk",
+     "pos": "v",
+     "ex": [
+      "We booked the hotel online.",
+      "Abbiamo prenotato l'albergo online."
+     ],
+     "note": "Anche nome: a book = un libro. Prenotazione = booking."
+    },
+    {
+     "id": "a2-02-w08",
+     "en": "accommodation",
+     "it": "alloggio, sistemazione",
+     "ipa": "əˌkɒməˈdeɪʃn",
+     "pos": "n",
+     "ex": [
+      "Accommodation in the city centre is expensive.",
+      "L'alloggio in centro è caro."
+     ],
+     "note": "Non numerabile e con due c e due m."
+    },
+    {
+     "id": "a2-02-w09",
+     "en": "sightseeing",
+     "it": "giro turistico",
+     "ipa": "ˈsaɪtsiːɪŋ",
+     "pos": "n",
+     "ex": [
+      "We went sightseeing all morning.",
+      "Abbiamo fatto giri turistici tutta la mattina."
+     ],
+     "note": "Si dice go sightseeing, senza «to»."
+    },
+    {
+     "id": "a2-02-w10",
+     "en": "souvenir",
+     "it": "souvenir, ricordo",
+     "ipa": "ˌsuːvəˈnɪə",
+     "pos": "n",
+     "ex": [
+      "I bought a small souvenir for my sister.",
+      "Ho comprato un piccolo souvenir per mia sorella."
+     ]
+    },
+    {
+     "id": "a2-02-w11",
+     "en": "journey",
+     "it": "viaggio (spostamento)",
+     "ipa": "ˈdʒɜːni",
+     "pos": "n",
+     "ex": [
+      "The journey from Turin to Paris was long.",
+      "Il viaggio da Torino a Parigi è stato lungo."
+     ],
+     "note": "«Journey» è lo spostamento da un luogo a un altro; il viaggio come vacanza è trip."
+    },
+    {
+     "id": "a2-02-w12",
+     "en": "abroad",
+     "it": "all'estero",
+     "ipa": "əˈbrɔːd",
+     "pos": "adv",
+     "ex": [
+      "She studied abroad for a year.",
+      "Ha studiato all'estero per un anno."
+     ],
+     "note": "Mai «to abroad»: I went abroad."
+    },
+    {
+     "id": "a2-02-w13",
+     "en": "check in",
+     "it": "fare il check-in",
+     "ipa": "ˈtʃek ɪn",
+     "pos": "pv",
+     "ex": [
+      "We checked in online before the flight.",
+      "Abbiamo fatto il check-in online prima del volo."
+     ]
+    },
+    {
+     "id": "a2-02-w14",
+     "en": "get lost",
+     "it": "perdersi",
+     "ipa": "ɡet lɒst",
+     "pos": "phr",
+     "ex": [
+      "We got lost in the old town.",
+      "Ci siamo persi nel centro storico."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "book a room",
+       "prenotare una camera"
+      ],
+      [
+       "miss a flight",
+       "perdere un volo"
+      ],
+      [
+       "pack a suitcase",
+       "fare la valigia"
+      ],
+      [
+       "go sightseeing",
+       "fare giri turistici"
+      ],
+      [
+       "buy a souvenir",
+       "comprare un souvenir"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "We missed our connection because of a one-hour ___ .",
+     "opts": [
+      "delay",
+      "delayed",
+      "late"
+     ],
+     "a": 0,
+     "why": "Dopo l'articolo serve un nome: delay. «Delayed» è aggettivo/participio, «late» è aggettivo."
+    },
+    {
+     "t": "gap",
+     "s": "I forgot to ___ the hotel and everything was full.",
+     "opts": [
+      "book",
+      "booked",
+      "booking"
+     ],
+     "a": 0,
+     "why": "Dopo «to» il verbo è alla forma base."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "She bought a small ___ to remember the trip: a magnet from the market in Lisbon.",
+     "answers": [
+      "souvenir"
+     ],
+     "it": "Ha comprato un piccolo ricordo per la madre: una sciarpa dal mercato."
+    },
+    {
+     "t": "wordform",
+     "s": "We stayed in a very ___ hotel near the sea.",
+     "root": "COMFORT",
+     "answers": [
+      "comfortable"
+     ],
+     "why": "Serve un aggettivo: comfort -> comfortable."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "My luggage is very heavy.",
+      "My luggages are very heavy.",
+      "My luggage are very heavy."
+     ],
+     "a": 0,
+     "why": "«Luggage» è non numerabile: niente plurale e verbo al singolare."
+    }
+   ]
+  },
+  {
+   "id": "a2-02-reading",
+   "kind": "reading",
+   "title": "Una settimana a Lisbona",
+   "intro": "Leggi il racconto di una vacanza con qualche imprevisto. Nota come i verbi al passato seguono la storia, dall'arrivo al ritorno.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Lisbon, rain and sun cream",
+     "genre": "blog",
+     "text": "Last August my sister Chiara and I spent a week in Lisbon. We booked a small flat near the river because the hotels were too expensive. Our flight was late, so we arrived at midnight and I was so tired that I fell asleep in the taxi.\n\nOn the first morning we got lost. We were looking for a famous tram stop when it started to rain, so we ran into a tiny café. While we were drinking coffee, an old man at the next table showed us the way on his phone. He was very kind and he even told us about a restaurant that tourists never visit.\n\nThe best day was Wednesday. We took a train to the seaside and spent the whole afternoon on the beach. I forgot my sun cream and I came home with a terrible sunburn! Chiara laughed at me while I was putting yoghurt on my back. In the evening we ate grilled fish and listened to live music in the street.\n\nOn the last day we bought some souvenirs for our parents. At the airport I couldn't find my passport for ten minutes, but it was in my coat pocket all the time. I loved Lisbon and I want to go back next year, but this time with sun cream.",
+     "qs": [
+      {
+       "q": "Why did the sisters book a flat?",
+       "opts": [
+        "Hotels cost too much.",
+        "It was near the beach.",
+        "Their parents recommended it."
+       ],
+       "a": 0,
+       "why": "«...because the hotels were too expensive»."
+      },
+      {
+       "q": "What time did they arrive in Lisbon?",
+       "opts": [
+        "In the morning",
+        "At midnight",
+        "In the evening"
+       ],
+       "a": 1,
+       "why": "«...we arrived at midnight»."
+      },
+      {
+       "q": "What did they do when it started to rain?",
+       "opts": [
+        "They took a taxi.",
+        "They went into a café.",
+        "They went back to the flat."
+       ],
+       "a": 1,
+       "why": "«...we ran into a tiny café»."
+      },
+      {
+       "q": "The old man gave them a paper map.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "Ha mostrato la strada sul telefono, non con una mappa di carta."
+      },
+      {
+       "q": "They went to the seaside by ___ .",
+       "answers": [
+        "train",
+        "a train"
+       ]
+      },
+      {
+       "q": "What happened to the writer on Wednesday?",
+       "opts": [
+        "She lost her camera.",
+        "She got sunburnt.",
+        "She missed the train."
+       ],
+       "a": 1,
+       "why": "«...I came home with a terrible sunburn»."
+      },
+      {
+       "q": "Where was the writer's passport at the airport?",
+       "opts": [
+        "In her suitcase",
+        "In her coat pocket",
+        "At the flat"
+       ],
+       "a": 1,
+       "why": "«...it was in my coat pocket all the time»."
+      },
+      {
+       "q": "The writer would like to visit Lisbon again.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 0,
+       "why": "«I want to go back next year»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «sunburn» significa:",
+     "opts": [
+      "scottatura solare",
+      "abbronzatura",
+      "colpo di sole"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We were so tired that we ___ asleep in the taxi.",
+     "opts": [
+      "fell",
+      "felt",
+      "fall"
+     ],
+     "a": 0,
+     "why": "Fall asleep = addormentarsi; il past simple di fall è fell («felt» è il passato di feel)."
+    },
+    {
+     "t": "type",
+     "q": "Trova nel testo la parola che significa «lungo il mare»",
+     "text": "We took a train to the ___ .",
+     "answers": [
+      "seaside"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-02-listening",
+   "kind": "listening",
+   "title": "Com'è andato il weekend?",
+   "intro": "Due colleghi chiacchierano il lunedì mattina davanti alla macchinetta del caffè. Ascolta senza leggere: il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Monday morning",
+     "it": "Ascolta il dialogo e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Ben",
+       "Morning, Sofia. Did you have a good weekend?"
+      ],
+      [
+       "Sofia",
+       "Yes, thanks! We went to the lake with my cousins. On Saturday we hired a boat."
+      ],
+      [
+       "Ben",
+       "Nice. Was the weather good?"
+      ],
+      [
+       "Sofia",
+       "Well, it was sunny in the morning, but it started to rain while we were having lunch. We all ran back to the car."
+      ],
+      [
+       "Ben",
+       "Oh no! What did you do then?"
+      ],
+      [
+       "Sofia",
+       "We found a little restaurant and stayed there until six. Actually, it was the best part. And you? Did you do anything?"
+      ],
+      [
+       "Ben",
+       "Not much. I stayed at home on Saturday and painted the kitchen. Then on Sunday I met my brother for a walk."
+      ],
+      [
+       "Sofia",
+       "Did you paint it yellow, like you wanted?"
+      ],
+      [
+       "Ben",
+       "No, I changed my mind in the shop and bought blue paint."
+      ],
+      [
+       "Sofia",
+       "Blue is nice! Anyway, the coffee is ready. Shall we go?"
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Where did Sofia go at the weekend?",
+       "opts": [
+        "To the sea",
+        "To a lake",
+        "To the mountains"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did Sofia and her cousins do on Saturday?",
+       "opts": [
+        "They hired a boat.",
+        "They went fishing.",
+        "They visited a museum."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What were they doing when it started to rain?",
+       "opts": [
+        "Having lunch",
+        "Swimming",
+        "Driving home"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How long did they stay in the restaurant?",
+       "opts": [
+        "Until lunch time",
+        "Until six",
+        "Until midnight"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did Ben do on Saturday?",
+       "opts": [
+        "He painted his kitchen.",
+        "He met his brother.",
+        "He went shopping."
+       ],
+       "a": 0
+      },
+      {
+       "q": "Ben bought ___ paint.",
+       "answers": [
+        "blue"
+       ]
+      },
+      {
+       "q": "What did Ben do on Sunday?",
+       "opts": [
+        "He stayed at home.",
+        "He went for a walk.",
+        "He worked."
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "It started to rain while we were having lunch.",
+     "it": "Ha iniziato a piovere mentre pranzavamo."
+    },
+    {
+     "t": "dictation",
+     "en": "I changed my mind in the shop and bought blue paint.",
+     "it": "Ho cambiato idea in negozio e ho comprato la vernice blu."
+    },
+    {
+     "t": "speak",
+     "en": "Did you have a good weekend?",
+     "it": "Hai passato un bel weekend?"
+    }
+   ]
+  },
+  {
+   "id": "a2-02-situation",
+   "kind": "situation",
+   "title": "Raccontare il weekend a un collega",
+   "intro": "Il lunedì mattina in ufficio ti chiedono com'è andato il weekend. Frasi per raccontare, reagire a quello che senti e far procedere la conversazione.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Chiedere e raccontare",
+     "body": "Per chiedere:\n- **How was your weekend?** / **Did you have a good weekend?**\n- **Did you do anything nice?**\n- **Where did you go?** / **Who did you go with?**\n\nPer rispondere:\n- **It was great, thanks.** / **Not bad.** / **Pretty quiet, really.**\n- **I went to... / We stayed at home and...**\n- **Guess what happened!** = Indovina cosa è successo!\n\nNon si dice «I have passed a nice weekend»: in inglese si **have** un weekend, e il tempo è il past simple: **I had a lovely weekend.**",
+     "ex": [
+      [
+       "How was your weekend?",
+       "Com'è andato il weekend?"
+      ],
+      [
+       "I had a lovely weekend.",
+       "Ho passato un bel weekend."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Ordinare la storia e reagire",
+     "body": "Per ordinare i fatti:\n- **First, / Then, / After that, / In the end,**\n- **On Saturday morning... / In the afternoon... / Later...**\n- **While we were..., ...**\n\nPer reagire a quello che ascolti:\n- **Sounds great!** / **Lucky you!** = Che fortuna!\n- **Oh no! What happened?**\n- **What a nightmare!** = Che incubo!\n- **Really? That's funny.**",
+     "ex": [
+      [
+       "First we went to the market, then we had lunch.",
+       "Prima siamo andati al mercato, poi abbiamo pranzato."
+      ],
+      [
+       "Oh no! What happened next?",
+       "Oh no! Cos'è successo dopo?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al bancone del caffè",
+     "it": "Scegli la battuta più naturale per te (Tu).",
+     "lines": [
+      [
+       "Emma",
+       "Morning! How was your weekend?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Great, thanks. We went to the mountains.",
+         "Great, thanks. We have gone to the mountains.",
+         "Great, thanks. We are gone to the mountains."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Emma",
+       "Lucky you! Did you go skiing?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "No, we didn't. We just went for a walk.",
+         "No, we didn't went. We just walked.",
+         "No, we not did. We just walk."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Emma",
+       "Was it cold?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, it was freezing, but the views were fantastic.",
+         "Yes, it was freezing, but the views was fantastic.",
+         "Yes, it has been freezing, but fantastic views."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Un weekend movimentato",
+     "lines": [
+      [
+       "Jack",
+       "You look tired. What did you do at the weekend?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I went to my friend's wedding. It finished at three in the morning!",
+         "I am gone to my friend's wedding. It finish at three in the morning!",
+         "I have gone at my friend's wedding yesterday."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Jack",
+       "Wow! Did you dance a lot?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, I danced all night. I'm exhausted.",
+         "Yes, I did dance all night, I'm exhausting.",
+         "Yes, I dance all night. I am exhausted."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Jack",
+       "What a night. Did you get home safely?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, a friend gave me a lift.",
+         "Yes, a friend gived me a lift.",
+         "Yes, a friend has give me a lift."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "«Exhausting» significa «che sfinisce»; «exhausted» è «sfinito». Un'altra differenza tra -ing e -ed."
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "How was your weekend?",
+       "Com'è andato il weekend?"
+      ],
+      [
+       "Guess what happened!",
+       "Indovina cosa è successo!"
+      ],
+      [
+       "Lucky you!",
+       "Che fortuna!"
+      ],
+      [
+       "What a nightmare!",
+       "Che incubo!"
+      ],
+      [
+       "In the end,",
+       "Alla fine,"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Che cosa hai fatto sabato sera?",
+     "en": "What did you do on Saturday evening",
+     "extra": [
+      "did",
+      "have"
+     ],
+     "alts": [
+      "On Saturday evening what did you do"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I had a lovely weekend, thanks.",
+     "it": "Ho passato un bel weekend, grazie."
+    },
+    {
+     "t": "speak",
+     "en": "It started to rain while we were walking.",
+     "it": "Ha iniziato a piovere mentre camminavamo."
+    },
+    {
+     "t": "speak",
+     "en": "Oh no! What happened next?",
+     "it": "Oh no! Cos'è successo dopo?"
+    },
+    {
+     "t": "speakTask",
+     "q": "A colleague asks: How was your weekend? Tell the story.",
+     "it": "Racconta il tuo weekend (vero o inventato): dove sei stato, cosa hai fatto, un imprevisto con while o when. Almeno 4 frasi.",
+     "hints": [
+      "I went to... with...",
+      "On Saturday we...",
+      "While we were..., ...",
+      "In the end..."
+     ],
+     "min": 30,
+     "model": "I had a nice weekend. On Saturday I went to the market with my girlfriend and we bought some fresh fruit. While we were walking home, it started to rain, so we stopped in a café. On Sunday I stayed at home and watched a film. In the end I went to bed early."
+    }
+   ]
+  },
+  {
+   "id": "a2-02-production",
+   "kind": "production",
+   "title": "Scrivere il racconto di una vacanza",
+   "intro": "Scriverai un racconto breve di una vacanza, vera o inventata, poi lo racconterai a voce. Prima qualche esercizio per preparare connettivi e tempi verbali.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come si racconta una storia",
+     "body": "Una storia breve ha:\n- **un inizio**: Last summer I went to... / Two years ago we visited...\n- **uno sviluppo** con i connettivi: **first, then, after that, later, while, when, but, so, because**\n- **un imprevisto o un momento speciale**: Suddenly... / One day...\n- **una fine**: In the end... / It was a fantastic holiday.\n\nRegola d'oro: i fatti in ordine sono al **past simple**; lo sfondo (che tempo faceva, cosa stavate facendo) è al **past continuous**.",
+     "ex": [
+      [
+       "We got lost while we were looking for the beach.",
+       "Ci siamo persi mentre cercavamo la spiaggia."
+      ],
+      [
+       "The weather was perfect, so we swam every day.",
+       "Il tempo era perfetto, quindi abbiamo nuotato ogni giorno."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "We wanted to visit the castle, ___ it was closed.",
+     "opts": [
+      "but",
+      "so",
+      "because"
+     ],
+     "a": 0,
+     "why": "Contrasto tra due idee: but."
+    },
+    {
+     "t": "gap",
+     "s": "It rained all day, ___ we stayed at the hotel.",
+     "opts": [
+      "so",
+      "because",
+      "but"
+     ],
+     "a": 0,
+     "why": "Conseguenza: so."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "I met my husband ___ I was working in Dublin.",
+     "answers": [
+      "while",
+      "when"
+     ],
+     "why": "While introduce un'azione in corso (was working); anche when è accettabile."
+    },
+    {
+     "t": "fix",
+     "s": "Last year we have travelled to Spain with some friends.",
+     "answers": [
+      "Last year we travelled to Spain with some friends",
+      "Last year we traveled to Spain with some friends"
+     ],
+     "why": "Con «last year» serve il past simple, non il present perfect."
+    },
+    {
+     "t": "write",
+     "q": "Write a short story about a holiday you had (real or imaginary). Say where you went, what you did and what happened.",
+     "it": "Scrivi un racconto breve di una vacanza (vera o inventata): dove sei andato, cosa hai fatto, cosa è successo. Usa i tempi del passato.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho usato il past simple per i fatti, con almeno due verbi irregolari",
+      "Ho usato il past continuous con while o when almeno una volta",
+      "Ho usato almeno due connettivi (but, so, because, then)",
+      "Non ho usato il present perfect con un tempo preciso",
+      "Ho chiuso con una frase finale"
+     ],
+     "useful": [
+      "Last summer I went to...",
+      "We stayed in...",
+      "While we were..., ...",
+      "Then / After that / In the end",
+      "It was a fantastic holiday."
+     ],
+     "model": "Last summer I went to Croatia with two friends. We stayed in a small flat near the sea. On the second day we got lost while we were looking for a beach, but a friendly woman showed us the way. We swam, ate fresh fish and visited an old castle. The weather was perfect, except on the last day, when it rained. I bought a souvenir for my mum. It was a fantastic holiday."
+    },
+    {
+     "t": "speakTask",
+     "q": "Tell us about the worst or best trip you ever took.",
+     "it": "Racconta il viaggio più bello o più brutto che hai fatto: dove, con chi, cosa è successo.",
+     "hints": [
+      "I went to... with...",
+      "We stayed...",
+      "The best / worst part was...",
+      "In the end..."
+     ],
+     "min": 40,
+     "model": "The best trip I ever took was to Scotland two years ago. I went with my brother and we hired a car. We stayed in small villages and walked every day. One afternoon we got lost in the hills, but we found a farm and the farmer gave us tea. It was wonderful."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe what you were doing at ten o'clock last night.",
+     "it": "Racconta cosa stavi facendo ieri sera alle dieci e cosa stavano facendo le persone intorno a te.",
+     "hints": [
+      "At ten o'clock I was...",
+      "My family was...",
+      "While I was..., ..."
+     ],
+     "min": 30,
+     "model": "At ten o'clock last night I was sitting on the sofa. My husband was reading a book and the children were sleeping. While I was watching a film, my sister phoned me, so I turned off the TV and we talked for half an hour."
+    }
+   ]
+  },
+  {
+   "id": "a2-02-test",
+   "kind": "test",
+   "title": "Test dell'unità 2",
+   "intro": "Verifica senza aiuti: grammatica, lessico, lettura e ascolto dell'unità. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "Last night we ___ a pizza and went to bed early.",
+     "opts": [
+      "ate",
+      "eated",
+      "have eaten"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I ___ the keys at the hotel, so I went back.",
+     "opts": [
+      "forgot",
+      "forgotted",
+      "have forget"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "___ you see the match yesterday?",
+     "opts": [
+      "Did",
+      "Do",
+      "Were"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She didn't ___ me about the delay.",
+     "opts": [
+      "tell",
+      "told",
+      "telled"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "While I ___ my suitcase, the taxi arrived.",
+     "opts": [
+      "was packing",
+      "am packing",
+      "pack"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We ___ along the beach when we saw a dolphin.",
+     "opts": [
+      "were walking",
+      "was walking",
+      "walk"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Please show your ___ at the airport desk.",
+     "opts": [
+      "passport",
+      "suitcase",
+      "souvenir"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Remember to ___ online before the flight.",
+     "opts": [
+      "check in",
+      "check up",
+      "check on"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Ieri sera ho mangiato fuori»?",
+     "opts": [
+      "I ate out last night.",
+      "I have eaten out last night.",
+      "I am eaten out last night."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I have two suitcases and a lot of luggage.",
+      "I have two suitcases and a lot of luggages.",
+      "I have two suitcases and many luggage."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "We ___ (not / stay) in a hotel. We stayed with friends.",
+     "answers": [
+      "didn't stay",
+      "did not stay"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Dove hai comprato quel cappello?",
+     "answers": [
+      "Where did you buy that hat",
+      "Where did you get that hat"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo (stavamo aspettando)",
+     "s": "We ___ (wait) for the bus when it started to rain.",
+     "answers": [
+      "were waiting"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Ieri ho perso il passaporto.",
+     "answers": [
+      "I lost my passport yesterday",
+      "Yesterday I lost my passport"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "We goed to the beach on Sunday.",
+     "answers": [
+      "We went to the beach on Sunday"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "What did you did at the weekend?",
+     "answers": [
+      "What did you do at the weekend"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "We had an ___ trip and met lots of friendly people.",
+     "root": "ENJOY",
+     "answers": [
+      "enjoyable"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Mentre aspettavamo, ho letto un libro.",
+     "en": "While we were waiting I read a book",
+     "extra": [
+      "waited",
+      "reading"
+     ],
+     "alts": [
+      "While we were waiting, I read a book"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "She was cooking dinner when the doorbell rang.",
+     "key": "WHILE",
+     "s2": "The doorbell rang ___ dinner.",
+     "answers": [
+      "while she was cooking",
+      "while she was making",
+      "while she was preparing"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa la cartolina",
+     "mode": "mc",
+     "text": "Hi Marco,\n\nGreetings from Sicily! We {1} here on Tuesday after a long journey. The flight {2} two hours late, so we {3} dinner until eleven. While we {4} lunch yesterday, a cat jumped on our table! I {5} take many photos, because I forgot my camera.\n\nSee you soon,\nLaura",
+     "gaps": [
+      {
+       "opts": [
+        "arrived",
+        "arrive",
+        "have arrived",
+        "arrives"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "was",
+        "were",
+        "is",
+        "has been"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "didn't have",
+        "didn't had",
+        "hadn't",
+        "not had"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "were having",
+        "have",
+        "are having",
+        "has"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "didn't",
+        "wasn't",
+        "don't",
+        "haven't"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A voicemail",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Paolo",
+       "Hi Nina, it's Paolo. Sorry, I can't come on Saturday. I was in Naples last weekend and I lost my wallet on the train, so I'm going to the police station tomorrow. Can we meet on Sunday at four instead?"
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Where was Paolo last weekend?",
+       "opts": [
+        "In Naples",
+        "In Rome",
+        "At home"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did he lose?",
+       "opts": [
+        "His phone",
+        "His wallet",
+        "His passport"
+       ],
+       "a": 1
+      },
+      {
+       "q": "When does he suggest meeting?",
+       "opts": [
+        "Saturday at four",
+        "Sunday at four",
+        "Sunday at ten"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Lunedì mattina",
+     "lines": [
+      [
+       "Anna",
+       "Hi! How was your weekend?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "It was great, thanks. I went to the lake.",
+         "It has been great, thanks. I have gone to the lake yesterday.",
+         "It was great, thanks. I am gone to the lake."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Anna",
+       "Lucky you! What did you do there?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "We swam and had a picnic.",
+         "We swimmed and had picnic.",
+         "We did swim and we have a picnic."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

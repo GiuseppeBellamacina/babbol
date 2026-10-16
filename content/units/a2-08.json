@@ -1,0 +1,1456 @@
+{
+ "id": "a2-08",
+ "level": "A2",
+ "position": 8,
+ "title": "Hobby e tempo libero",
+ "sub": "Verbi + -ing o to - biglietti, attività e inviti",
+ "grammar": "Verb patterns: -ing vs to + infinito, want/would like somebody to",
+ "topic": "Hobby, sport e spettacoli",
+ "situation": "Comprare biglietti e prenotare un'attività",
+ "lessons": [
+  {
+   "id": "a2-08-grammar",
+   "kind": "grammar",
+   "title": "Enjoy playing o want to play?",
+   "intro": "In italiano dopo quasi tutti i verbi si usa l'infinito. In inglese il secondo verbo può prendere -ing oppure to + infinito, e dipende dal primo verbo. Qui trovi le regole per i verbi più comuni e gli errori che gli italiani fanno più spesso.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Verbo + -ing",
+     "body": "Dopo alcuni verbi il secondo verbo prende **-ing** (non l'infinito). I più utili a questo livello:\n- **enjoy, don't mind, finish, practise, keep, avoid, stop**\n- **suggest** (suggerire): I suggest going early.\n- i verbi dei gusti **like, love, hate, prefer** (anche con to, vedi sotto)\n\nDopo una **preposizione** il verbo prende sempre -ing: I'm good **at** cooking. She's interested **in** learning Spanish. Thanks **for** coming.\n\n**Errore tipico degli italiani**: «I enjoy to play tennis». Si dice **I enjoy playing tennis**.\nOrtografia: swim -> swimming (raddoppia la consonante), dance -> dancing (cade la -e).",
+     "ex": [
+      [
+       "I enjoy painting at the weekend.",
+       "Mi piace dipingere nel fine settimana."
+      ],
+      [
+       "He doesn't mind waiting.",
+       "Non gli dispiace aspettare."
+      ],
+      [
+       "She's very good at drawing.",
+       "È molto brava a disegnare."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Verbo + to + infinito",
+     "body": "Dopo altri verbi il secondo verbo prende **to + infinito**:\n- **want, would like, need, hope, plan, decide, learn, promise, agree, offer**\n\nSchema: **verbo + to + verbo base**.\n- I want **to learn** the guitar.\n- We've decided **to join** a gym.\n- She hopes **to win** the match.\n\nLa negativa si fa prima del to: I decided **not to go**.\nPer indicare lo **scopo** si usa to + infinito, mai «for + infinito»: I go to the gym **to keep fit** (non «for to keep fit»). Se segue un nome si può usare for: I go to the gym for exercise.",
+     "ex": [
+      [
+       "I want to take up yoga.",
+       "Voglio iniziare a fare yoga."
+      ],
+      [
+       "They've decided not to go on holiday this year.",
+       "Hanno deciso di non andare in vacanza quest'anno."
+      ],
+      [
+       "I joined a club to meet new people.",
+       "Mi sono iscritto a un club per conoscere gente nuova."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Like, love, hate, prefer: due costruzioni",
+     "body": "Con **like, love, hate, prefer** si possono usare entrambe le forme, con piccole differenze:\n- **-ing**: per i gusti in generale. I **like swimming** (mi piace nuotare, in generale).\n- **to + infinito**: spesso per abitudini o scelte. I like to get up early on Sundays.\n\nInvece **would like** (e would love) vuole **sempre to**, perché esprime un desiderio preciso, ed è più gentile di want:\n- **I'd like to book** a table. (ora, in questa situazione)\n- Do you **like going** to concerts? (in generale)\n- **Would you like to** come? (invito)\n\nAttenzione: **I like swimming** = mi piace in generale; **I'd like to swim** = ho voglia di nuotare adesso.",
+     "ex": [
+      [
+       "I love going to the theatre.",
+       "Adoro andare a teatro."
+      ],
+      [
+       "I'd like to see that new exhibition.",
+       "Mi piacerebbe vedere quella nuova mostra."
+      ],
+      [
+       "Would you like to join us?",
+       "Ti va di unirti a noi?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Want / would like + persona + to",
+     "body": "Quando vuoi che **un'altra persona** faccia qualcosa, in inglese si dice **want / would like + persona + to + verbo base**.\n- I want **you to come**.\n- She'd like **us to help** her.\n- My parents don't want **me to leave** school.\n\nLa persona è un complemento: **me, you, him, her, us, them** (non I, you, he...).\n\n**Errori tipici degli italiani**, che pensano al «che» e al congiuntivo:\n- «I want that you come» -> **I want you to come**\n- «Do you want I help you?» -> **Do you want me to help you?**\n- «I'd like that she calls me» -> **I'd like her to call me**",
+     "ex": [
+      [
+       "I want you to come to the match with me.",
+       "Voglio che tu venga alla partita con me."
+      ],
+      [
+       "Would you like me to carry your bag?",
+       "Vuoi che ti porti la borsa?"
+      ],
+      [
+       "Her boss doesn't want her to leave early.",
+       "Il suo capo non vuole che se ne vada presto."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "I really enjoy ___ tennis at the weekend.",
+     "opts": [
+      "playing",
+      "to play",
+      "play"
+     ],
+     "a": 0,
+     "it": "Mi piace molto giocare a tennis nel fine settimana.",
+     "why": "Dopo enjoy il verbo prende -ing."
+    },
+    {
+     "t": "gap",
+     "s": "We've decided ___ a new guitar for Marco's birthday.",
+     "opts": [
+      "to buy",
+      "buying",
+      "buy"
+     ],
+     "a": 0,
+     "it": "Abbiamo deciso di comprare una chitarra nuova per il compleanno di Marco.",
+     "why": "Dopo decide serve to + verbo base."
+    },
+    {
+     "t": "gap",
+     "s": "She doesn't mind ___ up early on Sundays.",
+     "opts": [
+      "getting",
+      "to get",
+      "get"
+     ],
+     "a": 0,
+     "it": "Non le dispiace alzarsi presto la domenica.",
+     "why": "Dopo don't mind il verbo prende -ing."
+    },
+    {
+     "t": "gap",
+     "s": "I'd like ___ a table for four, please.",
+     "opts": [
+      "to book",
+      "booking",
+      "book"
+     ],
+     "a": 0,
+     "it": "Vorrei prenotare un tavolo per quattro, per favore.",
+     "why": "Would like vuole sempre to + verbo base."
+    },
+    {
+     "t": "gap",
+     "s": "My parents want me ___ a degree before I look for a job.",
+     "opts": [
+      "to get",
+      "get",
+      "that I get"
+     ],
+     "a": 0,
+     "it": "I miei genitori vogliono che io prenda la laurea prima di cercare un lavoro.",
+     "why": "Want + persona + to + verbo base. «That I get» è un calco dell'italiano."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I want you to come to the match.",
+      "I want that you come to the match.",
+      "I want you come to the match."
+     ],
+     "a": 0,
+     "why": "Want + persona (you) + to + verbo base. Niente «that»."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "He's very good at singing.",
+      "He's very good at sing.",
+      "He's very good at to sing."
+     ],
+     "a": 0,
+     "why": "Dopo una preposizione (at) il verbo prende -ing."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Mi piace nuotare in mare.",
+     "answers": [
+      "I like swimming in the sea",
+      "I like to swim in the sea",
+      "I enjoy swimming in the sea",
+      "I love swimming in the sea",
+      "I love to swim in the sea"
+     ],
+     "why": "Gusto generale: like + -ing (o like + to, ma con gli italiani è più sicuro -ing)."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Voglio che tu venga con noi.",
+     "answers": [
+      "I want you to come with us",
+      "I'd like you to come with us",
+      "I would like you to come with us"
+     ],
+     "why": "Want + you + to + verbo base. Non «I want that you come»."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "He's planning ___ (open) a small café next year.",
+     "answers": [
+      "to open"
+     ],
+     "why": "Dopo plan serve to + verbo base."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "She's finished ___ (write) the report.",
+     "answers": [
+      "writing"
+     ],
+     "why": "Dopo finish il verbo prende -ing."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Che cosa ti piacerebbe fare stasera?",
+     "answers": [
+      "What would you like to do tonight",
+      "What would you like to do this evening",
+      "What would you like to do tonight",
+      "What do you want to do tonight",
+      "What do you want to do this evening"
+     ],
+     "why": "«Ti piacerebbe» = would you like + to + verbo base."
+    },
+    {
+     "t": "fix",
+     "s": "I enjoy to play the guitar.",
+     "answers": [
+      "I enjoy playing the guitar"
+     ],
+     "why": "Dopo enjoy serve il verbo in -ing."
+    },
+    {
+     "t": "fix",
+     "s": "She wants that I come to the concert.",
+     "answers": [
+      "She wants me to come to the concert"
+     ],
+     "why": "In inglese: want + persona + to + verbo base, senza «that»."
+    },
+    {
+     "t": "transform",
+     "s1": "Anna says: \"Please come to the party.\"",
+     "key": "WANTS",
+     "s2": "Anna ___ to the party.",
+     "answers": [
+      "wants me to come",
+      "wants me to go"
+     ],
+     "why": "Want + me + to + verbo base."
+    },
+    {
+     "t": "transform",
+     "s1": "Do you like to dance?",
+     "key": "ENJOY",
+     "s2": "Do you ___ ?",
+     "answers": [
+      "enjoy dancing"
+     ],
+     "why": "Enjoy vuole il verbo in -ing."
+    },
+    {
+     "t": "order",
+     "it": "Vorrei prenotare un campo da tennis.",
+     "en": "I'd like to book a tennis court",
+     "extra": [
+      "booking",
+      "for"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Vorrei che tu venissi alla partita.",
+     "en": "I'd like you to come to the match",
+     "extra": [
+      "that",
+      "coming"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-08-vocab",
+   "kind": "vocab",
+   "title": "Il lessico del tempo libero",
+   "intro": "Hobby, sport e spettacoli: le parole per raccontare che cosa fai nel tempo libero e per organizzare uscite con gli amici.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-08-w01",
+     "en": "hobby",
+     "it": "hobby, passatempo",
+     "ipa": "ˈhɒbi",
+     "pos": "n",
+     "ex": [
+      "My hobby is photography.",
+      "Il mio hobby è la fotografia."
+     ],
+     "note": "Plurale: hobbies."
+    },
+    {
+     "id": "a2-08-w02",
+     "en": "concert",
+     "it": "concerto",
+     "ipa": "ˈkɒnsət",
+     "pos": "n",
+     "ex": [
+      "We're going to a concert on Friday.",
+      "Venerdì andiamo a un concerto."
+     ]
+    },
+    {
+     "id": "a2-08-w03",
+     "en": "match",
+     "it": "partita",
+     "ipa": "mætʃ",
+     "pos": "n",
+     "ex": [
+      "Did you watch the match last night?",
+      "Hai visto la partita ieri sera?"
+     ],
+     "note": "Si dice «a football match» o «a tennis match», non «a partita»."
+    },
+    {
+     "id": "a2-08-w04",
+     "en": "exhibition",
+     "it": "mostra",
+     "ipa": "ˌeksɪˈbɪʃn",
+     "pos": "n",
+     "ex": [
+      "There's a Picasso exhibition at the museum.",
+      "C'è una mostra di Picasso al museo."
+     ],
+     "note": "Falso amico: non è «esibizione»."
+    },
+    {
+     "id": "a2-08-w05",
+     "en": "performance",
+     "it": "spettacolo, esibizione",
+     "ipa": "pəˈfɔːməns",
+     "pos": "n",
+     "ex": [
+      "The evening performance starts at eight.",
+      "Lo spettacolo serale inizia alle otto."
+     ]
+    },
+    {
+     "id": "a2-08-w06",
+     "en": "audience",
+     "it": "pubblico",
+     "ipa": "ˈɔːdiəns",
+     "pos": "n",
+     "ex": [
+      "The audience loved the show.",
+      "Il pubblico ha adorato lo spettacolo."
+     ],
+     "note": "Il «pubblico» di uno spettacolo è «audience»; «public» è la gente in generale."
+    },
+    {
+     "id": "a2-08-w07",
+     "en": "team",
+     "it": "squadra",
+     "ipa": "tiːm",
+     "pos": "n",
+     "ex": [
+      "He plays in the school football team.",
+      "Gioca nella squadra di calcio della scuola."
+     ]
+    },
+    {
+     "id": "a2-08-w08",
+     "en": "member",
+     "it": "socio, membro",
+     "ipa": "ˈmembə",
+     "pos": "n",
+     "ex": [
+      "I'm a member of a running club.",
+      "Sono socio di un club di corsa."
+     ]
+    },
+    {
+     "id": "a2-08-w09",
+     "en": "join",
+     "it": "iscriversi a, unirsi a",
+     "ipa": "dʒɔɪn",
+     "pos": "v",
+     "ex": [
+      "I want to join a swimming club.",
+      "Voglio iscrivermi a un club di nuoto."
+     ],
+     "note": "Si dice «join a club», senza preposizione: mai «join to a club»."
+    },
+    {
+     "id": "a2-08-w10",
+     "en": "keep fit",
+     "it": "tenersi in forma",
+     "ipa": "kiːp fɪt",
+     "pos": "phr",
+     "ex": [
+      "She swims twice a week to keep fit.",
+      "Nuota due volte alla settimana per tenersi in forma."
+     ]
+    },
+    {
+     "id": "a2-08-w11",
+     "en": "be into",
+     "it": "essere appassionato di",
+     "ipa": "bi ˈɪntuː",
+     "pos": "phr",
+     "ex": [
+      "I'm really into jazz at the moment.",
+      "In questo periodo sono appassionato di jazz."
+     ],
+     "note": "Informale."
+    },
+    {
+     "id": "a2-08-w12",
+     "en": "box office",
+     "it": "botteghino",
+     "ipa": "ˈbɒks ɒfɪs",
+     "pos": "n",
+     "ex": [
+      "You can buy tickets at the box office.",
+      "Puoi comprare i biglietti al botteghino."
+     ]
+    },
+    {
+     "id": "a2-08-w13",
+     "en": "guitar",
+     "it": "chitarra",
+     "ipa": "ɡɪˈtɑː",
+     "pos": "n",
+     "ex": [
+      "He plays the guitar in a band.",
+      "Suona la chitarra in un gruppo."
+     ],
+     "note": "Con gli strumenti si dice «play the guitar» (con the).",
+     "emoji": "🎸"
+    },
+    {
+     "id": "a2-08-w14",
+     "en": "football",
+     "it": "pallone, calcio",
+     "ipa": "ˈfʊtbɔːl",
+     "pos": "n",
+     "ex": [
+      "The children are playing football in the park.",
+      "I bambini giocano a calcio nel parco."
+     ],
+     "note": "Nel Regno Unito «football» è il calcio, non il football americano.",
+     "emoji": "⚽"
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "play football",
+       "giocare a calcio"
+      ],
+      [
+       "join a club",
+       "iscriversi a un club"
+      ],
+      [
+       "take up a hobby",
+       "iniziare un hobby"
+      ],
+      [
+       "watch a match",
+       "guardare una partita"
+      ],
+      [
+       "keep fit",
+       "tenersi in forma"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The ___ clapped for five minutes at the end of the concert.",
+     "opts": [
+      "audience",
+      "public",
+      "audiences"
+     ],
+     "a": 0,
+     "why": "Il pubblico di uno spettacolo è «audience»."
+    },
+    {
+     "t": "gap",
+     "s": "I'd like to ___ a new hobby, maybe painting.",
+     "opts": [
+      "take up",
+      "take in",
+      "take off"
+     ],
+     "a": 0,
+     "why": "«Take up» significa iniziare a praticare un'attività."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "I'm really ___ jazz at the moment. I listen to it every day.",
+     "answers": [
+      "into"
+     ],
+     "sub": "In questo periodo sono davvero appassionato di jazz. Lo ascolto ogni giorno."
+    },
+    {
+     "t": "wordform",
+     "s": "She's a very ___ guitar player.",
+     "root": "TALENT",
+     "answers": [
+      "talented"
+     ],
+     "why": "Serve un aggettivo: talent -> talented."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «I go to the gym to keep fit»?",
+     "opts": [
+      "Vado in palestra per tenermi in forma.",
+      "Vado in palestra per restare adatto.",
+      "Vado in palestra per tenere la forma."
+     ],
+     "a": 0,
+     "why": "«Keep fit» è un'espressione fissa: tenersi in forma."
+    }
+   ]
+  },
+  {
+   "id": "a2-08-reading",
+   "kind": "reading",
+   "title": "Un nuovo hobby per cambiare vita",
+   "intro": "Leggi l'articolo di una rivista che racconta come una donna ha iniziato a cantare in un coro. Cerca i verbi seguiti da -ing o da to: li hai appena studiati.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "A voice of her own",
+     "genre": "articolo",
+     "text": "Last January, Emma Clarke, 34, promised herself to stop spending every evening on the sofa. \"I needed to do something different,\" she says. \"I'm an accountant, so I spend all day looking at numbers.\" She decided to join a local choir, although she had never sung in public before.\n\nAt first, she was very nervous. \"I hated singing in front of other people, and I kept forgetting the words!\" But the other members were friendly, and the conductor, Mr Hughes, taught her to relax. Now Emma practises twice a week and enjoys learning new songs. Last month the choir performed at a charity concert for 300 people. \"I couldn't believe I was on a real stage,\" she says. \"My mum wanted me to try something like this for years!\"\n\nDoctors say that hobbies can help us feel less stressed, and they are also a good way to meet new people. If you'd like to start a new hobby, here are three tips. First, choose something cheap, so you can stop if you don't like it. Second, don't expect to be perfect at the beginning. Third, ask a friend to come with you.\n\nEmma now wants her brother to join the choir too. \"He says he can't sing,\" she laughs, \"but I don't believe him.\"",
+     "qs": [
+      {
+       "q": "Why did Emma decide to join a choir?",
+       "opts": [
+        "She wanted a change from sitting at home.",
+        "She was already a good singer.",
+        "Her mother asked her to."
+       ],
+       "a": 0,
+       "why": "«I needed to do something different»: voleva cambiare, dopo le serate sul divano."
+      },
+      {
+       "q": "At first, Emma felt very ___ .",
+       "answers": [
+        "nervous"
+       ]
+      },
+      {
+       "q": "Who helped Emma to relax?",
+       "opts": [
+        "The conductor",
+        "Her mum",
+        "Her brother"
+       ],
+       "a": 0,
+       "why": "«The conductor, Mr Hughes, taught her to relax»."
+      },
+      {
+       "q": "Emma practises ___ a week.",
+       "answers": [
+        "twice",
+        "two times"
+       ]
+      },
+      {
+       "q": "The choir sang at a concert for 300 people.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 0,
+       "why": "«The choir performed at a charity concert for 300 people»."
+      },
+      {
+       "q": "Emma's mother sings in a choir too.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 2,
+       "why": "Il testo dice solo che la madre voleva che Emma provasse un'attività simile."
+      },
+      {
+       "q": "One of the tips in the article is to ___ .",
+       "opts": [
+        "choose something cheap",
+        "join a big club",
+        "practise every day"
+       ],
+       "a": 0,
+       "why": "«First, choose something cheap, so you can stop if you don't like it»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «I kept forgetting the words» significa:",
+     "opts": [
+      "continuavo a dimenticare le parole",
+      "tenevo le parole",
+      "avevo smesso di dimenticare le parole"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The choir sang on a real ___ in front of 300 people.",
+     "opts": [
+      "stage",
+      "scene",
+      "theatre"
+     ],
+     "a": 0,
+     "why": "Il palcoscenico è «stage». «Scene» è una scena di un film o di una commedia."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola, come nel testo",
+     "s": "She decided ___ join a local choir.",
+     "answers": [
+      "to"
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Qual è il significato di «charity concert»?",
+     "opts": [
+      "concerto di beneficenza",
+      "concerto gratuito",
+      "concerto di carità cristiana"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "a2-08-listening",
+   "kind": "listening",
+   "title": "Che cosa facciamo sabato?",
+   "intro": "Due amici organizzano il fine settimana. Ascolta come propongono, accettano e si mettono d'accordo. Il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Saturday plans",
+     "it": "Ascolta la conversazione e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Nina",
+       "Hi, Jack! What are you doing on Saturday?"
+      ],
+      [
+       "Jack",
+       "Nothing special. Why?"
+      ],
+      [
+       "Nina",
+       "I'd like to try indoor climbing. Do you want to come with me?"
+      ],
+      [
+       "Jack",
+       "Climbing? I'm not sure. I hate climbing ladders!"
+      ],
+      [
+       "Nina",
+       "It's not like that. The instructors teach you everything, and it only costs ten pounds."
+      ],
+      [
+       "Jack",
+       "Hmm. To be honest, I prefer watching films. Actually, there's a new comedy at the cinema."
+      ],
+      [
+       "Nina",
+       "We can do both! Climbing in the morning, then the cinema in the evening."
+      ],
+      [
+       "Jack",
+       "OK, that sounds good. I'd like to bring my brother. He wants to take up a new sport."
+      ],
+      [
+       "Nina",
+       "Great. I'll book three places. We have to be there by ten o'clock."
+      ],
+      [
+       "Jack",
+       "Do I need special shoes?"
+      ],
+      [
+       "Nina",
+       "No, you can rent them there for two pounds. Just wear comfortable clothes."
+      ],
+      [
+       "Jack",
+       "Perfect. See you on Saturday, then!"
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What does Nina want to try?",
+       "opts": [
+        "Indoor climbing",
+        "A new film",
+        "Tennis"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How much does the climbing session cost?",
+       "opts": [
+        "Two pounds",
+        "Ten pounds",
+        "Twelve pounds"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What does Jack usually prefer doing?",
+       "opts": [
+        "Watching films",
+        "Playing sport",
+        "Reading"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Who does Jack want to bring?",
+       "opts": [
+        "His sister",
+        "His brother",
+        "A colleague"
+       ],
+       "a": 1
+      },
+      {
+       "q": "They have to be at the climbing centre by ___ o'clock.",
+       "answers": [
+        "10",
+        "ten"
+       ]
+      },
+      {
+       "q": "Renting the shoes costs ___ pounds.",
+       "answers": [
+        "2",
+        "two"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "I'd like you to come with me on Saturday.",
+     "it": "Vorrei che tu venissi con me sabato."
+    },
+    {
+     "t": "dictation",
+     "en": "He wants to take up a new sport.",
+     "it": "Vuole iniziare un nuovo sport."
+    },
+    {
+     "t": "speak",
+     "en": "I enjoy playing tennis at the weekend.",
+     "it": "Mi piace giocare a tennis nel fine settimana."
+    }
+   ]
+  },
+  {
+   "id": "a2-08-situation",
+   "kind": "situation",
+   "title": "Biglietti e prenotazioni",
+   "intro": "Comprare biglietti per uno spettacolo e prenotare un'attività sportiva: le frasi per chiedere orari, prezzi e dettagli senza fare giri di parole.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Al botteghino",
+     "body": "- **Two tickets for the seven o'clock show, please.** = Due biglietti per lo spettacolo delle sette.\n- **How much are the tickets?** = Quanto costano i biglietti?\n- **Is there a discount for students?** = C'è uno sconto per studenti?\n- **Where are the seats?** = Dove sono i posti?\n- **Can I pay by card?** = Posso pagare con la carta?\n- **What time does it finish?** = A che ora finisce?\n\nI posti si dicono **seats**, non «places». Un biglietto per due persone si dice **two tickets**.\nIn inglese si dice **book** o **reserve** per prenotare, mai «prenotate» con il calco di altre lingue.",
+     "ex": [
+      [
+       "Two tickets for tonight's performance, please.",
+       "Due biglietti per lo spettacolo di stasera, per favore."
+      ],
+      [
+       "Is there a discount for students?",
+       "C'è uno sconto per studenti?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Prenotare un'attività",
+     "body": "- **I'd like to book a place on the beginners' class.** = Vorrei prenotare un posto al corso per principianti.\n- **Is it suitable for beginners?** = Va bene per i principianti?\n- **Do I need to bring anything?** = Devo portare qualcosa?\n- **What time does it start?** = A che ora inizia?\n- **Can I cancel if I can't come?** = Posso disdire se non riesco a venire?\n\nPer una risposta gentile: **I'd like to...** invece di «I want...», che suona brusco.",
+     "ex": [
+      [
+       "I'd like to book a tennis court for Saturday.",
+       "Vorrei prenotare un campo da tennis per sabato."
+      ],
+      [
+       "Do I need to bring my own racket?",
+       "Devo portare la mia racchetta?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al botteghino",
+     "it": "Scegli la battuta più naturale per te (Tu).",
+     "lines": [
+      [
+       "Clerk",
+       "Good afternoon. How can I help you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Hello. I'd like two tickets for tonight's show, please.",
+         "Hello. I want two tickets for tonight show.",
+         "Hello. I would two ticket for tonight, please."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "Certainly. We have seats in the stalls for twenty-five pounds each."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Is there a discount for students?",
+         "Is there a discount to the students?",
+         "Have you a discount of student?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "Yes, students pay eighteen pounds with a card."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Great. Can I pay by card?",
+         "Great. Can I pay with card?",
+         "Great. May I to pay by card?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Prenotare un campo da tennis",
+     "lines": [
+      [
+       "Receptionist",
+       "Riverside Sports Centre. Can I help you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Hello. I'd like to book a tennis court for Saturday.",
+         "Hello. I want to book me a tennis court for Saturday.",
+         "Hello. I'd like booking a tennis court for Saturday."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Receptionist",
+       "What time would you like?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Ten o'clock, please. Is it possible for two hours?",
+         "Ten o'clock, please. Is possible two hours?",
+         "Ten o'clock, please. It is possible two hours?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Receptionist",
+       "Yes, that's fine. Do you need to hire rackets?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "No, thank you. We've got our own.",
+         "No, thank you. We have the own.",
+         "No, thanks. We have us own."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Two tickets, please.",
+       "Due biglietti, per favore."
+      ],
+      [
+       "Is there a discount for students?",
+       "C'è uno sconto per studenti?"
+      ],
+      [
+       "What time does it start?",
+       "A che ora inizia?"
+      ],
+      [
+       "Is it suitable for beginners?",
+       "Va bene per i principianti?"
+      ],
+      [
+       "Can I cancel?",
+       "Posso disdire?"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Posso pagare con la carta?",
+     "en": "Can I pay by card",
+     "extra": [
+      "for",
+      "to"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I'd like two tickets for tonight's show, please.",
+     "it": "Vorrei due biglietti per lo spettacolo di stasera, per favore."
+    },
+    {
+     "t": "speak",
+     "en": "Is it suitable for beginners?",
+     "it": "Va bene per i principianti?"
+    },
+    {
+     "t": "speak",
+     "en": "I'd like to book a tennis court for Saturday.",
+     "it": "Vorrei prenotare un campo da tennis per sabato."
+    },
+    {
+     "t": "speakTask",
+     "q": "You want to book a place on a beginners' class (for example yoga or dance). Phone the centre.",
+     "it": "Telefona a un centro sportivo per prenotare un posto a un corso per principianti: chiedi orario, prezzo e che cosa devi portare (almeno 4 frasi).",
+     "hints": [
+      "I'd like to book a place on...",
+      "What time does it start?",
+      "How much is it?",
+      "Do I need to bring anything?"
+     ],
+     "min": 30,
+     "model": "Hello. I'd like to book a place on the beginners' yoga class, please. What time does it start? And how much is it? Also, do I need to bring anything, or can I borrow a mat? Thank you very much."
+    }
+   ]
+  },
+  {
+   "id": "a2-08-production",
+   "kind": "production",
+   "title": "Un invito informale",
+   "intro": "Scriverai un breve messaggio per invitare un amico a un'attività nel tempo libero, poi parlerai dei tuoi gusti. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Invitare, accettare, rifiutare",
+     "body": "- **Invitare**: Would you like to come to...? / Do you want to...? / I'm going to... Why don't you come with me?\n- **Dare i dettagli**: It starts at... / It's on Saturday at... / We're meeting at...\n- **Accettare**: I'd love to! / Yes, that sounds great. / Good idea!\n- **Rifiutare con gentilezza**: Sorry, I can't. I have to... / I'm afraid I can't make it. / Maybe another time?\n- **Chiudere**: Let me know! / See you soon!\n\nRicorda: **would like + to + verbo base** per invitare, e **I'd love to** (senza ripetere il verbo) per accettare.",
+     "ex": [
+      [
+       "Would you like to come to the cinema on Friday?",
+       "Ti va di venire al cinema venerdì?"
+      ],
+      [
+       "I'd love to! What time does it start?",
+       "Volentieri! A che ora inizia?"
+      ],
+      [
+       "I'm afraid I can't make it. I have to work.",
+       "Temo di non farcela. Devo lavorare."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "___ you like to come to the cinema on Friday?",
+     "opts": [
+      "Would",
+      "Did",
+      "Are"
+     ],
+     "a": 0,
+     "why": "Per invitare: Would you like to...?"
+    },
+    {
+     "t": "gap",
+     "s": "Would you like to come to the concert? - Yes, I'd love ___ !",
+     "opts": [
+      "to",
+      "going",
+      "that"
+     ],
+     "a": 0,
+     "why": "Dopo «I'd love» si risponde con to e basta, senza ripetere il verbo."
+    },
+    {
+     "t": "fix",
+     "s": "I'm afraid I can't come. I must to work on Saturday.",
+     "answers": [
+      "I'm afraid I can't come. I must work on Saturday",
+      "I'm afraid I can't come. I have to work on Saturday",
+      "I am afraid I can't come. I must work on Saturday",
+      "I am afraid I can't come. I have to work on Saturday"
+     ],
+     "why": "Must non vuole «to»: si dice must work, oppure have to work."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Ti va di venire al concerto con me?",
+     "answers": [
+      "Would you like to come to the concert with me",
+      "Do you want to come to the concert with me",
+      "Would you like to come with me to the concert",
+      "Do you want to come with me to the concert"
+     ],
+     "why": "Invito: Would you like to + verbo base? In alternativa Do you want to...?"
+    },
+    {
+     "t": "write",
+     "q": "Write a message to an English-speaking friend, Chris. Invite Chris to do something with you this weekend (a match, a concert, a class...). Say what it is, when and where, and why you would like Chris to come.",
+     "it": "Scrivi un messaggio a Chris per invitarlo a fare qualcosa questo fine settimana (una partita, un concerto, un corso...): che cosa, quando e dove, e perché vorresti che venisse.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho usato Would you like to... per invitare",
+      "Ho usato almeno un verbo seguito da -ing (enjoy, like, love...)",
+      "Ho usato want o would like + persona + to",
+      "Ho dato giorno, ora e luogo",
+      "Ho chiuso con una formula informale (Let me know!)"
+     ],
+     "useful": [
+      "Hi Chris,",
+      "Would you like to come to...?",
+      "It starts at...",
+      "I'd like you to come because...",
+      "I really enjoy...",
+      "Let me know!",
+      "See you soon!"
+     ],
+     "model": "Hi Chris,\n\nWould you like to come to a football match with me on Saturday? It's at three o'clock at the city stadium. My friend Tom is playing in the team, and I'd like you to meet him. I really enjoy watching live matches, and the tickets only cost eight pounds.\n\nAfter the match we can have a pizza.\n\nLet me know!\nGiulia"
+    },
+    {
+     "t": "speakTask",
+     "q": "Talk about the things you like and don't like doing in your free time.",
+     "it": "Parla di che cosa ti piace e non ti piace fare nel tempo libero (almeno 4 frasi).",
+     "hints": [
+      "I enjoy... / I love...",
+      "I don't mind...",
+      "I hate...",
+      "I'd like to try..."
+     ],
+     "min": 30,
+     "model": "I really enjoy cooking for my friends and I love going to the cinema. I don't mind walking, but I hate running. In the future, I'd like to take up painting because I want to learn something creative."
+    },
+    {
+     "t": "speakTask",
+     "q": "Invite a friend to a concert or a match, and explain why you want them to come.",
+     "it": "Invita a voce un amico a un concerto o a una partita e spiega perché vuoi che venga.",
+     "hints": [
+      "Would you like to come to...?",
+      "It's on... at...",
+      "I'd like you to come because..."
+     ],
+     "min": 30,
+     "model": "Hi Anna, would you like to come to a concert on Friday? It's at eight o'clock at the Town Hall. A new band from Leeds is playing. I'd like you to come because you love live music, and I don't want to go alone. Let me know!"
+    }
+   ]
+  },
+  {
+   "id": "a2-08-test",
+   "kind": "test",
+   "title": "Test dell'unità 8",
+   "intro": "Verifica senza aiuti: verbi con -ing e to, lessico del tempo libero, lettura e ascolto. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "My brother enjoys ___ video games in the evening.",
+     "opts": [
+      "playing",
+      "to play",
+      "play"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We're planning ___ a concert next month.",
+     "opts": [
+      "to go to",
+      "going to",
+      "go to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I don't mind ___ for you. I'm not in a hurry.",
+     "opts": [
+      "waiting",
+      "to wait",
+      "wait"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She's very interested ___ learning the piano.",
+     "opts": [
+      "in",
+      "to",
+      "for"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "My parents don't want me ___ home too late.",
+     "opts": [
+      "to come",
+      "come",
+      "coming"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'd like ___ about the beginners' class, please.",
+     "opts": [
+      "to ask",
+      "asking",
+      "ask"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The ___ was full and everyone clapped at the end.",
+     "opts": [
+      "audience",
+      "public",
+      "assistance"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "You can buy tickets at the ___ before the show.",
+     "opts": [
+      "box office",
+      "ticket house",
+      "cashier room"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Do you want me to help you?",
+      "Do you want I help you?",
+      "Do you want that I help you?"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I finished reading the book last night.",
+      "I finished to read the book last night.",
+      "I finished read the book last night."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase esprime un invito educato?",
+     "opts": [
+      "Would you like to come with us?",
+      "Do you like to come with us?",
+      "You like come with us?"
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "He's decided ___ (join) a gym.",
+     "answers": [
+      "to join"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "I'm good at ___ (cook) Italian food.",
+     "answers": [
+      "cooking"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Voglio iniziare a fare yoga.",
+     "answers": [
+      "I want to take up yoga",
+      "I want to start doing yoga",
+      "I'd like to take up yoga",
+      "I want to start yoga",
+      "I'd like to start doing yoga",
+      "I'd like to start yoga",
+      "I would like to take up yoga"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Voglio che tu mi chiami domani.",
+     "answers": [
+      "I want you to call me tomorrow",
+      "I'd like you to call me tomorrow",
+      "I would like you to call me tomorrow",
+      "I want you to phone me tomorrow",
+      "I'd like you to phone me tomorrow"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "I enjoy to go to the cinema on Sundays.",
+     "answers": [
+      "I enjoy going to the cinema on Sundays"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "She would like that I help her.",
+     "answers": [
+      "She would like me to help her",
+      "She'd like me to help her"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I'd love you to come to the party.",
+     "key": "WANT",
+     "s2": "I ___ to the party.",
+     "answers": [
+      "want you to come"
+     ],
+     "why": "Want + you + to + verbo base."
+    },
+    {
+     "t": "wordform",
+     "s": "We had a very ___ evening at the concert.",
+     "root": "ENJOY",
+     "answers": [
+      "enjoyable"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Mi piacerebbe che tu venissi con me.",
+     "en": "I'd like you to come with me",
+     "extra": [
+      "that",
+      "coming"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa il messaggio",
+     "mode": "mc",
+     "text": "Hi Lucy,\n\nI'm thinking of {1} up tennis. I really {2} watching it on TV, and now I'd like {3} it myself. Would you {4} to come with me to a trial class on Saturday? I'd like you {5} me because I'm a bit nervous!\n\nLet me know,\nPeter",
+     "gaps": [
+      {
+       "opts": [
+        "taking",
+        "to take",
+        "take",
+        "took"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "enjoy",
+        "enjoying",
+        "to enjoy",
+        "am enjoy"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "to try",
+        "trying",
+        "try",
+        "that I try"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "like",
+        "liking",
+        "likes",
+        "to like"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "to join",
+        "join",
+        "joining",
+        "that you join"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A call to the sports centre",
+     "it": "Ascolta la telefonata.",
+     "lines": [
+      [
+       "Receptionist",
+       "Riverside Sports Centre, how can I help? Ah, you'd like to book a place on the beginners' swimming class. Yes, it starts at six o'clock on Tuesday evenings. It costs eight pounds for one session. You don't need to bring a towel, but you should bring your own swimming cap."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What time does the class start?",
+       "opts": [
+        "6.00",
+        "8.00",
+        "6.30"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How much is one session?",
+       "opts": [
+        "Six pounds",
+        "Eight pounds",
+        "Ten pounds"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What should the customer bring?",
+       "opts": [
+        "A towel",
+        "A swimming cap",
+        "Nothing"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al botteghino",
+     "lines": [
+      [
+       "Clerk",
+       "Can I help you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, I'd like two tickets for tonight, please.",
+         "Yes, I want two ticket for tonight, please.",
+         "Yes, I would two tickets for tonight, please."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "That's thirty pounds, please."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Can I pay by card?",
+         "Can I pay in card?",
+         "I can to pay by card?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

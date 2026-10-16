@@ -1,0 +1,1515 @@
+{
+  "id": "b1-04",
+  "level": "B1",
+  "position": 4,
+  "title": "Tecnologia e futuro",
+  "sub": "Will, going to, future continuous, may e might - cosa succederà",
+  "grammar": "Futuro: will / going to / present continuous, future continuous, may e might per le possibilità",
+  "topic": "Tecnologia",
+  "situation": "Telefonata all'assistenza tecnica",
+  "lessons": [
+    {
+      "id": "b1-04-grammar",
+      "kind": "grammar",
+      "title": "Parlare del futuro",
+      "intro": "In italiano il futuro si dice spesso con il presente: «domani vado a Roma». In inglese devi scegliere tra will, going to e present continuous, e c'è anche il future continuous. Qui metti ordine.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Will, going to, present continuous: ripasso",
+          "body": "- **will + base**: decisioni prese **al momento di parlare**, promesse, offerte, previsioni basate su opinione (I think...). «The phone's ringing. **I'll get it.**»\n- **going to + base**: **piani e intenzioni** già decisi; previsioni basate su **qualcosa che vedi**. «I'**m going to buy** a new laptop.» / «Look at those clouds! It's **going to rain**.»\n- **present continuous**: **accordi già presi** con un tempo preciso. «We'**re meeting** the client at ten.»\n- **present simple**: **orari e programmi fissi**. «The train **leaves** at 6.42.»\n\n**Errore tipico degli italiani**: usare il presente per le offerte («Wait, I carry it for you») invece di will.",
+          "table": [
+            [
+              "Forma",
+              "Quando",
+              "Esempio"
+            ],
+            [
+              "will",
+              "decisione sul momento, promessa",
+              "I'll call you later."
+            ],
+            [
+              "going to",
+              "piano, evidenza",
+              "I'm going to learn Spanish."
+            ],
+            [
+              "present continuous",
+              "accordo preso",
+              "I'm seeing the dentist at 5."
+            ],
+            [
+              "present simple",
+              "orario",
+              "The shop opens at nine."
+            ]
+          ],
+          "ex": [
+            [
+              "It's heavy. I'll help you with that.",
+              "È pesante. Ti do una mano."
+            ],
+            [
+              "She's going to start a new job in May.",
+              "Inizierà un nuovo lavoro a maggio."
+            ],
+            [
+              "We're flying to Lisbon on Friday.",
+              "Voliamo a Lisbona venerdì."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Future continuous: sarò in mezzo a un'azione",
+          "body": "**Will be + verbo in -ing** descrive un'azione **in corso in un momento preciso del futuro**.\n- This time tomorrow I'**ll be flying** to Madrid. (alle 12 di domani sono in volo)\n- Don't call at nine: we'**ll be having** dinner.\n\nSi usa anche per chiedere con cortesia dei programmi altrui: «**Will you be using** the car tonight?» (non vuol dire «hai intenzione di», chiede solo cosa succede).\n\nNegativa: **won't be + -ing**. Domanda: **Will you be + -ing?**",
+          "table": [
+            [
+              "",
+              "Forma",
+              "Esempio"
+            ],
+            [
+              "Affermativa",
+              "will be + -ing",
+              "I'll be working at six."
+            ],
+            [
+              "Negativa",
+              "won't be + -ing",
+              "She won't be sleeping."
+            ],
+            [
+              "Domanda",
+              "Will + soggetto + be + -ing?",
+              "Will you be using the laptop?"
+            ]
+          ],
+          "ex": [
+            [
+              "At eight tomorrow I'll be sitting in a meeting.",
+              "Domani alle otto sarò in riunione."
+            ],
+            [
+              "Will you be using the printer this afternoon?",
+              "Userai la stampante questo pomeriggio?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "May, might, could: possibilità",
+          "body": "Per dire che qualcosa è **possibile ma non certo** si usa **may / might / could + verbo base**.\n- I **might go** to the party. (forse ci vado)\n- It **may rain** later.\n- The battery **could** run out before we get there.\n\n**May** e **might** sono quasi uguali; might è un po' meno sicuro. La negativa è **may not / might not** (mai «mayn't» nell'uso normale; **could not** invece vuol dire impossibile).\n\n**Errori tipici**: «I might to go», «I don't might go», «Maybe I will might...».\n\nAttenzione: **maybe** (un solo avverbio) apre la frase; **may be** (due parole) è il verbo: «Maybe it will rain» / «It may be late».",
+          "ex": [
+            [
+              "I might not have time to call you.",
+              "Forse non avrò tempo di chiamarti."
+            ],
+            [
+              "Maybe I'll buy a new phone next month.",
+              "Forse il mese prossimo comprerò un telefono nuovo."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Dopo when, as soon as, if, before, until: il presente",
+          "body": "Nelle frasi che parlano del futuro, dopo **when, as soon as, before, after, until, if** si usa il **present simple**, mai will.\n- **As soon as I get** home, I'll send you the file.\n- I'll wait **until you finish**.\n- **If it rains**, we'll stay at home.\n\nIn italiano diciamo «quando arriverò» (futuro); in inglese **when I arrive**.\n\n**Errore tipico**: «When I will arrive, I'll call you».",
+          "ex": [
+            [
+              "I'll text you as soon as the train arrives.",
+              "Ti scrivo appena arriva il treno."
+            ],
+            [
+              "Before you leave, please back up your files.",
+              "Prima di andare, fai il backup dei file."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Look at those clouds! It ___ rain.",
+          "opts": [
+            "is going to",
+            "is raining",
+            "rains"
+          ],
+          "a": 0,
+          "it": "Guarda quelle nuvole! Sta per piovere.",
+          "why": "Previsione basata su qualcosa che si vede: going to."
+        },
+        {
+          "t": "gap",
+          "s": "A: There's someone at the door. B: I ___ it.",
+          "opts": [
+            "'ll get",
+            "will getting",
+            "get"
+          ],
+          "a": 0,
+          "why": "Decisione presa al momento di parlare: will."
+        },
+        {
+          "t": "gap",
+          "s": "We ___ my cousins on Saturday; we've already booked the restaurant.",
+          "opts": [
+            "are meeting",
+            "meet",
+            "will be meet"
+          ],
+          "a": 0,
+          "why": "Accordo già preso con un momento preciso: present continuous."
+        },
+        {
+          "t": "gap",
+          "s": "The next train to Bologna ___ at 18.42.",
+          "opts": [
+            "leaves",
+            "is going leave",
+            "leaving"
+          ],
+          "a": 0,
+          "why": "Orario fisso: present simple."
+        },
+        {
+          "t": "gap",
+          "s": "This time next week I ___ on a beach in Greece.",
+          "opts": [
+            "will be lying",
+            "am lying",
+            "lie"
+          ],
+          "a": 0,
+          "why": "Azione in corso in un momento preciso del futuro: future continuous."
+        },
+        {
+          "t": "gap",
+          "s": "Take an umbrella. It ___ rain later.",
+          "opts": [
+            "might",
+            "mights",
+            "might to"
+          ],
+          "a": 0,
+          "why": "Might + verbo base, senza -s e senza to."
+        },
+        {
+          "t": "gap",
+          "s": "I'll call you as soon as I ___ home.",
+          "opts": [
+            "get",
+            "will get",
+            "am getting"
+          ],
+          "a": 0,
+          "why": "Dopo as soon as si usa il present simple anche se parliamo del futuro."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I may not have time tomorrow.",
+            "I mayn't have time tomorrow.",
+            "I may not to have time tomorrow."
+          ],
+          "a": 0,
+          "why": "Negativa: may not + verbo base. «Mayn't» non si usa; to non serve."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "If it rains tomorrow, we'll stay at home.",
+            "If it will rain tomorrow, we will stay at home.",
+            "If it rains tomorrow, we stay at home."
+          ],
+          "a": 0,
+          "why": "Nella if clause non si usa will; nella principale si usa will per la conseguenza."
+        },
+        {
+          "t": "type",
+          "q": "Future continuous: scrivi la forma giusta",
+          "s": "This time tomorrow I ___ (sit) in the dentist's chair.",
+          "answers": [
+            "will be sitting",
+            "'ll be sitting"
+          ],
+          "why": "Azione in corso in un momento preciso del futuro: will be + -ing."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta (negativa)",
+          "s": "I promise I ___ (forget) to send you the document.",
+          "answers": [
+            "won't forget",
+            "will not forget"
+          ],
+          "why": "Promessa: will. Negativa: won't."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Forse non verrò alla riunione.",
+          "answers": [
+            "I might not come to the meeting",
+            "I may not come to the meeting",
+            "I might not be at the meeting",
+            "I may not be at the meeting",
+            "I might not attend the meeting",
+            "I may not attend the meeting",
+            "I might not go to the meeting",
+            "I may not go to the meeting",
+            "Maybe I won't come to the meeting",
+            "Perhaps I won't come to the meeting",
+            "Maybe I will not come to the meeting",
+            "Perhaps I will not come to the meeting"
+          ],
+          "why": "Possibilità incerta: might / may + base. Maybe e perhaps aprono la frase."
+        },
+        {
+          "t": "fix",
+          "s": "If I will have time, I'll help you.",
+          "answers": [
+            "If I have time, I'll help you",
+            "If I have time I will help you"
+          ],
+          "why": "Nella if clause si usa il present simple, non will."
+        },
+        {
+          "t": "fix",
+          "s": "I don't know yet, but I may to go to the party.",
+          "answers": [
+            "I don't know yet, but I may go to the party",
+            "I don't know yet, but I might go to the party"
+          ],
+          "why": "Dopo i verbi modali non si usa to."
+        },
+        {
+          "t": "fix",
+          "s": "Wait, I carry that bag for you.",
+          "answers": [
+            "Wait, I'll carry that bag for you",
+            "Wait, I will carry that bag for you"
+          ],
+          "why": "Un'offerta fatta sul momento richiede will."
+        },
+        {
+          "t": "transform",
+          "s1": "Perhaps I will go out tonight.",
+          "key": "MIGHT",
+          "s2": "I ___ out tonight.",
+          "answers": [
+            "might go"
+          ],
+          "why": "Perhaps + will = might + verbo base."
+        },
+        {
+          "t": "transform",
+          "s1": "At nine tomorrow my plane will be in the air, so please don't call.",
+          "key": "FLYING",
+          "s2": "At nine tomorrow I ___ , so please don't call.",
+          "answers": [
+            "will be flying",
+            "'ll be flying"
+          ],
+          "why": "Azione in corso in un momento del futuro: will be + -ing."
+        },
+        {
+          "t": "order",
+          "it": "Ti scriverò non appena avrò notizie dal tecnico.",
+          "en": "I will text you as soon as I hear from the technician",
+          "extra": [
+            "hearing",
+            "hears"
+          ],
+          "alts": [
+            "As soon as I hear from the technician I will text you"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-04-vocab",
+      "kind": "vocab",
+      "title": "Dispositivi e problemi",
+      "intro": "Le parole che servono quando un telefono si blocca, la batteria si scarica o un'app non si aggiorna. Tutte utili per l'assistenza tecnica e per le email di supporto.",
+      "minutes": 15,
+      "words": [
+        {
+          "id": "b1-04-w01",
+          "en": "device",
+          "it": "dispositivo",
+          "ipa": "dɪˈvaɪs",
+          "pos": "n",
+          "ex": [
+            "You can connect up to five devices to the network.",
+            "Puoi collegare fino a cinque dispositivi alla rete."
+          ],
+          "note": "Il verbo corrispondente (ideare) si scrive devise, con la s."
+        },
+        {
+          "id": "b1-04-w02",
+          "en": "battery",
+          "it": "batteria",
+          "ipa": "ˈbætri",
+          "pos": "n",
+          "ex": [
+            "My phone battery only lasts half a day.",
+            "La batteria del mio telefono dura solo mezza giornata."
+          ],
+          "note": "Si dice the battery is low / dead / has run out."
+        },
+        {
+          "id": "b1-04-w03",
+          "en": "charger",
+          "it": "caricabatterie",
+          "ipa": "ˈtʃɑːdʒə",
+          "pos": "n",
+          "ex": [
+            "I forgot my charger at the hotel.",
+            "Ho dimenticato il caricabatterie in albergo."
+          ]
+        },
+        {
+          "id": "b1-04-w04",
+          "en": "download",
+          "it": "scaricare (da internet)",
+          "ipa": "ˌdaʊnˈləʊd",
+          "pos": "v",
+          "ex": [
+            "I downloaded the app, but it won't open.",
+            "Ho scaricato l'app, ma non si apre."
+          ],
+          "note": "Anche nome: a download. «Scaricare un camion» è unload."
+        },
+        {
+          "id": "b1-04-w05",
+          "en": "install",
+          "it": "installare",
+          "ipa": "ɪnˈstɔːl",
+          "pos": "v",
+          "ex": [
+            "The technician installed the new software yesterday.",
+            "Il tecnico ha installato il nuovo software ieri."
+          ],
+          "note": "Il nome ha due l: installation."
+        },
+        {
+          "id": "b1-04-w06",
+          "en": "update",
+          "it": "aggiornare / aggiornamento",
+          "ipa": "ʌpˈdeɪt",
+          "pos": "v",
+          "ex": [
+            "Please update the app before you log in.",
+            "Aggiorna l'app prima di accedere."
+          ],
+          "note": "Come nome si pronuncia ˈʌpdeɪt: an update."
+        },
+        {
+          "id": "b1-04-w07",
+          "en": "crash",
+          "it": "bloccarsi, andare in crash (programma)",
+          "ipa": "kræʃ",
+          "pos": "v",
+          "ex": [
+            "The program crashed and I lost my work.",
+            "Il programma è andato in crash e ho perso il lavoro."
+          ],
+          "note": "Crash: il programma si chiude all'improvviso; freeze: lo schermo resta fermo."
+        },
+        {
+          "id": "b1-04-w08",
+          "en": "freeze",
+          "it": "bloccarsi (schermo fermo)",
+          "ipa": "friːz",
+          "pos": "v",
+          "ex": [
+            "My laptop freezes whenever I open the camera.",
+            "Il portatile si blocca ogni volta che apro la fotocamera."
+          ],
+          "note": "Passato: froze; participio: frozen."
+        },
+        {
+          "id": "b1-04-w09",
+          "en": "log in",
+          "it": "accedere (a un account)",
+          "ipa": "lɒɡ ˈɪn",
+          "pos": "pv",
+          "ex": [
+            "I can't log in to my account.",
+            "Non riesco ad accedere al mio account."
+          ],
+          "note": "Il nome si scrive login; si dice log in to + sito."
+        },
+        {
+          "id": "b1-04-w10",
+          "en": "reset",
+          "it": "reimpostare, azzerare",
+          "ipa": "ˌriːˈset",
+          "pos": "v",
+          "ex": [
+            "You can reset your password by email.",
+            "Puoi reimpostare la password via email."
+          ],
+          "note": "Irregolare: reset - reset - reset."
+        },
+        {
+          "id": "b1-04-w11",
+          "en": "back up",
+          "it": "fare il backup di",
+          "ipa": "bæk ˈʌp",
+          "pos": "pv",
+          "ex": [
+            "Back up your photos before you update the phone.",
+            "Fai il backup delle foto prima di aggiornare il telefono."
+          ],
+          "note": "Il nome si scrive backup, in una parola."
+        },
+        {
+          "id": "b1-04-w12",
+          "en": "wireless",
+          "it": "senza fili, wireless",
+          "ipa": "ˈwaɪələs",
+          "pos": "adj",
+          "ex": [
+            "I prefer wireless headphones.",
+            "Preferisco le cuffie senza fili."
+          ]
+        },
+        {
+          "id": "b1-04-w13",
+          "en": "settings",
+          "it": "impostazioni",
+          "ipa": "ˈsetɪŋz",
+          "pos": "n",
+          "ex": [
+            "Go to settings and turn on Bluetooth.",
+            "Vai nelle impostazioni e attiva il Bluetooth."
+          ],
+          "note": "Quasi sempre al plurale: settings."
+        },
+        {
+          "id": "b1-04-w14",
+          "en": "glitch",
+          "it": "piccolo difetto, intoppo",
+          "ipa": "ɡlɪtʃ",
+          "pos": "n",
+          "ex": [
+            "It's just a temporary glitch; try again later.",
+            "È solo un intoppo temporaneo; riprova più tardi."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "download a file",
+              "scaricare un file"
+            ],
+            [
+              "install an app",
+              "installare un'app"
+            ],
+            [
+              "back up your photos",
+              "fare il backup delle foto"
+            ],
+            [
+              "reset the password",
+              "reimpostare la password"
+            ],
+            [
+              "log in to your account",
+              "accedere al proprio account"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "My laptop keeps ___ when I open more than three windows.",
+          "opts": [
+            "freezing",
+            "frozen",
+            "freezed"
+          ],
+          "a": 0,
+          "why": "Keep + -ing; freeze è irregolare: il participio è frozen, ma qui serve la forma in -ing."
+        },
+        {
+          "t": "gap",
+          "s": "I forgot my ___ at home, so my phone will be dead by lunchtime.",
+          "opts": [
+            "charger",
+            "charge",
+            "charging"
+          ],
+          "a": 0,
+          "why": "L'oggetto è il charger. «Charge» è la carica, charging l'azione."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Please ___ up your files before you update the system.",
+          "answers": [
+            "back"
+          ],
+          "why": "Back up = fare un backup."
+        },
+        {
+          "t": "wordform",
+          "s": "The ___ took only five minutes and it works perfectly now.",
+          "root": "INSTALL",
+          "answers": [
+            "installation"
+          ],
+          "why": "Serve un nome: install -> installation (due l)."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «It's just a glitch»?",
+          "opts": [
+            "È solo un piccolo problema temporaneo.",
+            "È un virus molto grave.",
+            "È un aggiornamento obbligatorio."
+          ],
+          "a": 0,
+          "why": "Glitch = intoppo, difetto passeggero."
+        }
+      ]
+    },
+    {
+      "id": "b1-04-reading",
+      "kind": "reading",
+      "title": "La casa intelligente",
+      "intro": "Un blog sulla domotica: vantaggi, problemi e dubbi di chi non è ancora convinto. Nel testo trovi molte forme di futuro e di possibilità.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "read",
+          "title": "Is a smart home really smarter?",
+          "genre": "blog",
+          "text": "Last week my brother installed a so-called smart home system in his flat. The lights, the heating and even the coffee machine are now controlled by an app. When I visited on Sunday, he was very proud. \"In ten years,\" he told me, \"every home will have one.\" I'm not so sure.\n\nI admit that the idea is attractive. You may be stuck in traffic, but your heating will already be warming up the living room, and by the time you arrive the lights will be on. My brother says he's going to save about thirty pounds a month on energy bills. Experts agree that homes like his might use up to a fifth less electricity.\n\nHowever, there are some problems. First of all, it all depends on your internet connection. On Sunday afternoon my brother's wifi dropped for ten minutes and suddenly nothing worked: the lights wouldn't turn on and the heating switched itself off. Then there is the question of privacy. A smart speaker is listening all the time, waiting to hear its name, and nobody can be completely sure where the recordings go. Finally, there is the cost. The system cost him nearly eight hundred pounds, and he will need to pay for updates every year.\n\nTechnology will probably keep changing our houses, but I think we should take it slowly. Next month I'm going to try a smart light bulb, which costs only ten pounds. If I like it, I may buy a few more. If not, I'll go back to the old switch, which has never crashed, never needed an update and never asked for my password. Perhaps in twenty years I'll be sitting in a house that answers my questions, and I'll wonder why I was so suspicious. But for now, I prefer to be in charge.",
+          "qs": [
+            {
+              "q": "What does the writer think about the idea that every home will be smart in ten years?",
+              "opts": [
+                "The writer isn't convinced.",
+                "The writer completely agrees.",
+                "The writer has no opinion."
+              ],
+              "a": 0,
+              "why": "«I'm not so sure.»"
+            },
+            {
+              "q": "What can the heating do while the owner is stuck in traffic?",
+              "opts": [
+                "Start warming the living room",
+                "Turn on the coffee machine",
+                "Switch off the lights"
+              ],
+              "a": 0,
+              "why": "«Your heating will already be warming up the living room»."
+            },
+            {
+              "q": "The writer's brother expects to save about ___ pounds a month.",
+              "answers": [
+                "30",
+                "thirty"
+              ]
+            },
+            {
+              "q": "What happened on Sunday afternoon?",
+              "opts": [
+                "The wifi stopped working for a while.",
+                "The heating broke for good.",
+                "The app was updated."
+              ],
+              "a": 0,
+              "why": "«My brother's wifi dropped for ten minutes and suddenly nothing worked»."
+            },
+            {
+              "q": "The writer is sure that the recordings of the smart speaker are safe.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "«Nobody can be completely sure where the recordings go»."
+            },
+            {
+              "q": "The system cost nearly ___ pounds.",
+              "answers": [
+                "800",
+                "eight hundred"
+              ]
+            },
+            {
+              "q": "What is the writer going to do next month?",
+              "opts": [
+                "Try a smart light bulb",
+                "Buy a smart speaker",
+                "Sell the old light switch"
+              ],
+              "a": 0,
+              "why": "«Next month I'm going to try a smart light bulb»."
+            },
+            {
+              "q": "The writer's brother has already bought a smart speaker.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 2,
+              "why": "Si parla di smart speaker in generale, non si dice che il fratello ne abbia uno."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «it all depends on your internet connection» significa:",
+          "opts": [
+            "tutto dipende dalla connessione a internet",
+            "tutto dipende dal tuo fornitore",
+            "tutto è dentro la connessione"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Nobody can be completely ___ where the data goes.",
+          "opts": [
+            "sure",
+            "safe",
+            "secure"
+          ],
+          "a": 0,
+          "why": "Be sure about / where = essere certi. Safe e secure descrivono la protezione, non la certezza."
+        },
+        {
+          "t": "type",
+          "q": "Completa come nel testo",
+          "s": "My brother says he's going to save about thirty pounds a month on energy ___ .",
+          "answers": [
+            "bills"
+          ],
+          "why": "Energy bills = le bollette."
+        }
+      ]
+    },
+    {
+      "id": "b1-04-listening",
+      "kind": "listening",
+      "title": "Come vivremo nel 2035?",
+      "intro": "Un'intervista a una ricercatrice che studia come la tecnologia cambierà la vita quotidiana. Ascolta le previsioni e distingui ciò che è certo da ciò che è solo possibile.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Tech Talk",
+          "it": "Ascolta l'intervista e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Tom",
+              "Welcome to Tech Talk. With me today is Dr Priya Patel, who studies how technology changes our daily lives. Priya, what will we be doing in ten years' time?"
+            ],
+            [
+              "Priya",
+              "Well, nobody knows for sure, but I think we'll be talking to our devices much more than typing. Most people won't carry a separate laptop and phone. They might use one small device for everything."
+            ],
+            [
+              "Tom",
+              "And what about cars? Will we still be driving them?"
+            ],
+            [
+              "Priya",
+              "In big cities, probably not. By 2035 many cars will be driving themselves, so people will be reading or answering emails during their journey. But in the countryside, drivers may still be the majority."
+            ],
+            [
+              "Tom",
+              "Some of our listeners are worried about their jobs."
+            ],
+            [
+              "Priya",
+              "That's fair. Some jobs will disappear, that's true. But new ones will appear. Ten years ago nobody was working as a social media manager, and now thousands of people are. I'm not saying it will be easy, though. Workers will need to keep learning new skills."
+            ],
+            [
+              "Tom",
+              "What's your own plan? Are you going to buy any of this new technology?"
+            ],
+            [
+              "Priya",
+              "Funny you ask! I'm going to try a smart watch next month, but I might not wear it for long. I'm not a big fan of being told to stand up every hour!"
+            ],
+            [
+              "Tom",
+              "Thank you, Priya."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What does Priya think people will do more in ten years?",
+              "opts": [
+                "Talk to their devices",
+                "Type on keyboards",
+                "Use more screens at once"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Many people might use one small ___ for everything.",
+              "answers": [
+                "device"
+              ]
+            },
+            {
+              "q": "By 2035, what will many people do during car journeys?",
+              "opts": [
+                "Read or answer emails",
+                "Sleep",
+                "Drive faster"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Where might people still drive their own cars?",
+              "opts": [
+                "In the countryside",
+                "In big cities",
+                "On motorways"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does Priya say about jobs?",
+              "opts": [
+                "Some will disappear but new ones will appear.",
+                "Nobody will lose a job.",
+                "All jobs will disappear."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What is Priya going to do next month?",
+              "opts": [
+                "Try a smart watch",
+                "Buy a new car",
+                "Change her job"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Priya is sure she will wear the smart watch for a long time.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "This time next year I'll be working in a different city.",
+          "it": "Quest'anno prossimo a quest'ora lavorerò in un'altra città."
+        },
+        {
+          "t": "dictation",
+          "en": "I might not wear it for very long.",
+          "it": "Forse non lo indosserò per molto."
+        },
+        {
+          "t": "speak",
+          "en": "I'm going to try a new app next month, but I might not use it for long.",
+          "it": "Il mese prossimo proverò una nuova app, ma forse non la userò a lungo."
+        }
+      ]
+    },
+    {
+      "id": "b1-04-situation",
+      "kind": "situation",
+      "title": "All'assistenza tecnica",
+      "intro": "Il portatile si blocca e chiami l'assistenza: come descrivere il problema, dire cosa hai già provato e chiedere istruzioni senza perdere la pazienza.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Spiegare il problema",
+          "body": "- **I'm calling about** my laptop. / **I'm having a problem with** the wifi.\n- **It keeps freezing / crashing** (continua a bloccarsi).\n- **It started happening after the update.**\n- **I've already tried** restarting it / resetting the router.\n- **Nothing has changed.** / **It still doesn't work.**\n- **My reference number is...** (il numero della pratica)\n\nL'assistenza ti risponderà con: **Could you tell me what error message you're getting?** o **Can I take your name and number, please?**",
+          "ex": [
+            [
+              "It keeps freezing every time I open the program.",
+              "Si blocca ogni volta che apro il programma."
+            ],
+            [
+              "I've already tried restarting it, but nothing has changed.",
+              "Ho già provato a riavviarlo, ma non è cambiato niente."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Farsi guidare, con cortesia",
+          "body": "- **Could you walk me through it, step by step?** = Può guidarmi passo dopo passo?\n- **Sorry, could you repeat that?** / **Could you spell that for me?**\n- **Hold on a moment, I'll just write that down.**\n- **I'll be waiting by the computer.**\n- **If that doesn't work, what should I do?**\n\nTroppo diretto: «Tell me how to fix it.» Meglio: **Could you tell me how to fix it?** Per ringraziare: **Thank you for your help, that's really useful.**",
+          "ex": [
+            [
+              "Could you walk me through it, step by step?",
+              "Può guidarmi passo dopo passo?"
+            ],
+            [
+              "I'll be waiting by the computer.",
+              "Aspetterò davanti al computer."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Una telefonata all'assistenza",
+          "it": "Scegli la battuta più naturale e cortese (Tu).",
+          "lines": [
+            [
+              "Agent",
+              "Good morning, Tech Support, Dan speaking. How can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good morning. I'm calling about my laptop. It keeps freezing every time I open the program.",
+                  "Good morning. My laptop is freezing from yesterday and nobody help me.",
+                  "Good morning. Your program is bad, I want a solution now."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "I'm sorry to hear that. Has it started happening recently?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, it started after the last update. I've already tried restarting it.",
+                  "Yes, it started after the update. I already restart it.",
+                  "Yes, it starts after the update. I'm restarting it two times."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "All right. I'll walk you through some steps. First, could you open the settings menu?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, it's open. What should I do next?",
+                  "Yes, it is open. What I do after?",
+                  "Yes, I am opening it since two minutes."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Con «since» o «for» il present simple non va bene: per un'azione iniziata nel passato che continua serve il present perfect o il present perfect continuous."
+        },
+        {
+          "t": "dialog",
+          "title": "Se il problema continua",
+          "lines": [
+            [
+              "Agent",
+              "Did that fix the problem?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I'm afraid it didn't. It's frozen again.",
+                  "No, it doesn't. It is frozen another time.",
+                  "Not at all. You told me bad things."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "I see. I might need to book an engineer visit. Will you be at home tomorrow morning?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, I'll be working from home all day.",
+                  "Yes, I work from home all the day.",
+                  "Yes, I'll working from home all day."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "Great. The engineer will call you before he arrives. Is there anything else I can help you with?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "No, that's everything. Thank you for your help.",
+                  "No, it is all. Thank you for your patience to me.",
+                  "No, thanks. Bye bye, good work."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "«I'll be working» è il future continuous: azione in corso in un momento del futuro."
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "It keeps crashing.",
+              "Continua ad andare in crash."
+            ],
+            [
+              "I've already tried restarting it.",
+              "Ho già provato a riavviarlo."
+            ],
+            [
+              "Could you walk me through it?",
+              "Può guidarmi passo dopo passo?"
+            ],
+            [
+              "What's your reference number?",
+              "Qual è il suo numero di pratica?"
+            ],
+            [
+              "Could you spell that, please?",
+              "Può farmelo sillabare, per favore?"
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Ho già provato a riavviare il router, ma non è cambiato niente.",
+          "en": "I have already tried restarting the router but nothing has changed",
+          "extra": [
+            "did",
+            "changing"
+          ],
+          "alts": [
+            "I have tried restarting the router already but nothing has changed"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "Hello, I'm calling about a problem with my laptop.",
+          "it": "Buongiorno, chiamo per un problema con il mio portatile."
+        },
+        {
+          "t": "speak",
+          "en": "It keeps freezing every time I open the program.",
+          "it": "Si blocca ogni volta che apro il programma."
+        },
+        {
+          "t": "speak",
+          "en": "Could you walk me through it step by step, please?",
+          "it": "Può guidarmi passo dopo passo, per favore?"
+        },
+        {
+          "t": "speakTask",
+          "q": "Your phone's battery is dying after two hours. Phone the helpline and explain the problem.",
+          "it": "Telefona all'assistenza: descrivi il problema, dì quando è iniziato e cosa hai già provato, poi chiedi come risolverlo (almeno 5 frasi cortesi).",
+          "hints": [
+            "Hello, I'm calling about...",
+            "It started...",
+            "I've already tried...",
+            "Could you tell me what I should do?",
+            "I'll be waiting..."
+          ],
+          "min": 40,
+          "model": "Hello, I'm calling about my phone. The battery is dying after only two hours, and it started after the last update. I've already tried restarting it and turning off the wifi, but nothing has changed. Could you tell me what I should do? I'll be waiting by the computer if you need me to check something. Thank you for your help."
+        }
+      ]
+    },
+    {
+      "id": "b1-04-production",
+      "kind": "production",
+      "title": "Un'email per chiedere supporto",
+      "intro": "Scriverai un'email di tono formale al servizio clienti per un prodotto che non funziona. Prima esercizi su aperture, chiusure e frasi cortesi.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come è fatta un'email di reclamo o di richiesta",
+          "body": "- **Apertura**: Dear Sir or Madam, (non sai il nome) / Dear Mr Evans, (lo sai)\n- **Motivo**: I'm writing about... / I'm writing to ask for help with...\n- **Il problema**: Unfortunately, ... / It keeps freezing...\n- **Cosa hai già provato**: I have already restarted it...\n- **La richiesta**: Could you tell me...? / I was wondering if you could...\n- **Disponibilità**: I'll be at home after six.\n- **Chiusura**: I look forward to hearing from you. + **Yours faithfully,** (Dear Sir or Madam) / **Yours sincerely,** (Dear Mr Evans)\n\nIl tono è formale: niente contrazioni troppo colloquiali, niente «Hi». Ricorda: **I look forward to hearing** (con -ing).",
+          "ex": [
+            [
+              "I'm writing about the tablet I bought last week.",
+              "Scrivo riguardo al tablet che ho comprato la settimana scorsa."
+            ],
+            [
+              "I was wondering if you could help me.",
+              "Mi chiedevo se potesse aiutarmi."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I'm writing ___ the laptop I bought from your website last week.",
+          "opts": [
+            "about",
+            "for",
+            "on"
+          ],
+          "a": 0,
+          "why": "I'm writing about + argomento."
+        },
+        {
+          "t": "fix",
+          "s": "I look forward to hear from you.",
+          "answers": [
+            "I look forward to hearing from you"
+          ],
+          "why": "In look forward to, to è una preposizione: serve -ing."
+        },
+        {
+          "t": "transform",
+          "s1": "Could you please tell me how to reset the password?",
+          "key": "WONDERING",
+          "s2": "I ___ you could tell me how to reset the password.",
+          "answers": [
+            "was wondering if",
+            "am wondering if",
+            "was wondering whether",
+            "am wondering whether"
+          ],
+          "why": "I was wondering if... è una forma molto cortese per chiedere."
+        },
+        {
+          "t": "type",
+          "q": "Completa con UNA parola",
+          "s": "Dear Sir or Madam, ... Yours ___ ,",
+          "answers": [
+            "faithfully"
+          ],
+          "why": "Dear Sir or Madam finisce con Yours faithfully; con il nome (Dear Mr Evans) si usa Yours sincerely."
+        },
+        {
+          "t": "write",
+          "q": "You bought a new tablet from an online shop two weeks ago. It has a problem. Write an email to the customer service. Explain what the problem is, say what you have already tried, ask for help, and say when you will be available.",
+          "it": "Scrivi un'email formale al servizio clienti: spiega il problema del tablet, cosa hai già provato, chiedi aiuto e dì quando sarai raggiungibile.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho aperto con Dear Sir or Madam e chiuso con Yours faithfully",
+            "Ho spiegato il problema con it keeps + -ing o simile",
+            "Ho detto che cosa ho già provato",
+            "Ho chiesto aiuto in modo cortese (Could you..., I was wondering if...)",
+            "Ho usato almeno una forma di futuro (will be, going to) e I look forward to hearing"
+          ],
+          "useful": [
+            "Dear Sir or Madam,",
+            "I'm writing about...",
+            "Unfortunately, it keeps...",
+            "I have already tried...",
+            "Could you tell me...?",
+            "I'll be at home...",
+            "I look forward to hearing from you.",
+            "Yours faithfully,"
+          ],
+          "model": "Dear Sir or Madam,\n\nI bought a tablet from your website two weeks ago. Unfortunately, it keeps freezing when I open the camera app, and sometimes the battery runs out in only two hours.\n\nI have already restarted it and installed the latest update, but nothing has changed. I might have to return it, but first I would like to know if you can help me.\n\nCould you tell me what I should do next? I will be at home every weekday after six, so you can phone me then. I'm also going to send you a short video of the problem.\n\nI look forward to hearing from you.\n\nYours faithfully,\nGiulia Rossi"
+        },
+        {
+          "t": "speakTask",
+          "q": "Describe a technology problem you had recently and how you solved it.",
+          "it": "Racconta un problema tecnologico che hai avuto di recente e come l'hai risolto (almeno 4 frasi).",
+          "hints": [
+            "Last week my... stopped working.",
+            "I tried to...",
+            "In the end...",
+            "Next time I'm going to..."
+          ],
+          "min": 40,
+          "model": "Last week my phone froze and I couldn't turn it off. I tried to restart it, but nothing happened. In the end I held the button for ten seconds and it restarted. I was lucky because I had backed up my photos. Next time I'm going to update the system more carefully."
+        },
+        {
+          "t": "speakTask",
+          "q": "Do you think you'll be using more or less technology in five years' time? Why?",
+          "it": "Pensi che tra cinque anni userai più o meno tecnologia? Perché? Usa will, going to, might (almeno 4 frasi).",
+          "hints": [
+            "In five years' time I'll be...",
+            "I think I'll...",
+            "I might...",
+            "Perhaps..."
+          ],
+          "min": 40,
+          "model": "In five years' time I think I'll be using more technology, especially at work. I'll probably be working from home two days a week, so I'll need good software. But I might also spend less time on my phone, because I'm getting tired of social media. Perhaps I'll buy a smart watch, but I'm not sure yet."
+        }
+      ]
+    },
+    {
+      "id": "b1-04-test",
+      "kind": "test",
+      "title": "Test dell'unità 4",
+      "intro": "Verifica senza aiuti: forme del futuro, possibilità e lessico della tecnologia. Le correzioni le vedi alla fine.",
+      "minutes": 20,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "Look at that sky! I think it ___ snow tonight.",
+          "opts": [
+            "is going to",
+            "goes to",
+            "is going"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "A: I can't open this file. B: Give it to me, I ___ it for you.",
+          "opts": [
+            "'ll try",
+            "am try",
+            "try"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "We ___ the new software on Monday; the IT team has already arranged it.",
+          "opts": [
+            "are installing",
+            "install",
+            "will installing"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "This time on Friday I ___ on a plane to Dublin.",
+          "opts": [
+            "will be sitting",
+            "am sit",
+            "sit"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "I'll send you the link as soon as I ___ home.",
+          "opts": [
+            "get",
+            "will get",
+            "am getting"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "I'm not sure yet. I ___ go to the conference.",
+          "opts": [
+            "might",
+            "will to",
+            "am might"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "The battery ___ last longer if you turn off the wifi.",
+          "opts": [
+            "may",
+            "mays",
+            "may to"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "If the app ___ again, call the helpdesk.",
+          "opts": [
+            "crashes",
+            "will crash",
+            "would crash"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I might not be at home tomorrow.",
+            "I mightn't to be at home tomorrow.",
+            "I don't might be at home tomorrow."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "When I get the new phone, I'll transfer my photos.",
+            "When I will get the new phone, I'll transfer my photos.",
+            "When I get the new phone, I transfer my photos."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Future continuous: scrivi la forma giusta",
+          "s": "This time tomorrow I ___ (fly) to Madrid.",
+          "answers": [
+            "will be flying",
+            "'ll be flying"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta",
+          "s": "We'll go for a walk as soon as it ___ (stop) raining.",
+          "answers": [
+            "stops"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta (negativa)",
+          "s": "Don't worry, I ___ (not / tell) anyone.",
+          "answers": [
+            "won't tell",
+            "will not tell"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Forse domani pioverà.",
+          "answers": [
+            "It might rain tomorrow",
+            "It may rain tomorrow",
+            "It could rain tomorrow",
+            "Maybe it will rain tomorrow",
+            "Maybe it'll rain tomorrow",
+            "Perhaps it will rain tomorrow",
+            "Perhaps it'll rain tomorrow"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "When I will arrive, I'll send you a message.",
+          "answers": [
+            "When I arrive, I'll send you a message",
+            "When I arrive I will send you a message"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "She might to be late for the meeting.",
+          "answers": [
+            "She might be late for the meeting"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "Don't worry, I help you with the printer.",
+          "answers": [
+            "Don't worry, I'll help you with the printer",
+            "Don't worry, I will help you with the printer"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "Perhaps she will call me this evening.",
+          "key": "MIGHT",
+          "s2": "She ___ me this evening.",
+          "answers": [
+            "might call"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "At six tomorrow I will start my English lesson, so please don't phone.",
+          "key": "HAVING",
+          "s2": "At six tomorrow I ___ my English lesson, so please don't phone.",
+          "answers": [
+            "will be having",
+            "'ll be having"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "My laptop keeps ___ when I open the video.",
+          "opts": [
+            "freezing",
+            "frozen",
+            "freezed"
+          ],
+          "a": 0
+        },
+        {
+          "t": "wordform",
+          "s": "The ___ of the program was quick and simple.",
+          "root": "INSTALL",
+          "answers": [
+            "installation"
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Chiamerò l'assistenza non appena torno a casa.",
+          "en": "I will call the helpdesk as soon as I get home",
+          "extra": [
+            "will get",
+            "getting"
+          ],
+          "alts": [
+            "As soon as I get home I will call the helpdesk"
+          ]
+        },
+        {
+          "t": "cloze",
+          "title": "Completa l'email",
+          "mode": "mc",
+          "text": "Hi Marta,\n\nThanks for your message. Next week I {1} to Prague for work, so I {2} be able to answer emails quickly. I {3} on a train at nine on Monday, so please don't call. If the wifi {4} on the train, I'll write to you. I {5} stay an extra day, but I'm not sure yet.\n\nSpeak soon,\nPaolo",
+          "gaps": [
+            {
+              "opts": [
+                "am going",
+                "have gone",
+                "will going"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "may not",
+                "may to not",
+                "not may"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "will be sitting",
+                "am sit",
+                "sit"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "works",
+                "will work",
+                "would work"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "might",
+                "would to",
+                "am might"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A voicemail from the help desk",
+          "it": "Ascolta il messaggio in segreteria.",
+          "lines": [
+            [
+              "Dan",
+              "Hello Mrs Rossi, this is Dan from the help desk. I'm calling about your laptop. We'll be installing a new update tonight, so the system may be slow tomorrow morning. If you have any problems, my colleague Sue will be working from eight and she'll help you. I'm going to send you an email with the steps. Thanks."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What will happen tonight?",
+              "opts": [
+                "An update will be installed.",
+                "The laptop will be replaced.",
+                "The wifi will be turned off."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What may happen tomorrow morning?",
+              "opts": [
+                "The system may be slow.",
+                "The laptop may crash.",
+                "The office may be closed."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What is Dan going to send?",
+              "opts": [
+                "An email with the steps",
+                "A new charger",
+                "A technician"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "All'assistenza",
+          "lines": [
+            [
+              "Agent",
+              "Tech Support, how can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello, I'm calling about my phone. It keeps crashing when I open the camera.",
+                  "Hello, my phone is crashing from two days and I am angry.",
+                  "Hello, your phone is bad, I want my money back."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "Have you tried restarting it?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, I've already tried that, but nothing has changed.",
+                  "Yes, I already try that, but nothing change.",
+                  "Yes, I am trying that since morning."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

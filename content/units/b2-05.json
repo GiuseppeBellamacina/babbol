@@ -1,0 +1,1496 @@
+{
+ "id": "b2-05",
+ "level": "B2",
+ "position": 5,
+ "title": "Ambizioni e scadenze",
+ "sub": "Future perfect e continuous, was going to, be due to - negoziare i tempi",
+ "grammar": "Future continuous e perfect, futuro nel passato, be about to / be due to",
+ "topic": "Ambizioni, lavoro e vita privata",
+ "situation": "Negoziare scadenze e priorità",
+ "lessons": [
+  {
+   "id": "b2-05-grammar",
+   "kind": "grammar",
+   "title": "Futuro avanzato e futuro nel passato",
+   "intro": "Al B2 il futuro non è solo will e going to. Con il future continuous, il future perfect, was going to e be about to / be due to puoi dire che cosa starà succedendo, che cosa sarà finito e che cosa si pensava di fare. Sono le strutture di ogni piano di lavoro e di ogni scadenza.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Future continuous e future perfect",
+     "body": "- **Future continuous** (will be + -ing): un'azione **in corso** in un momento futuro: This time tomorrow I **will be flying** to Berlin. Serve anche per un evento già programmato, in modo neutro: I'll be seeing the client on Monday.\n- **Future perfect** (will have + participio passato): un'azione **già conclusa prima** di un momento futuro: By Friday we **will have finished** the first phase.\n- **Future perfect continuous** (will have been + -ing): sottolinea la **durata** fino a quel momento: In June I **will have been working** here for ten years.\n\nSpesso compaiono **by** (entro), **by the time**, **this time next week**, **in two years' time**. Dopo by the time / when / before / as soon as si usa il **present**, non il futuro: By the time you arrive, we will have left.\n\nAttenzione: **by** (entro, non dopo) è diverso da **until** (fino a, per tutta la durata): I'll be here **until** six. / I'll have finished **by** six.",
+     "ex": [
+      [
+       "By the end of the year, she will have saved enough for a deposit.",
+       "Entro la fine dell'anno avrà risparmiato abbastanza per un anticipo."
+      ],
+      [
+       "Don't call me at nine: I'll be putting the kids to bed.",
+       "Non chiamarmi alle nove: starò mettendo a letto i bambini."
+      ],
+      [
+       "In May I'll have been living in Leeds for five years.",
+       "A maggio saranno cinque anni che vivo a Leeds."
+      ]
+     ],
+     "table": [
+      [
+       "Forma",
+       "Struttura",
+       "Esempio"
+      ],
+      [
+       "future continuous",
+       "will be + -ing",
+       "I'll be working."
+      ],
+      [
+       "future perfect",
+       "will have + pp",
+       "I'll have finished."
+      ],
+      [
+       "future perfect cont.",
+       "will have been + -ing",
+       "I'll have been working for an hour."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Errori tipici degli italiani sul futuro",
+     "body": "- Dopo **by the time, when, as soon as, before, until** non si usa will: «By the time you will arrive» è sbagliato -> By the time you **arrive**.\n- **Since / for**: con la durata (future perfect continuous) si usa **for**: «for two hours», non «since two hours».\n- I verbi di stato (know, believe, want) non vanno al continuous nemmeno al futuro: «I'll have been knowing» è sbagliato.\n- Il **future perfect** non è il condizionale: «By then I would have finished» è ipotetico; **will have finished** è una previsione.\n- Per un programma già deciso si può usare il **present continuous**: We're meeting on Thursday. Il future continuous è più neutro e cortese: I'll be seeing him on Thursday.",
+     "ex": [
+      [
+       "I'll call you as soon as I get there.",
+       "Ti chiamo appena arrivo."
+      ],
+      [
+       "We will have been waiting for two hours by then.",
+       "Per quell'ora staremo aspettando da due ore."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Il futuro nel passato",
+     "body": "Il **futuro nel passato** serve a dire che cosa si pensava o si prevedeva da un punto di vista passato:\n- **was / were going to** + base: un'intenzione, spesso **non realizzata**: I was going to call you, but I forgot.\n- **would** + base: un futuro visto dal passato (narrazioni, discorso indiretto): He knew that he would never see her again.\n- **was / were about to** + base: **stava per** fare qualcosa: I was about to leave when the phone rang.\n- **was / were to** + base: formale, per un destino o un piano: She was to become the first woman to lead the firm.\n- **was / were to have** + pp: un piano non realizzato (formale): The meeting was to have taken place on Monday.\n- **was / were due to** + base: era **previsto**: The train was due to leave at 9.15.\n\nErrore tipico: usare «would» per un'intenzione non realizzata («I would call you, but I forgot»). In quel caso serve **was going to**.",
+     "ex": [
+      [
+       "We were going to move to Lisbon, but the job fell through.",
+       "Avevamo intenzione di trasferirci a Lisbona, ma il lavoro è saltato."
+      ],
+      [
+       "I was just about to switch off the laptop when you called.",
+       "Stavo giusto per spegnere il portatile quando hai chiamato."
+      ],
+      [
+       "She said she would send the figures by noon.",
+       "Ha detto che avrebbe mandato le cifre entro mezzogiorno."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Be about to, be due to e altre espressioni",
+     "body": "Per parlare di piani e probabilità senza will:\n- **be about to** + base: **sta per** accadere, immediato: Hurry up, the film is about to start.\n- **be due to** + base: previsto secondo un orario o un programma: The report is due to be published on Friday. (**due** da solo = in scadenza: The essay is due on Monday.)\n- **be set to / be scheduled to**: previsto, più formale: The CEO is set to announce the merger.\n- **be likely to / be bound to**: probabilità: She is bound to be late. (di certo)\n- **be on the point of** + -ing: formale, simile a about to: She was on the point of resigning.\n\nAttenzione a **due to** (a causa di) + nome: The flight was delayed **due to** fog. Non confondere «is due to arrive» (previsto) con «due to the fog» (a causa di).\n\nErrore tipico: «The conference is due start at nine»: manca **to**.",
+     "ex": [
+      [
+       "The new policy is due to come into effect in April.",
+       "La nuova politica dovrebbe entrare in vigore ad aprile."
+      ],
+      [
+       "Prices are bound to rise next year.",
+       "I prezzi sono destinati ad aumentare l'anno prossimo."
+      ],
+      [
+       "The flight was delayed due to heavy fog.",
+       "Il volo è stato ritardato a causa della nebbia fitta."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "This time next week I ___ on a beach in Crete, with no emails to answer.",
+     "opts": [
+      "will be lying",
+      "will have lain",
+      "would be lying"
+     ],
+     "a": 0,
+     "it": "Tra una settimana a quest'ora sarò sdraiato su una spiaggia a Creta.",
+     "why": "Azione in corso in un momento futuro (this time next week): future continuous."
+    },
+    {
+     "t": "gap",
+     "s": "Ana ___ here for ten years by next March.",
+     "opts": [
+      "will have been",
+      "will be",
+      "has been"
+     ],
+     "a": 0,
+     "it": "Entro marzo Ana sarà qui da dieci anni.",
+     "why": "By + momento futuro con una durata (for ten years): future perfect."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ to call you yesterday, but my phone died.",
+     "opts": [
+      "was going",
+      "have been going",
+      "would"
+     ],
+     "a": 0,
+     "why": "Intenzione passata non realizzata: was going to. Would non esprime un'intenzione non realizzata."
+    },
+    {
+     "t": "gap",
+     "s": "The 9.15 train ___ to leave ten minutes ago, but it is still at the platform.",
+     "opts": [
+      "was due",
+      "is due",
+      "has been due"
+     ],
+     "a": 0,
+     "why": "Ten minutes ago è un momento passato: was due to."
+    },
+    {
+     "t": "gap",
+     "s": "Please don't phone me at nine: I ___ the children to bed.",
+     "opts": [
+      "will be putting",
+      "will have put",
+      "would be putting"
+     ],
+     "a": 0,
+     "why": "Azione in corso in un momento futuro: future continuous. Il future perfect indicherebbe un'azione già conclusa."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase indica un'azione che sarà **conclusa** prima di una scadenza?",
+     "opts": [
+      "By Friday I'll have sent the final report.",
+      "By Friday I'll be sending the final report.",
+      "By Friday I'm going to be send the final report."
+     ],
+     "a": 0,
+     "why": "Will have + participio passato: azione conclusa entro un momento futuro."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase esprime un'intenzione passata che **non si è realizzata**?",
+     "opts": [
+      "We were going to move to Lisbon, but the job fell through.",
+      "We will have moved to Lisbon, but the job fell through.",
+      "We are moving to Lisbon, but the job fell through."
+     ],
+     "a": 0,
+     "why": "Was/were going to indica un piano non realizzato; gli altri tempi non sono coerenti con «fell through»."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "I was ___ to switch off my laptop when the call came through.",
+     "answers": [
+      "about",
+      "going"
+     ],
+     "why": "Was about to = stavo per; anche was going to è corretto in questa frase."
+    },
+    {
+     "t": "type",
+     "q": "Completa con 2 parole",
+     "s": "By the time you read this, I ___ already boarded the plane.",
+     "answers": [
+      "will have",
+      "shall have",
+      "'ll have"
+     ],
+     "why": "Azione conclusa prima di un momento futuro: future perfect."
+    },
+    {
+     "t": "type",
+     "q": "Completa con 2 parole",
+     "s": "This time next year we ___ living in Dublin.",
+     "answers": [
+      "will be",
+      "shall be",
+      "'ll be"
+     ],
+     "why": "Situazione in corso in un momento futuro: future continuous."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "By the time you will arrive, we will have finished the meeting.",
+     "answers": [
+      "By the time you arrive, we will have finished the meeting",
+      "By the time you arrive, we'll have finished the meeting"
+     ],
+     "why": "Dopo by the time si usa il present simple, non will."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The conference is due start at nine.",
+     "answers": [
+      "The conference is due to start at nine"
+     ],
+     "why": "Be due + to + verbo base."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I will have been waiting since two hours when he finally arrives.",
+     "answers": [
+      "I will have been waiting for two hours when he finally arrives",
+      "I'll have been waiting for two hours when he finally arrives"
+     ],
+     "why": "Una durata richiede for, non since."
+    },
+    {
+     "t": "transform",
+     "s1": "She will finish the report before five o'clock.",
+     "key": "HAVE",
+     "s2": "By five o'clock she ___ the report.",
+     "answers": [
+      "will have finished",
+      "will have completed",
+      "will have done"
+     ],
+     "why": "Azione conclusa entro un momento futuro: will have + pp."
+    },
+    {
+     "t": "transform",
+     "s1": "I intended to call the client, but I forgot.",
+     "key": "GOING",
+     "s2": "I ___ call the client, but I forgot.",
+     "answers": [
+      "was going to"
+     ],
+     "why": "Intenzione passata non realizzata: was going to."
+    },
+    {
+     "t": "transform",
+     "s1": "The shipment is expected to arrive on Thursday.",
+     "key": "DUE",
+     "s2": "The shipment ___ on Thursday.",
+     "answers": [
+      "is due to arrive",
+      "is due to get here"
+     ],
+     "why": "Be due to = è previsto che."
+    },
+    {
+     "t": "transform",
+     "s1": "I was on the point of leaving when you called.",
+     "key": "ABOUT",
+     "s2": "I ___ leave when you called.",
+     "answers": [
+      "was about to",
+      "was just about to"
+     ],
+     "why": "Was about to = stavo per."
+    },
+    {
+     "t": "order",
+     "it": "Eravamo sul punto di partire quando ha squillato il telefono.",
+     "en": "We were about to leave when the phone rang",
+     "extra": [
+      "was",
+      "rung"
+     ],
+     "why": "Was/were about to + base."
+    }
+   ]
+  },
+  {
+   "id": "b2-05-vocab",
+   "kind": "vocab",
+   "title": "Ambizioni, lavoro e carichi di lavoro",
+   "intro": "Il lessico per parlare di carriera, scadenze e tempo: lo userai per chiedere una proroga, spiegare un ritardo o parlare dei tuoi progetti.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "b2-05-w01",
+     "en": "aspire to",
+     "it": "aspirare a",
+     "ipa": "əˈspaɪə tuː",
+     "pos": "pv",
+     "ex": [
+      "She aspires to run her own studio one day.",
+      "Aspira a dirigere un giorno uno studio tutto suo."
+     ],
+     "note": "Dopo to di solito segue un nome o un verbo: aspire to a career / aspire to become. Nome: aspiration."
+    },
+    {
+     "id": "b2-05-w02",
+     "en": "sabbatical",
+     "it": "periodo sabbatico",
+     "ipa": "səˈbætɪkl",
+     "pos": "n",
+     "ex": [
+      "He took a six-month sabbatical to write a book.",
+      "Si è preso un periodo sabbatico di sei mesi per scrivere un libro."
+     ],
+     "note": "Collocazione: take / be on a sabbatical."
+    },
+    {
+     "id": "b2-05-w03",
+     "en": "overrun",
+     "it": "sforare (tempi o budget)",
+     "ipa": "ˌəʊvəˈrʌn",
+     "pos": "v",
+     "ex": [
+      "The project overran by three weeks and cost twice as much.",
+      "Il progetto ha sforato di tre settimane e ha costato il doppio."
+     ],
+     "note": "Passato: overran; participio: overrun."
+    },
+    {
+     "id": "b2-05-w04",
+     "en": "juggle",
+     "it": "destreggiarsi, fare i giocolieri tra",
+     "ipa": "ˈdʒʌɡl",
+     "pos": "v",
+     "ex": [
+      "She juggles two jobs and an evening course.",
+      "Si destreggia tra due lavori e un corso serale."
+     ]
+    },
+    {
+     "id": "b2-05-w05",
+     "en": "milestone",
+     "it": "traguardo, tappa importante",
+     "ipa": "ˈmaɪlstəʊn",
+     "pos": "n",
+     "ex": [
+      "Winning the first big client was a milestone for the start-up.",
+      "Conquistare il primo grande cliente è stata una tappa fondamentale per la start-up."
+     ]
+    },
+    {
+     "id": "b2-05-w06",
+     "en": "bottleneck",
+     "it": "collo di bottiglia",
+     "ipa": "ˈbɒtlnek",
+     "pos": "n",
+     "ex": [
+      "The approval process is the real bottleneck.",
+      "Il processo di approvazione è il vero collo di bottiglia."
+     ]
+    },
+    {
+     "id": "b2-05-w07",
+     "en": "fall behind schedule",
+     "it": "andare in ritardo sul programma",
+     "ipa": "fɔːl bɪˈhaɪnd ˈʃedjuːl",
+     "pos": "phr",
+     "ex": [
+      "The project has fallen behind schedule because of the supplier.",
+      "Il progetto è in ritardo sul programma a causa del fornitore."
+     ],
+     "note": "Contrario: be ahead of schedule."
+    },
+    {
+     "id": "b2-05-w08",
+     "en": "burnout",
+     "it": "esaurimento da stress lavorativo",
+     "ipa": "ˈbɜːnaʊt",
+     "pos": "n",
+     "ex": [
+      "Constant overwork can lead to burnout.",
+      "Il troppo lavoro continuo può portare al burnout."
+     ],
+     "note": "Non numerabile."
+    },
+    {
+     "id": "b2-05-w09",
+     "en": "step down",
+     "it": "dimettersi (da un incarico)",
+     "ipa": "step daʊn",
+     "pos": "pv",
+     "ex": [
+      "She will step down as chair in June.",
+      "A giugno lascerà la presidenza."
+     ],
+     "note": "Non vuol dire «scendere di grado» ma lasciare un ruolo volontariamente."
+    },
+    {
+     "id": "b2-05-w10",
+     "en": "hand over",
+     "it": "passare (un incarico), consegnare",
+     "ipa": "hænd ˈəʊvə",
+     "pos": "pv",
+     "ex": [
+      "I will hand over the project to Sam before I go on leave.",
+      "Passerò il progetto a Sam prima di andare in congedo."
+     ]
+    },
+    {
+     "id": "b2-05-w11",
+     "en": "push back",
+     "it": "rinviare, spostare in avanti",
+     "ipa": "pʊʃ bæk",
+     "pos": "pv",
+     "ex": [
+      "We have had to push the launch back to March.",
+      "Abbiamo dovuto spostare il lancio a marzo."
+     ],
+     "note": "Anche push back against = opporsi a."
+    },
+    {
+     "id": "b2-05-w12",
+     "en": "get round to",
+     "it": "trovare il tempo di",
+     "ipa": "ɡet raʊnd tuː",
+     "pos": "pv",
+     "ex": [
+      "I never get round to answering emails on Fridays.",
+      "Il venerdì non trovo mai il tempo di rispondere alle email."
+     ],
+     "note": "Dopo to si usa il verbo in -ing."
+    },
+    {
+     "id": "b2-05-w13",
+     "en": "extension",
+     "it": "proroga, estensione",
+     "ipa": "ɪkˈstenʃn",
+     "pos": "n",
+     "ex": [
+      "Could we ask the client for an extension?",
+      "Possiamo chiedere una proroga al cliente?"
+     ],
+     "note": "Collocazione: ask for / grant an extension."
+    },
+    {
+     "id": "b2-05-w14",
+     "en": "prioritise",
+     "it": "dare la priorità a, stabilire le priorità",
+     "ipa": "praɪˈɒrɪtaɪz",
+     "pos": "v",
+     "ex": [
+      "You need to prioritise your tasks, or nothing will get done.",
+      "Devi stabilire le priorità, altrimenti non si fa niente."
+     ],
+     "note": "Anche prioritize (-ize)."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "ask for an extension",
+       "chiedere una proroga"
+      ],
+      [
+       "push back a deadline",
+       "spostare in avanti una scadenza"
+      ],
+      [
+       "fall behind schedule",
+       "andare in ritardo sul programma"
+      ],
+      [
+       "hand over a project",
+       "passare un progetto a qualcuno"
+      ],
+      [
+       "step down as manager",
+       "lasciare il ruolo di manager"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "After ten years in the same job she decided to take a ___ and travel.",
+     "opts": [
+      "sabbatical",
+      "holiday leave",
+      "vacation year"
+     ],
+     "a": 0,
+     "why": "Take a sabbatical = prendersi un periodo sabbatico (collocazione)."
+    },
+    {
+     "t": "gap",
+     "s": "The slow approval process has become a real ___ for the whole project.",
+     "opts": [
+      "bottleneck",
+      "milestone",
+      "workload"
+     ],
+     "a": 0,
+     "why": "Bottleneck = punto in cui tutto si blocca."
+    },
+    {
+     "t": "gap",
+     "s": "Before her sabbatical she will ___ over all her projects to a colleague.",
+     "opts": [
+      "hand",
+      "take",
+      "put"
+     ],
+     "a": 0,
+     "why": "Hand over = passare a qualcun altro; take over sarebbe l'opposto (assumere)."
+    },
+    {
+     "t": "wordform",
+     "s": "Many graduates have high career ___ .",
+     "root": "ASPIRE",
+     "answers": [
+      "aspirations"
+     ],
+     "why": "Serve un nome plurale: aspire -> aspirations."
+    },
+    {
+     "t": "wordform",
+     "s": "Working sixty hours a week finally led to complete ___ .",
+     "root": "EXHAUST",
+     "answers": [
+      "exhaustion"
+     ],
+     "why": "Nome: exhaust -> exhaustion."
+    },
+    {
+     "t": "mc",
+     "q": "«We have pushed the launch back to March» significa che il lancio è stato:",
+     "opts": [
+      "rinviato",
+      "anticipato",
+      "annullato"
+     ],
+     "a": 0,
+     "why": "Push back = rinviare, spostare più avanti nel tempo."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "I never ___ round to replying to those emails.",
+     "answers": [
+      "get"
+     ],
+     "why": "Get round to + -ing = trovare il tempo di."
+    }
+   ]
+  },
+  {
+   "id": "b2-05-reading",
+   "kind": "reading",
+   "title": "Un anno fuori dalla corsa",
+   "intro": "Un articolo di rivista su chi sceglie di fermarsi per un anno. Leggi per cogliere le motivazioni e le conseguenze, e nota le strutture di futuro nelle ultime righe.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "The year I stopped climbing",
+     "genre": "magazine feature",
+     "text": "When Priya Nair told her colleagues she was taking a year off, most of them assumed she was ill. Nobody believed that a thirty-four-year-old project manager, who had been promoted twice in five years and was widely tipped to become a director, would voluntarily step off the career ladder. \"People kept asking what was wrong,\" she recalls. \"I kept telling them that nothing was wrong. That was exactly the point.\"\n\nPriya's decision was not impulsive. For two years she had been juggling an enormous workload with a long commute, and she had noticed the warning signs: constant tiredness, a short temper, and an inbox that she never seemed to get round to emptying. A doctor friend gently used the word burnout. \"I had always assumed burnout was something that happened to other people,\" she says. \"I thought that if I just worked a little harder, I would catch up. By my fourth year, I was falling behind schedule on everything, including my own life.\"\n\nHer employer, a mid-sized engineering consultancy, offered an unpaid sabbatical on condition that she returned within twelve months. Priya spent the first three months doing very little, which she found harder than expected. \"I kept reaching for my phone to check my messages. I felt guilty about every hour I wasn't being productive.\" Gradually, however, the guilt faded. She walked in the hills, learned basic Spanish, and volunteered at a community garden, where she met people who had never heard of a key performance indicator and did not care about hers.\n\nSabbaticals are no longer a luxury reserved for university lecturers. According to a survey of two thousand employees, almost one in four British workers has considered taking an extended break, though only three per cent have actually done so. The main obstacle, researchers suggest, is not money but fear: the worry that colleagues will overtake them, or that the job will not be there on their return. Companies, for their part, are slowly starting to see the benefits. Employers who offer structured breaks report lower turnover and, rather surprisingly, staff who come back with greater ambition than before.\n\nNot every story ends happily. Tom Whitby, a financial analyst, took a six-month break in 2019 and returned to find that his team had been reorganised and his role had effectively disappeared. \"I was offered something similar, but at a lower level,\" he says. \"I understand why it happened, but it stung.\" Experts advise anyone considering a sabbatical to agree the terms in writing, keep in touch with key colleagues, and have a realistic plan for the return.\n\nAs for Priya, she is due back at work next month. She will not be returning to her old role: she has negotiated a four-day week and will be leading a smaller team. \"By the time I'm forty,\" she says, \"I'll probably have been promoted again. But I won't have sacrificed everything to get there.\" She smiles. \"I'm not going to climb the ladder as fast as before. I'd rather make sure it's leaning against the right wall.\"",
+     "qs": [
+      {
+       "q": "Why did Priya's colleagues think she must be ill?",
+       "opts": [
+        "They could not imagine anyone leaving a successful career by choice.",
+        "She had looked exhausted for several weeks.",
+        "She had been absent from work many times."
+       ],
+       "a": 0,
+       "why": "Primo paragrafo: nessuno credeva che avrebbe lasciato volontariamente la carriera."
+      },
+      {
+       "q": "What had Priya noticed in the two years before her decision?",
+       "opts": [
+        "Signs of exhaustion and irritability",
+        "A lack of interest in her projects",
+        "Problems with her manager"
+       ],
+       "a": 0,
+       "why": "«constant tiredness, a short temper»"
+      },
+      {
+       "q": "How did Priya feel during the first months of her break?",
+       "opts": [
+        "Guilty about not being productive",
+        "Bored and lonely",
+        "Relieved from the first day"
+       ],
+       "a": 0,
+       "why": "«I felt guilty about every hour I wasn't being productive»"
+      },
+      {
+       "q": "According to researchers, what mainly stops people from taking a sabbatical?",
+       "opts": [
+        "Fear of losing their place at work",
+        "Lack of money",
+        "A lack of support from employers"
+       ],
+       "a": 0,
+       "why": "«The main obstacle... is not money but fear»"
+      },
+      {
+       "q": "Only ___ per cent of British workers have actually taken a long break.",
+       "answers": [
+        "three",
+        "3"
+       ]
+      },
+      {
+       "q": "What happened to Tom Whitby when he came back?",
+       "opts": [
+        "His old job no longer existed in the same form.",
+        "He was promoted to director.",
+        "He decided to leave the company."
+       ],
+       "a": 0,
+       "why": "«his role had effectively disappeared»"
+      },
+      {
+       "q": "What will change for Priya when she returns?",
+       "opts": [
+        "She will work fewer days and lead a smaller team.",
+        "She will become a director.",
+        "She will work from home full time."
+       ],
+       "a": 0,
+       "why": "«a four-day week... leading a smaller team»"
+      },
+      {
+       "q": "Priya's employer paid her salary during the sabbatical.",
+       "opts": [
+        "False",
+        "True",
+        "Not given"
+       ],
+       "a": 0,
+       "why": "Il testo dice «unpaid sabbatical»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "«Widely tipped to become a director» significa:",
+     "opts": [
+      "considerata da molti la probabile futura direttrice",
+      "pagata più di una direttrice",
+      "raccomandata dalla direttrice"
+     ],
+     "a": 0,
+     "why": "To be tipped to = essere dato come probabile futuro titolare di un ruolo."
+    },
+    {
+     "t": "mc",
+     "q": "«It stung» nel testo significa:",
+     "opts": [
+      "mi ha fatto male, mi è dispiaciuto",
+      "mi ha stupito",
+      "mi ha fatto arrabbiare con i colleghi"
+     ],
+     "a": 0,
+     "why": "To sting = ferire emotivamente, bruciare."
+    },
+    {
+     "t": "gap",
+     "s": "A sabbatical is no longer a luxury ___ for university lecturers.",
+     "opts": [
+      "reserved",
+      "booked",
+      "kept out"
+     ],
+     "a": 0,
+     "why": "Reserved for = riservato a (collocazione)."
+    },
+    {
+     "t": "wordform",
+     "s": "Priya's decision was not ___ : she had been thinking about it for two years.",
+     "root": "IMPULSE",
+     "answers": [
+      "impulsive"
+     ],
+     "why": "Aggettivo: impulse -> impulsive."
+    }
+   ]
+  },
+  {
+   "id": "b2-05-listening",
+   "kind": "listening",
+   "title": "Negoziare una consegna",
+   "intro": "Un project manager e una cliente discutono un ritardo. Ascolta come si presenta un problema e come si arriva a un compromesso.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A delayed launch",
+     "it": "Ascolta la telefonata. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Helen",
+       "Marco, thanks for making time. I wanted to talk about the delivery date for the website."
+      ],
+      [
+       "Marco",
+       "Of course. I was about to call you, actually. We have hit a problem."
+      ],
+      [
+       "Helen",
+       "I was afraid of that. We are due to launch on the fourteenth, aren't we?"
+      ],
+      [
+       "Marco",
+       "That's the plan, but the payment system has turned out to be much more complicated than we expected. The bank's developers were supposed to send us their test data last week, and we only received it yesterday."
+      ],
+      [
+       "Helen",
+       "So where does that leave us?"
+      ],
+      [
+       "Marco",
+       "Realistically, if we keep the fourteenth, we will have tested the checkout for only two days. I wouldn't recommend that. If we move the launch to the twenty-eighth, we will have finished all the testing by the twenty-third, and there will be a few days in hand."
+      ],
+      [
+       "Helen",
+       "Two weeks is a long delay. We have already booked the advertising campaign to start on the fifteenth, and I can't change that without paying a penalty."
+      ],
+      [
+       "Marco",
+       "I see. What if we split the launch in two? The main site goes live on the fourteenth, so customers can browse and order by phone, and the online payment follows on the twenty-eighth."
+      ],
+      [
+       "Helen",
+       "Hmm. That could work, but I'd need to be sure the phone orders won't overwhelm my staff. We would only have two people on the phones."
+      ],
+      [
+       "Marco",
+       "Fair point. I could ask my team to prepare a simple order form that your staff can fill in quickly. That would take about two days, so I would have it ready by the tenth."
+      ],
+      [
+       "Helen",
+       "All right. And if the bank is late again?"
+      ],
+      [
+       "Marco",
+       "Then we would tell you straight away. The payment launch would be pushed back, but the site itself would stay on schedule. I will put that in writing."
+      ],
+      [
+       "Helen",
+       "I'd appreciate that. Let's go with the split launch, then. Can you send me a revised plan by Friday?"
+      ],
+      [
+       "Marco",
+       "I will have it with you by Thursday afternoon. And thank you for being flexible."
+      ],
+      [
+       "Helen",
+       "Well, you were honest with me, and that is worth a lot. Let's hope the bank behaves this time."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Why is the website late?",
+       "opts": [
+        "The bank sent its test data late.",
+        "The payment system was cancelled.",
+        "Marco's team was short of staff."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What was Marco about to do when Helen called?",
+       "opts": [
+        "Phone Helen",
+        "Email the bank",
+        "Cancel the launch"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Why can't Helen easily change the launch date?",
+       "opts": [
+        "An advertising campaign has been booked and changing it would cost money.",
+        "Her staff are on holiday.",
+        "The bank has refused to help."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What compromise does Marco suggest?",
+       "opts": [
+        "Launching the site first and adding online payment later",
+        "Launching everything on the twenty-eighth",
+        "Asking the bank to work faster"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Marco will have the order form ready by the ___ .",
+       "answers": [
+        "tenth",
+        "10th",
+        "10",
+        "ten"
+       ]
+      },
+      {
+       "q": "When will Marco send the revised plan?",
+       "opts": [
+        "Thursday afternoon",
+        "Friday morning",
+        "The twenty-third"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does Helen value in Marco's approach?",
+       "opts": [
+        "His honesty",
+        "His low prices",
+        "His technical knowledge"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "We will have finished all the testing by the twenty-third.",
+     "it": "Entro il ventitré avremo finito tutti i test."
+    },
+    {
+     "t": "dictation",
+     "en": "I was about to call you, actually.",
+     "it": "Stavo giusto per chiamarti, in effetti."
+    },
+    {
+     "t": "speak",
+     "en": "What if we split the launch in two?",
+     "it": "E se dividessimo il lancio in due?"
+    }
+   ]
+  },
+  {
+   "id": "b2-05-situation",
+   "kind": "situation",
+   "title": "Negoziare scadenze e priorità",
+   "intro": "Dire che sei in ritardo, proporre alternative e ottenere un accordo senza perdere la fiducia dell'altro. Frasi precise, tono cortese ma fermo.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Chiedere e proporre tempi",
+     "body": "- **Segnalare un problema**: I'm afraid we're going to fall behind schedule. / Unfortunately, we've run into a problem with...\n- **Chiedere**: Would it be possible to extend the deadline by two days? / Would you be open to a later delivery?\n- **Proporre**: What if we delivered the first part on time? / The earliest we could realistically deliver is...\n- **Condizione**: I'd be happy to do that, provided that you send the data by Monday.\n- **Cedere un po'**: Let's meet halfway. / That's a fair point.\n- **Rifiutare con garbo**: I'm afraid that isn't feasible. / I understand, but that would put the quality at risk.\n\nUsa i tempi del futuro per fissare i **tempi concreti**: I'll have sent it by Thursday. / We'll be testing the system all week.",
+     "ex": [
+      [
+       "Would it be possible to extend the deadline by two days?",
+       "Sarebbe possibile prorogare la scadenza di due giorni?"
+      ],
+      [
+       "The earliest we could realistically deliver is the twentieth.",
+       "La prima data realistica per la consegna è il venti."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Ordinare le priorità",
+     "body": "- **Spiegare le priorità**: Our top priority is... / We need to focus on... first.\n- **Dividere il lavoro**: We could split the project into two phases.\n- **Confermare per iscritto**: Just to confirm what we agreed: ... / I'll put that in writing today.\n- **Chiudere**: Thanks for being so flexible. / I'll keep you posted.\n\nErrore tipico: «I'll tell you when I will know»: dopo when si usa il present (when I know).",
+     "ex": [
+      [
+       "Our top priority is the payment system.",
+       "La nostra priorità assoluta è il sistema di pagamento."
+      ],
+      [
+       "I'll keep you posted.",
+       "Ti terrò aggiornato."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Chiedere una proroga",
+     "it": "Scegli le risposte più adatte (Tu). Il tuo manager è Sam.",
+     "lines": [
+      [
+       "Sam",
+       "Morning, Jo. How is the Henderson report coming along?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Honestly, I'm afraid I'm going to fall behind schedule. Would it be possible to extend the deadline by two days?",
+         "Honestly, I fall behind the schedule. Can you extend me the deadline for two days?",
+         "It's a disaster. Nobody gave me enough time, so it won't be ready."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Sam",
+       "Two days? What is causing the delay?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "The client only sent the final figures yesterday, so I'll have finished the analysis by Thursday at the earliest.",
+         "The client has sent the final figures yesterday, so I finish the analysis by Thursday at the earliest.",
+         "The client is very slow, and I can't do anything about it."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Sam",
+       "All right, but the board meets on Friday morning."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That should be fine. I'll send you a draft on Thursday evening, so you'll have time to read it before the meeting.",
+         "That should be fine. I send you a draft on Thursday evening, so you have time for reading it.",
+         "Then the board will have to wait. It isn't my problem."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Il cliente non è d'accordo",
+     "it": "La cliente rifiuta un ritardo di due settimane. Scegli le risposte migliori (Tu).",
+     "lines": [
+      [
+       "Client",
+       "We simply can't accept a two-week delay."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I understand your concern. What if we delivered the first phase on time and the rest two weeks later?",
+         "I understand your concern. What if we would deliver the first phase on time and the rest two weeks later?",
+         "I'm sorry, but there is no other solution."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Client",
+       "And what guarantee do I have that you won't be late again?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'll send you a progress report every Friday, so you'll always know where we stand.",
+         "I send you progress report every Friday, so you always know where we are standing.",
+         "You will just have to trust us."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Client",
+       "Fine. Please confirm that in writing."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Certainly. I'll email you the revised schedule this afternoon.",
+         "Certainly. I will to email you the revised schedule this afternoon.",
+         "Why? Don't you trust me?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Would you be open to a later delivery?",
+       "Sarebbe disponibile a una consegna più tarda?"
+      ],
+      [
+       "Let's meet halfway.",
+       "Veniamoci incontro."
+      ],
+      [
+       "I'm afraid that isn't feasible.",
+       "Temo che non sia fattibile."
+      ],
+      [
+       "I'll keep you posted.",
+       "La terrò aggiornata."
+      ],
+      [
+       "The earliest we could deliver is Friday.",
+       "Il più presto possibile per noi è venerdì."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Entro venerdì avremo completato la prima fase.",
+     "en": "By Friday we will have completed the first phase",
+     "extra": [
+      "been",
+      "finish"
+     ],
+     "alts": [
+      "We will have completed the first phase by Friday"
+     ],
+     "why": "Future perfect: will have + participio passato."
+    },
+    {
+     "t": "speak",
+     "en": "Would it be possible to extend the deadline by two days?",
+     "it": "Sarebbe possibile prorogare la scadenza di due giorni?"
+    },
+    {
+     "t": "speak",
+     "en": "The earliest we could realistically deliver is the twentieth.",
+     "it": "La prima data realistica per la consegna è il venti."
+    },
+    {
+     "t": "speak",
+     "en": "Let's meet halfway.",
+     "it": "Veniamoci incontro."
+    },
+    {
+     "t": "speakTask",
+     "q": "Your team is going to miss a deadline by a week. Explain the problem to your manager and negotiate a new date.",
+     "it": "Parla con il tuo manager (almeno 6 frasi): spiega il ritardo, chiedi una proroga, proponi un piano e una condizione.",
+     "hints": [
+      "I'm afraid we're going to...",
+      "The reason is that...",
+      "Would it be possible to...?",
+      "We could... provided that..."
+     ],
+     "min": 60,
+     "model": "I'm afraid my team is going to miss Friday's deadline by about a week. The reason is that the client only sent the final data on Tuesday, so we have lost three working days. Would it be possible to move the deadline to the following Friday? We could send you a first version on the original date, so that you will already have the main findings. I would be happy to prepare a short progress report every two days, provided that the client sends the remaining figures by Monday. By the end of next week we will have completed the final checks, and the report will be ready."
+    }
+   ]
+  },
+  {
+   "id": "b2-05-production",
+   "kind": "production",
+   "title": "Email di lavoro: proposta e pianificazione",
+   "intro": "Scrivere un'email a un responsabile con una proposta, un calendario e un prossimo passo. Poi parla delle tue ambizioni usando i tempi del futuro.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Struttura e frasi di una proposta",
+     "body": "- **Oggetto**: Proposal for... / Revised schedule for...\n- **Apertura**: Following our conversation on..., I would like to propose... / I am writing to suggest...\n- **Piano**: I suggest we begin in... / By the end of May we will have... / During the first month we will be...\n- **Vantaggi e rischi**: The main advantage is... / The only risk is that... so I plan to...\n- **Prossimo passo**: Would it be possible to meet next week? / I am due to present the plan on..., so your feedback before then would be very helpful.\n- **Chiusura**: I look forward to hearing your thoughts. / Kind regards,\n\nRegistro: **semiformale**, frasi chiare, connettivi (**First of all, In addition, However, As a result**). Un'email a un superiore non usa slang né punti esclamativi.\n\nOrganizzazione (criterio Cambridge): ogni paragrafo ha uno scopo (proposta, calendario, rischi, prossimo passo). Lascia una riga tra i paragrafi.",
+     "ex": [
+      [
+       "I suggest we begin in March.",
+       "Suggerisco di cominciare a marzo."
+      ],
+      [
+       "By June we will have run four sessions.",
+       "Entro giugno avremo tenuto quattro sessioni."
+      ]
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Per chiudere un'email di proposta a un superiore, la formula più adatta è:",
+     "opts": [
+      "I look forward to hearing your thoughts.",
+      "Write me soon!",
+      "Waiting your answer."
+     ],
+     "a": 0,
+     "why": "Formula chiara e cortese; le altre sono troppo informali o calcate dall'italiano."
+    },
+    {
+     "t": "transform",
+     "s1": "The schedule says I will present the plan on the 20th.",
+     "key": "DUE",
+     "s2": "I ___ present the plan on the 20th.",
+     "answers": [
+      "am due to"
+     ],
+     "why": "Be due to = previsto da programma."
+    },
+    {
+     "t": "wordform",
+     "s": "The plan offers great ___ : sessions can be moved if people are busy.",
+     "root": "FLEXIBLE",
+     "answers": [
+      "flexibility"
+     ],
+     "why": "Nome: flexible -> flexibility."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I suggest to begin in March, when the new budget is available.",
+     "answers": [
+      "I suggest beginning in March, when the new budget is available",
+      "I suggest we begin in March, when the new budget is available"
+     ],
+     "why": "Suggest non vuole l'infinito con to: suggest + -ing oppure suggest (that) + soggetto."
+    },
+    {
+     "t": "write",
+     "q": "Your company wants to start a monthly skills swap, in which colleagues teach each other something from their own field. Your manager, Claire Dawson, has asked each team leader for a proposal. Write an email to Claire.",
+     "it": "Scrivi un'email a Claire (140-190 parole): proponi il programma, indica un calendario con i tempi (future perfect, future continuous, be due to), cita un vantaggio e un rischio, e suggerisci un prossimo passo.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho proposto il programma, il calendario, un vantaggio, un rischio e un prossimo passo",
+      "Comunicazione: ho usato un tono semiformale adatto a un superiore, con apertura e chiusura appropriate",
+      "Organizzazione: ho scritto paragrafi chiari con connettivi (First of all, However, As a result...)",
+      "Lingua: ho usato almeno due strutture di futuro (will have + pp, will be + -ing, be due to)",
+      "Lingua: ho usato lessico vario (milestone, workload, push back, extension...) senza ripetere sempre le stesse parole",
+      "Ho controllato spelling UK e punteggiatura"
+     ],
+     "useful": [
+      "Following our conversation on..., I would like to propose...",
+      "I suggest we begin in...",
+      "By the end of... we will have...",
+      "The main advantage is...",
+      "The only risk is that...",
+      "I am due to present the plan on...",
+      "Would it be possible to meet next week?",
+      "I look forward to hearing your thoughts."
+     ],
+     "model": "Subject: Proposal for a monthly skills swap\n\nDear Claire,\n\nFollowing our conversation on Tuesday, I would like to propose a monthly skills swap for the whole department. Each month, two colleagues would spend an hour teaching the team something from their own field, such as presenting data or writing for clients.\n\nI suggest we begin in March. By the end of February I will have asked for volunteers and drawn up a rota, and by the middle of March the first two sessions will have taken place. By June we should have run four sessions, and I will be collecting feedback so that we can decide whether to continue.\n\nThe main advantage is that the cost would be minimal, since the sessions would take place in the meeting room at lunchtime. The only risk is that people are busy, so I plan to hold the sessions at a fixed time and keep them short.\n\nWould it be possible to meet next week? I am due to present the plan to my team on the 20th, so your feedback before then would be very helpful.\n\nKind regards,\nGiulia"
+    },
+    {
+     "t": "speakTask",
+     "q": "Where do you hope to be in five years' time, and what will you have achieved by then?",
+     "it": "Parla delle tue ambizioni (almeno 6 frasi) con future perfect e future continuous.",
+     "hints": [
+      "In five years' time I'll be...",
+      "By then I will have...",
+      "I'd like to...",
+      "The biggest challenge will be..."
+     ],
+     "min": 60,
+     "model": "In five years' time I hope I'll be working as a team leader, perhaps in a different city. By then I will have finished a part-time master's degree, and I will have saved enough money for a deposit on a flat. I'd also like to be speaking fluent English, since I would like to work with international clients. The biggest challenge will be finding enough time for everything, so I will have to prioritise very carefully."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe how you juggle work and private life. What would you like to change?",
+     "it": "Racconta come organizzi lavoro e vita privata e che cosa cambieresti (almeno 6 frasi).",
+     "hints": [
+      "During the week I...",
+      "I often find it hard to...",
+      "I was going to...",
+      "Next year I'm planning to..."
+     ],
+     "min": 60,
+     "model": "During the week I leave home at half past seven and I usually get back after seven in the evening, so there is very little time left for friends. I often find it hard to switch off, because I check my emails even at weekends. Last month I was going to join a yoga class, but I never got round to it. Next year I am planning to ask for one day of remote work a week, because by then I will have been commuting for six years, and that is quite enough."
+    }
+   ]
+  },
+  {
+   "id": "b2-05-test",
+   "kind": "test",
+   "title": "Test dell'unità 5 (B2)",
+   "intro": "Verifica senza aiuti: futuro avanzato, futuro nel passato, lessico del lavoro, un cloze e un ascolto.",
+   "minutes": 20,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "I can't meet at four. I ___ a client presentation then.",
+     "opts": [
+      "will be giving",
+      "will have given",
+      "would be giving"
+     ],
+     "a": 0,
+     "why": "Azione in corso in un momento futuro: future continuous."
+    },
+    {
+     "t": "gap",
+     "s": "By the time the new manager arrives, we ___ the budget.",
+     "opts": [
+      "will have approved",
+      "would approve",
+      "have approved"
+     ],
+     "a": 0,
+     "why": "Azione conclusa prima di un momento futuro: future perfect."
+    },
+    {
+     "t": "gap",
+     "s": "We ___ to launch in May, but the supplier let us down.",
+     "opts": [
+      "were going",
+      "are going",
+      "will be going"
+     ],
+     "a": 0,
+     "why": "Piano passato non realizzato: were going to."
+    },
+    {
+     "t": "gap",
+     "s": "The council ___ to vote on the plan next week.",
+     "opts": [
+      "is due",
+      "was due",
+      "has been due"
+     ],
+     "a": 0,
+     "why": "Previsto per la prossima settimana: is due to."
+    },
+    {
+     "t": "gap",
+     "s": "She was just ___ to resign when the director offered her a promotion.",
+     "opts": [
+      "about",
+      "near",
+      "likely"
+     ],
+     "a": 0,
+     "why": "Was about to = stava per."
+    },
+    {
+     "t": "gap",
+     "s": "He has always aspired ___ a career in medicine.",
+     "opts": [
+      "to",
+      "for",
+      "at"
+     ],
+     "a": 0,
+     "why": "Aspire to (non for)."
+    },
+    {
+     "t": "gap",
+     "s": "The old factory has become the ___ in our supply chain: everything waits for it.",
+     "opts": [
+      "bottleneck",
+      "milestone",
+      "sabbatical"
+     ],
+     "a": 0,
+     "why": "Bottleneck = collo di bottiglia."
+    },
+    {
+     "t": "gap",
+     "s": "They refused to give us an ___ of the deadline.",
+     "opts": [
+      "extension",
+      "extending",
+      "extend"
+     ],
+     "a": 0,
+     "why": "Serve un nome: extension."
+    },
+    {
+     "t": "wordform",
+     "s": "Working sixty hours a week led to complete ___ .",
+     "root": "EXHAUST",
+     "answers": [
+      "exhaustion"
+     ],
+     "why": "Nome: exhaust -> exhaustion."
+    },
+    {
+     "t": "wordform",
+     "s": "Her ___ to become a judge began at university.",
+     "root": "ASPIRE",
+     "answers": [
+      "aspiration"
+     ],
+     "why": "Nome singolare: aspiration."
+    },
+    {
+     "t": "cloze",
+     "title": "Completa il messaggio con una parola per spazio",
+     "mode": "open",
+     "text": "Dear all,\n\nI am writing {1} confirm the schedule. The first draft is {2} to be ready on Monday, and by Wednesday we {3} have completed the second chapter. I was {4} to send you the outline earlier, but I did {5} get round to it. {6} the end of the month, I hope we will have finished everything.\n\nKind regards,\nPaula",
+     "gaps": [
+      {
+       "answers": [
+        "to"
+       ]
+      },
+      {
+       "answers": [
+        "due",
+        "expected",
+        "set",
+        "supposed",
+        "going",
+        "scheduled"
+       ]
+      },
+      {
+       "answers": [
+        "will",
+        "shall"
+       ]
+      },
+      {
+       "answers": [
+        "going",
+        "planning",
+        "meaning",
+        "hoping",
+        "intending",
+        "supposed"
+       ]
+      },
+      {
+       "answers": [
+        "not"
+       ]
+      },
+      {
+       "answers": [
+        "By"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "The train is scheduled to arrive at 8.40.",
+     "key": "DUE",
+     "s2": "The train ___ at 8.40.",
+     "answers": [
+      "is due to arrive"
+     ],
+     "why": "Be due to + base."
+    },
+    {
+     "t": "transform",
+     "s1": "In June I will have worked here for ten years.",
+     "key": "BEEN",
+     "s2": "In June I ___ here for ten years.",
+     "answers": [
+      "will have been working",
+      "'ll have been working",
+      "will have been"
+     ],
+     "why": "Future perfect (continuous) con durata."
+    },
+    {
+     "t": "transform",
+     "s1": "We were on the point of giving up when the phone rang.",
+     "key": "ABOUT",
+     "s2": "We ___ give up when the phone rang.",
+     "answers": [
+      "were about to",
+      "were just about to"
+     ],
+     "why": "Were about to = stavamo per."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I'll be wait for you at the station at six.",
+     "answers": [
+      "I'll be waiting for you at the station at six",
+      "I will be waiting for you at the station at six"
+     ],
+     "why": "Future continuous: will be + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The film was due starting at eight, but it was late.",
+     "answers": [
+      "The film was due to start at eight, but it was late"
+     ],
+     "why": "Be due + to + verbo base."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è più naturale in un'email formale per anticipare un ritardo?",
+     "opts": [
+      "I'm afraid the report is likely to be delayed by a few days.",
+      "I'm afraid the report will have been delayed since a few days.",
+      "I'm afraid the report is going to delay for a few days."
+     ],
+     "a": 0,
+     "why": "Is likely to be delayed è corretto e naturale; le altre sono errori di struttura."
+    },
+    {
+     "t": "mc",
+     "q": "«We have pushed the meeting back» significa che la riunione è stata:",
+     "opts": [
+      "rinviata",
+      "anticipata",
+      "cancellata"
+     ],
+     "a": 0,
+     "why": "Push back = rinviare."
+    },
+    {
+     "t": "order",
+     "it": "Alle sei saremo ancora in riunione.",
+     "en": "We will still be in a meeting at six",
+     "extra": [
+      "have",
+      "been"
+     ],
+     "alts": [
+      "At six we will still be in a meeting"
+     ],
+     "why": "Future continuous."
+    },
+    {
+     "t": "listen",
+     "title": "A voicemail",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Lucy",
+       "Hi Dan, it's Lucy. Quick update on the Madrid trip. The flight is due to leave at seven on Monday morning, so I'll be picking you up at half past four. By the time we land, the client will have received our slides, because I'm emailing them tonight. I was going to book a hotel near the office, but they're full, so I've booked one near the station. Call me when you get this."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What time will Lucy pick Dan up?",
+       "opts": [
+        "4.30",
+        "7.00",
+        "5.30"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Why has Lucy booked a different hotel?",
+       "opts": [
+        "The first one is full.",
+        "The first one is too expensive.",
+        "The first one is far from the airport."
+       ],
+       "a": 0
+      },
+      {
+       "q": "When will the client have the slides?",
+       "opts": [
+        "By the time they land",
+        "On Monday afternoon",
+        "After the meeting"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

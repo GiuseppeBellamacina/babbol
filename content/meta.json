@@ -1,0 +1,7 @@
+{
+ "levels": [
+  { "id": "A2", "title": "Basi solide", "sub": "Consolidare l'inglese di tutti i giorni", "color": "#2fa84f", "hours": 100 },
+  { "id": "B1", "title": "Indipendente", "sub": "Cavarsela da soli in viaggio, al lavoro, nella vita", "color": "#2b7de9", "hours": 150 },
+  { "id": "B2", "title": "Sicuro di sé", "sub": "Discutere, argomentare, capire quasi tutto", "color": "#8e5cd9", "hours": 150 }
+ ]
+}

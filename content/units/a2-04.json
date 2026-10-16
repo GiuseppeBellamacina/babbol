@@ -1,0 +1,1489 @@
+{
+ "id": "a2-04",
+ "level": "A2",
+ "position": 4,
+ "title": "La mia città",
+ "sub": "Comparativi e superlativi - indicazioni stradali",
+ "grammar": "Comparativi e superlativi, as...as, too e enough",
+ "topic": "Città, casa, luoghi",
+ "situation": "Chiedere e dare indicazioni stradali",
+ "lessons": [
+  {
+   "id": "a2-04-grammar",
+   "kind": "grammar",
+   "title": "Più, meno, il più...",
+   "intro": "In italiano «più grande», «il più bello», «abbastanza caldo» si costruiscono con poche parole. In inglese cambiano la forma dell'aggettivo e la preposizione: qui impari a non dire più «more big» e «the most big».",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Il comparativo: più... di",
+     "body": "Per confrontare due cose si usa **than** (= di, che).\n\n- aggettivi **corti** (una sillaba): aggettivo + **-er**: small -> smaller, cheap -> cheaper\n- aggettivi che finiscono in **-y**: la y diventa i: noisy -> noisier, easy -> easier\n- aggettivi **lunghi** (due o più sillabe): **more** + aggettivo: more crowded, more expensive, more comfortable\n- consonante doppia dopo vocale breve: big -> bigger, hot -> hotter\n\n**Irregolari**: good -> **better**, bad -> **worse**, far -> **further** (o farther).\n\nPer dire «meno» si usa **less** + aggettivo lungo: less expensive. Con gli aggettivi corti di solito si preferisce la forma negativa con as...as (vedi sotto).\n\n**Errori tipici degli italiani**: «more big» (si dice bigger), «taller that» (si dice taller **than**), «more good» (si dice better).",
+     "table": [
+      [
+       "Tipo",
+       "Aggettivo",
+       "Comparativo"
+      ],
+      [
+       "corto",
+       "cheap",
+       "cheaper than"
+      ],
+      [
+       "in -y",
+       "noisy",
+       "noisier than"
+      ],
+      [
+       "lungo",
+       "expensive",
+       "more expensive than"
+      ],
+      [
+       "raddoppia",
+       "big",
+       "bigger than"
+      ],
+      [
+       "irregolare",
+       "good / bad",
+       "better / worse than"
+      ]
+     ],
+     "ex": [
+      [
+       "My new flat is smaller than the old one.",
+       "Il mio nuovo appartamento è più piccolo del vecchio."
+      ],
+      [
+       "The centre is more crowded than the suburbs.",
+       "Il centro è più affollato della periferia."
+      ],
+      [
+       "The weather here is worse than in Naples.",
+       "Qui il tempo è peggio che a Napoli."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Il superlativo: il più... di",
+     "body": "Per dire che qualcosa è «il più...» in un gruppo si usa **the** + aggettivo + **-est** (corti) oppure **the most** + aggettivo (lunghi).\n\n- the smallest, the cheapest, the noisiest, the biggest\n- the most beautiful, the most expensive\n- **irregolari**: the best, the worst, the furthest\n\nDopo il superlativo si usa **in** + luogo/gruppo (in the city, in my class, in Italy) e **of** + periodo o insieme (of the year, of all, of the three).\n\n**Errori tipici degli italiani**: «the most big city» (si dice the biggest), «the best of the city» (si dice the best **in** the city), dimenticare **the**.",
+     "ex": [
+      [
+       "It's the oldest church in the town.",
+       "È la chiesa più antica della città."
+      ],
+      [
+       "This is the most beautiful square of all.",
+       "Questa è la piazza più bella di tutte."
+      ],
+      [
+       "That was the worst meal of my life.",
+       "Quello è stato il peggior pasto della mia vita."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "as...as e le somiglianze",
+     "body": "Per dire che due cose sono **uguali** si usa **as + aggettivo + as**: My flat is as big as yours.\nPer dire che una è **meno** dell'altra si usa **not as... as**: The bus isn't as fast as the train.\n\nAttenzione: aggettivo **senza** forma comparativa, in mezzo: **as big as**, mai «as bigger as».\n\nAltre espressioni utili:\n- **the same as** (uguale a): My street is the same as yours.\n- **different from**: Rome is very different from Milan.\n- **(not) as many... as / as much... as**: There aren't as many cars here as in Rome.",
+     "ex": [
+      [
+       "Your garden is as big as mine.",
+       "Il tuo giardino è grande come il mio."
+      ],
+      [
+       "The train isn't as cheap as the bus.",
+       "Il treno non è economico come l'autobus."
+      ],
+      [
+       "Verona is quite different from Venice.",
+       "Verona è piuttosto diversa da Venezia."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "too e enough",
+     "body": "**too** = **troppo** (in senso negativo, più del necessario). Va **prima** dell'aggettivo: too hot, too expensive.\n**enough** = **abbastanza**. Va **dopo** l'aggettivo: big enough, warm enough. Con i nomi va invece **prima**: enough chairs.\n\nSpesso si usa con **to** + verbo: It's too cold **to swim**. / It isn't warm **enough to swim**.\n\n- **too much** (+ non numerabile) / **too many** (+ numerabile): too much traffic, too many cars.\n- **very** non è too: «It's very hot» è un fatto, «It's too hot» è un problema.\n\n**Errori tipici degli italiani**: «too much hot» (si dice **too hot**), «enough big» (si dice **big enough**).",
+     "table": [
+      [
+       "",
+       "Posizione",
+       "Esempio"
+      ],
+      [
+       "too",
+       "prima dell'aggettivo",
+       "It's too small for us."
+      ],
+      [
+       "enough",
+       "dopo l'aggettivo",
+       "It isn't big enough."
+      ],
+      [
+       "enough + nome",
+       "prima del nome",
+       "We have enough time."
+      ]
+     ],
+     "ex": [
+      [
+       "The room is too noisy to sleep.",
+       "La stanza è troppo rumorosa per dormire."
+      ],
+      [
+       "Is the flat big enough for four people?",
+       "L'appartamento è abbastanza grande per quattro persone?"
+      ],
+      [
+       "There are too many tourists in August.",
+       "Ci sono troppi turisti ad agosto."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Milan is ___ than Turin.",
+     "opts": [
+      "bigger",
+      "more big",
+      "biggest"
+     ],
+     "a": 0,
+     "it": "Milano è più grande di Torino.",
+     "why": "Aggettivo corto: big + raddoppio della g + -er."
+    },
+    {
+     "t": "gap",
+     "s": "This flat is ___ than the old one.",
+     "opts": [
+      "more comfortable",
+      "comfortabler",
+      "most comfortable"
+     ],
+     "a": 0,
+     "it": "Questo appartamento è più comodo del vecchio.",
+     "why": "Aggettivo lungo (comfortable): more + aggettivo. «Most» serve per il superlativo."
+    },
+    {
+     "t": "gap",
+     "s": "It's the ___ restaurant in town.",
+     "opts": [
+      "best",
+      "better",
+      "most good"
+     ],
+     "a": 0,
+     "it": "È il miglior ristorante della città.",
+     "why": "Superlativo irregolare di good: the best."
+    },
+    {
+     "t": "gap",
+     "s": "My new street isn't as noisy ___ the old one.",
+     "opts": [
+      "as",
+      "than",
+      "like"
+     ],
+     "a": 0,
+     "why": "La struttura è as... as. «Than» si usa solo con il comparativo."
+    },
+    {
+     "t": "gap",
+     "s": "It's ___ hot to walk today, so let's take a taxi.",
+     "opts": [
+      "too",
+      "very",
+      "much"
+     ],
+     "a": 0,
+     "why": "Troppo caldo per fare una cosa: too + aggettivo + to + verbo."
+    },
+    {
+     "t": "gap",
+     "s": "The room isn't big ___ for three beds.",
+     "opts": [
+      "enough",
+      "too",
+      "much"
+     ],
+     "a": 0,
+     "why": "Enough va dopo l'aggettivo: big enough."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Rome is older than Milan.",
+      "Rome is more old than Milan.",
+      "Rome is older that Milan."
+     ],
+     "a": 0,
+     "why": "Old è corto: older. E il secondo termine si introduce con than, non «that»."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "She is the tallest girl in the class.",
+      "She is the tallest girl of the class.",
+      "She is the most tall girl in the class."
+     ],
+     "a": 0,
+     "why": "Tall è corto (the tallest) e dopo un gruppo di persone si usa in the class."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta dell'aggettivo tra parentesi",
+     "s": "My brother is ___ (tall) than me.",
+     "answers": [
+      "taller"
+     ],
+     "why": "Aggettivo corto: tall + -er."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta dell'aggettivo tra parentesi",
+     "s": "This is the ___ (bad) film of the year.",
+     "answers": [
+      "worst"
+     ],
+     "why": "Il superlativo irregolare di bad è the worst."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Questa casa è più cara di quella.",
+     "answers": [
+      "This house is more expensive than that one",
+      "This house is more expensive than that",
+      "This house is more expensive than the other one",
+      "This house is more expensive than the other"
+     ],
+     "why": "Expensive è lungo: more expensive than. «Quella» si rende con that one."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Non è abbastanza grande per noi.",
+     "answers": [
+      "It isn't big enough for us",
+      "It's not big enough for us",
+      "It is not big enough for us",
+      "It isn't large enough for us",
+      "It's not large enough for us",
+      "It is not large enough for us"
+     ],
+     "why": "Enough va dopo l'aggettivo: big enough."
+    },
+    {
+     "t": "fix",
+     "s": "My flat is more small than yours.",
+     "answers": [
+      "My flat is smaller than yours"
+     ],
+     "why": "Small è un aggettivo corto: smaller, non «more small»."
+    },
+    {
+     "t": "fix",
+     "s": "He is taller that his brother.",
+     "answers": [
+      "He is taller than his brother",
+      "He's taller than his brother"
+     ],
+     "why": "Il secondo termine del confronto si introduce con than."
+    },
+    {
+     "t": "fix",
+     "s": "It's the most big city in Italy.",
+     "answers": [
+      "It's the biggest city in Italy",
+      "It is the biggest city in Italy",
+      "It's the largest city in Italy",
+      "It is the largest city in Italy"
+     ],
+     "why": "Big è corto: the biggest. «Most» si usa solo con gli aggettivi lunghi."
+    },
+    {
+     "t": "fix",
+     "s": "The flat is too much expensive.",
+     "answers": [
+      "The flat is too expensive"
+     ],
+     "why": "Prima di un aggettivo si dice too, non «too much»."
+    },
+    {
+     "t": "transform",
+     "s1": "Rome is bigger than Florence.",
+     "key": "AS",
+     "s2": "Florence isn't ___ Rome.",
+     "answers": [
+      "as big as",
+      "as large as"
+     ],
+     "why": "Il confronto al contrario si fa con not as... as."
+    },
+    {
+     "t": "order",
+     "it": "Questa è la strada più stretta della città.",
+     "en": "This is the narrowest street in the city",
+     "extra": [
+      "most",
+      "narrower"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-04-vocab",
+   "kind": "vocab",
+   "title": "Quartiere, casa e strade",
+   "intro": "Le parole per descrivere dove vivi e per orientarti in una città: il quartiere, i vicini, gli incroci. Serviranno subito per le indicazioni stradali.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-04-w01",
+     "en": "neighbourhood",
+     "it": "quartiere, zona",
+     "ipa": "ˈneɪbəhʊd",
+     "pos": "n",
+     "ex": [
+      "It's a quiet neighbourhood with a lot of parks.",
+      "È un quartiere tranquillo con molti parchi."
+     ],
+     "note": "Ortografia UK: neighbourhood (US neighborhood)."
+    },
+    {
+     "id": "a2-04-w02",
+     "en": "neighbour",
+     "it": "vicino di casa",
+     "ipa": "ˈneɪbə",
+     "pos": "n",
+     "ex": [
+      "Our neighbour plays the piano at night.",
+      "Il nostro vicino suona il pianoforte di notte."
+     ],
+     "note": "Il gh non si pronuncia."
+    },
+    {
+     "id": "a2-04-w03",
+     "en": "crowded",
+     "it": "affollato",
+     "ipa": "ˈkraʊdɪd",
+     "pos": "adj",
+     "ex": [
+      "The centre is very crowded on Saturdays.",
+      "Il centro è molto affollato il sabato."
+     ]
+    },
+    {
+     "id": "a2-04-w04",
+     "en": "convenient",
+     "it": "comodo (per posizione)",
+     "ipa": "kənˈviːniənt",
+     "pos": "adj",
+     "ex": [
+      "The flat is convenient for the station.",
+      "L'appartamento è comodo per la stazione."
+     ],
+     "note": "Non è «conveniente» (economico): per quello si dice cheap o good value."
+    },
+    {
+     "id": "a2-04-w05",
+     "en": "crossroads",
+     "it": "incrocio",
+     "ipa": "ˈkrɒsrəʊdz",
+     "pos": "n",
+     "ex": [
+      "Turn right at the crossroads.",
+      "Gira a destra all'incrocio."
+     ],
+     "note": "Singolare e plurale hanno la stessa forma."
+    },
+    {
+     "id": "a2-04-w06",
+     "en": "roundabout",
+     "it": "rotonda",
+     "ipa": "ˈraʊndəbaʊt",
+     "pos": "n",
+     "ex": [
+      "Take the second exit at the roundabout.",
+      "Prendi la seconda uscita alla rotonda."
+     ]
+    },
+    {
+     "id": "a2-04-w07",
+     "en": "traffic lights",
+     "it": "semaforo",
+     "ipa": "ˈtræfɪk laɪts",
+     "pos": "n",
+     "ex": [
+      "The bank is just after the traffic lights.",
+      "La banca è subito dopo il semaforo."
+     ],
+     "note": "Si usa quasi sempre al plurale."
+    },
+    {
+     "id": "a2-04-w08",
+     "en": "pavement",
+     "it": "marciapiede",
+     "ipa": "ˈpeɪvmənt",
+     "pos": "n",
+     "ex": [
+      "Please don't ride your bike on the pavement.",
+      "Per favore non andare in bici sul marciapiede."
+     ],
+     "note": "In inglese americano si dice sidewalk."
+    },
+    {
+     "id": "a2-04-w09",
+     "en": "opposite",
+     "it": "di fronte a",
+     "ipa": "ˈɒpəzɪt",
+     "pos": "phr",
+     "ex": [
+      "The café is opposite the library.",
+      "Il bar è di fronte alla biblioteca."
+     ],
+     "note": "Non si dice «in front of» se sei dall'altra parte della strada."
+    },
+    {
+     "id": "a2-04-w10",
+     "en": "go past",
+     "it": "passare davanti a, superare",
+     "ipa": "ɡəʊ pɑːst",
+     "pos": "pv",
+     "ex": [
+      "Go past the church and turn left.",
+      "Passa davanti alla chiesa e gira a sinistra."
+     ]
+    },
+    {
+     "id": "a2-04-w11",
+     "en": "straight on",
+     "it": "sempre dritto",
+     "ipa": "streɪt ɒn",
+     "pos": "phr",
+     "ex": [
+      "Go straight on for about two hundred metres.",
+      "Vai sempre dritto per circa duecento metri."
+     ]
+    },
+    {
+     "id": "a2-04-w12",
+     "en": "corner",
+     "it": "angolo",
+     "ipa": "ˈkɔːnə",
+     "pos": "n",
+     "ex": [
+      "There's a small shop on the corner.",
+      "C'è un negozietto all'angolo."
+     ],
+     "note": "«Round the corner» = qui vicino, dietro l'angolo."
+    },
+    {
+     "id": "a2-04-w13",
+     "en": "house",
+     "it": "casa (indipendente)",
+     "ipa": "haʊs",
+     "pos": "n",
+     "ex": [
+      "They live in a big house with a garden.",
+      "Vivono in una grande casa con giardino."
+     ],
+     "note": "Per l'appartamento si dice flat (UK).",
+     "emoji": "🏠"
+    },
+    {
+     "id": "a2-04-w14",
+     "en": "sofa",
+     "it": "divano",
+     "ipa": "ˈsəʊfə",
+     "pos": "n",
+     "ex": [
+      "We watch TV on the sofa every evening.",
+      "Guardiamo la TV sul divano ogni sera."
+     ],
+     "emoji": "🛋️"
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "go straight on",
+       "andare sempre dritto"
+      ],
+      [
+       "turn left",
+       "girare a sinistra"
+      ],
+      [
+       "take the second right",
+       "prendere la seconda a destra"
+      ],
+      [
+       "cross the road",
+       "attraversare la strada"
+      ],
+      [
+       "at the corner",
+       "all'angolo"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The bank is ___ the post office, on the other side of the road.",
+     "opts": [
+      "opposite",
+      "in front",
+      "against"
+     ],
+     "a": 0,
+     "why": "«Di fronte a» (dall'altra parte) è opposite. «In front» da solo non esiste: servirebbe in front of."
+    },
+    {
+     "t": "gap",
+     "s": "The flat is very ___ for work: the office is two minutes away.",
+     "opts": [
+      "convenient",
+      "comfortable",
+      "cheap"
+     ],
+     "a": 0,
+     "why": "«Convenient» = comodo per posizione o praticità. «Comfortable» riguarda il comfort fisico."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "Walk on the ___ , not in the road.",
+     "answers": [
+      "pavement"
+     ],
+     "sub": "Cammina sul marciapiede, non sulla strada."
+    },
+    {
+     "t": "wordform",
+     "s": "It's a very ___ area: there are always lots of people.",
+     "root": "CROWD",
+     "answers": [
+      "crowded"
+     ],
+     "why": "Serve un aggettivo: crowd -> crowded."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «Go past the church»?",
+     "opts": [
+      "Passa davanti alla chiesa e prosegui.",
+      "Entra nella chiesa.",
+      "Torna indietro fino alla chiesa."
+     ],
+     "a": 0,
+     "why": "«Go past» = superare un luogo senza fermarsi."
+    }
+   ]
+  },
+  {
+   "id": "a2-04-reading",
+   "kind": "reading",
+   "title": "Due luoghi a confronto",
+   "intro": "Leggi il post di una ragazza che ha lasciato la sua cittadina per una grande città. Nel testo trovi molti confronti: ti aiutano a vedere i comparativi in contesto.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Small town or big city?",
+     "genre": "blog",
+     "text": "I grew up in a small town near Bergamo, and now I live in Manchester. I moved here two years ago. People often ask me which place I like more, and it isn't an easy question.\n\nMy town is much quieter than Manchester. Everybody knows everybody, the air is cleaner and the mountains are only twenty minutes away. But it isn't as exciting: the cinema closed years ago and the last bus leaves at ten o'clock. If you want to go out at night, you really need a car.\n\nManchester is bigger, noisier and more crowded, and the weather is definitely worse! It rains almost every day. However, I think it's the best city I know for music. There are small concerts every evening, and you can get anywhere by tram or bus. My flat is a bit too small for two people, and the rent is higher than at home, but my neighbours are friendly and the nearest park is just round the corner.\n\nSo, which one is better? When I want peace, I choose my town. When I want to meet new people, Manchester is easily the winner. Luckily, I can have both: I go home every summer.",
+     "qs": [
+      {
+       "q": "Where did the writer grow up?",
+       "opts": [
+        "Near Bergamo",
+        "In Manchester",
+        "In the mountains"
+       ],
+       "a": 0,
+       "why": "«I grew up in a small town near Bergamo»."
+      },
+      {
+       "q": "What is better in the writer's home town?",
+       "opts": [
+        "The air",
+        "The nightlife",
+        "The public transport"
+       ],
+       "a": 0,
+       "why": "«The air is cleaner»."
+      },
+      {
+       "q": "Why does the writer say you need a car in the home town?",
+       "opts": [
+        "The last bus leaves early.",
+        "The mountains are far away.",
+        "There are no shops."
+       ],
+       "a": 0,
+       "why": "«The last bus leaves at ten o'clock»."
+      },
+      {
+       "q": "The cinema in the writer's home town is still open.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "«The cinema closed years ago»."
+      },
+      {
+       "q": "In Manchester it rains almost ___ day.",
+       "answers": [
+        "every"
+       ]
+      },
+      {
+       "q": "The writer's flat in Manchester is big enough for two people.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "«A bit too small for two people»."
+      },
+      {
+       "q": "The writer works in a music shop.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 2,
+       "why": "Il testo parla di musica come passione, ma non dice che lavoro fa."
+      },
+      {
+       "q": "The writer goes back to her home town in the summer.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 0,
+       "why": "«I go home every summer»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «just round the corner» significa:",
+     "opts": [
+      "molto vicino",
+      "dall'altra parte della città",
+      "dopo un lungo giro"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I prefer the countryside: it's so ___ and peaceful.",
+     "opts": [
+      "quiet",
+      "quite",
+      "silence"
+     ],
+     "a": 0,
+     "why": "Serve un aggettivo: quiet. «Quite» (abbastanza) si scrive in modo simile ma è un avverbio."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola dal testo",
+     "s": "The ___ for this flat is 700 pounds a month.",
+     "answers": [
+      "rent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-04-listening",
+   "kind": "listening",
+   "title": "Cercare casa",
+   "intro": "Un uomo telefona a un'agenzia per un appartamento in affitto. Ascolta i dettagli: piano, rumore, distanza, prezzo. Il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A flat near the park",
+     "it": "Ascolta la telefonata e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Kate",
+       "Good morning, Hill Street Lettings."
+      ],
+      [
+       "Ben",
+       "Hi, I saw your advert for the flat near the park. Is it still available?"
+      ],
+      [
+       "Kate",
+       "Yes, it is. It's a two-bedroom flat on the second floor. It's quite big, and there's a small balcony."
+      ],
+      [
+       "Ben",
+       "Is it noisy? My flat is on a main road and it's terrible."
+      ],
+      [
+       "Kate",
+       "No, it's much quieter than most. It's in a dead-end street. And the station is only ten minutes away on foot."
+      ],
+      [
+       "Ben",
+       "That sounds perfect. How much is the rent?"
+      ],
+      [
+       "Kate",
+       "It's six hundred and fifty pounds a month. We have another flat for five hundred and fifty, but it's smaller and it's further from the centre."
+      ],
+      [
+       "Ben",
+       "I think six fifty is fine. Can I see the flat tomorrow?"
+      ],
+      [
+       "Kate",
+       "Of course. Is four o'clock OK?"
+      ],
+      [
+       "Ben",
+       "Perfect. See you then. Thank you."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Which floor is the flat on?",
+       "opts": [
+        "The first",
+        "The second",
+        "The third"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What is the problem with Ben's flat now?",
+       "opts": [
+        "It's too small.",
+        "It's too expensive.",
+        "It's on a noisy road."
+       ],
+       "a": 2
+      },
+      {
+       "q": "The station is ___ minutes from the flat on foot.",
+       "answers": [
+        "10",
+        "ten"
+       ]
+      },
+      {
+       "q": "How much is the rent of the first flat?",
+       "opts": [
+        "£550",
+        "£650",
+        "£600"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What is worse about the cheaper flat?",
+       "opts": [
+        "It's smaller and further from the centre.",
+        "It's noisier.",
+        "It's on a higher floor."
+       ],
+       "a": 0
+      },
+      {
+       "q": "When is Ben going to see the flat?",
+       "opts": [
+        "Tomorrow at 4 o'clock",
+        "Today at 4 o'clock",
+        "Tomorrow at 2 o'clock"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "It's much quieter than most flats in the area.",
+     "it": "È molto più tranquillo della maggior parte degli appartamenti della zona."
+    },
+    {
+     "t": "dictation",
+     "en": "The station is only ten minutes away on foot.",
+     "it": "La stazione è a soli dieci minuti a piedi."
+    },
+    {
+     "t": "speak",
+     "en": "Is the flat still available?",
+     "it": "L'appartamento è ancora disponibile?"
+    }
+   ]
+  },
+  {
+   "id": "a2-04-situation",
+   "kind": "situation",
+   "title": "Indicazioni stradali",
+   "intro": "Ti sei perso in una città inglese? Qui impari a chiedere la strada e a spiegarla a qualcun altro, con frasi brevi e chiare.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Chiedere e dare indicazioni",
+     "body": "**Per chiedere**:\n- **Excuse me, how do I get to the station?**\n- **Is there a post office near here?**\n- **Could you tell me where the library is?** (più educato)\n\n**Per rispondere**:\n- **Go straight on** until the traffic lights.\n- **Turn left / right** at the roundabout.\n- **Take the second turning on the left.**\n- **It's on your left / on your right.**\n- **It's about five minutes on foot.**\n- **You can't miss it.** = Non puoi non vederlo.\n\n**Errori tipici degli italiani**: «turn on the left» (si dice **turn left**), «at the left» (si dice **on the left**), «by foot» (si dice **on foot**).",
+     "ex": [
+      [
+       "Excuse me, how do I get to the station?",
+       "Scusi, come arrivo alla stazione?"
+      ],
+      [
+       "Take the second turning on the right.",
+       "Prendi la seconda traversa a destra."
+      ],
+      [
+       "It's about five minutes on foot.",
+       "Sono circa cinque minuti a piedi."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Dove si trova: le preposizioni di luogo",
+     "body": "- **next to** = accanto a\n- **opposite** = di fronte a (dall'altra parte della strada)\n- **between... and...** = tra... e...\n- **behind** = dietro / **in front of** = davanti a\n- **on the corner of** = all'angolo di\n- **near** = vicino a\n\nSe non hai capito, chiedi: **Sorry, could you repeat that, please?** / **Could you speak a bit more slowly?**",
+     "ex": [
+      [
+       "The bank is between the café and the chemist's.",
+       "La banca è tra il bar e la farmacia."
+      ],
+      [
+       "Sorry, could you repeat that, please?",
+       "Scusi, può ripetere, per favore?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Cerchi il municipio",
+     "it": "Una persona ti chiede la strada. Scegli la risposta giusta (Tu).",
+     "lines": [
+      [
+       "Tourist",
+       "Excuse me, how do I get to the town hall?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Go straight on and take the second street on the right.",
+         "Go straight and turn at the right the second street.",
+         "Go to the straight on and second right."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tourist",
+       "Is it far?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "No, it's about five minutes on foot.",
+         "No, is five minutes by foot.",
+         "No, it's five minutes at foot."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tourist",
+       "Thank you very much."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "You're welcome. You can't miss it.",
+         "Of nothing. You can't lose it.",
+         "Prego. You not miss it."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Ti sei perso",
+     "it": "Ora sei tu a chiedere. Scegli le battute più naturali (Tu).",
+     "lines": [
+      [
+       "Tu",
+       {
+        "opts": [
+         "Excuse me, is there a post office near here?",
+         "Excuse me, there is a post office near here?",
+         "Excuse me, where there is a post office?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Passer-by",
+       "Yes, there's one opposite the bank. Go down this road to the traffic lights."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Sorry, could you repeat that, please?",
+         "Sorry, can you say again me?",
+         "Sorry, repeat."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Passer-by",
+       "Of course. Go down this road to the traffic lights. The post office is on the corner, on your left."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Great, thanks for your help.",
+         "Great, thanks for your help me.",
+         "Great, thank you of the help."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Turn left at the traffic lights.",
+       "Gira a sinistra al semaforo."
+      ],
+      [
+       "It's on your right.",
+       "È sulla tua destra."
+      ],
+      [
+       "It's opposite the bank.",
+       "È di fronte alla banca."
+      ],
+      [
+       "Go straight on.",
+       "Vai sempre dritto."
+      ],
+      [
+       "You can't miss it.",
+       "Non puoi non vederlo."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Prendi la seconda strada a sinistra.",
+     "en": "Take the second street on the left",
+     "extra": [
+      "at",
+      "in"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "Excuse me, how do I get to the station?",
+     "it": "Scusi, come arrivo alla stazione?"
+    },
+    {
+     "t": "speak",
+     "en": "It's next to the bank, opposite the park.",
+     "it": "È accanto alla banca, di fronte al parco."
+    },
+    {
+     "t": "speak",
+     "en": "Turn right at the traffic lights.",
+     "it": "Gira a destra al semaforo."
+    },
+    {
+     "t": "speakTask",
+     "q": "A tourist asks you how to get from the station to the main square in your town. Explain the way.",
+     "it": "Spiega a un turista come andare dalla stazione alla piazza principale della tua città (almeno 4 frasi).",
+     "hints": [
+      "Go out of the station and...",
+      "Go straight on until...",
+      "Turn left/right at...",
+      "It's next to / opposite..."
+     ],
+     "min": 30,
+     "model": "Go out of the station and turn right. Go straight on until you get to the traffic lights. Turn left and go past the big church. The main square is on your right, opposite a bank. It's about ten minutes on foot. You can't miss it."
+    }
+   ]
+  },
+  {
+   "id": "a2-04-production",
+   "kind": "production",
+   "title": "Descrivere la propria città",
+   "intro": "Scriverai un breve testo sulla tua città per un amico straniero, poi parlerai di casa tua e confronterai due luoghi. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come descrivere un luogo",
+     "body": "- **Dove si trova**: It's in the north of Italy. / It's near the sea. / It's about 50 km from Milan.\n- **Com'è**: It's a small, quiet city. There is / There are...\n- **Confronti**: It's bigger than..., It isn't as expensive as...\n- **Il meglio e il peggio**: The best thing is... / The most beautiful place is... / The worst thing is...\n- **Un desiderio**: I'd like more parks. / It isn't clean enough.\n\nConnettivi utili: **and, but, because, so, however**.",
+     "ex": [
+      [
+       "It's the most beautiful city in the region.",
+       "È la città più bella della regione."
+      ],
+      [
+       "The centre isn't big enough for so many cars.",
+       "Il centro non è abbastanza grande per così tante auto."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Lecce is ___ than Milan: it has fewer cars and less smoke.",
+     "opts": [
+      "cleaner",
+      "more clean",
+      "cleanest"
+     ],
+     "a": 0,
+     "why": "Clean è un aggettivo corto: cleaner. Il superlativo cleanest non ha than."
+    },
+    {
+     "t": "gap",
+     "s": "The old town is the ___ part of the city.",
+     "opts": [
+      "most beautiful",
+      "more beautiful",
+      "beautifullest"
+     ],
+     "a": 0,
+     "why": "Superlativo di un aggettivo lungo: the most beautiful."
+    },
+    {
+     "t": "fix",
+     "s": "The city centre is too much crowded in August.",
+     "answers": [
+      "The city centre is too crowded in August"
+     ],
+     "why": "Too si mette direttamente davanti all'aggettivo."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "La mia città non è abbastanza pulita.",
+     "answers": [
+      "My city isn't clean enough",
+      "My city is not clean enough",
+      "My town isn't clean enough",
+      "My town is not clean enough"
+     ],
+     "why": "Enough va dopo l'aggettivo."
+    },
+    {
+     "t": "write",
+     "q": "An English-speaking friend is going to visit your town or city. Write a short text about it: where it is, what it is like, the best place to visit and one thing you would like to change.",
+     "it": "Scrivi un testo sulla tua città per un amico straniero: dove si trova, com'è, il posto più bello da visitare e una cosa che cambieresti.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho usato almeno due comparativi (bigger than, more crowded than...)",
+      "Ho usato un superlativo (the best / the most beautiful...)",
+      "Ho usato too o enough almeno una volta",
+      "Ho usato There is / There are per descrivere il luogo",
+      "Ho usato almeno un connettivo (and, but, because, so)"
+     ],
+     "useful": [
+      "I live in...",
+      "It's much quieter than...",
+      "The best place to visit is...",
+      "It isn't ... enough",
+      "I'd like more...",
+      "because",
+      "however"
+     ],
+     "model": "I live in Lecce, a small city in the south of Italy. It is much quieter than Rome, and the people are very friendly. The old centre is the most beautiful area: the streets are narrow and the buildings are made of yellow stone. The best place to visit is the main square. In summer it's too hot at midday, so I go out in the evening. I'd like more buses because the service isn't good enough."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe your home: where it is and what rooms it has.",
+     "it": "Descrivi casa tua: dove si trova, che stanze ha, qual è la tua stanza preferita e perché.",
+     "hints": [
+      "I live in a flat / house...",
+      "It's on the ... floor.",
+      "There is / There are...",
+      "My favourite room is... because..."
+     ],
+     "min": 40,
+     "model": "I live in a flat in the centre of Turin. It's on the third floor and there is a lift. There are two bedrooms, a living room and a small kitchen. My favourite room is the living room because it has a big sofa and a lot of light. It isn't very big, but it's convenient for work."
+    },
+    {
+     "t": "speakTask",
+     "q": "Compare two places you know (cities, towns or neighbourhoods).",
+     "it": "Confronta due luoghi che conosci: qual è più grande, più tranquillo, più caro? Qual è il migliore e perché?",
+     "hints": [
+      "... is bigger / quieter than...",
+      "... isn't as ... as ...",
+      "The best thing about ... is...",
+      "I prefer ... because..."
+     ],
+     "min": 40,
+     "model": "I know Florence and Siena. Florence is bigger and more crowded than Siena, and it's more expensive too. Siena isn't as famous as Florence, but it's quieter and cleaner. I think the most beautiful square in Tuscany is in Siena. I prefer Siena because it's more relaxing."
+    }
+   ]
+  },
+  {
+   "id": "a2-04-test",
+   "kind": "test",
+   "title": "Test dell'unità 4",
+   "intro": "Verifica senza aiuti: comparativi, superlativi, too/enough, lessico della città e indicazioni. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "Venice is ___ than Rome.",
+     "opts": [
+      "smaller",
+      "more small",
+      "smallest"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "This is the ___ beach in the area.",
+     "opts": [
+      "most beautiful",
+      "more beautiful",
+      "beautifullest"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Is your new flat as big ___ the old one?",
+     "opts": [
+      "as",
+      "than",
+      "like"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "It's too cold ___ swim today.",
+     "opts": [
+      "to",
+      "for",
+      "than"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The soup isn't hot ___ .",
+     "opts": [
+      "enough",
+      "too",
+      "very"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "My ___ , Mr Green, plays the drums every night.",
+     "opts": [
+      "neighbour",
+      "neighbourhood",
+      "neighbouring"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Go ___ the bank and turn left at the traffic lights.",
+     "opts": [
+      "past",
+      "over",
+      "through"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The post office is ___ the supermarket, on the other side of the street.",
+     "opts": [
+      "opposite",
+      "in front",
+      "front of"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Anna is taller than her sister.",
+      "Anna is more tall than her sister.",
+      "Anna is tallest than her sister."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "It's the most expensive hotel in town.",
+      "It's the most expensive hotel of town.",
+      "It's the expensivest hotel in town."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta dell'aggettivo tra parentesi",
+     "s": "The weather today is ___ (bad) than yesterday.",
+     "answers": [
+      "worse"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta dell'aggettivo tra parentesi",
+     "s": "Which is the ___ (good) pizzeria in the city?",
+     "answers": [
+      "best"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Il treno è più veloce dell'autobus.",
+     "answers": [
+      "The train is faster than the bus",
+      "The train is quicker than the bus"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Non è abbastanza caldo per nuotare.",
+     "answers": [
+      "It isn't warm enough to swim",
+      "It's not warm enough to swim",
+      "It is not warm enough to swim",
+      "It isn't hot enough to swim",
+      "It's not hot enough to swim",
+      "It is not hot enough to swim"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "The new library is more big than the old one.",
+     "answers": [
+      "The new library is bigger than the old one"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "It's too much hot in this room.",
+     "answers": [
+      "It's too hot in this room",
+      "It is too hot in this room"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "He isn't enough tall to play basketball.",
+     "answers": [
+      "He isn't tall enough to play basketball",
+      "He's not tall enough to play basketball",
+      "He is not tall enough to play basketball"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "Milan is bigger than Turin.",
+     "key": "AS",
+     "s2": "Turin isn't ___ Milan.",
+     "answers": [
+      "as big as",
+      "as large as"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Questa è la strada più tranquilla del quartiere.",
+     "en": "This is the quietest street in the neighbourhood",
+     "extra": [
+      "most",
+      "quieter"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa l'email",
+     "mode": "mc",
+     "text": "Hi Jo,\n\nI moved to Leeds last month and I love it. It's {1} than my old town, so there is always something to do. The centre is {2} crowded at weekends, but the shops are great. My flat isn't {3} big as my old one, but it's much {4}, so I'm happy. My neighbours are the {5} people I know.\n\nCome and visit soon!\nKaty",
+     "gaps": [
+      {
+       "opts": [
+        "bigger",
+        "more big",
+        "biggest",
+        "more bigger"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "too",
+        "enough",
+        "much",
+        "as"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "as",
+        "than",
+        "like",
+        "more"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "cheaper",
+        "more cheap",
+        "cheapest",
+        "most cheaper"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "friendliest",
+        "friendlier",
+        "most friendlier",
+        "friendlyest"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A voicemail",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Ben",
+       "Hi Kate, it's Ben. The restaurant is easy to find. When you leave the station, turn right and go straight on until you get to the roundabout. Take the second exit and walk for a few minutes. The restaurant is opposite the library, next to a bank. It's not far, so you don't need a taxi. See you at eight."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What should Kate do at the roundabout?",
+       "opts": [
+        "Take the first exit",
+        "Take the second exit",
+        "Turn left"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Where is the restaurant?",
+       "opts": [
+        "Opposite the library",
+        "Behind the bank",
+        "Next to the station"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What time is the dinner?",
+       "opts": [
+        "7.00",
+        "8.00",
+        "9.00"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Per strada",
+     "lines": [
+      [
+       "Tourist",
+       "Excuse me, where is the museum?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Turn left at the traffic lights. It's on your right.",
+         "Turn at the left in the traffic lights. Is on your right.",
+         "Left at the semaphore. It's at your right."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tourist",
+       "Is it far from here?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "No, it's about ten minutes on foot.",
+         "No, is ten minutes by foot.",
+         "No, it's ten minutes at foot."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

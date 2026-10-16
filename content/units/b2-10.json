@@ -1,0 +1,1680 @@
+{
+ "id": "b2-10",
+ "level": "B2",
+ "position": 10,
+ "title": "Istruzione, scienza e tecnologia",
+ "sub": "Word formation, collocazioni e connettivi - discussione accademica e saggio B2 First",
+ "grammar": "Word formation (prefissi e suffissi), collocazioni, connettivi (although, despite, whereas, nevertheless)",
+ "topic": "Istruzione, scienza, tecnologia",
+ "situation": "Discussione accademica, chiedere chiarimenti",
+ "lessons": [
+  {
+   "id": "b2-10-grammar",
+   "kind": "grammar",
+   "title": "Word formation, collocazioni e connettivi",
+   "intro": "L'ultima unità del corso mette insieme tre strumenti che il B2 First chiede in ogni parte: formare parole con prefissi e suffissi, scegliere le collocazioni giuste e collegare le idee con i connettivi di contrasto (although, despite, whereas, nevertheless).",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Word formation: suffissi",
+     "body": "Da una parola-radice si ottengono nomi, aggettivi, verbi e avverbi con i **suffissi**. Prima di scrivere chiediti sempre **che parte del discorso serve** nella frase.\n- **Nomi**: -tion / -sion (decide -> decision), -ment (achieve -> achievement), -ness (kind -> kindness), -ity (able -> ability), -ence / -ance (depend -> dependence), -ship (friend -> friendship), -ism (critic -> criticism); persone: -er / -or / -ist / -ian.\n- **Aggettivi**: -able / -ible (rely -> reliable), -ful (success -> successful), -less (care -> careless), -ous (danger -> dangerous), -ive (create -> creative), -al (culture -> cultural), -ic (history -> historic).\n- **Verbi**: -ise / -ize (modern -> modernise), -en (wide -> widen), -ify (simple -> simplify).\n- **Avverbi**: -ly (careful -> carefully; happy -> happily).\n\nAttenzione ai cambiamenti di ortografia: la -y diventa -i (happy -> happiness), la -e finale cade (create -> creation), a volte cambia la radice (succeed -> success, decide -> decision). E controlla se il nome deve essere plurale: one achievement / many achievements.",
+     "table": [
+      [
+       "Radice",
+       "Nome",
+       "Aggettivo",
+       "Avverbio"
+      ],
+      [
+       "succeed",
+       "success",
+       "successful",
+       "successfully"
+      ],
+      [
+       "create",
+       "creation",
+       "creative",
+       "creatively"
+      ],
+      [
+       "differ",
+       "difference",
+       "different",
+       "differently"
+      ],
+      [
+       "rely",
+       "reliability",
+       "reliable",
+       "reliably"
+      ]
+     ],
+     "ex": [
+      [
+       "Her determination was impressive.",
+       "La sua determinazione era impressionante."
+      ],
+      [
+       "The decision was made without any discussion.",
+       "La decisione è stata presa senza alcuna discussione."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Word formation: prefissi",
+     "body": "I **prefissi** cambiano il significato, spesso in negativo, ma non la parte del discorso.\n- **Negativi**: un- (happy -> unhappy), in- (visible -> invisible), dis- (agree -> disagree), non- (existent -> non-existent), mis- (understand -> misunderstand, «sbagliare»).\n- **in- diventa**: **im-** prima di b, m, p (impossible, immature); **il-** prima di l (illegal); **ir-** prima di r (irregular, irresponsible).\n- **Altri prefissi**: over- (overworked: troppo), under- (underpaid), re- (rewrite: di nuovo), out- (outgrow: superare), pre- (preview), inter- (international), ex- (ex-president).\n\nNel tuo ragionamento: se la frase suona negativa («She was ___ to find a job»), probabilmente serve un prefisso negativo. Ma non tutte le radici accettano tutti i prefissi: si dice **unable, impossible, disagree, dishonest**, mai «inable» o «unpossible». Se ti sembra una parola italiana, controllala: in inglese si dice **unemployment** (non «disoccupation»).",
+     "ex": [
+      [
+       "It is impossible to predict the weather exactly.",
+       "È impossibile prevedere esattamente il tempo."
+      ],
+      [
+       "She felt underpaid and overworked.",
+       "Si sentiva sottopagata e sovraccarica di lavoro."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Collocazioni e make / do",
+     "body": "Le **collocazioni** sono coppie di parole che «stanno bene insieme» e non si possono tradurre parola per parola. Le più frequenti ai test:\n- **do**: research, homework, a course, damage, harm, your best, a favour.\n- **make**: progress, a decision, a mistake, an effort, an attempt, a suggestion, a complaint, an impression.\n- **carry out / conduct**: an experiment, a survey, research (formale).\n- **draw / reach**: a conclusion. **meet**: a deadline, requirements. **take**: part, advantage, notice. **pay**: attention, a visit.\n- Aggettivi: **heavy** rain / traffic / smoker; **strong** wind / coffee / evidence; **bitter** disappointment; **deeply** concerned; **highly** unlikely.\n\n**Errori tipici degli italiani**: «do a mistake», «make research», «make progresses» (progress non è numerabile), «take a decision» (in UK si dice **make a decision**). Impara le collocazioni in blocco, con il verbo.",
+     "ex": [
+      [
+       "She did a lot of research for her thesis.",
+       "Ha fatto molte ricerche per la tesi."
+      ],
+      [
+       "We made good progress today.",
+       "Oggi abbiamo fatto buoni progressi."
+      ],
+      [
+       "The team carried out an experiment.",
+       "Il gruppo ha condotto un esperimento."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Connettivi: contrasto, addizione, conseguenza",
+     "body": "I connettivi collegano le idee e sono decisivi nel saggio. Attenzione alla **costruzione che li segue**:\n- **Although / even though / though + frase**: Although it was late, we kept working. (non «although... but»)\n- **Despite / in spite of + nome o -ing**: Despite the rain... / In spite of being tired... (non «despite of»). Con una frase: despite **the fact that** he was tired.\n- **Whereas / while + frase**: contrasto tra due cose: Tom loves maths, whereas his sister prefers languages.\n- **However / nevertheless / nonetheless**: all'inizio di una frase, con virgola: The test was hard. Nevertheless, most students passed.\n- **Addizione**: moreover, furthermore, in addition (to + nome / -ing).\n- **Conseguenza**: therefore, consequently, as a result. **Scopo**: in order to / so that.\n- **Condizione**: provided (that), as long as, unless.\n\n**Errori tipici degli italiani**: «Despite of the weather», «Although he was ill, but he went», «Despite he was ill» (serve the fact that).",
+     "table": [
+      [
+       "Connettivo",
+       "Seguito da",
+       "Esempio"
+      ],
+      [
+       "although",
+       "frase",
+       "Although he was ill, he came."
+      ],
+      [
+       "despite / in spite of",
+       "nome / -ing",
+       "Despite being ill, he came."
+      ],
+      [
+       "whereas / while",
+       "frase",
+       "I like tea, whereas he likes coffee."
+      ],
+      [
+       "nevertheless / however",
+       "frase separata",
+       "He was ill. Nevertheless, he came."
+      ]
+     ],
+     "ex": [
+      [
+       "Although she was tired, she kept studying.",
+       "Sebbene fosse stanca, continuò a studiare."
+      ],
+      [
+       "Despite the cost, the course was worth it.",
+       "Nonostante il costo, il corso valeva la pena."
+      ],
+      [
+       "Some prefer lectures, whereas others learn alone.",
+       "Alcuni preferiscono le lezioni, mentre altri imparano da soli."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "___ it was raining, we went for a walk.",
+     "opts": [
+      "Although",
+      "Despite",
+      "However"
+     ],
+     "a": 0,
+     "why": "Dopo although segue una frase completa (soggetto + verbo)."
+    },
+    {
+     "t": "gap",
+     "s": "___ the heavy traffic, we arrived on time.",
+     "opts": [
+      "Despite",
+      "Although",
+      "Whereas"
+     ],
+     "a": 0,
+     "why": "Despite è seguito da un nome: the heavy traffic."
+    },
+    {
+     "t": "gap",
+     "s": "Some students prefer lectures, ___ others learn better in small groups.",
+     "opts": [
+      "whereas",
+      "despite",
+      "therefore"
+     ],
+     "a": 0,
+     "why": "Whereas collega due cose in contrasto."
+    },
+    {
+     "t": "gap",
+     "s": "The experiment failed. ___, the team did not give up.",
+     "opts": [
+      "Nevertheless",
+      "Moreover",
+      "Therefore"
+     ],
+     "a": 0,
+     "why": "Nevertheless introduce un contrasto con la frase precedente."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "Despite the rain, we enjoyed the trip.",
+      "Despite of the rain, we enjoyed the trip.",
+      "Despite it rained, we enjoyed the trip."
+     ],
+     "a": 0,
+     "why": "Despite non vuole of e non regge una frase: serve un nome o -ing."
+    },
+    {
+     "t": "mc",
+     "q": "I have to ___ some research before I start writing my essay.",
+     "opts": [
+      "do",
+      "make",
+      "take",
+      "give"
+     ],
+     "a": 0,
+     "why": "La collocazione è do research."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una o più parole",
+     "s": "___ the fact that he was exhausted, he finished the race.",
+     "answers": [
+      "Despite",
+      "In spite of"
+     ],
+     "why": "Despite / in spite of + the fact that + frase."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Sebbene fosse stanca, ha continuato a studiare.",
+     "answers": [
+      "Although she was tired, she kept studying",
+      "Although she was tired, she continued studying",
+      "Although she was tired, she carried on studying",
+      "Although she was tired, she went on studying",
+      "Although she was tired, she kept on studying",
+      "Although she was tired, she continued to study",
+      "Although she was tired she kept studying",
+      "Although she was tired she continued studying",
+      "Although she was tired she carried on studying",
+      "Although she was tired she went on studying",
+      "Although she was tired she kept on studying",
+      "Although she was tired she continued to study",
+      "Although she was exhausted, she kept studying",
+      "Although she was exhausted, she continued studying",
+      "Although she was exhausted, she carried on studying",
+      "Although she was exhausted, she went on studying",
+      "Although she was exhausted, she kept on studying",
+      "Although she was exhausted, she continued to study",
+      "Although she was exhausted she kept studying",
+      "Although she was exhausted she continued studying",
+      "Although she was exhausted she carried on studying",
+      "Although she was exhausted she went on studying",
+      "Although she was exhausted she kept on studying",
+      "Although she was exhausted she continued to study",
+      "Though she was tired, she kept studying",
+      "Though she was tired, she continued studying",
+      "Though she was tired, she carried on studying",
+      "Though she was tired, she went on studying",
+      "Though she was tired, she kept on studying",
+      "Though she was tired, she continued to study",
+      "Though she was tired she kept studying",
+      "Though she was tired she continued studying",
+      "Though she was tired she carried on studying",
+      "Though she was tired she went on studying",
+      "Though she was tired she kept on studying",
+      "Though she was tired she continued to study",
+      "Though she was exhausted, she kept studying",
+      "Though she was exhausted, she continued studying",
+      "Though she was exhausted, she carried on studying",
+      "Though she was exhausted, she went on studying",
+      "Though she was exhausted, she kept on studying",
+      "Though she was exhausted, she continued to study",
+      "Though she was exhausted she kept studying",
+      "Though she was exhausted she continued studying",
+      "Though she was exhausted she carried on studying",
+      "Though she was exhausted she went on studying",
+      "Though she was exhausted she kept on studying",
+      "Though she was exhausted she continued to study",
+      "Even though she was tired, she kept studying",
+      "Even though she was tired, she continued studying",
+      "Even though she was tired, she carried on studying",
+      "Even though she was tired, she went on studying",
+      "Even though she was tired, she kept on studying",
+      "Even though she was tired, she continued to study",
+      "Even though she was tired she kept studying",
+      "Even though she was tired she continued studying",
+      "Even though she was tired she carried on studying",
+      "Even though she was tired she went on studying",
+      "Even though she was tired she kept on studying",
+      "Even though she was tired she continued to study",
+      "Even though she was exhausted, she kept studying",
+      "Even though she was exhausted, she continued studying",
+      "Even though she was exhausted, she carried on studying",
+      "Even though she was exhausted, she went on studying",
+      "Even though she was exhausted, she kept on studying",
+      "Even though she was exhausted, she continued to study",
+      "Even though she was exhausted she kept studying",
+      "Even though she was exhausted she continued studying",
+      "Even though she was exhausted she carried on studying",
+      "Even though she was exhausted she went on studying",
+      "Even though she was exhausted she kept on studying",
+      "Even though she was exhausted she continued to study",
+      "She kept studying although she was tired",
+      "She kept studying although she was exhausted",
+      "She kept studying though she was tired",
+      "She kept studying though she was exhausted",
+      "She kept studying even though she was tired",
+      "She kept studying even though she was exhausted",
+      "She continued studying although she was tired",
+      "She continued studying although she was exhausted",
+      "She continued studying though she was tired",
+      "She continued studying though she was exhausted",
+      "She continued studying even though she was tired",
+      "She continued studying even though she was exhausted",
+      "She carried on studying although she was tired",
+      "She carried on studying although she was exhausted",
+      "She carried on studying though she was tired",
+      "She carried on studying though she was exhausted",
+      "She carried on studying even though she was tired",
+      "She carried on studying even though she was exhausted",
+      "She went on studying although she was tired",
+      "She went on studying although she was exhausted",
+      "She went on studying though she was tired",
+      "She went on studying though she was exhausted",
+      "She went on studying even though she was tired",
+      "She went on studying even though she was exhausted",
+      "She kept on studying although she was tired",
+      "She kept on studying although she was exhausted",
+      "She kept on studying though she was tired",
+      "She kept on studying though she was exhausted",
+      "She kept on studying even though she was tired",
+      "She kept on studying even though she was exhausted",
+      "She continued to study although she was tired",
+      "She continued to study although she was exhausted",
+      "She continued to study though she was tired",
+      "She continued to study though she was exhausted",
+      "She continued to study even though she was tired",
+      "She continued to study even though she was exhausted"
+     ],
+     "why": "Although + frase (soggetto + verbo), senza but nella seconda parte."
+    },
+    {
+     "t": "transform",
+     "s1": "In spite of the noise, he managed to sleep.",
+     "key": "DESPITE",
+     "s2": "He managed to sleep ___ noise.",
+     "answers": [
+      "despite the"
+     ],
+     "why": "Despite si usa senza of, seguito da un nome."
+    },
+    {
+     "t": "transform",
+     "s1": "Tom likes maths, but his sister prefers languages.",
+     "key": "WHEREAS",
+     "s2": "Tom likes maths, ___ prefers languages.",
+     "answers": [
+      "whereas his sister"
+     ],
+     "why": "Whereas collega due frasi in contrasto."
+    },
+    {
+     "t": "transform",
+     "s1": "She did some research on the topic.",
+     "key": "OUT",
+     "s2": "She ___ some research on the topic.",
+     "answers": [
+      "carried out"
+     ],
+     "why": "Carry out research = condurre una ricerca (registro formale)."
+    },
+    {
+     "t": "transform",
+     "s1": "Although she had little experience, she got the job.",
+     "key": "SPITE",
+     "s2": "She got the job ___ little experience.",
+     "answers": [
+      "in spite of her",
+      "in spite of having"
+     ],
+     "why": "In spite of + nome / aggettivo possessivo + nome."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "Despite of the bad weather, the match went ahead.",
+     "answers": [
+      "Despite the bad weather, the match went ahead",
+      "In spite of the bad weather, the match went ahead"
+     ],
+     "why": "Si dice despite oppure in spite of, mai despite of."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "Although he was tired, but he kept working.",
+     "answers": [
+      "Although he was tired, he kept working",
+      "Although he was tired he kept working"
+     ],
+     "why": "Although e but non si usano insieme: basta uno dei due."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She did a lot of researches for her thesis.",
+     "answers": [
+      "She did a lot of research for her thesis"
+     ],
+     "why": "Research è non numerabile: niente plurale."
+    },
+    {
+     "t": "wordform",
+     "s": "It is ___ to read his handwriting.",
+     "root": "POSSIBLE",
+     "answers": [
+      "impossible"
+     ],
+     "why": "Prima di p serve im-: impossible."
+    },
+    {
+     "t": "wordform",
+     "s": "Her ___ to the project was impressive.",
+     "root": "COMMIT",
+     "answers": [
+      "commitment"
+     ],
+     "why": "Serve un nome: commit -> commitment."
+    },
+    {
+     "t": "order",
+     "it": "Nonostante la pioggia, la partita è iniziata in orario.",
+     "en": "Despite the rain the match started on time",
+     "extra": [
+      "Although",
+      "of"
+     ],
+     "alts": [
+      "The match started on time despite the rain"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2-10-vocab",
+   "kind": "vocab",
+   "title": "Istruzione, scienza e tecnologia",
+   "intro": "Il lessico di università, ricerca e tecnologia: serve per le letture dell'esame, per i saggi su scuola e innovazione e per le discussioni accademiche.",
+   "minutes": 20,
+   "words": [
+    {
+     "id": "b2-10-w01",
+     "en": "scholarship",
+     "it": "borsa di studio",
+     "ipa": "ˈskɒləʃɪp",
+     "pos": "n",
+     "ex": [
+      "She won a scholarship to study engineering in Edinburgh.",
+      "Ha vinto una borsa di studio per studiare ingegneria a Edimburgo."
+     ],
+     "note": "Il «borsista» è a scholarship student."
+    },
+    {
+     "id": "b2-10-w02",
+     "en": "plagiarism",
+     "it": "plagio",
+     "ipa": "ˈpleɪdʒərɪzəm",
+     "pos": "n",
+     "ex": [
+      "Plagiarism can lead to a student being expelled.",
+      "Il plagio può portare all'espulsione di uno studente."
+     ],
+     "note": "Il verbo è plagiarise."
+    },
+    {
+     "id": "b2-10-w03",
+     "en": "dissertation",
+     "it": "tesi (di laurea)",
+     "ipa": "ˌdɪsəˈteɪʃn",
+     "pos": "n",
+     "ex": [
+      "He is writing his dissertation on renewable energy.",
+      "Sta scrivendo la tesi sulle energie rinnovabili."
+     ],
+     "note": "Per la tesi di dottorato si usa di solito thesis."
+    },
+    {
+     "id": "b2-10-w04",
+     "en": "breakthrough",
+     "it": "svolta, scoperta importante",
+     "ipa": "ˈbreɪkθruː",
+     "pos": "n",
+     "ex": [
+      "Scientists announced a breakthrough in cancer research.",
+      "Gli scienziati hanno annunciato una svolta nella ricerca sul cancro."
+     ],
+     "note": "Si dice a breakthrough in + campo."
+    },
+    {
+     "id": "b2-10-w05",
+     "en": "cutting-edge",
+     "it": "all'avanguardia",
+     "ipa": "ˌkʌtɪŋ ˈedʒ",
+     "pos": "adj",
+     "ex": [
+      "The laboratory uses cutting-edge technology.",
+      "Il laboratorio usa tecnologia all'avanguardia."
+     ],
+     "note": "Sinonimo: state-of-the-art."
+    },
+    {
+     "id": "b2-10-w06",
+     "en": "algorithm",
+     "it": "algoritmo",
+     "ipa": "ˈælɡərɪðəm",
+     "pos": "n",
+     "ex": [
+      "The algorithm recommends videos based on what you watch.",
+      "L'algoritmo consiglia video in base a quello che guardi."
+     ],
+     "note": "Si pronuncia con «th» sonora, non «t»."
+    },
+    {
+     "id": "b2-10-w07",
+     "en": "drop out",
+     "it": "abbandonare gli studi",
+     "ipa": "ˌdrɒp ˈaʊt",
+     "pos": "pv",
+     "ex": [
+      "Many students drop out during their first year.",
+      "Molti studenti abbandonano gli studi durante il primo anno."
+     ],
+     "note": "Drop out of university / school. Il nome è a dropout."
+    },
+    {
+     "id": "b2-10-w08",
+     "en": "keep up with",
+     "it": "tenere il passo con",
+     "ipa": "ˌkiːp ˈʌp wɪð",
+     "pos": "pv",
+     "ex": [
+      "It is hard to keep up with new technology.",
+      "È difficile tenere il passo con le nuove tecnologie."
+     ],
+     "note": "Seguito da un nome."
+    },
+    {
+     "id": "b2-10-w09",
+     "en": "distance learning",
+     "it": "formazione a distanza",
+     "ipa": "ˈdɪstəns ˈlɜːnɪŋ",
+     "pos": "phr",
+     "ex": [
+      "Distance learning allows people to study while working.",
+      "La formazione a distanza permette di studiare lavorando."
+     ],
+     "note": "Non numerabile."
+    },
+    {
+     "id": "b2-10-w10",
+     "en": "lecturer",
+     "it": "docente universitario",
+     "ipa": "ˈlektʃərə",
+     "pos": "n",
+     "ex": [
+      "Our lecturer gives very clear explanations.",
+      "Il nostro docente dà spiegazioni molto chiare."
+     ],
+     "note": "Non confonderlo con «lettore»."
+    },
+    {
+     "id": "b2-10-w11",
+     "en": "curriculum",
+     "it": "programma di studi",
+     "ipa": "kəˈrɪkjələm",
+     "pos": "n",
+     "ex": [
+      "Coding is now part of the school curriculum.",
+      "Programmare ora fa parte del programma scolastico."
+     ],
+     "note": "Plurale: curricula. Il CV si dice CV o résumé, non «curriculum»."
+    },
+    {
+     "id": "b2-10-w12",
+     "en": "literacy",
+     "it": "alfabetizzazione, competenza",
+     "ipa": "ˈlɪtərəsi",
+     "pos": "n",
+     "ex": [
+      "Digital literacy is as important as reading and writing.",
+      "Le competenze digitali sono importanti quanto leggere e scrivere."
+     ],
+     "note": "Digital literacy, financial literacy."
+    },
+    {
+     "id": "b2-10-w13",
+     "en": "automation",
+     "it": "automazione",
+     "ipa": "ˌɔːtəˈmeɪʃn",
+     "pos": "n",
+     "ex": [
+      "Automation has replaced thousands of factory jobs.",
+      "L'automazione ha sostituito migliaia di posti di lavoro in fabbrica."
+     ],
+     "note": "Non numerabile."
+    },
+    {
+     "id": "b2-10-w14",
+     "en": "peer",
+     "it": "coetaneo, pari",
+     "ipa": "pɪə",
+     "pos": "n",
+     "ex": [
+      "Teenagers are strongly influenced by their peers.",
+      "Gli adolescenti sono fortemente influenzati dai coetanei."
+     ],
+     "note": "Peer pressure = pressione dei coetanei."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "peer pressure",
+       "pressione dei coetanei"
+      ],
+      [
+       "digital literacy",
+       "competenze digitali"
+      ],
+      [
+       "cutting-edge technology",
+       "tecnologia all'avanguardia"
+      ],
+      [
+       "drop out of university",
+       "abbandonare l'università"
+      ],
+      [
+       "school curriculum",
+       "programma scolastico"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "It's hard to ___ up with so many changes in technology.",
+     "opts": [
+      "keep",
+      "go",
+      "put"
+     ],
+     "a": 0,
+     "why": "Keep up with = tenere il passo con."
+    },
+    {
+     "t": "gap",
+     "s": "Her ___ to study abroad covers all her tuition fees.",
+     "opts": [
+      "scholarship",
+      "lecturer",
+      "curriculum"
+     ],
+     "a": 0,
+     "why": "Una borsa di studio paga le spese: scholarship."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Copying another person's work and presenting it as your own is called ___ .",
+     "answers": [
+      "plagiarism"
+     ],
+     "why": "Plagiarism = plagio."
+    },
+    {
+     "t": "wordform",
+     "s": "Several factories closed because of ___ .",
+     "root": "AUTOMATE",
+     "answers": [
+      "automation"
+     ],
+     "why": "Serve un nome: automate -> automation."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «breakthrough»?",
+     "opts": [
+      "Una scoperta o un progresso importante",
+      "Un errore grave",
+      "Un'interruzione del lavoro",
+      "Un esame difficile"
+     ],
+     "a": 0,
+     "why": "Breakthrough = svolta decisiva, soprattutto in campo scientifico."
+    }
+   ]
+  },
+  {
+   "id": "b2-10-reading",
+   "kind": "reading",
+   "title": "Imparare con le macchine",
+   "intro": "Un articolo sull'intelligenza artificiale a scuola, con voci a favore e contro. È un testo da B2 First: argomentazione, connettivi di contrasto e vocabolario di istruzione e tecnologia.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Can a machine teach?",
+     "genre": "newspaper feature",
+     "text": "Ten years ago, a classroom without a blackboard would have seemed strange. Today, in many schools, the blackboard has been replaced by a tablet, and the teacher's red pen by software that corrects homework in seconds. Supporters of educational technology argue that this is not a gimmick but a revolution. Critics reply that we are rushing into something we do not fully understand.\n\nConsider the case of Wexford Academy, a secondary school in the north of England that introduced an artificial intelligence tutor two years ago. Each pupil receives exercises adapted to their level: a student who struggles with fractions is offered more practice, whereas one who has mastered them moves on to harder problems. According to the head teacher, maths results have improved by almost fifteen per cent. Teachers, who once spent their evenings marking, now have more time to talk to individual pupils. \"The software does the repetitive work,\" she says, \"so we can do the human work.\"\n\nNevertheless, not everyone is convinced. Dr Helen Marsh, a researcher in education, points out that most studies have been short and carried out by the companies that sell the products. \"Although the early results look encouraging, we simply do not have enough independent evidence,\" she says. She also worries about privacy. Every answer a pupil types is recorded, and nobody can say with certainty where that data will end up in ten years' time.\n\nAnother concern is plagiarism and dependence. Since chatbots can write a passable essay in a few seconds, some teachers have returned to handwritten exams, while others have gone in the opposite direction and encourage pupils to use the tools openly, provided that they explain how. Neither approach is perfect. Banning technology is difficult to enforce, and allowing it without limits risks producing students who can never think for themselves.\n\nPerhaps the most balanced view comes from a teacher at the school, Mr Okafor. Despite being enthusiastic about the new tools, he insists that they should remain assistants, not replacements. \"A machine can tell a child that an answer is wrong,\" he says, \"but it cannot notice that she is upset, or that she is afraid to ask a question.\" Learning, he argues, is not just the transfer of information; it is a relationship.\n\nIf he is right, the real challenge is not whether schools should use technology, but how. The most successful classrooms, researchers suggest, are those where teachers decide when a tool is useful and when it is not. Technology, in other words, is a very good servant but a poor master, and the sooner schools and parents understand this, the better the results are likely to be.",
+     "qs": [
+      {
+       "q": "What is the writer's approach in the first paragraph?",
+       "opts": [
+        "He presents the views of both supporters and critics.",
+        "He strongly criticises educational technology.",
+        "He explains how a tablet works.",
+        "He tells a personal story."
+       ],
+       "a": 0,
+       "why": "Prima i sostenitori («a revolution»), poi i critici («rushing into something»)."
+      },
+      {
+       "q": "How does the AI tutor at Wexford Academy adapt to pupils?",
+       "opts": [
+        "It gives extra practice to those who struggle and moves others on.",
+        "It replaces the maths teacher.",
+        "It sets the same work for everyone.",
+        "It marks only the best pupils."
+       ],
+       "a": 0,
+       "why": "«a student who struggles with fractions is offered more practice, whereas one who has mastered them moves on»."
+      },
+      {
+       "q": "What has changed for teachers at the school?",
+       "opts": [
+        "They teach fewer classes.",
+        "They have more time to talk to individual pupils.",
+        "They no longer prepare lessons.",
+        "They earn more."
+       ],
+       "a": 1,
+       "why": "«now have more time to talk to individual pupils»."
+      },
+      {
+       "q": "Why is Dr Marsh cautious about the early results?",
+       "opts": [
+        "The results are too bad.",
+        "Most studies were short and run by the companies selling the products.",
+        "The software is too expensive.",
+        "Pupils dislike the tablets."
+       ],
+       "a": 1,
+       "why": "«most studies have been short and carried out by the companies that sell the products»."
+      },
+      {
+       "q": "What privacy concern is mentioned?",
+       "opts": [
+        "Pupils share passwords.",
+        "Teachers read private messages.",
+        "Nobody knows where pupils' data will end up in the future.",
+        "The school sells the data."
+       ],
+       "a": 2,
+       "why": "«nobody can say with certainty where that data will end up in ten years' time»."
+      },
+      {
+       "q": "How have schools reacted to essay-writing chatbots?",
+       "opts": [
+        "All of them have banned them.",
+        "All of them allow them freely.",
+        "In different ways: some ban them, others allow them with conditions.",
+        "They have ignored the problem."
+       ],
+       "a": 2,
+       "why": "«some teachers have returned to handwritten exams, while others... encourage pupils to use the tools openly»."
+      },
+      {
+       "q": "What is Mr Okafor's opinion about the new tools?",
+       "opts": [
+        "They should replace teachers.",
+        "They should remain assistants, not replacements.",
+        "They should be forbidden.",
+        "They are useless for children."
+       ],
+       "a": 1,
+       "why": "«they should remain assistants, not replacements»."
+      },
+      {
+       "q": "Technology is a very good servant but a poor ___ .",
+       "answers": [
+        "master"
+       ],
+       "why": "«a very good servant but a poor master»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «a gimmick» significa:",
+     "opts": [
+      "una trovata per attirare l'attenzione",
+      "un grave errore",
+      "una regola severa",
+      "un metodo scientifico"
+     ],
+     "a": 0,
+     "why": "Gimmick = trovata, trucco per fare effetto."
+    },
+    {
+     "t": "mc",
+     "q": "«A passable essay» è un saggio:",
+     "opts": [
+      "accettabile, senza grandi pregi",
+      "perfetto",
+      "inaccettabile",
+      "originale"
+     ],
+     "a": 0,
+     "why": "Passable = sufficiente, che può passare."
+    },
+    {
+     "t": "gap",
+     "s": "Banning technology is difficult ___ .",
+     "opts": [
+      "to enforce",
+      "enforcing",
+      "to be enforce"
+     ],
+     "a": 0,
+     "why": "Difficult + to + infinito: to enforce."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Pupils may use the tools, ___ that they explain how.",
+     "answers": [
+      "provided",
+      "providing"
+     ],
+     "why": "Provided (that) = a condizione che."
+    }
+   ]
+  },
+  {
+   "id": "b2-10-listening",
+   "kind": "listening",
+   "title": "Un colloquio con il tutor",
+   "intro": "Una studentessa discute la sua tesi con il relatore. Ascolta come chiede chiarimenti e quali consigli riceve su metodo, campione e scadenze.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A dissertation tutorial",
+     "it": "Ascolta il colloquio. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Dr Reid",
+       "Come in, Aisha. Take a seat. So, how is the dissertation going?"
+      ],
+      [
+       "Aisha",
+       "Well, I've finished the literature review, but I'm having trouble with the methodology. I'm not sure whether I should use interviews or a questionnaire."
+      ],
+      [
+       "Dr Reid",
+       "What exactly is your research question?"
+      ],
+      [
+       "Aisha",
+       "I want to find out whether students who study online perform as well as those who attend lectures."
+      ],
+      [
+       "Dr Reid",
+       "I see. In that case, a questionnaire alone probably won't be enough. You would get opinions, but not evidence of performance. Have you considered comparing exam results as well?"
+      ],
+      [
+       "Aisha",
+       "Sorry, could you explain what you mean by comparing? Do you mean using the university's data?"
+      ],
+      [
+       "Dr Reid",
+       "Yes, exactly. You'd need permission from the department, and the data would have to be anonymous. That can take a few weeks, so I'd apply straight away."
+      ],
+      [
+       "Aisha",
+       "Right. And what about the sample size? I was planning to ask around forty students."
+      ],
+      [
+       "Dr Reid",
+       "That's a bit small. Ideally you'd want eighty or more, otherwise your results won't be reliable. Although a smaller study can still be useful if you're clear about its limitations."
+      ],
+      [
+       "Aisha",
+       "Could I just check something? Does that mean I should include a section on limitations?"
+      ],
+      [
+       "Dr Reid",
+       "Definitely. Examiners like students who recognise the weaknesses of their own work, whereas weak dissertations pretend that everything is perfect."
+      ],
+      [
+       "Aisha",
+       "Thank you, that's very helpful. When would you like to see the next draft?"
+      ],
+      [
+       "Dr Reid",
+       "Let's say the fifteenth of March. That gives you six weeks. Email it to me beforehand, and we'll meet on the Friday."
+      ],
+      [
+       "Aisha",
+       "Perfect. I'll make a start this afternoon."
+      ],
+      [
+       "Dr Reid",
+       "Good. And remember, don't leave the references until the last minute. Every year, somebody loses marks for sloppy referencing, and it is such a waste of good work."
+      ],
+      [
+       "Aisha",
+       "Understood. I'll start a reference list today and keep it up to date as I write."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What is Aisha having trouble with?",
+       "opts": [
+        "The literature review",
+        "The methodology",
+        "The references",
+        "The deadline"
+       ],
+       "a": 1,
+       "why": "«I'm having trouble with the methodology»."
+      },
+      {
+       "q": "What does her research want to find out?",
+       "opts": [
+        "Whether online students perform as well as those who attend lectures",
+        "Whether students like their lecturers",
+        "How much online courses cost",
+        "Why students drop out"
+       ],
+       "a": 0,
+       "why": "«whether students who study online perform as well as those who attend lectures»."
+      },
+      {
+       "q": "Why is a questionnaire alone not enough?",
+       "opts": [
+        "It is too expensive.",
+        "It shows opinions, not evidence of performance.",
+        "Students will not answer.",
+        "The university does not allow it."
+       ],
+       "a": 1,
+       "why": "«You would get opinions, but not evidence of performance»."
+      },
+      {
+       "q": "Before using the exam data, Aisha must get ___ from the department.",
+       "answers": [
+        "permission"
+       ],
+       "why": "«You'd need permission from the department»."
+      },
+      {
+       "q": "How many students does Dr Reid recommend?",
+       "opts": [
+        "Around forty",
+        "Eighty or more",
+        "Twenty",
+        "A hundred and fifty"
+       ],
+       "a": 1,
+       "why": "«Ideally you'd want eighty or more»."
+      },
+      {
+       "q": "Why should Aisha include a section on limitations?",
+       "opts": [
+        "Examiners like students who recognise the weaknesses of their work.",
+        "It makes the dissertation longer.",
+        "It is a university rule.",
+        "It replaces the conclusion."
+       ],
+       "a": 0,
+       "why": "«Examiners like students who recognise the weaknesses of their own work»."
+      },
+      {
+       "q": "When is the next draft due?",
+       "opts": [
+        "On the fifteenth of March",
+        "On the fifth of March",
+        "On the Friday of next week",
+        "On the fifteenth of May"
+       ],
+       "a": 0,
+       "why": "«Let's say the fifteenth of March»."
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "Sorry, could you explain what you mean by comparing?",
+     "it": "Scusi, potrebbe spiegare che cosa intende per confrontare?"
+    },
+    {
+     "t": "dictation",
+     "en": "Examiners like students who recognise the weaknesses of their own work.",
+     "it": "Agli esaminatori piacciono gli studenti che riconoscono i punti deboli del proprio lavoro."
+    },
+    {
+     "t": "speak",
+     "en": "Could I just check something?",
+     "it": "Posso solo controllare una cosa?"
+    }
+   ]
+  },
+  {
+   "id": "b2-10-situation",
+   "kind": "situation",
+   "title": "Discussione accademica",
+   "intro": "Come si chiedono chiarimenti, si riformula quanto detto e si presentano risultati con prudenza in un seminario o durante un colloquio con il docente.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Chiedere chiarimenti e riformulare",
+     "body": "In un contesto accademico è normale chiedere di spiegare meglio:\n- **Could you clarify what you mean by...?** = Potrebbe chiarire che cosa intende con...?\n- **I'm not sure I follow.** = Non sono sicuro di seguire.\n- **Could you give an example?** = Potrebbe fare un esempio?\n- **Could you go over that again, please?** = Potrebbe ripetere?\n- **Do you mean that...?** / **So what you're saying is...** = Vuole dire che... / Quindi sta dicendo che...\n- **If I understand correctly, ...** = Se ho capito bene...\n\nPer riformulare una tua frase: **Let me put it another way.** / **What I mean is...**\n**Errore tipico degli italiani**: «Can you explain me?». In inglese: **explain something to someone** (Could you explain it to me?).",
+     "ex": [
+      [
+       "Could you clarify what you mean by sample size?",
+       "Potrebbe chiarire che cosa intende con dimensione del campione?"
+      ],
+      [
+       "If I understand correctly, the results are not reliable.",
+       "Se ho capito bene, i risultati non sono affidabili."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Presentare risultati con prudenza",
+     "body": "Nei testi e nei discorsi accademici si evita di dire cose troppo assolute. Si usano formule di cautela:\n- **It seems that... / It appears that...**\n- **This may suggest that... / The results suggest that...**\n- **tends to**, **in most cases**, **to some extent**\n- **One limitation of the study is that...**\n- **Further research is needed.**\n\nPer indicare un risultato: **The main finding was that...** / **According to the data...** / **This shows that...** (più deciso). Evita «This proves that...», che di solito è troppo forte.",
+     "ex": [
+      [
+       "The results suggest that online learners perform as well as others.",
+       "I risultati suggeriscono che chi studia online rende quanto gli altri."
+      ],
+      [
+       "One limitation is the small sample.",
+       "Un limite è il campione ridotto."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "In a seminar",
+     "it": "Scegli la battuta più adatta a un contesto accademico.",
+     "lines": [
+      [
+       "Lecturer",
+       "So the study found a strong correlation between sleep and exam results, but this does not prove a cause."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Sorry, could you clarify the difference between correlation and cause?",
+         "I don't understand anything, explain me.",
+         "Is the same, no?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Lecturer",
+       "A correlation means two things happen together. A cause means one produces the other."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I see. Could you give an example?",
+         "Okay, I know all this.",
+         "Then the study is wrong."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Lecturer",
+       "Of course. Ice cream sales and sunburn rise together, but ice cream does not cause sunburn."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "If I understand correctly, something else, like hot weather, causes both.",
+         "So the ice cream is dangerous.",
+         "I'm not agree, ice cream is good."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "Le formule Could you clarify, Could you give an example e If I understand correctly mostrano interesse e rendono la conversazione precisa."
+    },
+    {
+     "t": "dialog",
+     "title": "Office hours",
+     "it": "Scegli la risposta più naturale.",
+     "lines": [
+      [
+       "Tutor",
+       "How can I help you today?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm having some trouble with my essay plan. Could I ask for your advice?",
+         "My essay is bad, fix it.",
+         "I have the doubt about essay."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tutor",
+       "Of course. What seems to be the problem?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm not sure how to structure the second paragraph. It seems to repeat the first.",
+         "It's all wrong, I can't do it.",
+         "I don't know, you are the tutor."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tutor",
+       "Perhaps you could start with a clear topic sentence."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That makes sense. Could you go over that again, please?",
+         "Yes, I know what a topic sentence is.",
+         "I don't have time for this."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Could you clarify what you mean?",
+       "Potrebbe chiarire che cosa intende?"
+      ],
+      [
+       "I'm not sure I follow.",
+       "Non sono sicuro di seguire."
+      ],
+      [
+       "If I understand correctly...",
+       "Se ho capito bene..."
+      ],
+      [
+       "Could you give an example?",
+       "Potrebbe fare un esempio?"
+      ],
+      [
+       "Further research is needed.",
+       "Servono ulteriori ricerche."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Se ho capito bene, i risultati non sono affidabili.",
+     "en": "If I understand correctly the results are not reliable",
+     "extra": [
+      "did",
+      "than"
+     ],
+     "alts": [
+      "The results are not reliable if I understand correctly"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "Could you clarify what you mean by that?",
+     "it": "Potrebbe chiarire che cosa intende con questo?"
+    },
+    {
+     "t": "speak",
+     "en": "I'm not sure I follow. Could you give an example?",
+     "it": "Non sono sicuro di seguire. Potrebbe fare un esempio?"
+    },
+    {
+     "t": "speak",
+     "en": "The results suggest that further research is needed.",
+     "it": "I risultati suggeriscono che servono ulteriori ricerche."
+    },
+    {
+     "t": "speakTask",
+     "q": "You are in a seminar and the lecturer has just explained a new idea. Ask for clarification, summarise what you understood and mention one possible weakness.",
+     "it": "Sei a un seminario: chiedi un chiarimento, riassumi quello che hai capito e indica un possibile punto debole (almeno 5 frasi).",
+     "hints": [
+      "Sorry, could you clarify...?",
+      "If I understand correctly...",
+      "So what you're saying is...",
+      "One limitation might be..."
+     ],
+     "min": 50,
+     "model": "Sorry, could you clarify what you mean by sustainable growth? If I understand correctly, it means growing the economy without damaging the environment. So what you're saying is that both goals can be achieved together. I find that interesting, but one limitation might be that it depends on new technology, which is still expensive. Could you give an example of a country where this has worked?"
+    }
+   ]
+  },
+  {
+   "id": "b2-10-production",
+   "kind": "production",
+   "title": "Il saggio B2 First",
+   "intro": "Il saggio completo del B2 First: due punti dati dalla traccia più una tua idea. Struttura, registro, connettivi e lingua sono quelli che valuta l'esaminatore. Poi due attività di parlato.",
+   "minutes": 30,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Il saggio B2 First (Part 1)",
+     "body": "Nella Part 1 della prova di scrittura ricevi un tema e **due punti** da trattare; devi aggiungere **una tua idea** (own idea). Devi scrivere 140-190 parole in registro neutro-formale.\n\nStruttura consigliata:\n- **Introduzione**: presenta il tema e la tua posizione.\n- **Punto 1** (primo paragrafo): argomento con spiegazione e, se puoi, esempio.\n- **Punto 2**: lo stesso, possibilmente con un contrasto.\n- **La tua idea**: un terzo punto originale, introdotto da In my opinion / Another factor is...\n- **Conclusione**: To sum up, I believe... (senza nuove idee).\n\n**Connettivi** che danno punteggio: although, despite, whereas, nevertheless, moreover, as a result, in order to. **Lingua**: varia le strutture: un passivo, un condizionale, una frase scissa o un'inversione. **Collocazioni** precise: make a decision, carry out research, raise awareness.\nNiente contrazioni e niente linguaggio colloquiale; non copiare le parole della traccia e controlla di aver trattato tutti i punti.",
+     "ex": [
+      [
+       "The first issue is cost.",
+       "Il primo problema è il costo."
+      ],
+      [
+       "To sum up, a balanced approach is best.",
+       "In sintesi, un approccio equilibrato è il migliore."
+      ]
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Quale connettivo introduce correttamente un contrasto con la frase precedente?",
+     "opts": [
+      "Nevertheless, most pupils passed.",
+      "Therefore, most pupils passed.",
+      "Moreover, most pupils passed."
+     ],
+     "a": 0,
+     "why": "Dopo una difficoltà serve un contrasto: Nevertheless."
+    },
+    {
+     "t": "gap",
+     "s": "___ the benefits of technology, a balanced approach is best.",
+     "opts": [
+      "Despite",
+      "Although",
+      "Whereas"
+     ],
+     "a": 0,
+     "why": "Despite + nome (the benefits of technology)."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "To ___ up, I believe that schools should use both tablets and textbooks.",
+     "answers": [
+      "sum"
+     ],
+     "why": "To sum up = in sintesi, per concludere."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "In my opinion, I think that tablets are too expensive for schools.",
+     "answers": [
+      "In my opinion, tablets are too expensive for schools",
+      "In my opinion tablets are too expensive for schools",
+      "I think that tablets are too expensive for schools",
+      "I think tablets are too expensive for schools"
+     ],
+     "why": "In my opinion e I think dicono la stessa cosa: se ne usa uno solo."
+    },
+    {
+     "t": "write",
+     "q": "In your English class you have been talking about technology in schools. Your teacher has asked you to write an essay. Write an essay using all the notes and give reasons for your point of view. Should schools replace textbooks with tablets? Notes: Write about: 1. cost 2. concentration 3. (your own idea)",
+     "it": "Scrivi il saggio (140-190 parole): tratta il costo, la concentrazione e una tua idea personale, motivando la tua opinione. Usa almeno tre connettivi di contrasto o addizione.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho trattato i due punti e aggiunto una mia idea, con una chiara opinione",
+      "Comunicazione: registro neutro-formale, nessuna contrazione",
+      "Organizzazione: introduzione, un paragrafo per punto, conclusione, con connettivi",
+      "Lingua: ho usato almeno tre connettivi (although, despite, whereas, nevertheless...) e collocazioni precise",
+      "Ho rispettato il numero di parole (140-190)"
+     ],
+     "useful": [
+      "Nowadays, many people believe that...",
+      "The first issue is...",
+      "Whereas..., ...",
+      "Nevertheless, ...",
+      "In my opinion, there is another factor: ...",
+      "To sum up, I believe that...",
+      "Despite the benefits of..., ..."
+     ],
+     "model": "Nowadays, many schools are replacing textbooks with tablets. Although this change has clear advantages, it also raises some important questions.\n\nThe first issue is cost. Tablets are expensive, and they need to be repaired or replaced more often than books. However, once schools have bought them, they can save money on printing, since digital books are usually cheaper and can be updated at no cost.\n\nThe second point is concentration. Whereas a textbook contains only the lesson, a tablet also offers games and messages, so pupils may be easily distracted. Nevertheless, with clear rules and the right software, teachers can limit this problem.\n\nIn my opinion, there is a third factor: health. Spending hours in front of a screen can harm children's eyesight and posture, so paper still has a role to play.\n\nTo sum up, I believe that tablets should be used alongside textbooks, rather than instead of them. Despite the benefits of technology, a balanced approach is the best way to protect both learning and well-being."
+    },
+    {
+     "t": "speakTask",
+     "q": "Do you think smartphones should be banned in schools? Give reasons.",
+     "it": "Dì se secondo te gli smartphone andrebbero vietati a scuola e perché (almeno 5 frasi).",
+     "hints": [
+      "In my opinion...",
+      "Although...",
+      "On the other hand...",
+      "To sum up..."
+     ],
+     "min": 50,
+     "model": "In my opinion, smartphones should be restricted but not completely banned. Although they can distract pupils, they are also useful for research and for emergencies. On the other hand, children who spend the whole lesson looking at a screen learn very little. Therefore, I think teachers should decide when phones can be used. To sum up, clear rules are better than a total ban."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe a piece of technology that has changed the way you study or work.",
+     "it": "Descrivi una tecnologia che ha cambiato il tuo modo di studiare o lavorare (almeno 5 frasi).",
+     "hints": [
+      "I couldn't live without...",
+      "It allows me to...",
+      "Before I had it, I used to...",
+      "However, one disadvantage is..."
+     ],
+     "min": 50,
+     "model": "The piece of technology that has changed my work most is my laptop. It allows me to work from anywhere and to keep all my documents in one place. Before I had it, I used to carry heavy folders everywhere. However, one disadvantage is that I find it harder to switch off in the evening. Even so, I could not imagine working without it."
+    }
+   ]
+  },
+  {
+   "id": "b2-10-test",
+   "kind": "test",
+   "title": "Test finale del corso",
+   "intro": "Ripasso generale del B2: condizionali, wish, passivo e causativo, reporting verbs, relative e participio, inversione, modali del passato, futuro, word formation e connettivi. Nessun aiuto durante la prova.",
+   "minutes": 30,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "If I ___ harder at school, I would have a better job now.",
+     "opts": [
+      "had studied",
+      "studied",
+      "would study"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I wish I ___ more time to prepare yesterday.",
+     "opts": [
+      "had had",
+      "would have",
+      "have had"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The castle is believed ___ by monks in the twelfth century.",
+     "opts": [
+      "to have been built",
+      "to build",
+      "to be building"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She admitted ___ the report without checking it.",
+     "opts": [
+      "signing",
+      "to sign",
+      "sign"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The scientist, ___ research was funded by the EU, won the prize.",
+     "opts": [
+      "whose",
+      "who",
+      "which"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "___ the instructions carefully, she began the experiment.",
+     "opts": [
+      "Having read",
+      "Having been read",
+      "To have read"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Not until the results were published ___ the error.",
+     "opts": [
+      "did they discover",
+      "they discovered",
+      "had they discovered"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "You ___ me you were coming; I would have cooked dinner.",
+     "opts": [
+      "should have told",
+      "must have told",
+      "can have told"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "By the time you arrive, I ___ dinner.",
+     "opts": [
+      "will have cooked",
+      "will cook",
+      "am cooking"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "This time tomorrow, we ___ on a beach in Greece.",
+     "opts": [
+      "will be lying",
+      "would be lying",
+      "will have lain"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "___ the fact that she was ill, she went to work.",
+     "opts": [
+      "In spite of",
+      "Although",
+      "Despite of"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "She won a ___ to study at Oxford.",
+     "opts": [
+      "scholarship",
+      "plagiarism",
+      "algorithm",
+      "dissertation"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Copying someone else's work without saying so is called ___ .",
+     "opts": [
+      "plagiarism",
+      "literacy",
+      "automation",
+      "curriculum"
+     ],
+     "a": 0
+    },
+    {
+     "t": "transform",
+     "s1": "People say that the minister has resigned.",
+     "key": "SAID",
+     "s2": "The minister ___ resigned.",
+     "answers": [
+      "is said to have"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I wish I had studied harder at school.",
+     "key": "REGRET",
+     "s2": "I ___ harder at school.",
+     "answers": [
+      "regret not studying",
+      "regret not having studied",
+      "regret not studying"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "\"I didn't take your book,\" he said.",
+     "key": "DENIED",
+     "s2": "He ___ my book.",
+     "answers": [
+      "denied taking",
+      "denied having taken"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "The match was cancelled because of the heavy rain.",
+     "key": "DUE",
+     "s2": "The match was cancelled ___ heavy rain.",
+     "answers": [
+      "due to the"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "It's possible that she missed the train.",
+     "key": "MIGHT",
+     "s2": "She ___ the train.",
+     "answers": [
+      "might have missed"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "If I would have known, I would have called you.",
+     "answers": [
+      "If I had known, I would have called you",
+      "If I had known I would have called you"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "He suggested me to take a different route.",
+     "answers": [
+      "He suggested that I take a different route",
+      "He suggested that I should take a different route",
+      "He suggested I take a different route",
+      "He suggested I should take a different route"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "The ___ of the new software was a great success.",
+     "root": "INTRODUCE",
+     "answers": [
+      "introduction"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "It is ___ to predict the weather months in advance.",
+     "root": "POSSIBLE",
+     "answers": [
+      "impossible"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Distance learning",
+     "mode": "mc",
+     "text": "Distance learning has become increasingly popular in recent years. {1} some people argue that it lacks the personal contact of a classroom, many students find it more {2} to their busy lives. Most universities now {3} courses online, and several have introduced a {4} system that allows students to earn credits at their own pace. Without discipline, however, many learners {5} out before the end of the course.",
+     "gaps": [
+      {
+       "opts": [
+        "Although",
+        "Despite",
+        "However",
+        "Nevertheless"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "suited",
+        "fitting",
+        "adapting",
+        "matching"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "offer",
+        "propose",
+        "present",
+        "suggest"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "flexible",
+        "flexibly",
+        "flexibility",
+        "flex"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "drop",
+        "fall",
+        "fade",
+        "pass"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A message from the university",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Admissions",
+       "Hello, this is the admissions office at Northfield University. I'm calling about your scholarship application. I'm pleased to say that you have been successful. The scholarship covers your tuition fees for the first year and is worth four thousand pounds. To accept it, please send us a signed form by the thirtieth of June. If you have any questions, call us before five on weekdays."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What is the call about?",
+       "opts": [
+        "A scholarship application",
+        "A lost passport",
+        "A change of course",
+        "An exam result"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How much is the scholarship worth?",
+       "opts": [
+        "£4,000",
+        "£400",
+        "£14,000",
+        "£40,000"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What must the student do by the thirtieth of June?",
+       "opts": [
+        "Send a signed form",
+        "Pay the fees",
+        "Attend an interview",
+        "Call the office"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Se avessi saputo, sarei venuto prima.",
+     "en": "Had I known I would have come earlier",
+     "extra": [
+      "if",
+      "did"
+     ],
+     "alts": [
+      "If I had known I would have come earlier"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1497 @@
+{
+  "id": "b1-02",
+  "level": "B1",
+  "position": 2,
+  "title": "Notizie e storie",
+  "sub": "Narrative tenses - denunciare un furto",
+  "grammar": "Narrative tenses: past simple, past continuous, past perfect",
+  "topic": "Notizie, storie, piccoli crimini",
+  "situation": "Denunciare un furto o uno smarrimento",
+  "lessons": [
+    {
+      "id": "b1-02-grammar",
+      "kind": "grammar",
+      "title": "Raccontare al passato",
+      "intro": "Per raccontare una storia in inglese si alternano tre tempi: past simple per gli eventi, past continuous per lo sfondo e le azioni interrotte, past perfect per ciò che era già successo prima. Sono l'equivalente di passato prossimo, imperfetto e trapassato, ma con regole d'uso diverse dalle nostre.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Past simple e past continuous: eventi e sfondo",
+          "body": "- **Past simple** (walked, saw, stole): gli **eventi** della storia, uno dopo l'altro. I opened the door and saw a stranger.\n- **Past continuous** (was / were + -ing): lo **sfondo**, cioè che cosa stava succedendo, e l'azione **in corso interrotta** da un evento. It **was raining** and I **was walking** home when a car **stopped**.\n\nCon **while** di solito si usa il continuous: **While** I **was waiting**, I read the paper.\nCon **when** + evento breve si usa il simple: I was waiting **when** my phone **rang**.\n\n**Attenzione**: i verbi di stato (know, like, want, be...) di solito non hanno il continuous, nemmeno al passato. In italiano l'imperfetto va bene per tutto («Sapevo la risposta»), in inglese: I **knew** the answer.\n\n**Errore tipico degli italiani**: «I was seeing a man» -> I **saw** a man (un evento, non un'azione in corso).",
+          "table": [
+            [
+              "",
+              "Forma",
+              "Esempio"
+            ],
+            [
+              "Past simple",
+              "verbo + -ed / forma irregolare",
+              "She stole the bag."
+            ],
+            [
+              "Past continuous",
+              "was / were + -ing",
+              "They were running away."
+            ]
+          ],
+          "ex": [
+            [
+              "I was cooking when the phone rang.",
+              "Stavo cucinando quando ha squillato il telefono."
+            ],
+            [
+              "While we were sleeping, someone broke into the shop.",
+              "Mentre dormivamo, qualcuno è entrato nel negozio."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Past perfect: prima del passato",
+          "body": "Forma: **had + participio passato** (had left, had seen, had taken). È uguale per tutte le persone: I had, she had, they had.\n\nSi usa per un'azione **già avvenuta prima** di un altro momento del passato (il nostro trapassato):\n- When we arrived, the film **had** already **started**. (prima l'inizio del film, poi il nostro arrivo)\n- She realised she **had left** her wallet at home.\n\nParole che lo accompagnano: **already, just, never, by the time, before, after, when**.\n\nCompara:\n- When I arrived, she **left**. (prima io arrivo, poi lei va via)\n- When I arrived, she **had left**. (lei se n'era già andata)\n\n**Errore tipico degli italiani**: «When I arrived, the shop already closed» -> the shop **had** already **closed**. Se non c'è ordine di eventi da chiarire, basta il past simple: After I **finished** work, I went home.",
+          "table": [
+            [
+              "",
+              "Affermativa",
+              "Negativa",
+              "Domanda"
+            ],
+            [
+              "tutte le persone",
+              "had stolen",
+              "hadn't stolen",
+              "Had he stolen?"
+            ]
+          ],
+          "ex": [
+            [
+              "By the time the police came, the thief had disappeared.",
+              "Quando è arrivata la polizia, il ladro era scomparso."
+            ],
+            [
+              "I hadn't noticed the problem until I got home.",
+              "Non mi ero accorto del problema finché non sono arrivato a casa."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Mettere insieme i tre tempi",
+          "body": "In una storia di solito:\n1. **Past continuous** per aprire la scena: It was a cold night and the streets were empty.\n2. **Past simple** per gli eventi: Suddenly a man ran out of a shop.\n3. **Past perfect** per spiegare che cosa era successo prima: He had stolen a wallet.\n\nUn esempio completo:\n**I was walking home when I saw a crowd outside the bank. Someone had broken the window, and the police were already asking questions.**\n\nConnettivi per raccontare: **suddenly, then, after that, meanwhile, as soon as, while, by the time, eventually, in the end**.",
+          "ex": [
+            [
+              "It was getting dark when I realised I had lost my keys.",
+              "Stava facendo buio quando ho capito di aver perso le chiavi."
+            ],
+            [
+              "Eventually the police found the car.",
+              "Alla fine la polizia ha trovato l'auto."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Quando basta il past simple",
+          "body": "Il past perfect non serve se gli eventi sono raccontati **nell'ordine in cui sono accaduti**, oppure quando la parola **before / after** già chiarisce la successione.\n- She **got** off the train and **went** to the café. (ordine cronologico)\n- After she **got** home, she **called** the police. (anche «had got» è possibile, ma non necessario)\n\nMa attenzione: se l'ordine non è chiaro, serve il past perfect.\n- When she **got** home, her flat **was** empty. (era vuoto quando è arrivata, ma non si sa da quando)\n- When she **got** home, the burglars **had** already **taken** everything. (erano già passati)",
+          "ex": [
+            [
+              "I locked the door and went to bed.",
+              "Ho chiuso la porta a chiave e sono andato a letto."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I ___ along the road when I saw an accident.",
+          "opts": [
+            "was walking",
+            "walked",
+            "had walked"
+          ],
+          "a": 0,
+          "it": "Camminavo lungo la strada quando ho visto un incidente.",
+          "why": "Azione in corso interrotta da un evento breve (saw): past continuous."
+        },
+        {
+          "t": "gap",
+          "s": "When we got to the station, the train ___ .",
+          "opts": [
+            "had already left",
+            "has already left",
+            "already leaving"
+          ],
+          "a": 0,
+          "it": "Quando siamo arrivati alla stazione, il treno era già partito.",
+          "why": "Il treno è partito prima del nostro arrivo: past perfect."
+        },
+        {
+          "t": "gap",
+          "s": "While the thief ___ the window, a neighbour called the police.",
+          "opts": [
+            "was breaking",
+            "broke",
+            "had broken"
+          ],
+          "a": 0,
+          "why": "Azione in corso (while) durante la quale succede un altro evento: past continuous."
+        },
+        {
+          "t": "gap",
+          "s": "She went to the lost property office because she ___ her bag on the train.",
+          "opts": [
+            "had left",
+            "was leaving",
+            "has left"
+          ],
+          "a": 0,
+          "why": "L'aver lasciato la borsa è avvenuto prima dell'andare all'ufficio: past perfect."
+        },
+        {
+          "t": "gap",
+          "s": "I was cooking dinner when the phone ___ .",
+          "opts": [
+            "rang",
+            "was ringing",
+            "had rung"
+          ],
+          "a": 0,
+          "why": "Evento breve che interrompe l'azione in corso: past simple."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "When I opened the door, the burglars had already gone.",
+            "When I opened the door, the burglars already went.",
+            "When I opened the door, the burglars has already gone."
+          ],
+          "a": 0,
+          "why": "Se i ladri se n'erano già andati, serve il past perfect (had gone)."
+        },
+        {
+          "t": "mc",
+          "q": "In quale frase il film era già cominciato quando siamo arrivati?",
+          "opts": [
+            "When we arrived, the film had started.",
+            "When we arrived, the film started.",
+            "When we arrived, the film was starting."
+          ],
+          "a": 0,
+          "why": "Past perfect = azione precedente. Con il past simple il film inizia dopo il nostro arrivo."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "While I ___ (wait) for the bus, a man ran past me.",
+          "answers": [
+            "was waiting"
+          ],
+          "why": "Azione in corso con while: past continuous."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "By the time the police arrived, the thief ___ (disappear).",
+          "answers": [
+            "had disappeared",
+            "'d disappeared"
+          ],
+          "why": "By the time + azione precedente: past perfect."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Quando sono arrivato, il negozio aveva già chiuso.",
+          "answers": [
+            "When I arrived, the shop had already closed",
+            "When I arrived the shop had already closed",
+            "When I got there, the shop had already closed",
+            "When I got to the shop, it had already closed",
+            "When I arrived, the shop had closed already",
+            "When I got there, the shop had closed already",
+            "When I arrived, the shop had already shut",
+            "When I got there, the shop had already shut"
+          ],
+          "why": "In inglese il trapassato italiano corrisponde al past perfect: had closed."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Stavo guidando quando ho sentito uno strano rumore.",
+          "answers": [
+            "I was driving when I heard a strange noise",
+            "I was driving when I heard a weird noise",
+            "I was driving when I heard a strange sound",
+            "I was driving when I heard a funny noise",
+            "I was driving when I heard a weird sound",
+            "I was driving when I heard an odd noise"
+          ],
+          "why": "Azione in corso (was driving) interrotta da un evento (heard)."
+        },
+        {
+          "t": "fix",
+          "s": "When I got home, I realised that I left my wallet in the café.",
+          "answers": [
+            "When I got home, I realised that I had left my wallet in the café",
+            "When I got home, I realised I had left my wallet in the café",
+            "When I got home I realised that I had left my wallet in the café",
+            "When I got home I realised I had left my wallet in the café"
+          ],
+          "why": "Lasciare il portafoglio è avvenuto prima del rendersene conto: had left."
+        },
+        {
+          "t": "fix",
+          "s": "I was seeing a strange man outside my house.",
+          "answers": [
+            "I saw a strange man outside my house"
+          ],
+          "why": "Vedere in quel momento è un evento puntuale: past simple."
+        },
+        {
+          "t": "fix",
+          "s": "While I was having breakfast, the postman has brought a parcel.",
+          "answers": [
+            "While I was having breakfast, the postman brought a parcel",
+            "While I was having breakfast, the postman delivered a parcel"
+          ],
+          "why": "In un racconto al passato serve il past simple (brought), non il present perfect."
+        },
+        {
+          "t": "transform",
+          "s1": "The thieves escaped before the police arrived.",
+          "key": "ALREADY",
+          "s2": "When the police arrived, the thieves ___ .",
+          "answers": [
+            "had already escaped",
+            "had already gone",
+            "had already run away",
+            "had already fled",
+            "had already left"
+          ],
+          "why": "Prima la fuga, poi l'arrivo: past perfect con already."
+        },
+        {
+          "t": "transform",
+          "s1": "I was in the middle of cooking when the phone rang.",
+          "key": "WHILE",
+          "s2": "The phone rang ___ .",
+          "answers": [
+            "while I was cooking",
+            "while I was cooking dinner",
+            "while I was making dinner"
+          ],
+          "why": "While + past continuous per l'azione in corso."
+        },
+        {
+          "t": "order",
+          "it": "Mentre aspettavo l'autobus, ho visto un vecchio amico.",
+          "en": "While I was waiting for the bus I saw an old friend",
+          "extra": [
+            "had",
+            "wait"
+          ],
+          "alts": [
+            "I saw an old friend while I was waiting for the bus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-02-vocab",
+      "kind": "vocab",
+      "title": "Notizie, furti e storie",
+      "intro": "Il lessico dei giornali e della cronaca, e i connettivi che servono per raccontare. Attenzione a rob e steal: si usano in modo diverso.",
+      "minutes": 20,
+      "words": [
+        {
+          "id": "b1-02-w01",
+          "en": "headline",
+          "it": "titolo (di giornale)",
+          "ipa": "ˈhedlaɪn",
+          "pos": "n",
+          "ex": [
+            "The story made the headlines for a week.",
+            "La storia è stata sui giornali per una settimana."
+          ],
+          "note": "Collocazione: make the headlines."
+        },
+        {
+          "id": "b1-02-w02",
+          "en": "witness",
+          "it": "testimone",
+          "ipa": "ˈwɪtnəs",
+          "pos": "n",
+          "ex": [
+            "A witness saw two men leaving the shop.",
+            "Un testimone ha visto due uomini uscire dal negozio."
+          ],
+          "note": "Anche verbo: to witness = assistere a, vedere."
+        },
+        {
+          "id": "b1-02-w03",
+          "en": "suspect",
+          "it": "sospettato",
+          "ipa": "ˈsʌspekt",
+          "pos": "n",
+          "ex": [
+            "The police have arrested a suspect.",
+            "La polizia ha arrestato un sospettato."
+          ],
+          "note": "Il nome ha l'accento sulla prima sillaba, il verbo (to suspect) sulla seconda."
+        },
+        {
+          "id": "b1-02-w04",
+          "en": "burglary",
+          "it": "furto con scasso",
+          "ipa": "ˈbɜːɡləri",
+          "pos": "n",
+          "ex": [
+            "There was a burglary on our street last night.",
+            "Ieri sera c'è stato un furto con scasso nella nostra strada."
+          ],
+          "note": "Chi lo commette è a burglar."
+        },
+        {
+          "id": "b1-02-w05",
+          "en": "pickpocket",
+          "it": "borsaiolo",
+          "ipa": "ˈpɪkpɒkɪt",
+          "pos": "n",
+          "ex": [
+            "Watch out for pickpockets on the metro.",
+            "Attenzione ai borseggiatori in metropolitana."
+          ]
+        },
+        {
+          "id": "b1-02-w06",
+          "en": "break into",
+          "it": "introdursi con la forza in",
+          "ipa": "ˌbreɪk ˈɪntuː",
+          "pos": "pv",
+          "ex": [
+            "Someone broke into our car and took the radio.",
+            "Qualcuno è entrato nella nostra auto e ha portato via la radio."
+          ],
+          "note": "Passato: broke into; participio: broken into."
+        },
+        {
+          "id": "b1-02-w07",
+          "en": "run off",
+          "it": "scappare via",
+          "ipa": "rʌn ˈɒf",
+          "pos": "pv",
+          "ex": [
+            "The boy grabbed the bag and ran off.",
+            "Il ragazzo ha afferrato la borsa ed è scappato."
+          ],
+          "note": "Simile a run away."
+        },
+        {
+          "id": "b1-02-w08",
+          "en": "arrest",
+          "it": "arrestare",
+          "ipa": "əˈrest",
+          "pos": "v",
+          "ex": [
+            "Police arrested two men at the airport.",
+            "La polizia ha arrestato due uomini all'aeroporto."
+          ],
+          "note": "Anche nome: under arrest = in arresto."
+        },
+        {
+          "id": "b1-02-w09",
+          "en": "wallet",
+          "it": "portafoglio",
+          "ipa": "ˈwɒlɪt",
+          "pos": "n",
+          "ex": [
+            "I left my wallet on the bus.",
+            "Ho lasciato il portafoglio sull'autobus."
+          ],
+          "emoji": "👛"
+        },
+        {
+          "id": "b1-02-w10",
+          "en": "lost property",
+          "it": "oggetti smarriti",
+          "ipa": "lɒst ˈprɒpəti",
+          "pos": "phr",
+          "ex": [
+            "I phoned the lost property office at the station.",
+            "Ho telefonato all'ufficio oggetti smarriti della stazione."
+          ],
+          "note": "Non numerabile: «lost property» non ha plurale."
+        },
+        {
+          "id": "b1-02-w11",
+          "en": "rob",
+          "it": "rapinare, derubare",
+          "ipa": "rɒb",
+          "pos": "v",
+          "ex": [
+            "Two men robbed a bank in the city centre.",
+            "Due uomini hanno rapinato una banca in centro."
+          ],
+          "note": "Si deruba una persona o un luogo (rob a bank); si ruba una cosa (steal a bike). Nome: robbery."
+        },
+        {
+          "id": "b1-02-w12",
+          "en": "eventually",
+          "it": "alla fine, col tempo",
+          "ipa": "ɪˈventʃuəli",
+          "pos": "adv",
+          "ex": [
+            "Eventually the police found the stolen car.",
+            "Alla fine la polizia ha trovato l'auto rubata."
+          ],
+          "note": "Falso amico: NON significa «eventualmente» (che si dice possibly / if necessary)."
+        },
+        {
+          "id": "b1-02-w13",
+          "en": "meanwhile",
+          "it": "nel frattempo",
+          "ipa": "ˈmiːnwaɪl",
+          "pos": "adv",
+          "ex": [
+            "I went to the police. Meanwhile, my friend cancelled the cards.",
+            "Sono andato alla polizia. Nel frattempo, il mio amico ha bloccato le carte."
+          ]
+        },
+        {
+          "id": "b1-02-w14",
+          "en": "get away with",
+          "it": "farla franca con",
+          "ipa": "ɡet əˈweɪ wɪð",
+          "pos": "phr",
+          "ex": [
+            "He thought he would get away with the crime.",
+            "Pensava di farla franca con il crimine."
+          ],
+          "note": "Si usa anche in senso lieve: get away with a small lie."
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "make the headlines",
+              "finire sui giornali"
+            ],
+            [
+              "break into a house",
+              "entrare con la forza in una casa"
+            ],
+            [
+              "arrest a suspect",
+              "arrestare un sospettato"
+            ],
+            [
+              "report a burglary",
+              "denunciare un furto con scasso"
+            ],
+            [
+              "get away with a crime",
+              "farla franca dopo un reato"
+            ],
+            [
+              "a key witness",
+              "un testimone chiave"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Two men ___ a bank in the city centre last night.",
+          "opts": [
+            "robbed",
+            "stole",
+            "kept"
+          ],
+          "a": 0,
+          "why": "Si «rob» un luogo o una persona; «steal» ha come oggetto la cosa rubata (steal money)."
+        },
+        {
+          "t": "gap",
+          "s": "Someone ___ my bike from the garage.",
+          "opts": [
+            "stole",
+            "robbed",
+            "burgled"
+          ],
+          "a": 0,
+          "why": "L'oggetto è la cosa portata via (bike): steal."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «Eventually, they found the car»?",
+          "opts": [
+            "Alla fine hanno trovato l'auto.",
+            "Eventualmente troveranno l'auto.",
+            "Per caso hanno trovato l'auto."
+          ],
+          "a": 0,
+          "why": "«Eventually» è un falso amico: significa «alla fine, dopo un po'»."
+        },
+        {
+          "t": "wordform",
+          "s": "The man was arrested for ___ after he took money from a shop.",
+          "root": "ROB",
+          "answers": [
+            "robbery"
+          ],
+          "why": "Serve il nome: rob -> robbery."
+        },
+        {
+          "t": "wordform",
+          "s": "A ___ broke a window and got into the flat.",
+          "root": "BURGLARY",
+          "answers": [
+            "burglar"
+          ],
+          "why": "Serve la persona: burglary -> burglar."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "The two men ran ___ when they heard the alarm.",
+          "answers": [
+            "off",
+            "away"
+          ],
+          "sub": "I due uomini sono scappati quando hanno sentito l'allarme."
+        }
+      ]
+    },
+    {
+      "id": "b1-02-reading",
+      "kind": "reading",
+      "title": "Una borsa che torna a casa",
+      "intro": "Un breve articolo di cronaca locale racconta un furto dal lieto fine. Nota come l'autore alterna past simple, past continuous e past perfect.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "read",
+          "title": "Thief takes bag - and a stranger brings it back",
+          "genre": "articolo",
+          "text": "A woman in Bristol could not believe her luck last Saturday when a stranger returned the bag that a thief had stolen from her only a few hours earlier.\n\nHelen Marsh, a 34-year-old nurse, was having coffee outside a café in the city centre when it happened. She had put her bag on the empty chair next to her, and she was reading the news on her phone, so she did not notice the young man who was walking slowly between the tables. Suddenly the chair was empty. \"I looked up and saw him running down the street with my bag,\" Helen said. \"I shouted, but nobody could stop him.\"\n\nHelen reported the theft at the police station, where an officer took her details. She was feeling miserable. The bag had contained her wallet, her house keys and a birthday present for her mother. While she was waiting for a taxi home, her phone rang.\n\nThe caller was a cleaner from a nearby office building. She had found the bag in a bin behind the building. The thief had taken the cash from the wallet, but he had thrown everything else away. There was a business card in the wallet with Helen's mobile number on it, so the cleaner had decided to call.\n\nWhen Helen got to the building, the cleaner was waiting with the bag. Everything was inside, even the birthday present, still wrapped. The present was a box of chocolates. \"I gave her half of them,\" Helen laughed.\n\nThe police have not arrested anyone yet, but they think the thief may be the same person who has stolen four other bags in the area this month. They are asking anyone who saw the incident to contact them.",
+          "qs": [
+            {
+              "q": "Where was Helen when the bag was stolen?",
+              "opts": [
+                "Outside a café",
+                "At the police station",
+                "On a bus"
+              ],
+              "a": 0,
+              "why": "«...having coffee outside a café in the city centre»."
+            },
+            {
+              "q": "Why didn't Helen notice the thief at first?",
+              "opts": [
+                "She was reading on her phone.",
+                "She was talking to a friend.",
+                "She was looking for her keys."
+              ],
+              "a": 0,
+              "why": "«...she was reading the news on her phone, so she did not notice...»"
+            },
+            {
+              "q": "What had the bag contained?",
+              "opts": [
+                "A wallet, keys and a present",
+                "Her phone and a laptop",
+                "Only cash and cards"
+              ],
+              "a": 0,
+              "why": "«The bag had contained her wallet, her house keys and a birthday present»."
+            },
+            {
+              "q": "Who phoned Helen?",
+              "opts": [
+                "A cleaner",
+                "A police officer",
+                "A taxi driver"
+              ],
+              "a": 0,
+              "why": "«The caller was a cleaner from a nearby office building»."
+            },
+            {
+              "q": "How did the caller know Helen's number?",
+              "opts": [
+                "It was on a card in the wallet.",
+                "The police gave it to her.",
+                "It was on Helen's keys."
+              ],
+              "a": 0,
+              "why": "«There was a business card in the wallet with Helen's mobile number on it»."
+            },
+            {
+              "q": "The thief took everything from the bag.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "Ha preso solo i contanti: «had thrown everything else away»."
+            },
+            {
+              "q": "The police have arrested the thief.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "«The police have not arrested anyone yet»."
+            },
+            {
+              "q": "The police think the same thief has stolen ___ other bags this month.",
+              "answers": [
+                "four",
+                "4"
+              ],
+              "why": "«...has stolen four other bags in the area this month»."
+            }
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "When Helen got to the building, the cleaner ___ with the bag.",
+          "opts": [
+            "was waiting",
+            "is waiting",
+            "waits"
+          ],
+          "a": 0,
+          "why": "Sfondo al momento dell'arrivo: past continuous."
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «could not believe her luck» significa:",
+          "opts": [
+            "non poteva credere di essere stata così fortunata",
+            "pensava di essere stata sfortunata",
+            "non credeva alla polizia"
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola del testo",
+          "s": "She was ___ after the theft because her wallet and keys were gone.",
+          "answers": [
+            "miserable"
+          ],
+          "sub": "Infelice, abbattuta."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "The thief had ___ everything else away.",
+          "answers": [
+            "thrown"
+          ],
+          "sub": "Buttato via (participio di throw)."
+        }
+      ]
+    },
+    {
+      "id": "b1-02-listening",
+      "kind": "listening",
+      "title": "Telegiornale: furto al museo",
+      "intro": "Un servizio al telegiornale locale racconta un furto in un museo. Ascolta ordine ed epoca degli eventi: quasi tutte le risposte dipendono da che cosa era successo prima.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Burglary at the Harbour Museum",
+          "it": "Ascolta il servizio e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+          "lines": [
+            [
+              "Anna",
+              "Good evening. Our top story tonight: a burglary at a small museum in Whitby. Our reporter Dan Hughes is there."
+            ],
+            [
+              "Dan",
+              "Thanks, Anna. The Harbour Museum was due to open at ten this morning, but when the manager, Mrs Pearson, arrived at half past eight, she found that someone had broken the back door."
+            ],
+            [
+              "Mrs Pearson",
+              "I couldn't believe it. The lights were off and a window was open. When I walked into the main room, the glass case was empty. They had taken a collection of old silver coins."
+            ],
+            [
+              "Dan",
+              "Police say the thieves broke in some time after midnight. A neighbour, Mr Alan Cole, was walking his dog at about one o'clock when he saw a white van outside the museum."
+            ],
+            [
+              "Mr Cole",
+              "I thought it was strange, because nobody parks there at night. Two men were carrying a box to the van. I was going to ask what they were doing, but then they drove off very fast."
+            ],
+            [
+              "Dan",
+              "Mr Cole didn't see their faces, but he remembered part of the number plate, and the police are now checking it. The museum will stay closed until Friday. Back to you, Anna."
+            ],
+            [
+              "Anna",
+              "Thanks, Dan. Anyone with information should contact Whitby police."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What was stolen from the museum?",
+              "opts": [
+                "Old silver coins",
+                "Paintings",
+                "Old maps"
+              ],
+              "a": 0
+            },
+            {
+              "q": "When did Mrs Pearson discover the burglary?",
+              "opts": [
+                "At half past eight in the morning",
+                "At ten in the morning",
+                "After midnight"
+              ],
+              "a": 0
+            },
+            {
+              "q": "How had the thieves got in?",
+              "opts": [
+                "Through the back door",
+                "Through a window",
+                "With a key"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What was Mr Cole doing at one o'clock?",
+              "opts": [
+                "Walking his dog",
+                "Driving home",
+                "Closing his shop"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Why didn't Mr Cole speak to the men?",
+              "opts": [
+                "They drove off very fast.",
+                "He was afraid of them.",
+                "He didn't see them."
+              ],
+              "a": 0
+            },
+            {
+              "q": "The museum will stay closed until ___ .",
+              "answers": [
+                "Friday"
+              ]
+            },
+            {
+              "q": "What did Mr Cole remember about the van?",
+              "opts": [
+                "Part of the number plate",
+                "The driver's face",
+                "The name of the company"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "When I walked into the main room, the glass case was empty.",
+          "it": "Quando sono entrata nella sala principale, la teca era vuota."
+        },
+        {
+          "t": "dictation",
+          "en": "They had taken a collection of old silver coins.",
+          "it": "Avevano portato via una collezione di vecchie monete d'argento."
+        },
+        {
+          "t": "speak",
+          "en": "I was walking my dog when I saw a white van outside the museum.",
+          "it": "Stavo portando fuori il cane quando ho visto un furgone bianco davanti al museo."
+        }
+      ]
+    },
+    {
+      "id": "b1-02-situation",
+      "kind": "situation",
+      "title": "Denunciare un furto",
+      "intro": "Descrivere un furto o uno smarrimento alla polizia o all'ufficio oggetti smarriti: cosa è successo, che cosa mancava, com'era la persona. Con una parte di formule educate e una di frasi da evitare.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Raccontare che cosa è successo",
+          "body": "Frasi utili per denunciare un furto:\n- **I'd like to report a theft / a burglary / a lost bag.**\n- **I was walking along... when a man grabbed my bag and ran off.**\n- **I had just left it on the table for a moment.**\n- **It contained my passport, my wallet and my phone.**\n- **My bag has been stolen / My car has been broken into.** (passivo: si usa quando non importa chi)\n\nDescrivere il ladro: **He was in his twenties, tall, with short dark hair. He was wearing a grey hoodie and jeans.**\n\nPer uno smarrimento: **I think I left my umbrella on the 9.15 train from Leeds.** / **Has anyone handed in a black rucksack?**",
+          "ex": [
+            [
+              "I'd like to report a theft.",
+              "Vorrei denunciare un furto."
+            ],
+            [
+              "He was wearing a dark jacket and a cap.",
+              "Indossava una giacca scura e un berretto."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Tono: educato ma preciso",
+          "body": "Alla polizia o in un ufficio, il tono ideale è **calmo, chiaro e cortese**, anche se sei arrabbiato.\n- troppo diretto: «Give me a form for the insurance.» -> **Could I have a copy of the report for my insurance company, please?**\n- troppo brusco: «You must find it.» -> **I'd be very grateful if you could let me know if it turns up.**\n- troppo vago: «Something happened, I think.» -> **At about six o'clock someone took my wallet from my jacket.**\n\nDa ricordare:\n- **Reference number** = numero di pratica.\n- **Contact details** = recapiti.\n- **Could you spell that, please?** = Può fare lo spelling?\n\n**Errore tipico degli italiani**: «I want to denounce a theft». «Denounce» significa accusare pubblicamente: si dice **report** a theft.",
+          "ex": [
+            [
+              "Could I have a copy of the report, please?",
+              "Potrei avere una copia della denuncia, per favore?"
+            ],
+            [
+              "I'd be grateful if you could contact me if it turns up.",
+              "Le sarei grato se mi contattasse nel caso saltasse fuori."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Alla stazione di polizia",
+          "it": "Scegli la risposta più chiara e cortese (Tu).",
+          "lines": [
+            [
+              "Officer",
+              "Good afternoon. How can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good afternoon. I'd like to report a theft. My bag was stolen from a café about an hour ago.",
+                  "I want to denounce a stolen. Somebody has taken my bag in a bar.",
+                  "Hello. Somebody stole me my bag, you must find it."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Officer",
+              "I'm sorry to hear that. Can you tell me exactly what happened?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I was having a coffee when a man grabbed the bag from the chair next to me. He ran off before I could react.",
+                  "I had a coffee when a man grabbing the bag. He was running before I react.",
+                  "I drank a coffee and the man grabbed me the bag and ran off."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Officer",
+              "What was in the bag, and what did he look like?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "It contained my passport, my wallet and my phone. He was tall, in his twenties, and he was wearing a black jacket.",
+                  "In the bag there was all, passport, wallet, phone. He had black jacket and was tall in twenty years.",
+                  "It contained my life. He was an ugly man, you can find him easily."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Officer",
+              "Thank you. I'll write that down. Do you have an address where we can contact you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, I'm staying at the Park Hotel until Sunday. Could I have a copy of the report for my insurance, please?",
+                  "Yes, I stay at Park Hotel. Give me the paper for insurance.",
+                  "No address. You find me when you find the bag."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "In una denuncia contano la chiarezza (cosa, dove, quando, com'era) e la cortesia. Attenzione al falso amico: «denounce» non si usa, si dice report."
+        },
+        {
+          "t": "dialog",
+          "title": "All'ufficio oggetti smarriti",
+          "lines": [
+            [
+              "Clerk",
+              "Lost property. Can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello. I think I left my rucksack on the 9.15 train from Leeds this morning. Has anyone handed one in?",
+                  "Hello. I lost the zaino on the train of Leeds. It is there?",
+                  "Hello. You have my rucksack? I must have it today."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "Can you describe it, please?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "It's a black rucksack with a red zip, and it has a laptop inside.",
+                  "It's a black thing, with some red, I don't remember what's inside.",
+                  "Black. Find it quickly."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "I'm afraid it hasn't been handed in yet, but we'll keep looking."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you. I'd be grateful if you could call me if it turns up. My number is...",
+                  "OK, but call me immediately when you find it.",
+                  "Then I wait here until you find it."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "I'd like to report a theft.",
+              "Vorrei denunciare un furto."
+            ],
+            [
+              "It contained my passport and my wallet.",
+              "Conteneva il mio passaporto e il portafoglio."
+            ],
+            [
+              "He ran off before I could react.",
+              "È scappato prima che potessi reagire."
+            ],
+            [
+              "Has anyone handed in a black rucksack?",
+              "Qualcuno ha riconsegnato uno zaino nero?"
+            ],
+            [
+              "Could I have a copy of the report?",
+              "Potrei avere una copia della denuncia?"
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Stavo camminando quando un uomo mi ha preso la borsa.",
+          "en": "I was walking when a man grabbed my bag",
+          "extra": [
+            "walked",
+            "has"
+          ],
+          "alts": [
+            "A man grabbed my bag when I was walking",
+            "When a man grabbed my bag I was walking"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "I'd like to report a theft. My bag was stolen about an hour ago.",
+          "it": "Vorrei denunciare un furto. La mia borsa è stata rubata circa un'ora fa."
+        },
+        {
+          "t": "speak",
+          "en": "He was wearing a dark jacket and he ran off down the street.",
+          "it": "Indossava una giacca scura ed è scappato lungo la strada."
+        },
+        {
+          "t": "speak",
+          "en": "Could I have a copy of the report for my insurance, please?",
+          "it": "Potrei avere una copia della denuncia per l'assicurazione, per favore?"
+        },
+        {
+          "t": "speakTask",
+          "q": "You are at a police station. Report a stolen bag or phone.",
+          "it": "Fai la denuncia di una borsa o di un telefono rubato: dove eri, che cosa è successo, che cosa conteneva, com'era il ladro. Almeno 6 frasi, con past simple, continuous e perfect.",
+          "hints": [
+            "I'd like to report a theft.",
+            "I was... when...",
+            "It contained...",
+            "He was wearing...",
+            "Could I have a copy of the report?"
+          ],
+          "min": 50,
+          "model": "Good morning. I'd like to report a theft. I was waiting for a train at the station when a young man grabbed my rucksack and ran off. I had put it on the floor next to me, and I was looking at the timetable, so I didn't see him coming. The rucksack contained my laptop, my passport and some keys. He was about twenty-five, quite thin, and he was wearing a blue hoodie. Could I have a copy of the report for my insurance, please?"
+        }
+      ]
+    },
+    {
+      "id": "b1-02-production",
+      "kind": "production",
+      "title": "Scrivere una storia",
+      "intro": "Nell'esame B1 Preliminary una delle prove di scrittura è una storia di circa 100 parole, di cui spesso ti viene dato l'inizio. Impari a organizzarla e a usare i tre tempi narrativi.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come costruire una storia di 100 parole",
+          "body": "Una buona storia B1 ha tre parti:\n1. **Inizio**: usa la frase data, poi descrivi lo sfondo (past continuous e past perfect).\n2. **Evento centrale**: che cosa succede e come reagisce il protagonista (past simple).\n3. **Finale**: come finisce, e magari un commento (la fine non deve restare in sospeso).\n\nCose che alzano il livello:\n- **connettivi**: suddenly, then, after that, meanwhile, while, as soon as, eventually, in the end;\n- **aggettivi e avverbi**: terrified, delighted, quietly, quickly;\n- **discorso diretto**: «I don't believe it!» said Tom.\n\nControlla: tempi coerenti, ortografia, almeno un past perfect e un past continuous. **Rispetta il numero di parole** (100-120).",
+          "ex": [
+            [
+              "It was raining and the street was empty when Tom heard a noise.",
+              "Pioveva e la strada era vuota quando Tom ha sentito un rumore."
+            ],
+            [
+              "Eventually, she realised that she had made a terrible mistake.",
+              "Alla fine si è resa conto di aver fatto un terribile errore."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "She was sleeping when someone ___ at the door.",
+          "opts": [
+            "knocked",
+            "was knocking",
+            "had knocked"
+          ],
+          "a": 0,
+          "why": "Evento breve che interrompe l'azione in corso: past simple."
+        },
+        {
+          "t": "gap",
+          "s": "___ the others were talking, Anna quietly left the room.",
+          "opts": [
+            "While",
+            "During",
+            "Since"
+          ],
+          "a": 0,
+          "why": "Due azioni in contemporanea con un verbo: while."
+        },
+        {
+          "t": "fix",
+          "s": "When Sara opened the door, she saw that someone was already taking the keys.",
+          "answers": [
+            "When Sara opened the door, she saw that someone had already taken the keys",
+            "When Sara opened the door she saw that someone had already taken the keys"
+          ],
+          "why": "Il furto è avvenuto prima: past perfect (had already taken)."
+        },
+        {
+          "t": "transform",
+          "s1": "Tom looked in his pocket and discovered his phone wasn't there.",
+          "key": "REALISED",
+          "s2": "Tom looked in his pocket and ___ his phone.",
+          "answers": [
+            "realised he had lost",
+            "realised he'd lost",
+            "realised that he had lost",
+            "realised that he'd lost"
+          ],
+          "why": "Il telefono mancava già prima: realised + past perfect."
+        },
+        {
+          "t": "write",
+          "q": "Your English teacher has asked you to write a story. Your story must begin with this sentence: 'When Sara opened the door, she knew that something was wrong.' Write your story.",
+          "it": "Scrivi una storia di 100-120 parole che inizi con la frase data. Usa past simple, past continuous e past perfect, e almeno due connettivi narrativi.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho iniziato con la frase data",
+            "Ho usato almeno un past perfect per dire che cosa era già successo",
+            "Ho usato almeno un past continuous per lo sfondo",
+            "Ho usato almeno due connettivi (suddenly, then, eventually, while...)",
+            "Ho dato un finale chiaro alla storia"
+          ],
+          "useful": [
+            "Suddenly...",
+            "She had never seen...",
+            "While she was...",
+            "Eventually...",
+            "In the end, ..."
+          ],
+          "model": "When Sara opened the door, she knew that something was wrong. The lights were off and the living room window was open. She had left home at eight that morning, and everything had been normal then.\n\nSuddenly she heard a noise in the kitchen. She was frightened, but she walked slowly towards it. Her little brother was sitting on the floor, surrounded by broken plates.\n\n\"There was a lot of smoke, so I opened the window,\" he explained. \"I was only trying to make you a surprise dinner!\"\n\nSara started to laugh. They cleaned up together and, eventually, ordered a pizza."
+        },
+        {
+          "t": "speakTask",
+          "q": "Tell a story about something unexpected that happened to you or someone you know.",
+          "it": "Racconta un fatto inaspettato accaduto a te o a una persona che conosci (almeno 6 frasi, con i tre tempi narrativi).",
+          "hints": [
+            "It was... when...",
+            "I was... when suddenly...",
+            "I had never...",
+            "In the end..."
+          ],
+          "min": 50,
+          "model": "Last summer I was walking along the beach when I saw something shiny in the sand. I picked it up and realised it was a ring. A few minutes later, an old woman came running towards me. She had lost her wedding ring while she was swimming, and she had been looking for it for hours. I gave it back to her, and she was so happy that she invited me to dinner. We still write to each other."
+        },
+        {
+          "t": "speakTask",
+          "q": "Tell me about a news story that you read or heard recently.",
+          "it": "Racconta una notizia che hai letto o sentito di recente: che cosa era successo, chi era coinvolto e come è finita.",
+          "hints": [
+            "I read that...",
+            "It happened in...",
+            "Before that, ...had...",
+            "In the end..."
+          ],
+          "min": 40,
+          "model": "Last week I read about a man who had lost his dog in a forest. He had been looking for it for three days when a group of walkers found it. The dog was cold and hungry, but it was fine. The man was so happy that he cried in front of the cameras. In the end, he gave the walkers a big thank-you party."
+        }
+      ]
+    },
+    {
+      "id": "b1-02-test",
+      "kind": "test",
+      "title": "Test dell'unità 2",
+      "intro": "Verifica senza aiuti: narrative tenses, lessico della cronaca, un testo e un ascolto. Le correzioni le vedi alla fine.",
+      "minutes": 25,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "She ___ down the street when a car stopped next to her.",
+          "opts": [
+            "was walking",
+            "walked",
+            "had walked"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "When I arrived at the cinema, the film ___ .",
+          "opts": [
+            "had already started",
+            "already started",
+            "has already started"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "While we ___ dinner, the lights went out.",
+          "opts": [
+            "were having",
+            "are having",
+            "have had"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "He told the police that he ___ the man before.",
+          "opts": [
+            "had never seen",
+            "never had seen",
+            "has never seen"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "When I got home, I realised I ___ my wallet on the train.",
+          "opts": [
+            "had left",
+            "was leaving",
+            "have left"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I was reading when the lights went out.",
+            "I read when the lights were going out.",
+            "I was reading when the lights were going out."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "In quale frase il furto è avvenuto prima del nostro arrivo?",
+          "opts": [
+            "When I got to the car, someone had stolen the radio.",
+            "When I got to the car, someone stole the radio.",
+            "When I got to the car, someone was stealing the radio."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "While she ___ (wait) for the bus, a man ran past.",
+          "answers": [
+            "was waiting"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "By the time the police arrived, the thief ___ (run) away.",
+          "answers": [
+            "had run",
+            "'d run"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Mentre stavo dormendo, qualcuno è entrato in casa.",
+          "answers": [
+            "While I was sleeping, someone broke into the house",
+            "While I was sleeping someone broke into the house",
+            "While I was sleeping, someone broke into my house",
+            "While I was asleep, someone broke into the house",
+            "While I was sleeping, someone broke into the flat",
+            "While I was sleeping, someone broke into my flat",
+            "While I was sleeping, someone came into the house",
+            "While I was asleep, someone broke into my house",
+            "While I was asleep, someone broke into my flat"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Quando siamo arrivati, la polizia aveva già arrestato il sospettato.",
+          "answers": [
+            "When we arrived, the police had already arrested the suspect",
+            "When we arrived the police had already arrested the suspect",
+            "When we got there, the police had already arrested the suspect",
+            "When we arrived, the police had arrested the suspect already",
+            "When we got there, the police had arrested the suspect already"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "When I got home, I saw that someone broke into the house.",
+          "answers": [
+            "When I got home, I saw that someone had broken into the house",
+            "When I got home I saw that someone had broken into the house"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "I was hearing a strange noise while I was sleeping.",
+          "answers": [
+            "I heard a strange noise while I was sleeping",
+            "I heard a strange noise while I was asleep"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "She lost her wallet, but she realised it only when she reached the shop.",
+          "key": "HAD",
+          "s2": "When she reached the shop, she realised she ___ her wallet.",
+          "answers": [
+            "had lost"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "The man was arrested for ___ after he took money from a bank.",
+          "root": "ROB",
+          "answers": [
+            "robbery"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "___ , the police found the stolen car in a field.",
+          "root": "EVENTUAL",
+          "answers": [
+            "eventually"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Someone ___ my phone from my bag on the bus.",
+          "opts": [
+            "stole",
+            "robbed",
+            "burgled"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "The thieves ___ the house through a window.",
+          "opts": [
+            "broke into",
+            "broke up",
+            "broke out"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Please go to the lost ___ office at the station.",
+          "opts": [
+            "property",
+            "goods",
+            "things"
+          ],
+          "a": 0
+        },
+        {
+          "t": "cloze",
+          "title": "Completa il racconto",
+          "mode": "mc",
+          "text": "Last Friday I {1} home from work when I {2} a strange noise behind me. I turned round, but nobody {3} there. When I got home, I realised that someone {4} my wallet from my bag. I went to the police station and reported it. {5}, I got a phone call: they had found my wallet!",
+          "gaps": [
+            {
+              "opts": [
+                "was walking",
+                "walked",
+                "had walked",
+                "walk"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "heard",
+                "was hearing",
+                "had heard",
+                "hear"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "was",
+                "is",
+                "has been",
+                "were being"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "had stolen",
+                "has stolen",
+                "was stealing",
+                "steals"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "Eventually",
+                "Possibly",
+                "Eventual",
+                "Occasionally"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Lost property",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            [
+              "Clerk",
+              "Hello, this is the lost property office at Central Station. You phoned yesterday about a blue umbrella that you had left on the 4.20 train. I'm happy to say that we found it this morning. The cleaner had put it behind a seat in the last carriage. You can collect it any day before six, but please bring some identification. The office is closed on Sundays."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What had the caller lost?",
+              "opts": [
+                "A blue umbrella",
+                "A black bag",
+                "A phone"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Where was it found?",
+              "opts": [
+                "Behind a seat on the train",
+                "In the station café",
+                "In the ticket office"
+              ],
+              "a": 0
+            },
+            {
+              "q": "When is the office closed?",
+              "opts": [
+                "On Sundays",
+                "On Saturdays",
+                "On Mondays"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "In centrale",
+          "lines": [
+            [
+              "Officer",
+              "Police. How can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello. I'd like to report a theft. My car was broken into last night.",
+                  "Hello. I want to denounce that somebody has robbed my car.",
+                  "Hello. Somebody went inside my car, you must find him."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Officer",
+              "What was in the car?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "There was a laptop on the back seat, and I had left my sunglasses in the glove box.",
+                  "It was a computer and also I leave glasses.",
+                  "Everything of value, you can imagine."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

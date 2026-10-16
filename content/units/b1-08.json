@@ -1,0 +1,1509 @@
+{
+  "id": "b1-08",
+  "level": "B1",
+  "position": 8,
+  "title": "Acquisti online",
+  "sub": "Le frasi relative - descrivere un oggetto e scrivere una recensione",
+  "grammar": "Relative clauses definitorie: who, which, that, where, whose; omissione del pronome",
+  "topic": "Acquisti online, descrivere oggetti",
+  "situation": "Servizio clienti: ordine sbagliato o in ritardo",
+  "lessons": [
+    {
+      "id": "b1-08-grammar",
+      "kind": "grammar",
+      "title": "Le frasi relative",
+      "intro": "Per dire quale persona o quale cosa intendi, in italiano usi «che», «cui», «dove»: in inglese la scelta è tra who, which, that, where e whose, e spesso il pronome si può togliere del tutto. Sono strutture che servono a descrivere e a evitare frasi corte e ripetitive.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Who, which, that: quale scegliere",
+          "body": "Una **frase relativa definitoria** specifica di quale persona o cosa si parla. Senza di essa la frase non è completa, e **non ha virgole**.\n- **who** (o that) per le **persone**: The man **who** called you is my boss.\n- **which** (o that) per le **cose**: The phone **which** I bought is faulty.\n- **that** vale per persone e cose, ed è molto comune nel parlato: The jacket **that** I ordered has arrived.\n\nDopo **everything, something, nothing, all, the only, the first** si usa **that** (non which e non what): Everything **that** he said was true.\n\n**Errori tipici degli italiani**:\n- «The man which called» -> The man **who** called. (which non si usa per le persone)\n- «The thing what I need» -> The thing **that** I need. (what non è un pronome relativo)",
+          "table": [
+            [
+              "",
+              "Persone",
+              "Cose"
+            ],
+            [
+              "soggetto",
+              "who / that",
+              "which / that"
+            ],
+            [
+              "oggetto",
+              "who / that / niente",
+              "which / that / niente"
+            ],
+            [
+              "possesso",
+              "whose",
+              "whose"
+            ],
+            [
+              "luogo",
+              "where",
+              "where"
+            ]
+          ],
+          "ex": [
+            [
+              "The woman who lives next door is a nurse.",
+              "La donna che abita accanto è un'infermiera."
+            ],
+            [
+              "The parcel that arrived this morning is for you.",
+              "Il pacco che è arrivato stamattina è per te."
+            ],
+            [
+              "Everything that he said was true.",
+              "Tutto quello che ha detto era vero."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Si può togliere il pronome?",
+          "body": "Il pronome relativo si può **omettere** quando è **oggetto** della frase relativa, cioè quando dopo di lui c'è un **altro soggetto** (I, you, she, we...).\n- The jacket **(that)** I bought is too small. (dopo that c'è I: si può togliere)\n- The woman **(who)** we met yesterday works here. (dopo who c'è we)\n\nSe il pronome è **soggetto**, cioè dopo di lui c'è direttamente il **verbo**, **non** si può togliere:\n- The man **who** called you is my boss. (non: «The man called you is my boss»)\n- The jacket **that** is on the chair is mine.\n\n**Regola pratica**: se dopo who / which / that c'è un pronome (I, he, we, they...) o un nome (my sister, the manager), puoi toglierlo. Se c'è un verbo, no.\n\n**Errore tipico**: ripetere il soggetto: «The girl who she lives next door» -> The girl **who lives** next door.",
+          "ex": [
+            [
+              "The film we saw last night was great.",
+              "Il film che abbiamo visto ieri sera era bellissimo."
+            ],
+            [
+              "Is this the bag you were looking for?",
+              "È questa la borsa che stavi cercando?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Whose e where",
+          "body": "- **whose** indica il possesso e sostituisce «il cui / la cui»: He's the man **whose** car was stolen. (l'uomo la cui auto è stata rubata). Dopo whose c'è sempre un nome: whose **car**, whose **brother**.\n- **where** indica il luogo e sostituisce «dove / in cui»: This is the shop **where** I bought my laptop. Equivale a in which: the shop **in which** I bought it (più formale).\n\nAnche **when** (the day when) e **why** (the reason why) si usano così: Do you remember the day **when** we met?\n\n**Errore tipico degli italiani**: «the man of whom the car was stolen» o «the man that his car was stolen» -> the man **whose car** was stolen. Non si dice mai «that his».",
+          "ex": [
+            [
+              "That's the girl whose brother plays for the national team.",
+              "Quella è la ragazza il cui fratello gioca in nazionale."
+            ],
+            [
+              "This is the restaurant where we had our wedding.",
+              "Questo è il ristorante dove ci siamo sposati."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "La preposizione in fondo alla frase",
+          "body": "In italiano la preposizione sta prima del pronome («la persona **con cui** ho parlato»). In inglese si lascia di solito **in fondo alla frase**, e il pronome spesso sparisce:\n- «la persona con cui ho parlato» -> The person **I spoke to**. / The person **who I spoke to**.\n- «il libro di cui ti ho parlato» -> The book **I told you about**.\n- «la ragazza con cui lavoro» -> The girl **I work with**.\n\nLa forma con la preposizione prima (**to whom, about which**) esiste, ma è molto formale e rara nel parlato: The person **to whom** I spoke...\n\n**Attenzione**: non aggiungere mai un pronome in più: «The book that I told you about it» è sbagliato.",
+          "ex": [
+            [
+              "The person I spoke to was very helpful.",
+              "La persona con cui ho parlato è stata molto disponibile."
+            ],
+            [
+              "Here's the book I told you about.",
+              "Ecco il libro di cui ti ho parlato."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "The woman ___ lives next door is a nurse.",
+          "opts": [
+            "who",
+            "which",
+            "whose"
+          ],
+          "a": 0,
+          "it": "La donna che abita accanto è un'infermiera.",
+          "why": "Parli di una persona e il pronome è soggetto: who."
+        },
+        {
+          "t": "gap",
+          "s": "This is the shop ___ I bought my laptop.",
+          "opts": [
+            "where",
+            "which",
+            "who"
+          ],
+          "a": 0,
+          "why": "Luogo: where (in cui). Con which servirebbe una preposizione e il verbo cambierebbe."
+        },
+        {
+          "t": "gap",
+          "s": "I've lost the book ___ you lent me.",
+          "opts": [
+            "that",
+            "who",
+            "what"
+          ],
+          "a": 0,
+          "why": "Cosa: that (o which). Who è per le persone; what non è un pronome relativo."
+        },
+        {
+          "t": "gap",
+          "s": "He's the man ___ car was stolen last week.",
+          "opts": [
+            "whose",
+            "who's",
+            "which"
+          ],
+          "a": 0,
+          "why": "Possesso («la cui auto»): whose + nome."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "The man who called you is my boss.",
+            "The man which called you is my boss.",
+            "The man who he called you is my boss."
+          ],
+          "a": 0,
+          "why": "Persone: who, e senza ripetere il soggetto (he)."
+        },
+        {
+          "t": "mc",
+          "q": "In quale frase si può omettere il pronome relativo?",
+          "opts": [
+            "The jacket that I bought is too small.",
+            "The jacket that is on the chair is mine.",
+            "The man who lives upstairs is noisy."
+          ],
+          "a": 0,
+          "why": "Nella prima, that è oggetto (dopo c'è I). Nelle altre è soggetto (dopo c'è un verbo): non si toglie."
+        },
+        {
+          "t": "type",
+          "q": "Completa con UNA parola",
+          "s": "That's the girl ___ brother plays for the national team.",
+          "answers": [
+            "whose"
+          ],
+          "why": "Possesso: whose + nome (brother)."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "This is the restaurant ___ we had our wedding.",
+          "answers": [
+            "where",
+            "in which"
+          ],
+          "why": "Luogo: where (o in which, più formale)."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Il ragazzo con cui parlavo è mio cugino.",
+          "answers": [
+            "The boy I was talking to is my cousin",
+            "The boy that I was talking to is my cousin",
+            "The boy who I was talking to is my cousin",
+            "The boy whom I was talking to is my cousin",
+            "The boy to whom I was talking is my cousin",
+            "The boy I was talking with is my cousin",
+            "The boy I was speaking to is my cousin",
+            "The boy that I was speaking to is my cousin",
+            "The boy who I was speaking to is my cousin",
+            "The boy I was speaking with is my cousin",
+            "The boy with whom I was talking is my cousin",
+            "The boy to whom I was speaking is my cousin"
+          ],
+          "why": "La preposizione va in fondo e il pronome si può omettere: the boy I was talking to."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Ecco il libro di cui ti ho parlato.",
+          "answers": [
+            "Here's the book I told you about",
+            "Here is the book I told you about",
+            "Here's the book that I told you about",
+            "Here is the book that I told you about",
+            "Here's the book which I told you about",
+            "Here is the book which I told you about",
+            "Here's the book I was telling you about",
+            "Here is the book I was telling you about",
+            "Here's the book that I was telling you about",
+            "Here is the book that I was telling you about",
+            "Here's the book I talked to you about",
+            "Here is the book I talked to you about",
+            "Here's the book I spoke to you about",
+            "Here is the book I spoke to you about"
+          ],
+          "why": "Preposizione in fondo (about) e pronome omesso: the book I told you about."
+        },
+        {
+          "t": "fix",
+          "s": "The girl who she lives next door is French.",
+          "answers": [
+            "The girl who lives next door is French",
+            "The girl that lives next door is French"
+          ],
+          "why": "Il pronome relativo fa già da soggetto: non si ripete she."
+        },
+        {
+          "t": "fix",
+          "s": "That's the man which stole my bag.",
+          "answers": [
+            "That's the man who stole my bag",
+            "That's the man that stole my bag"
+          ],
+          "why": "Per le persone si usa who (o that), non which."
+        },
+        {
+          "t": "fix",
+          "s": "Everything what he said was interesting.",
+          "answers": [
+            "Everything that he said was interesting",
+            "Everything he said was interesting"
+          ],
+          "why": "Dopo everything si usa that (o niente): what non è un pronome relativo."
+        },
+        {
+          "t": "transform",
+          "s1": "I know a man. He repairs old watches.",
+          "key": "WHO",
+          "s2": "I know a man ___ old watches.",
+          "answers": [
+            "who repairs"
+          ],
+          "why": "Frase relativa su una persona, pronome soggetto: who repairs."
+        },
+        {
+          "t": "transform",
+          "s1": "We saw a film last night. It was boring.",
+          "key": "SAW",
+          "s2": "The film ___ last night was boring.",
+          "answers": [
+            "we saw",
+            "that we saw",
+            "which we saw"
+          ],
+          "why": "Pronome oggetto: si può omettere. The film we saw..."
+        },
+        {
+          "t": "transform",
+          "s1": "Her car was stolen. She is very upset.",
+          "key": "WHOSE",
+          "s2": "The woman ___ is very upset.",
+          "answers": [
+            "whose car was stolen",
+            "whose car has been stolen"
+          ],
+          "why": "Possesso: whose + car."
+        },
+        {
+          "t": "order",
+          "it": "Questo è il negozio dove ho comprato la giacca.",
+          "en": "This is the shop where I bought the jacket",
+          "extra": [
+            "which",
+            "there"
+          ]
+        },
+        {
+          "t": "order",
+          "it": "La donna di cui ti ho parlato lavora qui.",
+          "en": "The woman I told you about works here",
+          "extra": [
+            "whose",
+            "which"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-08-vocab",
+      "kind": "vocab",
+      "title": "Ordini, spedizioni, recensioni",
+      "intro": "Il lessico dello shopping online: come si spedisce un pacco, che cosa succede quando qualcosa non va, e gli aggettivi per descrivere un prodotto in una recensione.",
+      "minutes": 20,
+      "words": [
+        {
+          "id": "b1-08-w01",
+          "en": "delivery",
+          "it": "consegna",
+          "ipa": "dɪˈlɪvəri",
+          "pos": "n",
+          "ex": [
+            "The delivery usually takes two or three days.",
+            "La consegna di solito richiede due o tre giorni."
+          ],
+          "note": "Verbo: deliver. Collocazione: free delivery = consegna gratuita."
+        },
+        {
+          "id": "b1-08-w02",
+          "en": "parcel",
+          "it": "pacco",
+          "ipa": "ˈpɑːsl",
+          "pos": "n",
+          "ex": [
+            "A parcel arrived for you this morning.",
+            "Stamattina è arrivato un pacco per te."
+          ],
+          "note": "In inglese americano: package.",
+          "emoji": "📦"
+        },
+        {
+          "id": "b1-08-w03",
+          "en": "courier",
+          "it": "corriere",
+          "ipa": "ˈkʊriə",
+          "pos": "n",
+          "ex": [
+            "The courier left the parcel with my neighbour.",
+            "Il corriere ha lasciato il pacco al mio vicino."
+          ],
+          "note": "È la persona o la ditta che consegna i pacchi."
+        },
+        {
+          "id": "b1-08-w04",
+          "en": "tracking number",
+          "it": "numero di tracciamento",
+          "ipa": "ˈtrækɪŋ ˌnʌmbə",
+          "pos": "n",
+          "ex": [
+            "You can use the tracking number to follow your parcel.",
+            "Puoi usare il numero di tracciamento per seguire il tuo pacco."
+          ],
+          "note": "Verbo: track a parcel."
+        },
+        {
+          "id": "b1-08-w05",
+          "en": "out of stock",
+          "it": "esaurito, non disponibile",
+          "ipa": "aʊt əv ˈstɒk",
+          "pos": "phr",
+          "ex": [
+            "The blue one is out of stock at the moment.",
+            "Quello blu al momento è esaurito."
+          ],
+          "note": "Il contrario: in stock = disponibile in magazzino."
+        },
+        {
+          "id": "b1-08-w06",
+          "en": "customer service",
+          "it": "servizio clienti",
+          "ipa": "ˌkʌstəmə ˈsɜːvɪs",
+          "pos": "n",
+          "ex": [
+            "I called customer service, but nobody answered.",
+            "Ho chiamato il servizio clienti, ma nessuno ha risposto."
+          ],
+          "note": "Non numerabile: «customer services» è raro e non standard."
+        },
+        {
+          "id": "b1-08-w07",
+          "en": "dispatch",
+          "it": "spedire, inviare",
+          "ipa": "dɪˈspætʃ",
+          "pos": "v",
+          "ex": [
+            "Orders are dispatched within 24 hours.",
+            "Gli ordini vengono spediti entro 24 ore."
+          ],
+          "note": "Più formale di send; si usa soprattutto per gli ordini. Anche nome: dispatch."
+        },
+        {
+          "id": "b1-08-w08",
+          "en": "durable",
+          "it": "resistente, durevole",
+          "ipa": "ˈdjʊərəbl",
+          "pos": "adj",
+          "ex": [
+            "This backpack is durable, so it will last for years.",
+            "Questo zaino è resistente, quindi durerà anni."
+          ],
+          "note": "Per oggetti che durano nel tempo. Non confonderlo con strong (forte)."
+        },
+        {
+          "id": "b1-08-w09",
+          "en": "lightweight",
+          "it": "leggero (di peso)",
+          "ipa": "ˈlaɪtweɪt",
+          "pos": "adj",
+          "ex": [
+            "It's a lightweight jacket, perfect for travelling.",
+            "È una giacca leggera, perfetta per viaggiare."
+          ],
+          "note": "Di peso. Per il cibo leggero si dice light."
+        },
+        {
+          "id": "b1-08-w10",
+          "en": "stylish",
+          "it": "elegante, alla moda",
+          "ipa": "ˈstaɪlɪʃ",
+          "pos": "adj",
+          "ex": [
+            "She was wearing a very stylish coat.",
+            "Indossava un cappotto molto elegante."
+          ],
+          "note": "Più informale di elegant: indica qualcosa di moderno e di tendenza."
+        },
+        {
+          "id": "b1-08-w11",
+          "en": "value for money",
+          "it": "buon rapporto qualità-prezzo",
+          "ipa": "ˌvæljuː fə ˈmʌni",
+          "pos": "phr",
+          "ex": [
+            "These headphones are great value for money.",
+            "Queste cuffie hanno un ottimo rapporto qualità-prezzo."
+          ],
+          "note": "Si usa: good / great value for money."
+        },
+        {
+          "id": "b1-08-w12",
+          "en": "disappointed",
+          "it": "deluso",
+          "ipa": "ˌdɪsəˈpɔɪntɪd",
+          "pos": "adj",
+          "ex": [
+            "I was disappointed with the quality.",
+            "Sono rimasto deluso dalla qualità."
+          ],
+          "note": "Con with o by (about una cosa). Non è «delusional»."
+        },
+        {
+          "id": "b1-08-w13",
+          "en": "recommend",
+          "it": "consigliare",
+          "ipa": "ˌrekəˈmend",
+          "pos": "v",
+          "ex": [
+            "I'd recommend this shop to anyone.",
+            "Consiglierei questo negozio a chiunque."
+          ],
+          "note": "Si dice recommend someone something o recommend doing. Non: «recommend me to buy» (si dice recommend that I buy / recommend buying)."
+        },
+        {
+          "id": "b1-08-w14",
+          "en": "cancel",
+          "it": "annullare, cancellare",
+          "ipa": "ˈkænsl",
+          "pos": "v",
+          "ex": [
+            "I'd like to cancel my order, please.",
+            "Vorrei annullare il mio ordine, per favore."
+          ],
+          "note": "Passato UK: cancelled (con due l)."
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "track a parcel",
+              "seguire una spedizione"
+            ],
+            [
+              "cancel an order",
+              "annullare un ordine"
+            ],
+            [
+              "contact customer service",
+              "contattare il servizio clienti"
+            ],
+            [
+              "recommend a product",
+              "consigliare un prodotto"
+            ],
+            [
+              "be out of stock",
+              "essere esaurito"
+            ],
+            [
+              "a lightweight jacket",
+              "una giacca leggera"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I'm afraid the black version is ___ at the moment. We expect more next week.",
+          "opts": [
+            "out of stock",
+            "out of order",
+            "out of date"
+          ],
+          "a": 0,
+          "why": "Un articolo non disponibile in magazzino è «out of stock». Out of order = non funzionante, out of date = scaduto o superato."
+        },
+        {
+          "t": "gap",
+          "s": "Your parcel was ___ yesterday and should arrive on Monday.",
+          "opts": [
+            "dispatched",
+            "dismissed",
+            "displayed"
+          ],
+          "a": 0,
+          "why": "Dispatch = spedire. Dismiss è licenziare o respingere; display è esporre."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «great value for money»?",
+          "opts": [
+            "Un ottimo rapporto qualità-prezzo",
+            "Un prodotto molto costoso",
+            "Un rimborso garantito"
+          ],
+          "a": 0,
+          "why": "«Value for money» = quanto vale ciò che spendi."
+        },
+        {
+          "t": "wordform",
+          "s": "I was very ___ with the quality of the jacket.",
+          "root": "DISAPPOINT",
+          "answers": [
+            "disappointed"
+          ],
+          "why": "Serve l'aggettivo in -ed (per i sentimenti di chi prova): disappointed."
+        },
+        {
+          "t": "wordform",
+          "s": "Fast ___ is very important for an online shop.",
+          "root": "DELIVER",
+          "answers": [
+            "delivery"
+          ],
+          "why": "Serve il nome: deliver -> delivery."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Enter your ___ number on the courier's website to see where your parcel is.",
+          "answers": [
+            "tracking"
+          ],
+          "sub": "Controlla il numero di tracciamento per vedere dov'è il tuo pacco."
+        }
+      ]
+    },
+    {
+      "id": "b1-08-reading",
+      "kind": "reading",
+      "title": "Tre borse a confronto",
+      "intro": "Una recensione di un blog che confronta tre prodotti. Le frasi relative servono qui a descrivere e a confrontare senza ripetizioni: sottolineale mentre leggi.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "read",
+          "title": "I tested three laptop bags so you don't have to",
+          "genre": "recensione",
+          "text": "Finding a good laptop bag is harder than it sounds. Last month I bought three different ones online and used each of them for a week. Here is what I found.\n\nThe first bag was the cheapest one that I tried. It's made of thin plastic and weighs almost nothing, which is great when you carry a lot of things. Unfortunately, the zip, which is the first part that breaks on any bag, got stuck on the third day. I'd recommend it only to people who need a bag for a few trips.\n\nThe second bag is the one that everybody noticed. It's made of soft brown leather and it was designed by a small company in Denmark. The stitching is perfect, and colleagues whose bags look boring kept asking me where I had bought it. The problem is the price: it cost almost three times more than the first bag, and it is quite heavy, so it isn't the kind of bag you want to carry on a long walk.\n\nThe third bag is the one I use now. It's a grey backpack made of recycled material that dries in minutes when it rains. It has a special pocket where you can keep your laptop safe, and another one for an umbrella. It isn't as elegant as the leather bag, but it's the first bag I've owned that I don't think about all day. The delivery was also the quickest: it arrived in two days, and the courier, who was very friendly, even carried it up to my flat on the fourth floor.\n\nOf the three, I'd give the first bag two stars, the second four stars and the third five. It's simply the one that gives you the most for your money. My only complaint is that it's available in just two colours, and the one I wanted, green, was out of stock for weeks.",
+          "qs": [
+            {
+              "q": "What went wrong with the first bag?",
+              "opts": [
+                "The zip got stuck.",
+                "The plastic broke.",
+                "The bag was too heavy."
+              ],
+              "a": 0,
+              "why": "«...the zip... got stuck on the third day»."
+            },
+            {
+              "q": "Why did colleagues ask the writer about the second bag?",
+              "opts": [
+                "They liked how it looked.",
+                "It was very cheap.",
+                "It was very light."
+              ],
+              "a": 0,
+              "why": "È la borsa notata da tutti: pelle morbida, cuciture perfette."
+            },
+            {
+              "q": "What is a disadvantage of the second bag?",
+              "opts": [
+                "It is expensive and heavy.",
+                "It is made of plastic.",
+                "It is available in two colours."
+              ],
+              "a": 0,
+              "why": "«...cost almost three times more... and it is quite heavy»."
+            },
+            {
+              "q": "The writer still uses the first bag.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "Usa ora la terza: «The third bag is the one I use now»."
+            },
+            {
+              "q": "What special feature does the third bag have?",
+              "opts": [
+                "A pocket for a laptop",
+                "A built-in charger",
+                "A lock"
+              ],
+              "a": 0,
+              "why": "«It has a special pocket where you can keep your laptop safe»."
+            },
+            {
+              "q": "The courier brought the third bag on a Saturday.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 2,
+              "why": "Il testo non dice quale giorno."
+            },
+            {
+              "q": "The third bag arrived in ___ days.",
+              "answers": [
+                "two",
+                "2"
+              ],
+              "why": "«...it arrived in two days»."
+            },
+            {
+              "q": "What is the writer's complaint about the third bag?",
+              "opts": [
+                "The colour the writer wanted was out of stock.",
+                "It arrived late.",
+                "The zip is weak."
+              ],
+              "a": 0,
+              "why": "«...the one I wanted, green, was out of stock for weeks»."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «the first bag I've owned that I don't think about all day» significa:",
+          "opts": [
+            "non devo preoccuparmene continuamente",
+            "ci penso tutto il giorno",
+            "non l'ho mai usata"
+          ],
+          "a": 0,
+          "why": "Vuol dire che la borsa funziona bene e non crea problemi."
+        },
+        {
+          "t": "gap",
+          "s": "Colleagues ___ bags look boring kept asking me about it.",
+          "opts": [
+            "whose",
+            "who",
+            "which"
+          ],
+          "a": 0,
+          "why": "Possesso («le cui borse»): whose + nome."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola del testo",
+          "s": "The second bag is very ___ , so it isn't ideal for long walks.",
+          "answers": [
+            "heavy"
+          ],
+          "sub": "Il contrario di leggera."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "The writer gave the third bag five stars because it's good ___ for money.",
+          "answers": [
+            "value"
+          ],
+          "sub": "Rapporto qualità-prezzo."
+        }
+      ]
+    },
+    {
+      "id": "b1-08-listening",
+      "kind": "listening",
+      "title": "Ordine sbagliato",
+      "intro": "Una cliente telefona al servizio clienti perché le hanno spedito l'articolo sbagliato. Ascolta che cosa ha ordinato, che cosa ha ricevuto e come si risolve il problema.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "The wrong parcel",
+          "it": "Ascolta la telefonata e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Jake",
+              "Good afternoon, customer service, Jake speaking. How can I help?"
+            ],
+            [
+              "Mrs Fraser",
+              "Hello. I'm calling about an order that I placed last week. The parcel that arrived this morning isn't what I ordered."
+            ],
+            [
+              "Jake",
+              "I'm sorry to hear that. Could I have your order number, please?"
+            ],
+            [
+              "Mrs Fraser",
+              "Yes, it's J F four four nine two."
+            ],
+            [
+              "Jake",
+              "Thank you. Let me look. You ordered a blue kettle, is that right?"
+            ],
+            [
+              "Mrs Fraser",
+              "That's right. The one that has a glass jug and a light inside. But what I received is a grey toaster."
+            ],
+            [
+              "Jake",
+              "I do apologise. It looks as if the person who packed your order picked up the wrong item."
+            ],
+            [
+              "Mrs Fraser",
+              "Well, I need the kettle by the weekend, because it's a present for my mother, whose birthday is on Sunday."
+            ],
+            [
+              "Jake",
+              "I understand. The warehouse where your kettle is stored isn't far away, so I can send it today by express delivery, at no extra cost. It should arrive tomorrow before noon."
+            ],
+            [
+              "Mrs Fraser",
+              "That would be great. What shall I do with the toaster?"
+            ],
+            [
+              "Jake",
+              "A courier will collect it next week. There's no charge, and you don't need to print a label."
+            ],
+            [
+              "Mrs Fraser",
+              "Perfect. Thank you for your help."
+            ],
+            [
+              "Jake",
+              "You're welcome, Mrs Fraser. And once again, I'm sorry about the mistake."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What is wrong with the parcel?",
+              "opts": [
+                "It contains the wrong item.",
+                "It arrived damaged.",
+                "It is addressed to someone else."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What did Mrs Fraser order?",
+              "opts": [
+                "A blue kettle",
+                "A grey toaster",
+                "A glass jug"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Why does she need the right item by the weekend?",
+              "opts": [
+                "It's a birthday present for her mother.",
+                "She is going on holiday.",
+                "She is moving house."
+              ],
+              "a": 0
+            },
+            {
+              "q": "How much will the express delivery cost?",
+              "opts": [
+                "Nothing extra",
+                "A small fee",
+                "Half the price"
+              ],
+              "a": 0
+            },
+            {
+              "q": "The new kettle will arrive tomorrow before ___ .",
+              "answers": [
+                "noon",
+                "twelve",
+                "12",
+                "midday",
+                "12 noon",
+                "12 o'clock",
+                "twelve o'clock",
+                "12pm",
+                "12 p.m."
+              ]
+            },
+            {
+              "q": "What will happen to the toaster?",
+              "opts": [
+                "A courier will collect it next week.",
+                "Mrs Fraser can keep it.",
+                "She must take it to a shop."
+              ],
+              "a": 0
+            },
+            {
+              "q": "Who made the mistake, according to Jake?",
+              "opts": [
+                "The person who packed the order",
+                "The courier",
+                "Mrs Fraser"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "The parcel that arrived this morning isn't what I ordered.",
+          "it": "Il pacco che è arrivato stamattina non è quello che ho ordinato."
+        },
+        {
+          "t": "dictation",
+          "en": "It looks as if the person who packed your order picked up the wrong item.",
+          "it": "Sembra che la persona che ha preparato il suo ordine abbia preso l'articolo sbagliato."
+        },
+        {
+          "t": "speak",
+          "en": "I'm calling about an order that I placed last week.",
+          "it": "Chiamo per un ordine che ho fatto la settimana scorsa."
+        }
+      ]
+    },
+    {
+      "id": "b1-08-situation",
+      "kind": "situation",
+      "title": "Servizio clienti: ordine sbagliato o in ritardo",
+      "intro": "Quando un ordine arriva sbagliato o in ritardo bisogna spiegare il problema in modo chiaro e proporre una soluzione. Fermi ma cortesi: la differenza è tutta nelle formule.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Spiegare il problema",
+          "body": "- **I'm calling about an order I placed on 12 May.** = Chiamo per un ordine fatto il 12 maggio.\n- **The parcel that arrived isn't what I ordered.** = Il pacco arrivato non è quello che ho ordinato.\n- **I ordered a medium, but I received a large.** = Ho ordinato una media, ma ho ricevuto una grande.\n- **It was supposed to arrive on Monday, but it still hasn't come.** = Doveva arrivare lunedì, ma non è ancora arrivato.\n- **The tracking number doesn't seem to work.** = Il numero di tracciamento non sembra funzionare.\n\nCosa chiedere:\n- **Could you send the right one as soon as possible?**\n- **Could I get a refund instead?**\n- **Would it be possible to cancel the order?**\n\nDal punto di vista del servizio clienti: **I do apologise for the inconvenience.** = Mi scuso per il disagio.",
+          "ex": [
+            [
+              "It was supposed to arrive on Monday.",
+              "Doveva arrivare lunedì."
+            ],
+            [
+              "I do apologise for the inconvenience.",
+              "Mi scuso per il disagio."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Fermi ma cortesi",
+          "body": "- troppo diretto: «Send me the right one tomorrow.» -> **Could you send me the right one by tomorrow, please?**\n- troppo aggressivo: «You are useless.» -> **I understand it was a mistake, but this is the second time.**\n- troppo vago: «There's a problem with something.» -> **The item that arrived is the wrong colour.**\n\nUsa le frasi relative per essere precisi: **the one that I ordered**, **the parcel which was delivered yesterday**, **the person who I spoke to last week**.\n\n**Errore tipico degli italiani**: «I want to speak with the responsible» -> **I'd like to speak to the manager.** («Responsible» è un aggettivo.) E «I have ordered since a week» -> **I ordered it a week ago.**",
+          "ex": [
+            [
+              "I'd like to speak to the manager, please.",
+              "Vorrei parlare con il responsabile, per favore."
+            ],
+            [
+              "The person I spoke to last week promised a refund.",
+              "La persona con cui ho parlato la settimana scorsa ha promesso un rimborso."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Un ordine in ritardo",
+          "it": "Scegli la risposta più chiara e cortese (Tu).",
+          "lines": [
+            [
+              "Agent",
+              "Good morning, customer service. How can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good morning. I'm calling about an order that I placed ten days ago. It was supposed to arrive last week, but it still hasn't come.",
+                  "Hello. My order is late. It's your fault, you are very slow.",
+                  "Hello. I have ordered since ten days and nothing arrives."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "I'm sorry about that. Could I have your order number, please?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, it's 58-21-97. I've tried to use the tracking number, but it doesn't seem to work.",
+                  "Yes, 58-21-97. You must find it today.",
+                  "I don't have it, but you should know who I am."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "Thank you. I can see the problem: the courier couldn't find your address. I can send it again tomorrow."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "That would be great, thank you. Could you also check that the address is correct this time?",
+                  "Tomorrow is too late. Send it now or I cancel everything.",
+                  "OK, but only if it's free, otherwise I want a refund."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Si descrive il problema con fatti (date, che cosa è successo), poi si chiede una soluzione con una richiesta indiretta (Could you...). Evita «I have ordered since...»: in inglese si dice «I ordered it ten days ago»."
+        },
+        {
+          "t": "dialog",
+          "title": "Chat: l'articolo sbagliato",
+          "lines": [
+            [
+              "Agent",
+              "Hi, you're chatting with Sam. How can I help you today?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hi Sam. The jumper that I received yesterday is the wrong colour. I ordered a navy one, but this one is black.",
+                  "Hi. This is not the jumper I wanted. Why you sent me this?",
+                  "Hi. You are sending me wrong things always."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "I'm really sorry about that. Would you like a replacement or a refund?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "A replacement, please, if you have the navy one in stock.",
+                  "I want both, the navy one and my money back.",
+                  "I don't know, you decide what's better for me."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "We do have it in stock. We'll dispatch it today, and a courier will collect the black one."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you. Will I get a tracking number by email?",
+                  "OK. And the courier must come at my house at six.",
+                  "Good. Next time, be more careful, please."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Dopo il problema, scegli una soluzione precisa (replacement) e chiedi un dettaglio utile (tracking number). Un tono collaborativo è il più efficace."
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "It was supposed to arrive on Monday.",
+              "Doveva arrivare lunedì."
+            ],
+            [
+              "I ordered a medium, but I received a large.",
+              "Ho ordinato una media, ma ne ho ricevuta una grande."
+            ],
+            [
+              "I do apologise for the inconvenience.",
+              "Mi scuso per il disagio."
+            ],
+            [
+              "Could I get a refund instead?",
+              "Potrei avere un rimborso invece?"
+            ],
+            [
+              "The tracking number doesn't seem to work.",
+              "Il numero di tracciamento non sembra funzionare."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Il pacco che è arrivato ieri non è quello che ho ordinato.",
+          "en": "The parcel that arrived yesterday isn't what I ordered",
+          "extra": [
+            "whose",
+            "where"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "I'm calling about an order I placed last week.",
+          "it": "Chiamo per un ordine che ho fatto la settimana scorsa."
+        },
+        {
+          "t": "speak",
+          "en": "It was supposed to arrive on Monday, but it still hasn't come.",
+          "it": "Doveva arrivare lunedì, ma non è ancora arrivato."
+        },
+        {
+          "t": "speak",
+          "en": "Could you send me the right one as soon as possible?",
+          "it": "Potrebbe mandarmi quello giusto il prima possibile?"
+        },
+        {
+          "t": "speakTask",
+          "q": "You ordered a pair of trainers online, but you received the wrong size. Call customer service.",
+          "it": "Telefona al servizio clienti: spiega l'ordine, il problema (taglia sbagliata), che cosa vuoi (cambio o rimborso), con tono cortese. Almeno 6 frasi e almeno due frasi relative.",
+          "hints": [
+            "I'm calling about an order that...",
+            "I ordered a size 42, but...",
+            "The parcel which arrived...",
+            "Could you send me...?",
+            "Would it be possible to...?"
+          ],
+          "min": 50,
+          "model": "Good morning. I'm calling about an order that I placed last Tuesday. The trainers which arrived this morning are the wrong size: I ordered a size 42, but I received a 44. I haven't worn them, and I still have the box they came in. Could you send me the right ones as soon as possible? If you don't have them in stock, I'd like to get a refund instead. Thank you very much for your help."
+        }
+      ]
+    },
+    {
+      "id": "b1-08-production",
+      "kind": "production",
+      "title": "Scrivere una recensione",
+      "intro": "Nell'esame B1 Preliminary può capitare di scrivere una recensione di un oggetto, un film o un posto. Qui scrivi la recensione di un prodotto: descrivi com'è, dai un giudizio e consiglia o sconsiglia. Le frasi relative ti aiutano a essere preciso.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come si scrive una recensione di un prodotto",
+          "body": "Una recensione B1 ha tre parti:\n1. **Che cos'è e perché l'hai comprato**: I bought these headphones three months ago because...\n2. **Giudizio**: aspetti positivi e negativi, con esempi concreti. Il sound is..., the battery lasts..., the only problem is...\n3. **Conclusione e consiglio**: I'd recommend them to anyone who..., Overall, I give them four stars.\n\nStruttura utili: **which** per commentare (which is great), **that / who** per descrivere (a bag that dries quickly), **whose** (a company whose products...).\n\nAggettivi per descrivere: **lightweight, durable, stylish, comfortable, reliable, easy to use**. Connettivi per contrasto: **however, although, the only problem is**.\n\nEvita frasi troppo semplici («It's good»). Dà esempi: «The battery lasts about twenty hours».",
+          "ex": [
+            [
+              "I'd recommend them to anyone who travels a lot.",
+              "Li consiglio a chiunque viaggi molto."
+            ],
+            [
+              "The only problem is the price.",
+              "L'unico problema è il prezzo."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I'd recommend this phone to anyone ___ wants a simple, reliable device.",
+          "opts": [
+            "who",
+            "which",
+            "whose"
+          ],
+          "a": 0,
+          "why": "Persona (anyone) e pronome soggetto: who."
+        },
+        {
+          "t": "fix",
+          "s": "The bag that I bought it online is very comfortable.",
+          "answers": [
+            "The bag that I bought online is very comfortable"
+          ],
+          "why": "Il pronome that è già l'oggetto di bought: non si ripete it."
+        },
+        {
+          "t": "transform",
+          "s1": "I bought a jacket. It is very lightweight.",
+          "key": "WHICH",
+          "s2": "I bought a jacket ___ lightweight.",
+          "answers": [
+            "which is very"
+          ],
+          "why": "Frase relativa con which: which is very lightweight."
+        },
+        {
+          "t": "write",
+          "q": "You recently bought a product online (for example headphones, a bag or a kitchen machine). Write a review for a website. Say what the product is, what you like and dislike about it, and whether you recommend it.",
+          "it": "Scrivi la recensione di un prodotto acquistato online (100-120 parole): che cos'è, pregi e difetti, e se lo consigli. Usa almeno tre frasi relative (who, which, that, where, whose).",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho detto che cos'è il prodotto e quando l'ho comprato",
+            "Ho dato almeno due aspetti positivi e uno negativo con esempi concreti",
+            "Ho usato almeno tre frasi relative (who, which, that, whose)",
+            "Ho concluso con un consiglio e un giudizio (stars)",
+            "Ho usato aggettivi precisi (lightweight, durable, stylish...)"
+          ],
+          "useful": [
+            "I bought... three months ago.",
+            "It is very..., which is great.",
+            "The only problem is...",
+            "I'd recommend it to anyone who...",
+            "Overall, I give it... stars."
+          ],
+          "model": "I bought these wireless headphones three months ago, and I use them every day. They are very light, so you can wear them for hours without any pain. The sound, which is clear and powerful, is much better than I expected for the price.\n\nThe battery lasts about twenty hours, and the case that comes with them is small enough to fit in a pocket. The only problem is the touch controls, which sometimes don't work when it is raining.\n\nI'd recommend them to anyone who travels a lot or goes running. They are great value for money, and the delivery was quick, too. Overall, I give them four stars out of five."
+        },
+        {
+          "t": "speakTask",
+          "q": "Describe an object that you use every day and that you really like.",
+          "it": "Descrivi un oggetto che usi ogni giorno e che ti piace: com'è, a che cosa serve, perché lo consigli (almeno 5 frasi, con frasi relative).",
+          "hints": [
+            "It's a... that...",
+            "It's made of...",
+            "I use it when...",
+            "I'd recommend it to people who..."
+          ],
+          "min": 40,
+          "model": "I'd like to talk about my backpack. It's a grey backpack that I bought two years ago, and I use it every day. It's made of recycled material, which is very durable, and it has a special pocket where I keep my laptop. It isn't the most stylish bag in the world, but it's very comfortable. I'd recommend it to anyone who walks or cycles to work."
+        },
+        {
+          "t": "speakTask",
+          "q": "Tell me about a shop or website where you often buy things online.",
+          "it": "Parla di un negozio o sito dove compri spesso online: che cosa ti piace, che cosa no, e se lo consigli (almeno 5 frasi).",
+          "hints": [
+            "It's a website where...",
+            "I like it because...",
+            "The only problem is...",
+            "I'd recommend it to people who..."
+          ],
+          "min": 40,
+          "model": "There's a website where I buy most of my books. It has a huge choice, and the prices, which are usually lower than in shops, are very good. The delivery is quick, and the courier who brings the parcels is always polite. The only problem is that I spend too much money. I'd recommend it to anyone who loves reading."
+        }
+      ]
+    },
+    {
+      "id": "b1-08-test",
+      "kind": "test",
+      "title": "Test dell'unità 8",
+      "intro": "Verifica senza aiuti: frasi relative, lessico degli acquisti online, un testo e un ascolto. Le correzioni le vedi alla fine.",
+      "minutes": 25,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "The shop ___ I bought it has closed down.",
+          "opts": [
+            "where",
+            "which",
+            "who"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "The woman ___ daughter is a doctor lives next to us.",
+          "opts": [
+            "whose",
+            "who",
+            "which"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "I lost the umbrella ___ my aunt gave me.",
+          "opts": [
+            "that",
+            "who",
+            "what"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "The people ___ live upstairs are very noisy.",
+          "opts": [
+            "who",
+            "whose",
+            "where"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "This is the kind of phone ___ lasts for years.",
+          "opts": [
+            "that",
+            "what",
+            "whose"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "The man I spoke to was very helpful.",
+            "The man I spoke to him was very helpful.",
+            "The man I spoke was very helpful."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "In quale frase NON si può omettere il pronome relativo?",
+          "opts": [
+            "The man who called you is my boss.",
+            "The film that we saw was boring.",
+            "The jacket that I bought is cheap."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Completa con UNA parola",
+          "s": "He's the man ___ wallet was stolen on the train.",
+          "answers": [
+            "whose"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Ecco il negozio dove ho comprato la giacca.",
+          "answers": [
+            "Here's the shop where I bought the jacket",
+            "Here is the shop where I bought the jacket",
+            "This is the shop where I bought the jacket",
+            "That's the shop where I bought the jacket",
+            "That is the shop where I bought the jacket"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "La donna con cui lavoro è molto simpatica.",
+          "answers": [
+            "The woman I work with is very nice",
+            "The woman that I work with is very nice",
+            "The woman who I work with is very nice",
+            "The woman I work with is really nice",
+            "The woman I work with is very friendly",
+            "The woman whom I work with is very nice",
+            "The woman with whom I work is very nice",
+            "The woman that I work with is very friendly",
+            "The woman who I work with is very friendly"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "The man which sold me the laptop was very rude.",
+          "answers": [
+            "The man who sold me the laptop was very rude",
+            "The man that sold me the laptop was very rude"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "Everything what the shop assistant said was wrong.",
+          "answers": [
+            "Everything that the shop assistant said was wrong",
+            "Everything the shop assistant said was wrong"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "We stayed in a hotel. It was very expensive.",
+          "key": "STAYED",
+          "s2": "The hotel ___ was very expensive.",
+          "answers": [
+            "we stayed in",
+            "that we stayed in",
+            "which we stayed in"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "I spoke to a woman. She promised a refund.",
+          "key": "WHO",
+          "s2": "The woman ___ promised a refund.",
+          "answers": [
+            "who I spoke to",
+            "who I spoke with"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "I was very ___ with the quality of the product.",
+          "root": "DISAPPOINT",
+          "answers": [
+            "disappointed"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "The black one is ___ at the moment. We expect more next week.",
+          "opts": [
+            "out of stock",
+            "out of order",
+            "out of date"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "These headphones are great ___ for money.",
+          "opts": [
+            "value",
+            "price",
+            "worth"
+          ],
+          "a": 0
+        },
+        {
+          "t": "order",
+          "it": "Il libro che ho comprato ieri è già rovinato.",
+          "en": "The book I bought yesterday is already damaged",
+          "extra": [
+            "whose",
+            "where"
+          ]
+        },
+        {
+          "t": "cloze",
+          "title": "Completa la recensione",
+          "mode": "mc",
+          "text": "I bought a suitcase online {1} is made of recycled plastic. It's the only suitcase {2} was both light and strong. I got it from a small shop {3} owner is very friendly, and it arrived in two days. The only problem is the zip, {4} sometimes gets stuck. I'd recommend it to anyone {5} travels a lot.",
+          "gaps": [
+            {
+              "opts": [
+                "that",
+                "who",
+                "whose",
+                "what"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "that",
+                "who",
+                "whose",
+                "what"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "whose",
+                "who",
+                "where",
+                "which"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "which",
+                "who",
+                "whose",
+                "what"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "who",
+                "which",
+                "whose",
+                "where"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from the courier",
+          "it": "Ascolta il messaggio in segreteria.",
+          "lines": [
+            [
+              "Dan",
+              "Hello, this is Dan from the delivery company. I have a parcel for you, but nobody was at home this morning. I've left it with the neighbour who lives at number fourteen, the woman with the small white dog. The parcel that I left is quite heavy, so you might need some help. If you'd rather have it delivered again, please call us before five o'clock today. Thanks, bye."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Where is the parcel now?",
+              "opts": [
+                "With a neighbour",
+                "At the post office",
+                "In the garden"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Which neighbour has it?",
+              "opts": [
+                "The woman with a small white dog",
+                "The man at number four",
+                "The woman at number forty"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What should you do if you want it delivered again?",
+              "opts": [
+                "Call before five o'clock",
+                "Send an email tomorrow",
+                "Go to the delivery office"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Servizio clienti",
+          "lines": [
+            [
+              "Agent",
+              "Customer service. How can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello. I'm calling about an order that I placed last week. The jacket that arrived is the wrong size.",
+                  "Hello. You sent me the wrong jacket, you are not serious.",
+                  "Hello. I have ordered since a week and the jacket is wrong."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Agent",
+              "I'm sorry about that. Would you like a replacement or a refund?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "A replacement, please, in a medium if you have one in stock.",
+                  "I want everything, replacement and refund.",
+                  "You decide, I don't care."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

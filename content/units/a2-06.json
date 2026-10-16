@@ -1,0 +1,242 @@
+{
+ "id": "a2-06", "level": "A2", "position": 6,
+ "title": "Esperienze di vita",
+ "sub": "Present perfect e past simple - in albergo",
+ "grammar": "Present perfect (ever/never, just/already/yet) vs past simple",
+ "topic": "Esperienze di vita",
+ "situation": "Check-in in hotel e segnalare un problema in camera",
+ "lessons": [
+  {
+   "id": "a2-06-grammar", "kind": "grammar",
+   "title": "Present perfect o past simple?",
+   "intro": "«Sono stato a Londra» e «Sono stato a Londra nel 2019» in italiano usano lo stesso tempo; in inglese no. È uno degli errori più comuni: qui impari quando serve have/has + participio e quando invece il past simple.",
+   "minutes": 20,
+   "steps": [
+    { "t": "note", "title": "Come si forma il present perfect",
+      "body": "**have / has + participio passato**.\n- **regolari**: verbo + -ed (worked, visited, tried, stopped)\n- **irregolari**: da imparare (be -> been, go -> gone, see -> seen, do -> done, eat -> eaten, write -> written, lose -> lost, run -> run)\n\nNegativa: **haven't / hasn't** + participio. Domanda: **Have you...? / Has she...?**\n\nForma breve: I've, you've, he's, she's, we've, they've. Attenzione: **he's** può essere «he is» o «he has»: lo capisci dal verbo che segue (he's gone = has gone; he's working = is working).\n\n**Errore tipico degli italiani**: usare il passato al posto del participio («I have went», «I have saw»). Il participio di go è **gone** o **been**, di see è **seen**.",
+      "table": [["", "Affermativa", "Negativa", "Domanda"], ["I / you / we / they", "have seen", "haven't seen", "Have you seen?"], ["he / she / it", "has seen", "hasn't seen", "Has she seen?"]],
+      "ex": [["I've visited Edinburgh twice.", "Sono stato a Edimburgo due volte."], ["She hasn't called me today.", "Oggi non mi ha chiamato."], ["Have you ever eaten snails?", "Hai mai mangiato le lumache?"]] },
+    { "t": "note", "title": "ever, never, just, already, yet",
+      "body": "Il present perfect collega il passato al **presente**: ciò che è successo conta adesso.\n\n- **ever** (= mai, nelle domande): Have you **ever** been to Japan?\n- **never** (= mai, nelle frasi): I've **never** been to Japan. Va tra have e participio.\n- **just** (= appena): She has **just** left. Va tra have e participio.\n- **already** (= già, nelle frasi): I've **already** finished. Può stare anche in fondo: I've finished already.\n- **yet** (= ancora/già, in negative e domande, **in fondo**): I haven't finished **yet**. / Have you finished **yet**?\n\nAttenzione: in italiano «non ... ancora» e «già» sono due cose; in inglese: negativa -> **yet**, affermativa -> **already**.",
+      "table": [["Parola", "Dove", "Esempio"], ["ever / never", "prima del participio", "I've never tried sushi."], ["just / already", "prima del participio", "We've just arrived."], ["yet", "in fondo alla frase", "Has he called yet?"]],
+      "ex": [["I've never ridden a horse.", "Non sono mai salito su un cavallo."], ["We've just arrived at the hotel.", "Siamo appena arrivati in albergo."], ["I haven't seen the film yet.", "Non ho ancora visto il film."]] },
+    { "t": "note", "title": "Present perfect o past simple?",
+      "body": "- **Past simple**: l'azione è **finita** e il momento è **indicato o chiaro**: yesterday, last week, in 2019, two years ago, when I was young. Anche la domanda **When...?** vuole il past simple.\n- **Present perfect**: il momento **non è indicato**, oppure si parla di **esperienze di vita** o di qualcosa che ha effetto adesso.\n\n- I **went** to Rome last year. (momento chiaro)\n- I **have been** to Rome. (esperienza, non dico quando)\n- **When did you go?** (When -> past simple)\n\n**Errore tipico degli italiani**: «I have seen that film last week». Con last week, yesterday, ago, in 2019 non si usa mai il present perfect: **I saw that film last week**.",
+      "ex": [["I lost my keys yesterday.", "Ho perso le chiavi ieri."], ["I've lost my keys. Can you help me look for them?", "Ho perso le chiavi. Mi aiuti a cercarle?"], ["We moved here three years ago.", "Ci siamo trasferiti qui tre anni fa."]] },
+    { "t": "note", "title": "for e since, been e gone",
+      "body": "Per dire da quanto tempo dura una situazione che continua ancora:\n- **for** + periodo: I've lived here **for** five years.\n- **since** + momento di inizio: I've lived here **since** 2019 / since Monday.\n\nIn italiano diciamo «vivo qui da cinque anni» (presente); in inglese serve il **present perfect**: «I live here since 2019» è un errore classico.\n\n**been** o **gone**?\n- **She has been to Paris.** = c'è stata e adesso è tornata (esperienza).\n- **She has gone to Paris.** = è partita e adesso è lì (o è in viaggio).",
+      "ex": [["I've worked here for six months.", "Lavoro qui da sei mesi."], ["He's lived in London since 2020.", "Vive a Londra dal 2020."], ["Sara has gone to Madrid. She'll be back on Friday.", "Sara è andata a Madrid. Tornerà venerdì."]] },
+
+    { "t": "gap", "s": "I have never ___ sushi.", "opts": ["tried", "try", "trying"], "a": 0, "it": "Non ho mai provato il sushi.", "why": "Dopo have serve il participio passato: tried." },
+    { "t": "gap", "s": "Have you ___ been to Scotland?", "opts": ["ever", "never", "yet"], "a": 0, "it": "Sei mai stato in Scozia?", "why": "Nelle domande «mai» si dice ever. Never si usa nelle frasi affermative." },
+    { "t": "gap", "s": "She has ___ left. You can't speak to her now.", "opts": ["just", "yet", "ever"], "a": 0, "why": "«Appena» si dice just e va tra have e participio. Yet va in fondo a negative e domande." },
+    { "t": "gap", "s": "I haven't finished my homework ___ .", "opts": ["yet", "already", "just"], "a": 0, "it": "Non ho ancora finito i compiti.", "why": "Nelle negative «ancora» si dice yet, in fondo alla frase." },
+    { "t": "gap", "s": "We ___ to Paris in 2019.", "opts": ["went", "have been", "have gone"], "a": 0, "why": "«In 2019» è un momento preciso nel passato: past simple." },
+    { "t": "gap", "s": "Where ___ you last night?", "opts": ["were", "have been", "did be"], "a": 0, "why": "«Last night» è un momento finito: past simple di be. «Did be» non esiste." },
+    { "t": "mc", "q": "Qual è la frase corretta?", "opts": ["I saw that film last week.", "I have seen that film last week.", "I have saw that film last week."], "a": 0, "why": "Con last week si usa il past simple. «Have saw» poi è sbagliato anche nella forma." },
+    { "t": "mc", "q": "Qual è la frase corretta?", "opts": ["She has lived here since 2015.", "She has lived here for 2015.", "She lives here since 2015."], "a": 0, "why": "Since + anno di inizio, con il present perfect." },
+    { "t": "type", "q": "Scrivi la forma giusta del verbo tra parentesi", "s": "I ___ (never / ride) a horse.", "answers": ["have never ridden", "'ve never ridden"], "why": "Esperienza di vita: have never + participio (ridden)." },
+    { "t": "type", "q": "Scrivi la forma giusta del verbo tra parentesi", "s": "She ___ (not / call) me yet.", "answers": ["hasn't called", "has not called"], "why": "Con she serve hasn't, e call è regolare: called." },
+    { "t": "type", "q": "Traduci in inglese", "text": "Non sono mai stato a Londra.", "answers": ["I've never been to London", "I have never been to London"], "why": "Esperienza di vita: never + been (participio di be)." },
+    { "t": "fix", "s": "I have lost my keys yesterday.", "answers": ["I lost my keys yesterday"], "why": "Con yesterday si usa il past simple." },
+    { "t": "fix", "s": "He has saw that film twice.", "answers": ["He has seen that film twice", "He's seen that film twice"], "why": "Il participio di see è seen, non saw." },
+    { "t": "fix", "s": "I am here since Monday.", "answers": ["I have been here since Monday", "I've been here since Monday"], "why": "Una situazione che continua da un momento nel passato vuole il present perfect." },
+    { "t": "fix", "s": "I have already finish my work.", "answers": ["I have already finished my work", "I've already finished my work"], "why": "Dopo have serve il participio: finished." },
+    { "t": "transform", "s1": "Sara went to Madrid and she isn't back yet.", "key": "GONE", "s2": "Sara ___ to Madrid.", "answers": ["has gone", "'s gone"], "why": "Has gone = è partita e non è ancora tornata. Has been vorrebbe dire che è già tornata." },
+    { "t": "order", "it": "Hai mai guidato un camion?", "en": "Have you ever driven a truck", "extra": ["did", "drove"] },
+    { "t": "order", "it": "Non ho ancora visto il suo nuovo appartamento.", "en": "I haven't seen her new flat yet", "extra": ["already", "saw"] }
+   ]
+  },
+  {
+   "id": "a2-06-vocab", "kind": "vocab",
+   "title": "Esperienze e traguardi",
+   "intro": "Le parole per raccontare ciò che hai fatto nella vita: viaggi, studi, grandi decisioni, sogni. Ti serviranno ogni volta che parli di te.",
+   "minutes": 15,
+   "words": [
+    { "id": "a2-06-w01", "en": "experience", "it": "esperienza", "ipa": "ɪkˈspɪəriəns", "pos": "n", "ex": ["Living abroad was a great experience.", "Vivere all'estero è stata una grande esperienza."], "note": "Non confonderlo con «experiment» (esperimento)." },
+    { "id": "a2-06-w02", "en": "challenge", "it": "sfida", "ipa": "ˈtʃælɪndʒ", "pos": "n", "ex": ["Learning Chinese was a real challenge.", "Imparare il cinese è stata una vera sfida."], "note": "Non è «chiamata»: per quello si dice call." },
+    { "id": "a2-06-w03", "en": "adventure", "it": "avventura", "ipa": "ədˈventʃə", "pos": "n", "ex": ["Our trip across Iceland was a real adventure.", "Il nostro viaggio in Islanda è stato una vera avventura."] },
+    { "id": "a2-06-w04", "en": "volunteer", "it": "fare volontariato; volontario", "ipa": "ˌvɒlənˈtɪə", "pos": "v", "ex": ["I volunteer at an animal shelter on Sundays.", "La domenica faccio volontariato in un canile."], "note": "Anche nome: a volunteer." },
+    { "id": "a2-06-w05", "en": "graduate", "it": "laurearsi", "ipa": "ˈɡrædʒueɪt", "pos": "v", "ex": ["He graduated from university in 2022.", "Si è laureato nel 2022."], "note": "Si dice graduate from + università." },
+    { "id": "a2-06-w06", "en": "achievement", "it": "traguardo, risultato", "ipa": "əˈtʃiːvmənt", "pos": "n", "ex": ["Finishing the marathon was a huge achievement.", "Finire la maratona è stato un traguardo enorme."] },
+    { "id": "a2-06-w07", "en": "get married", "it": "sposarsi", "ipa": "ɡet ˈmærid", "pos": "phr", "ex": ["They got married in a small church.", "Si sono sposati in una piccola chiesa."], "note": "Si dice get married to someone, non «marry with»." },
+    { "id": "a2-06-w08", "en": "move away", "it": "trasferirsi altrove", "ipa": "muːv əˈweɪ", "pos": "pv", "ex": ["My best friend moved away when we were fifteen.", "La mia migliore amica si è trasferita quando avevamo quindici anni."] },
+    { "id": "a2-06-w09", "en": "give up", "it": "smettere, rinunciare", "ipa": "ɡɪv ʌp", "pos": "pv", "ex": ["He gave up smoking ten years ago.", "Ha smesso di fumare dieci anni fa."] },
+    { "id": "a2-06-w10", "en": "dream", "it": "sogno", "ipa": "driːm", "pos": "n", "ex": ["My dream is to open a small bookshop.", "Il mio sogno è aprire una piccola libreria."] },
+    { "id": "a2-06-w11", "en": "proud", "it": "orgoglioso", "ipa": "praʊd", "pos": "adj", "ex": ["I'm very proud of my daughter.", "Sono molto orgoglioso di mia figlia."], "note": "Si dice proud of, non «proud for»." },
+    { "id": "a2-06-w12", "en": "brave", "it": "coraggioso", "ipa": "breɪv", "pos": "adj", "ex": ["It was brave of you to speak in public.", "È stato coraggioso da parte tua parlare in pubblico."] },
+    { "id": "a2-06-w13", "en": "gap year", "it": "anno sabbatico", "ipa": "ˈɡæp jɪə", "pos": "phr", "ex": ["She took a gap year before university and travelled in Asia.", "Si è presa un anno sabbatico prima dell'università e ha viaggiato in Asia."] },
+    { "id": "a2-06-w14", "en": "settle down", "it": "mettere radici, sistemarsi", "ipa": "ˈsetl daʊn", "pos": "pv", "ex": ["After years in different countries, he wants to settle down.", "Dopo anni in paesi diversi, vuole mettere radici."] }
+   ],
+   "steps": [
+    { "t": "words" },
+    { "t": "drill", "n": 10 },
+    { "t": "match", "pairs": [["face a challenge", "affrontare una sfida"], ["give up smoking", "smettere di fumare"], ["get married", "sposarsi"], ["work abroad", "lavorare all'estero"], ["graduate from university", "laurearsi"]] },
+    { "t": "gap", "s": "I'm very ___ of my daughter: she passed all her exams.", "opts": ["proud", "pride", "happy"], "a": 0, "why": "Dopo «of» serve l'aggettivo proud. «Happy of» non esiste (si dice happy about / with)." },
+    { "t": "gap", "s": "Living in a foreign country is a great ___ .", "opts": ["experience", "experiment", "exercise"], "a": 0, "why": "«Experiment» è un falso amico: significa «esperimento». L'esperienza è experience." },
+    { "t": "type", "q": "Completa con una parola", "s": "I'd love to work ___ for a year, maybe in Canada.", "answers": ["abroad", "overseas"], "sub": "Mi piacerebbe lavorare all'estero per un anno, magari in Canada." },
+    { "t": "wordform", "s": "Finishing the marathon was a huge ___ for her.", "root": "ACHIEVE", "answers": ["achievement"], "why": "Serve un nome: achieve -> achievement." },
+    { "t": "mc", "q": "Che cosa significa «a gap year»?", "opts": ["Un anno sabbatico prima o dopo gli studi", "Un anno di studio in più", "Un anno senza vacanze"], "a": 0, "why": "Molti giovani britannici fanno un gap year per viaggiare o lavorare." }
+   ]
+  },
+  {
+   "id": "a2-06-reading", "kind": "reading",
+   "title": "Un anno di cose nuove",
+   "intro": "Un'intervista a una donna che ha deciso di provare una cosa nuova al mese. Osserva quando usa il present perfect (esperienze, effetti sul presente) e quando il past simple (momenti precisi).",
+   "minutes": 15,
+   "steps": [
+    { "t": "read", "title": "Twelve months, twelve firsts", "genre": "intervista",
+      "text": "Last January, my friend Hannah decided to do something new every month. Now the year is nearly over, and she has done twelve things she had never tried before. I asked her about it.\n\n\"The first thing was easy: I tried sushi,\" she laughs. \"It was my first time with raw fish, and I loved it!\" In March she took a pottery class. She has made six bowls so far, but she says they are all a bit crooked. In June she went to Wales and slept in a tent for the first time. \"It rained for two days and my tent leaked, but I haven't forgotten the stars on the last night.\"\n\nThe biggest challenge was in September, when she gave a talk in front of fifty people at work. \"I was terrified,\" she says. \"But I did it again last week, and it was much easier.\"\n\nWhat about December? Hannah hasn't decided yet. She is thinking about learning to swim, because she has always been afraid of deep water. \"I haven't told anybody my plan yet,\" she says, \"so please don't tell my mother!\"\n\nHer advice is simple: \"Start with something small. You don't have to climb a mountain. You've just got to say yes.\"",
+      "qs": [
+       { "q": "What did Hannah decide to do last January?", "opts": ["Do something new every month", "Change her job", "Travel round the world"], "a": 0, "why": "«...decided to do something new every month»." },
+       { "q": "What was the first new thing she tried?", "opts": ["Pottery", "Sushi", "Camping"], "a": 1, "why": "«The first thing was easy: I tried sushi»." },
+       { "q": "All of Hannah's bowls are perfect.", "opts": ["True", "False", "Not given"], "a": 1, "why": "Dice che sono «all a bit crooked»." },
+       { "q": "In Wales it rained for ___ days.", "answers": ["two", "2"] },
+       { "q": "What was her biggest challenge?", "opts": ["Sleeping in a tent", "Giving a talk to fifty people", "Learning to swim"], "a": 1, "why": "«The biggest challenge was in September, when she gave a talk...»." },
+       { "q": "Hannah has told her mother about her plan for December.", "opts": ["True", "False", "Not given"], "a": 1, "why": "«I haven't told anybody my plan yet... don't tell my mother!»" },
+       { "q": "Hannah's mother is afraid of water.", "opts": ["True", "False", "Not given"], "a": 2, "why": "Il testo non dice nulla della paura della madre: è Hannah ad avere paura dell'acqua profonda." }
+      ] },
+    { "t": "mc", "q": "Nel testo, «a bit crooked» significa:", "opts": ["un po' storte", "un po' piccole", "un po' pesanti"], "a": 0 },
+    { "t": "gap", "s": "It was my first time speaking in public and I was so ___ that my hands were shaking.", "opts": ["terrified", "terrible", "terrific"], "a": 0, "why": "Per dire «spaventato a morte» si usa terrified. «Terrible» (terribile) e «terrific» (fantastico) descrivono cose, non lo stato d'animo." },
+    { "t": "type", "q": "Completa con una parola dal testo", "s": "She was afraid, but she gave a ___ in front of fifty people.", "answers": ["talk", "speech", "presentation"] }
+   ]
+  },
+  {
+   "id": "a2-06-listening", "kind": "listening",
+   "title": "Intervista a un viaggiatore",
+   "intro": "Un programma radio intervista una guida turistica che ha girato il mondo. Ascolta che cosa ha fatto e che cosa non ha ancora fatto. Il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    { "t": "listen", "title": "Have you ever been to Antarctica?", "it": "Ascolta l'intervista e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+      "lines": [
+       ["Host", "Today we're talking to Jack Morris, who works as a travel guide. Jack, have you ever been to Antarctica?"],
+       ["Jack", "No, I haven't, but it's my dream. I've been to forty countries, though."],
+       ["Host", "Forty! What's the most unusual thing you've done?"],
+       ["Jack", "Well, last year I slept in an ice hotel in Sweden. It was minus five inside!"],
+       ["Host", "Have you ever had any problems on your trips?"],
+       ["Jack", "Of course. Once I lost my passport in Peru. I went to the embassy and they helped me, but I missed my flight."],
+       ["Host", "And have you ever been afraid?"],
+       ["Jack", "Only once. I've just come back from Nepal, and the plane there was tiny. I closed my eyes for the whole flight!"],
+       ["Host", "What's your advice for new travellers?"],
+       ["Jack", "Don't plan too much. And always make a copy of your passport."],
+       ["Host", "Thanks, Jack."]
+      ],
+      "qs": [
+       { "q": "What is Jack's job?", "opts": ["Travel guide", "Radio presenter", "Hotel manager"], "a": 0 },
+       { "q": "Has Jack been to Antarctica?", "opts": ["No, but he would like to go.", "Yes, last year.", "No, and he doesn't want to go."], "a": 0 },
+       { "q": "Jack has been to ___ countries.", "answers": ["forty", "40"] },
+       { "q": "Where did Jack sleep in an ice hotel?", "opts": ["In Sweden", "In Peru", "In Nepal"], "a": 0 },
+       { "q": "What happened to Jack in Peru?", "opts": ["He lost his passport.", "He missed his hotel.", "He was ill."], "a": 0 },
+       { "q": "What is Jack's advice?", "opts": ["Don't plan too much.", "Travel with a friend.", "Always book a hotel."], "a": 0 }
+      ] },
+    { "t": "dictation", "en": "I've just come back from Nepal.", "it": "Sono appena tornato dal Nepal." },
+    { "t": "dictation", "en": "Have you ever lost your passport?", "it": "Hai mai perso il passaporto?" },
+    { "t": "speak", "en": "I've never been to Antarctica, but it's my dream.", "it": "Non sono mai stato in Antartide, ma è il mio sogno." }
+   ]
+  },
+  {
+   "id": "a2-06-situation", "kind": "situation",
+   "title": "In albergo",
+   "intro": "Arrivare in un hotel inglese, fare il check-in e, se qualcosa non va, segnalare il problema in modo chiaro ma cortese. Frasi pronte per la reception.",
+   "minutes": 15,
+   "steps": [
+    { "t": "note", "title": "Il check-in",
+      "body": "- **I have a reservation under the name Rossi.** = Ho una prenotazione a nome Rossi.\n- **I booked a double room for three nights.**\n- **Could I see your passport, please?** (te lo chiede la reception)\n- **What time is breakfast?** / **Is breakfast included?**\n- **What's the Wi-Fi password?**\n- **Check-out is at eleven.** = La camera va lasciata entro le 11.\n- **Could I leave my luggage here until this afternoon?**\n\n**Errori tipici degli italiani**: «Is included the breakfast?» (si dice **Is breakfast included?**), «I have prenoted» (si dice **I booked** o **I have a reservation**), la «camera» d'albergo è **room**: in inglese **camera** significa solo fotocamera.",
+      "ex": [["I have a reservation under the name Rossi.", "Ho una prenotazione a nome Rossi."], ["Is breakfast included?", "La colazione è inclusa?"], ["Could I leave my luggage here until this afternoon?", "Posso lasciare qui i bagagli fino al pomeriggio?"]] },
+    { "t": "note", "title": "Segnalare un problema",
+      "body": "**Per iniziare**:\n- **Excuse me, there's a problem with my room.**\n- **I'm afraid the air conditioning isn't working.**\n\n**Per descrivere**:\n- **The shower is broken.** / **The heating doesn't work.**\n- **There are no clean towels.** / **There isn't any hot water.**\n- **The room is very noisy.**\n\n**Per chiedere una soluzione**:\n- **Could you send someone to fix it?**\n- **Could I change rooms?**\n- **Could you bring me some more towels?**\n\n**Risposte tipiche della reception**: I'm very sorry about that. / I'll send someone up right away.\n\nIn inglese si è cortesi anche quando ci si lamenta: **I'm afraid...** e **Could you...?** ammorbidiscono la richiesta.",
+      "ex": [["Excuse me, there's a problem with my room.", "Scusi, c'è un problema con la mia camera."], ["Could you send someone to fix the shower?", "Potrebbe mandare qualcuno a riparare la doccia?"], ["I'll send someone up right away.", "Mando subito qualcuno."]] },
+    { "t": "dialog", "title": "Alla reception", "it": "Arrivi in albergo. Scegli le battute giuste (Tu).",
+      "lines": [
+       ["Receptionist", "Good evening. Can I help you?"],
+       ["Tu", { "opts": ["Good evening. I have a reservation under the name Bianchi.", "Good evening. I have prenoted a room for Bianchi.", "Good evening. I am Bianchi, I have a booking room."], "a": 0 }],
+       ["Receptionist", "Yes, a double room for three nights. Could I see your passport, please?"],
+       ["Tu", { "opts": ["Of course. Here you are.", "Of course. Here you go to.", "Sure. Take it you."], "a": 0 }],
+       ["Receptionist", "Thank you. You're in room 214, on the second floor. Breakfast is from seven to ten."],
+       ["Tu", { "opts": ["Is breakfast included in the price?", "Is included the breakfast in the price?", "The breakfast is included in the price?"], "a": 0 }]
+      ] },
+    { "t": "dialog", "title": "Un problema in camera", "it": "Chiami la reception. Scegli le frasi giuste (Tu).",
+      "lines": [
+       ["Receptionist", "Reception. How can I help you?"],
+       ["Tu", { "opts": ["Hello, this is room 214. I'm afraid the air conditioning isn't working.", "Hello, I am the room 214. The air conditioning not works.", "Hello, room 214. The air condition is not work."], "a": 0 }],
+       ["Receptionist", "I'm very sorry about that. I'll send someone up right away."],
+       ["Tu", { "opts": ["Thank you. Could I also have some more towels, please?", "Thank you. Can I have also some towels more?", "Thanks you. I want more towels."], "a": 0 }],
+       ["Receptionist", "Of course. They'll be with you in ten minutes."]
+      ] },
+    { "t": "match", "pairs": [["I have a reservation.", "Ho una prenotazione."], ["Is breakfast included?", "La colazione è inclusa?"], ["The shower is broken.", "La doccia è rotta."], ["Could I change rooms?", "Posso cambiare camera?"], ["Check-out is at eleven.", "Il check-out è alle undici."]] },
+    { "t": "order", "it": "Potrebbe mandare qualcuno a riparare la doccia?", "en": "Could you send someone to fix the shower", "extra": ["fixing", "for"] },
+    { "t": "speak", "en": "I have a reservation under the name Rossi.", "it": "Ho una prenotazione a nome Rossi." },
+    { "t": "speak", "en": "I'm afraid the air conditioning isn't working.", "it": "Temo che l'aria condizionata non funzioni." },
+    { "t": "speak", "en": "Could I leave my luggage here until this afternoon?", "it": "Posso lasciare qui i bagagli fino al pomeriggio?" },
+    { "t": "speakTask", "q": "You arrive at a hotel. Check in, ask about breakfast and the Wi-Fi, then report a problem in your room.", "it": "Arrivi in un hotel: fai il check-in, chiedi della colazione e del Wi-Fi, poi segnala un problema in camera (almeno 5 frasi).",
+      "hints": ["Good evening. I have a reservation under...", "What time is breakfast? / What's the Wi-Fi password?", "I'm afraid there's a problem with...", "Could you send someone...?"], "min": 30,
+      "model": "Good evening. I have a reservation under the name Verdi, for two nights. What time is breakfast, please? And what's the Wi-Fi password? Thank you. ... Excuse me, I'm in room 308 and I'm afraid the shower is broken. Could you send someone to fix it, please?" }
+   ]
+  },
+  {
+   "id": "a2-06-production", "kind": "production",
+   "title": "Un'email all'albergo",
+   "intro": "Scriverai una breve email formale all'albergo dove sei stato, con un apprezzamento, un problema e una richiesta. Poi parlerai delle tue esperienze. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    { "t": "note", "title": "Un'email formale",
+      "body": "- **Saluto**: Dear Sir or Madam, (se non conosci il nome) / Dear Mr Smith,\n- **Motivo**: I am writing to tell you about... / I stayed at your hotel from Friday to Sunday.\n- **Cosa è andato bene**: The staff were very friendly.\n- **Problema**: However, the shower was broken. / Unfortunately, nobody has repaired it.\n- **Richiesta**: **I would be grateful if you could** send me... / Could you please check...?\n- **Chiusura**: I look forward to hearing from you.\n- **Firma**: **Yours faithfully,** (con Dear Sir or Madam) / **Yours sincerely,** (con il nome)\n\nNell'email formale **non** si usano contrazioni (I am, I have) e si evitano espressioni troppo colloquiali.",
+      "ex": [["I would be grateful if you could send me a refund.", "Le sarei grato se potesse inviarmi un rimborso."], ["I look forward to hearing from you.", "Resto in attesa di una Sua risposta."]] },
+    { "t": "gap", "s": "Dear Sir or Madam, ... I look forward to hearing from you. Yours ___ ,", "opts": ["faithfully", "sincerely", "truly"], "a": 0, "why": "Con «Dear Sir or Madam» (nome sconosciuto) la chiusura britannica è Yours faithfully." },
+    { "t": "gap", "s": "I would be grateful if you ___ send me a copy of the invoice.", "opts": ["could", "can", "will"], "a": 0, "why": "La formula formale è «I would be grateful if you could...»." },
+    { "t": "fix", "s": "I am writing for tell you about a problem.", "answers": ["I am writing to tell you about a problem"], "why": "Per esprimere lo scopo si usa to + verbo, non «for»." },
+    { "t": "type", "q": "Traduci in inglese", "text": "Non hanno ancora riparato la doccia.", "answers": ["They haven't repaired the shower yet", "They have not repaired the shower yet", "They haven't fixed the shower yet", "They have not fixed the shower yet"], "why": "Una cosa che non è ancora successa: present perfect + yet." },
+    { "t": "write", "q": "You stayed at the Riverside Hotel last weekend. Write a formal email to the hotel. Say what you liked, describe a problem and ask them to do something.",
+      "it": "Hai soggiornato al Riverside Hotel. Scrivi un'email formale: cosa ti è piaciuto, un problema che hai avuto e cosa chiedi all'albergo di fare.",
+      "min": 60, "max": 80,
+      "checklist": ["Ho iniziato con Dear Sir or Madam e chiuso con Yours faithfully", "Ho usato il past simple per ciò che è successo in un momento preciso", "Ho usato il present perfect almeno una volta (per esempio con yet, already o just)", "Ho usato una formula educata (I would be grateful if you could...)", "Non ho usato contrazioni"],
+      "useful": ["Dear Sir or Madam,", "I stayed in room... from... to...", "However, / Unfortunately,", "nobody has repaired...", "I would be grateful if you could...", "I look forward to hearing from you.", "Yours faithfully,"],
+      "model": "Dear Sir or Madam,\n\nI stayed in room 12 at your hotel from Friday to Sunday. The staff were very friendly and breakfast was excellent. However, the shower was broken and nobody has repaired it, even though I told the reception twice. I have also lost a black scarf, which I think is in the room. Could you please check, and send it to me? I look forward to hearing from you.\n\nYours faithfully,\nAnna Conti" },
+    { "t": "speakTask", "q": "Tell us about three things you have done in your life.", "it": "Parla di tre esperienze che hai fatto nella vita: per ognuna di' che cosa hai fatto, quando e come ti sei sentito.", "hints": ["I've been to...", "I've never...", "I went there in... / last year...", "It was..."], "min": 40,
+      "model": "I've been to Spain three times. The first time I went was in 2016, with my family, and it was fantastic. I've also run a half marathon: I did it two years ago and I was very proud. But I've never travelled outside Europe. It's my dream to go to Japan one day." },
+    { "t": "speakTask", "q": "What have you never done, but would like to do?", "it": "Parla di qualcosa che non hai mai fatto e che vorresti fare: perché ti attira e che cosa hai già fatto per prepararti.", "hints": ["I've never...", "I'd love to... because...", "I haven't ... yet.", "I've already..."], "min": 30,
+      "model": "I've never been on a hot-air balloon, but I'd love to try it. I think the view must be amazing. I haven't booked anything yet, but I've already looked at some prices on the internet. It's quite expensive, so I'm going to save some money first." }
+   ]
+  },
+  {
+   "id": "a2-06-test", "kind": "test",
+   "title": "Test dell'unità 6",
+   "intro": "Verifica senza aiuti: present perfect e past simple, lessico delle esperienze, hotel e lettere. Le correzioni le vedi alla fine.",
+   "minutes": 15, "pass": 70,
+   "steps": [
+    { "t": "gap", "s": "I have never ___ a horse.", "opts": ["ridden", "rode", "riding"], "a": 0 },
+    { "t": "gap", "s": "Have you ___ been to a concert in London?", "opts": ["ever", "yet", "just"], "a": 0 },
+    { "t": "gap", "s": "We've ___ arrived at the hotel. We're in the lobby.", "opts": ["just", "yet", "ever"], "a": 0 },
+    { "t": "gap", "s": "She hasn't answered my email ___ .", "opts": ["yet", "already", "never"], "a": 0 },
+    { "t": "gap", "s": "My parents ___ married in 1990.", "opts": ["got", "have got", "have been"], "a": 0 },
+    { "t": "gap", "s": "I'm very ___ of my son: he has graduated with top marks.", "opts": ["proud", "pride", "happy"], "a": 0 },
+    { "t": "gap", "s": "Living abroad was a great ___ for me.", "opts": ["experience", "experiment", "exercise"], "a": 0 },
+    { "t": "gap", "s": "Excuse me, I'm afraid the shower in my room is ___ .", "opts": ["broken", "breaked", "breaking"], "a": 0 },
+    { "t": "mc", "q": "Qual è la frase corretta?", "opts": ["I saw that film two years ago.", "I have seen that film two years ago.", "I have saw that film two years ago."], "a": 0 },
+    { "t": "mc", "q": "Qual è la frase corretta?", "opts": ["They have lived here since 2018.", "They have lived here for 2018.", "They live here since 2018."], "a": 0 },
+    { "t": "type", "q": "Scrivi la forma giusta del verbo tra parentesi", "s": "He ___ (never / eat) Indian food.", "answers": ["has never eaten", "'s never eaten"] },
+    { "t": "type", "q": "Scrivi la forma giusta del verbo tra parentesi", "s": "We ___ (not / see) the new film yet.", "answers": ["haven't seen", "have not seen"] },
+    { "t": "type", "q": "Traduci in inglese", "text": "Ho già prenotato l'albergo.", "answers": ["I've already booked the hotel", "I have already booked the hotel", "I've booked the hotel already", "I have booked the hotel already"] },
+    { "t": "type", "q": "Traduci in inglese", "text": "Quando sei tornato da Londra?", "answers": ["When did you come back from London", "When did you get back from London", "When did you return from London"] },
+    { "t": "fix", "s": "I have lost my wallet last Friday.", "answers": ["I lost my wallet last Friday"] },
+    { "t": "fix", "s": "She has went to Spain three times.", "answers": ["She has been to Spain three times", "She's been to Spain three times"] },
+    { "t": "fix", "s": "Is included the breakfast in the price?", "answers": ["Is breakfast included in the price", "Is the breakfast included in the price"] },
+    { "t": "transform", "s1": "This is my first time in a plane.", "key": "NEVER", "s2": "I ___ in a plane before.", "answers": ["have never been", "'ve never been", "have never flown", "'ve never flown"] },
+    { "t": "wordform", "s": "Finishing my degree was a great ___ .", "root": "ACHIEVE", "answers": ["achievement"] },
+    { "t": "order", "it": "Hai già fatto colazione?", "en": "Have you had breakfast yet", "extra": ["ate", "did"] },
+    { "t": "cloze", "title": "Completa l'email", "mode": "mc",
+      "text": "Hi Marta,\n\nI {1} in Edinburgh since September and I love it. So far I {2} lots of new friends and {3} yoga. Last weekend we {4} to the Highlands. It was great! I've never {5} such beautiful mountains.\n\nSpeak soon,\nElena",
+      "gaps": [ { "opts": ["have lived", "live", "lived", "am living"], "a": 0 }, { "opts": ["have made", "made", "have maked", "make"], "a": 0 }, { "opts": ["have taken up", "took up", "have taking up", "take up"], "a": 0 }, { "opts": ["went", "have gone", "have been", "go"], "a": 0 }, { "opts": ["seen", "saw", "see", "seeing"], "a": 0 } ] },
+    { "t": "listen", "title": "At the hotel desk", "it": "Ascolta il messaggio in segreteria.",
+      "lines": [["Receptionist", "Good morning, Mr Taylor, this is the Park Hotel. I'm calling about your room. We have fixed the air conditioning and our cleaners have just brought you some clean towels. I'm very sorry about the problem. Breakfast tomorrow is free, with our compliments. If you need anything else, please call reception."]],
+      "qs": [ { "q": "What has the hotel fixed?", "opts": ["The shower", "The air conditioning", "The television"], "a": 1 }, { "q": "What has just been delivered to the room?", "opts": ["Clean towels", "A new key", "Breakfast"], "a": 0 }, { "q": "What is free tomorrow?", "opts": ["Breakfast", "The room", "Parking"], "a": 0 } ] },
+    { "t": "dialog", "title": "In reception", "lines": [
+      ["Receptionist", "Good evening. Can I help you?"],
+      ["Tu", { "opts": ["Good evening. I have a reservation under the name Rossi.", "Good evening. I have prenoted for Rossi.", "Good evening. I am Rossi, I have a booking room."], "a": 0 }],
+      ["Receptionist", "Of course. Could I see your passport, please?"],
+      ["Tu", { "opts": ["Here you are.", "Here you go to.", "Take it you."], "a": 0 }]
+     ] }
+   ]
+  }
+ ]
+}

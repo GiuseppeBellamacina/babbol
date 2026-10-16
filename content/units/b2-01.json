@@ -1,0 +1,1472 @@
+{
+ "id": "b2-01",
+ "level": "B2",
+ "position": 1,
+ "title": "Personalità e colloquio di lavoro",
+ "sub": "Tempi avanzati e do enfatico - rispondere con il metodo STAR",
+ "grammar": "Ripasso avanzato dei tempi, verbi di stato e dinamici, do enfatico",
+ "topic": "Personalità e identità",
+ "situation": "Colloquio di lavoro: domande comportamentali",
+ "lessons": [
+  {
+   "id": "b2-01-grammar",
+   "kind": "grammar",
+   "title": "Tempi avanzati, verbi di stato, do enfatico",
+   "intro": "Al B2 non basta conoscere i tempi: devi scegliere quello giusto per la sfumatura. In un colloquio di lavoro fa la differenza tra «ho lavorato» e «ho lavorato per anni e lo faccio ancora».",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Ripasso avanzato: simple o perfect?",
+     "body": "Al B2 la scelta del tempo dipende dal **punto di vista** di chi parla:\n- **Past simple**: un fatto concluso in un momento passato (spesso con una data): I **joined** the firm in 2018.\n- **Present perfect simple**: legame con il presente, risultato o esperienza: I **have managed** three teams. (e il risultato conta adesso)\n- **Present perfect continuous**: l'**attività** in corso o appena finita, con durata: I **have been managing** this team since 2019. / You look tired. **Have you been working** all night?\n- **Past perfect**: un fatto anteriore a un altro momento del passato: When I arrived, the interview **had** already **started**.\n- **Past perfect continuous**: l'attività che durava prima di quel momento: I **had been waiting** for an hour when she called me in.\n\nRegola utile: se dici **quanto** o **quante volte** (three reports, twice), di norma è il **simple**; se ti interessa la **durata** o l'attività in sé, è il **continuous**.",
+     "ex": [
+      [
+       "I've written three reports this morning.",
+       "Stamattina ho scritto tre relazioni. (risultato: quante)"
+      ],
+      [
+       "I've been writing reports all morning.",
+       "Sono tutta la mattina che scrivo relazioni. (attività)"
+      ],
+      [
+       "She had been working for ten hours when the call came.",
+       "Lavorava da dieci ore quando è arrivata la chiamata."
+      ]
+     ],
+     "table": [
+      [
+       "Tempo",
+       "Focus",
+       "Esempio"
+      ],
+      [
+       "past simple",
+       "fatto concluso",
+       "I left in 2020."
+      ],
+      [
+       "present perfect",
+       "risultato / esperienza",
+       "I've left my job."
+      ],
+      [
+       "present perfect continuous",
+       "attività e durata",
+       "I've been looking for a new job."
+      ],
+      [
+       "past perfect (cont.)",
+       "prima di un momento passato",
+       "I had been waiting."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Present perfect e past simple: gli errori degli italiani",
+     "body": "- Con un **momento finito** (yesterday, last year, in 2019, ten years ago) si usa il **past simple**: «I have started this job in 2019» è sbagliato -> I started.\n- **For** (durata) e **since** (punto di partenza) con il present perfect: I've worked here **for** five years / **since** 2019. Mai «since five years» né «I work here since 2019».\n- **How long** + present perfect (continuous): How long **have you been working** here?\n- Con **just, already, yet, ever, never, so far, recently** si usa di norma il present perfect.\n- Nei colloqui: l'**esperienza** (generale) al present perfect («I've led several projects»), poi il **caso concreto** al past simple («Last year I led...»).",
+     "ex": [
+      [
+       "I've worked in sales for six years, and last year I won the regional award.",
+       "Lavoro nelle vendite da sei anni e l'anno scorso ho vinto il premio regionale."
+      ],
+      [
+       "How long have you been looking for a new post?",
+       "Da quanto tempo cerchi un nuovo posto?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Verbi di stato e dinamici",
+     "body": "I verbi di **stato** (know, believe, want, need, like, prefer, belong, seem, understand) di norma non si usano al continuous. Ma alcuni verbi hanno **due significati**:\n- **think**: «I think she's right» (opinione, simple) / «I'm thinking about applying» (sto riflettendo, continuous)\n- **see**: «I see what you mean» (capisco) / «I'm seeing the manager at four» (ho un appuntamento)\n- **have**: «I have a car» (possesso) / «I'm having a meeting» (azione)\n- **taste / smell / feel / look**: «The soup tastes salty» / «The chef is tasting the soup»\n- **be**: «He is rude» (è così) / «He is being rude» (si sta comportando male, in questo momento)\n\nIl continuous con un verbo di stato esprime qualcosa di **temporaneo** o un comportamento: «You're being very patient.» Ed è il motivo per cui «I'm loving it» è colloquiale, non da usare in un colloquio.\n\nErrori tipici: «I'm knowing him well», «I'm not understanding», «She is wanting a change».",
+     "ex": [
+      [
+       "I'm thinking of changing careers, but I don't know yet.",
+       "Sto pensando di cambiare carriera, ma non so ancora."
+      ],
+      [
+       "He isn't usually arrogant. He's just being defensive today.",
+       "Di solito non è arrogante. Oggi è solo sulla difensiva."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Il do enfatico",
+     "body": "**Do / does / did + verbo base** in una frase affermativa serve a **enfatizzare**: confermare, contraddire, esprimere contrasto o forte interesse.\n- per **contraddire**: «You said you hadn't received my CV.» - «I **did send** it on Monday!»\n- per **dare forza**: «I **do appreciate** your time.» / «We **do apologise** for the delay.» (formale, cortese)\n- per **contrasto**: «I don't have much experience, but I **do learn** quickly.»\n- con l'**imperativo**: «**Do sit down.**» (cortese e caloroso)\n\nSi pronuncia con un forte accento su «do/did». Dopo il do enfatico il verbo è sempre alla **forma base**: «I did sent» è sbagliato. Non va usato in ogni frase: perde efficacia.",
+     "ex": [
+      [
+       "I do understand your concerns, but I believe I'm the right person for the job.",
+       "Capisco davvero le sue perplessità, ma credo di essere la persona giusta."
+      ],
+      [
+       "She did say she would call, but she never did.",
+       "Aveva detto che avrebbe chiamato, ma non l'ha mai fatto."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Look! I ___ three reports this morning.",
+     "opts": [
+      "have written",
+      "have been writing",
+      "had written"
+     ],
+     "a": 0,
+     "it": "Guarda! Stamattina ho scritto tre relazioni.",
+     "why": "Si indica un risultato quantificato (tre relazioni): present perfect simple."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ this candidate is the strongest we have interviewed.",
+     "opts": [
+      "think",
+      "am thinking",
+      "have been thinking"
+     ],
+     "a": 0,
+     "it": "Penso che questo candidato sia il più forte che abbiamo intervistato.",
+     "why": "Opinione: think è di stato e resta al simple."
+    },
+    {
+     "t": "gap",
+     "s": "At the moment the chef ___ the sauce to check the seasoning.",
+     "opts": [
+      "is tasting",
+      "tastes",
+      "is tasted"
+     ],
+     "a": 0,
+     "it": "In questo momento lo chef assaggia la salsa per controllare il condimento.",
+     "why": "Qui taste è un'azione dinamica in corso: continuous."
+    },
+    {
+     "t": "gap",
+     "s": "When the HR manager finally called me in, I ___ for nearly an hour.",
+     "opts": [
+      "had been waiting",
+      "have been waiting",
+      "waited"
+     ],
+     "a": 0,
+     "it": "Quando la responsabile del personale mi ha fatta entrare, aspettavo da quasi un'ora.",
+     "why": "Un'attività durata fino a un momento passato: past perfect continuous."
+    },
+    {
+     "t": "gap",
+     "s": "She ___ here since 2015, so she knows the system inside out.",
+     "opts": [
+      "has been working",
+      "is working",
+      "works"
+     ],
+     "a": 0,
+     "it": "Lavora qui dal 2015, quindi conosce il sistema a fondo.",
+     "why": "Since 2015 richiede il present perfect (continuous per la durata)."
+    },
+    {
+     "t": "mc",
+     "q": "Un collega sostiene che non hai mandato il CV. Come ribatti?",
+     "opts": [
+      "But I did send it on Monday!",
+      "But I do sent it on Monday!",
+      "But I did sent it on Monday!"
+     ],
+     "a": 0,
+     "why": "Do enfatico per contraddire: did + verbo base (send, non sent)."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è adatta a un'email formale a un candidato?",
+     "opts": [
+      "We do apologise for the delay in replying.",
+      "We do apologising for the delay in replying.",
+      "We are do apologise for the delay in replying."
+     ],
+     "a": 0,
+     "why": "Do + verbo base, anche nello scritto formale, per sottolineare il dispiacere."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "I'm sorry you haven't heard from us. We ___ receive your application, but it went to the wrong department.",
+     "answers": [
+      "did"
+     ],
+     "why": "Do enfatico al passato: did receive, per contraddire quello che il candidato pensa."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "How long ___ you been working in sales when you decided to change careers?",
+     "answers": [
+      "had"
+     ],
+     "why": "Si parla di un momento passato (la decisione): past perfect continuous."
+    },
+    {
+     "t": "type",
+     "q": "Completa con 2-3 parole (work)",
+     "s": "She ___ in this company since 2015.",
+     "answers": [
+      "has been working",
+      "has worked",
+      "'s been working",
+      "'s worked"
+     ],
+     "why": "Since + present perfect: simple o continuous."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "I ___ been looking for a new challenge for a while now.",
+     "answers": [
+      "have"
+     ],
+     "why": "Attività con durata fino a oggi: present perfect continuous."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I'm knowing the manager personally.",
+     "answers": [
+      "I know the manager personally"
+     ],
+     "why": "Know è un verbo di stato: niente continuous."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She has worked here since five years.",
+     "answers": [
+      "She has worked here for five years",
+      "She has been working here for five years"
+     ],
+     "why": "Per una durata si usa for; since indica il momento di inizio."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "When I arrived, the interview already started.",
+     "answers": [
+      "When I arrived, the interview had already started"
+     ],
+     "why": "Un fatto anteriore a un altro momento passato: past perfect."
+    },
+    {
+     "t": "transform",
+     "s1": "I started this job in 2019 and I still work here.",
+     "key": "BEEN",
+     "s2": "I ___ here since 2019.",
+     "answers": [
+      "have been working",
+      "'ve been working"
+     ],
+     "why": "Durata dal passato a oggi: present perfect continuous."
+    },
+    {
+     "t": "transform",
+     "s1": "I definitely told you about the meeting.",
+     "key": "DID",
+     "s2": "I ___ you about the meeting.",
+     "answers": [
+      "did tell"
+     ],
+     "why": "Do enfatico: did + base."
+    },
+    {
+     "t": "transform",
+     "s1": "He isn't normally unreliable, but today he is behaving that way.",
+     "key": "BEING",
+     "s2": "He isn't normally unreliable, but today he ___ unreliable.",
+     "answers": [
+      "is being"
+     ],
+     "why": "Be + -ing descrive un comportamento temporaneo."
+    },
+    {
+     "t": "order",
+     "it": "Sapevo che avevano già assunto qualcuno.",
+     "en": "I knew they had already hired someone",
+     "extra": [
+      "have",
+      "been"
+     ],
+     "why": "Past perfect per un fatto anteriore: had already hired."
+    }
+   ]
+  },
+  {
+   "id": "b2-01-vocab",
+   "kind": "vocab",
+   "title": "Qualità personali e lavoro",
+   "intro": "Aggettivi e collocazioni per descriverti in un colloquio: sono le parole che i selezionatori si aspettano di sentire (e che puoi sfruttare in una cover letter).",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "b2-01-w01",
+     "en": "resilient",
+     "it": "resiliente, capace di riprendersi",
+     "ipa": "rɪˈzɪliənt",
+     "pos": "adj",
+     "ex": [
+      "She's resilient: she bounced back after the redundancy.",
+      "È resiliente: si è ripresa dopo il licenziamento."
+     ],
+     "note": "Nome: resilience."
+    },
+    {
+     "id": "b2-01-w02",
+     "en": "adaptable",
+     "it": "adattabile",
+     "ipa": "əˈdæptəbl",
+     "pos": "adj",
+     "ex": [
+      "We need someone adaptable who can switch between projects.",
+      "Cerchiamo qualcuno adattabile, che sappia passare da un progetto all'altro."
+     ]
+    },
+    {
+     "id": "b2-01-w03",
+     "en": "assertive",
+     "it": "che sa farsi valere",
+     "ipa": "əˈsɜːtɪv",
+     "pos": "adj",
+     "ex": [
+      "Be assertive without being aggressive.",
+      "Sappiti far valere senza essere aggressivo."
+     ],
+     "note": "Non è «aggressivo»: è sicuro e rispettoso."
+    },
+    {
+     "id": "b2-01-w04",
+     "en": "meticulous",
+     "it": "meticoloso",
+     "ipa": "məˈtɪkjələs",
+     "pos": "adj",
+     "ex": [
+      "He's meticulous about checking every figure.",
+      "È meticoloso nel controllare ogni cifra."
+     ]
+    },
+    {
+     "id": "b2-01-w05",
+     "en": "conscientious",
+     "it": "coscienzioso, scrupoloso",
+     "ipa": "ˌkɒnʃiˈenʃəs",
+     "pos": "adj",
+     "ex": [
+      "A conscientious employee, she never misses a deadline.",
+      "Una dipendente coscienziosa, non salta mai una scadenza."
+     ],
+     "note": "Non confonderlo con conscious (consapevole)."
+    },
+    {
+     "id": "b2-01-w06",
+     "en": "ambitious",
+     "it": "ambizioso",
+     "ipa": "æmˈbɪʃəs",
+     "pos": "adj",
+     "ex": [
+      "He's ambitious and hopes to be a director by forty.",
+      "È ambizioso e spera di diventare direttore a quarant'anni."
+     ]
+    },
+    {
+     "id": "b2-01-w07",
+     "en": "initiative",
+     "it": "iniziativa",
+     "ipa": "ɪˈnɪʃətɪv",
+     "pos": "n",
+     "ex": [
+      "She showed great initiative by organising the training herself.",
+      "Ha mostrato grande iniziativa organizzando lei la formazione."
+     ],
+     "note": "Collocazione: take the initiative."
+    },
+    {
+     "id": "b2-01-w08",
+     "en": "track record",
+     "it": "storico dei risultati",
+     "ipa": "ˈtræk ˌrekɔːd",
+     "pos": "n",
+     "ex": [
+      "The firm has a proven track record in renewable energy.",
+      "L'azienda ha risultati comprovati nell'energia rinnovabile."
+     ]
+    },
+    {
+     "id": "b2-01-w09",
+     "en": "constructive criticism",
+     "it": "critica costruttiva",
+     "ipa": "kənˌstrʌktɪv ˈkrɪtɪsɪzəm",
+     "pos": "n",
+     "ex": [
+      "I welcome constructive criticism: it helps me improve.",
+      "Accolgo volentieri le critiche costruttive: mi aiutano a migliorare."
+     ],
+     "note": "Criticism non è numerabile."
+    },
+    {
+     "id": "b2-01-w10",
+     "en": "interpersonal skills",
+     "it": "capacità relazionali",
+     "ipa": "ˌɪntəˈpɜːsənl skɪlz",
+     "pos": "n",
+     "ex": [
+      "The role requires excellent interpersonal skills.",
+      "Il ruolo richiede ottime capacità relazionali."
+     ]
+    },
+    {
+     "id": "b2-01-w11",
+     "en": "work under pressure",
+     "it": "lavorare sotto pressione",
+     "ipa": "wɜːk ˈʌndə ˈpreʃə",
+     "pos": "phr",
+     "ex": [
+      "I thrive when I have to work under pressure.",
+      "Do il meglio di me quando devo lavorare sotto pressione."
+     ]
+    },
+    {
+     "id": "b2-01-w12",
+     "en": "meet a target",
+     "it": "raggiungere un obiettivo",
+     "ipa": "miːt ə ˈtɑːɡɪt",
+     "pos": "phr",
+     "ex": [
+      "The team met its monthly target for the first time.",
+      "Il team ha raggiunto per la prima volta l'obiettivo mensile."
+     ],
+     "note": "Collocazione: meet (non «do») a target."
+    },
+    {
+     "id": "b2-01-w13",
+     "en": "team player",
+     "it": "persona che lavora bene in squadra",
+     "ipa": "ˌtiːm ˈpleɪə",
+     "pos": "n",
+     "ex": [
+      "We are looking for a genuine team player.",
+      "Cerchiamo un vero giocatore di squadra."
+     ]
+    },
+    {
+     "id": "b2-01-w14",
+     "en": "self-motivated",
+     "it": "automotivato",
+     "ipa": "ˌself ˈməʊtɪveɪtɪd",
+     "pos": "adj",
+     "ex": [
+      "Being self-motivated is essential when you work remotely.",
+      "Essere automotivati è essenziale quando si lavora da remoto."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "take the initiative",
+       "prendere l'iniziativa"
+      ],
+      [
+       "meet a target",
+       "raggiungere un obiettivo"
+      ],
+      [
+       "work under pressure",
+       "lavorare sotto pressione"
+      ],
+      [
+       "accept constructive criticism",
+       "accettare critiche costruttive"
+      ],
+      [
+       "have an impressive track record",
+       "avere un ottimo curriculum di risultati"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "She's very ___ : she checks every detail twice before sending anything.",
+     "opts": [
+      "meticulous",
+      "ambitious",
+      "assertive"
+     ],
+     "a": 0,
+     "why": "Meticulous = molto accurato. Ambitious e assertive descrivono altro."
+    },
+    {
+     "t": "gap",
+     "s": "Our sales team has to ___ a target of fifty new clients per quarter.",
+     "opts": [
+      "meet",
+      "do",
+      "win"
+     ],
+     "a": 0,
+     "why": "Meet a target = raggiungere un obiettivo (collocazione fissa)."
+    },
+    {
+     "t": "gap",
+     "s": "She has an excellent ___ of managing difficult projects.",
+     "opts": [
+      "track record",
+      "career line",
+      "record path"
+     ],
+     "a": 0,
+     "why": "Track record = storico di risultati."
+    },
+    {
+     "t": "wordform",
+     "s": "After losing the contract, the firm showed remarkable ___ and recovered within a year.",
+     "root": "RESILIENT",
+     "answers": [
+      "resilience"
+     ],
+     "why": "Serve un nome: resilient -> resilience."
+    },
+    {
+     "t": "wordform",
+     "s": "His ___ with the client secured us an excellent discount.",
+     "root": "NEGOTIATE",
+     "answers": [
+      "negotiation",
+      "negotiations"
+     ],
+     "why": "Nome: negotiate -> negotiation."
+    },
+    {
+     "t": "mc",
+     "q": "Un candidato «assertive» è una persona che:",
+     "opts": [
+      "sa esprimere con sicurezza le proprie opinioni, senza aggressività",
+      "impone sempre la propria volontà",
+      "non ha mai dubbi sulle proprie capacità"
+     ],
+     "a": 0,
+     "why": "Assertive non è «assertivo» nel senso di aggressivo: è sicuro ma rispettoso."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "When the designer fell ill, I took the ___ and briefed a freelancer myself.",
+     "answers": [
+      "initiative"
+     ],
+     "why": "Take the initiative = prendere l'iniziativa."
+    }
+   ]
+  },
+  {
+   "id": "b2-01-reading",
+   "kind": "reading",
+   "title": "Il colloquio per competenze",
+   "intro": "Un articolo di una selezionatrice sul colloquio comportamentale e sul metodo STAR. Leggi per capire la struttura del ragionamento, non solo i dettagli.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Tell me about a time when...",
+     "genre": "magazine feature",
+     "text": "Ask any recruiter what separates a successful candidate from an also-ran, and you will rarely hear the word \"qualifications\". Qualifications get you onto the shortlist; what happens next depends on the stories you tell. Over the past decade, competency-based interviews have become the default in large organisations, and they have a reputation for catching even experienced professionals off guard.\n\nThe principle is simple. Instead of asking what you would do in a hypothetical situation, the interviewer asks what you actually did. \"Tell me about a time when you disagreed with a colleague.\" \"Describe a project that went wrong.\" The reasoning is that past behaviour is the best predictor of future performance, and that it is much harder to invent a convincing story on the spot than to recite a prepared statement about being a team player.\n\nI have been interviewing candidates for fourteen years, and I can tell within two minutes whether someone has prepared properly. The weakest answers are vague: \"I generally try to communicate openly with everyone.\" Pleasant, perhaps, but it tells me nothing. The strongest candidates do something quite different. They follow, often without realising it, a structure known as STAR: Situation, Task, Action, Result. They set the scene briefly, explain what they were personally responsible for, describe what they did step by step, and finish with a measurable outcome.\n\nTake Hannah, who applied last spring for a project management post at our company. Asked about handling pressure, she described how her previous employer had lost a key supplier three days before a product launch. Her task, she explained, was to find an alternative without exceeding the budget. She phoned eleven companies in one afternoon, negotiated a discount with the twelfth, and arranged an overnight delivery. The launch went ahead on schedule, and sales exceeded the target by fifteen per cent. What impressed me most was not the result but the way she said \"I\" rather than \"we\" when describing her own actions, while still crediting her team.\n\nThat last point is a common stumbling block. Many candidates, especially those who were brought up to be modest, hide behind \"we\". A good interviewer will politely interrupt: \"And what did you do, personally?\" Others make the opposite mistake and sound arrogant, claiming credit for everything. The aim is a balance: describe your own contribution accurately, and acknowledge other people's.\n\nFinally, a word on failure. Candidates often panic when asked about a mistake, and either deny ever having made one or choose a \"weakness\" that is really a strength in disguise (\"I'm a perfectionist\"). Interviewers have heard it all before. A genuine example, with an honest account of what went wrong and what you learned, is far more convincing. Nobody expects a flawless career; we simply want to know how you respond when things go badly.",
+     "qs": [
+      {
+       "q": "According to the writer, what do qualifications achieve?",
+       "opts": [
+        "They help a candidate reach the shortlist.",
+        "They guarantee the candidate a job.",
+        "They matter less than a good CV."
+       ],
+       "a": 0,
+       "why": "«Qualifications get you onto the shortlist»."
+      },
+      {
+       "q": "Why do interviewers ask about what candidates actually did?",
+       "opts": [
+        "Past behaviour predicts future performance and is hard to fake.",
+        "Hypothetical questions are too difficult.",
+        "Candidates enjoy telling stories."
+       ],
+       "a": 0,
+       "why": "«past behaviour is the best predictor of future performance»."
+      },
+      {
+       "q": "What does the writer think of the answer «I generally try to communicate openly»?",
+       "opts": [
+        "It sounds pleasant but gives no real information.",
+        "It shows strong interpersonal skills.",
+        "It is a typical mistake of nervous candidates."
+       ],
+       "a": 0,
+       "why": "«Pleasant, perhaps, but it tells me nothing»."
+      },
+      {
+       "q": "STAR stands for Situation, Task, Action and ___ .",
+       "answers": [
+        "result",
+        "results"
+       ]
+      },
+      {
+       "q": "Hannah phoned ___ companies in one afternoon.",
+       "answers": [
+        "eleven",
+        "11"
+       ]
+      },
+      {
+       "q": "What impressed the writer most about Hannah's answer?",
+       "opts": [
+        "She described her own actions clearly while crediting her team.",
+        "The launch was a great success.",
+        "She negotiated a discount with every supplier."
+       ],
+       "a": 0,
+       "why": "«the way she said 'I' rather than 'we'... while still crediting her team»."
+      },
+      {
+       "q": "Hannah was offered the job.",
+       "opts": [
+        "Not given",
+        "True",
+        "False"
+       ],
+       "a": 0,
+       "why": "Il testo non dice come è finito il colloquio."
+      },
+      {
+       "q": "What does the writer suggest about questions on failure?",
+       "opts": [
+        "An honest, real example is better than a disguised strength.",
+        "Candidates should avoid the subject.",
+        "A perfectionist is always a good answer."
+       ],
+       "a": 0,
+       "why": "«A genuine example... is far more convincing»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "«Catching someone off guard» significa:",
+     "opts": [
+      "cogliere qualcuno di sorpresa",
+      "proteggere qualcuno",
+      "mettere qualcuno in guardia"
+     ],
+     "a": 0,
+     "why": "Off guard = impreparato, di sorpresa."
+    },
+    {
+     "t": "gap",
+     "s": "Many candidates ___ behind the word «we» because they are afraid of sounding arrogant.",
+     "opts": [
+      "hide",
+      "cover",
+      "disguise"
+     ],
+     "a": 0,
+     "why": "Hide behind = nascondersi dietro; collocazione fissa."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola dal testo",
+     "s": "The writer calls the habit of using «we» for everything a common ___ block.",
+     "answers": [
+      "stumbling"
+     ],
+     "why": "Stumbling block = ostacolo."
+    },
+    {
+     "t": "wordform",
+     "s": "The firm hired her after a successful ___ over the price with the supplier.",
+     "root": "NEGOTIATE",
+     "answers": [
+      "negotiation",
+      "negotiations"
+     ],
+     "why": "Nome da negotiate."
+    }
+   ]
+  },
+  {
+   "id": "b2-01-listening",
+   "kind": "listening",
+   "title": "Un colloquio simulato",
+   "intro": "Ascolta un candidato che risponde a domande comportamentali. Prova a riconoscere le fasi del metodo STAR (situazione, compito, azione, risultato) mentre ascolti.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A competency-based interview",
+     "it": "Ascolta il colloquio e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Ms Reed",
+       "Thanks for coming in, Tom. We'll start with a few questions about your experience. Could you tell me about a time when you had to deal with a difficult customer?"
+      ],
+      [
+       "Tom",
+       "Certainly. In my last job I worked on a software helpdesk. A few months ago a client rang up furious, because a system update had deleted a week of his data."
+      ],
+      [
+       "Ms Reed",
+       "That sounds stressful. What was your role in that situation?"
+      ],
+      [
+       "Tom",
+       "I was the first point of contact, so it was my job to calm him down and, if possible, recover the data."
+      ],
+      [
+       "Ms Reed",
+       "And what did you do?"
+      ],
+      [
+       "Tom",
+       "First, I let him finish speaking without interrupting, because I could tell he needed to vent. Then I apologised sincerely and explained exactly what I was going to do. I spent the next two hours working with our technical team, and we managed to restore almost everything from a backup."
+      ],
+      [
+       "Ms Reed",
+       "How did it end?"
+      ],
+      [
+       "Tom",
+       "He actually sent a letter of thanks to my manager, and he renewed his contract for another three years. I also suggested a change to our process, so that clients get a warning before any update, and that's now standard practice."
+      ],
+      [
+       "Ms Reed",
+       "That's a very clear example. Let's move on. Can you tell me about a time when you disagreed with a colleague?"
+      ],
+      [
+       "Tom",
+       "Yes. Last year I disagreed with a colleague, Priya, about how to schedule a project. She wanted a tight deadline, while I felt we needed more time for testing. Rather than arguing, I asked her to go through the risks with me, and we put together a compromise: two weeks shorter than I wanted, but with extra testing built in. The project was delivered on time, and Priya and I still work well together."
+      ],
+      [
+       "Ms Reed",
+       "Good. Finally, what would you say is your biggest weakness?"
+      ],
+      [
+       "Tom",
+       "Honestly, I've sometimes found it hard to delegate. I used to take on too much myself, and once I missed a deadline because of it. Since then I've been using a task board, and I now hand over routine work, which has freed up my time."
+      ],
+      [
+       "Ms Reed",
+       "Thank you, Tom. That's very helpful."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What problem did the client have?",
+       "opts": [
+        "An update had deleted some of his data.",
+        "He couldn't log in to the system.",
+        "He had lost his contract."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What was Tom's role in the situation?",
+       "opts": [
+        "He was the first person the client contacted.",
+        "He was the technical manager.",
+        "He was a new trainee."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did Tom do first?",
+       "opts": [
+        "He let the client speak without interrupting him.",
+        "He apologised at once.",
+        "He phoned the technical team."
+       ],
+       "a": 0
+      },
+      {
+       "q": "The client renewed his contract for ___ years.",
+       "answers": [
+        "three",
+        "3"
+       ]
+      },
+      {
+       "q": "What change did Tom suggest?",
+       "opts": [
+        "Warning clients before any update",
+        "Hiring more staff",
+        "Offering clients a discount"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did Tom and Priya disagree about?",
+       "opts": [
+        "The schedule of a project",
+        "The size of the team",
+        "The choice of a client"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What has Tom done to improve at delegating?",
+       "opts": [
+        "He has started using a task board.",
+        "He has stopped taking on new work.",
+        "He has asked his manager to decide."
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "Rather than arguing, I asked her to go through the risks with me.",
+     "it": "Invece di discutere, le ho chiesto di esaminare i rischi insieme a me."
+    },
+    {
+     "t": "dictation",
+     "en": "I let him finish speaking without interrupting.",
+     "it": "L'ho lasciato finire di parlare senza interromperlo."
+    },
+    {
+     "t": "speak",
+     "en": "I was the first point of contact, so it was my job to calm him down.",
+     "it": "Ero il primo punto di contatto, quindi toccava a me calmarlo."
+    }
+   ]
+  },
+  {
+   "id": "b2-01-situation",
+   "kind": "situation",
+   "title": "Il colloquio di lavoro",
+   "intro": "Domande comportamentali, tempo per pensare, risposte con struttura STAR e il giusto registro. Le frasi qui sotto ti evitano di bloccarti.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Rispondere con il metodo STAR",
+     "body": "Una risposta efficace ha quattro parti, in quest'ordine:\n- **Situation**: «Last year, while I was working as a sales assistant, ...»\n- **Task**: «My responsibility was to...» / «I was asked to...»\n- **Action**: «I decided to... First, I... Then I...» (usa **I**, non solo **we**)\n- **Result**: «As a result, ...» / «In the end, we...» / «This led to a 20 per cent increase in...»\n\nFrasi per **guadagnare tempo**: «That's a good question. Let me think for a moment.» / «If I may, I'll give you an example.»\nFrasi per **chiudere**: «What I learned from that is...» / «In hindsight, I would have...»\n\nErrore tipico: raccontare tutta la situazione e saltare l'azione e il risultato.",
+     "ex": [
+      [
+       "My responsibility was to find an alternative supplier.",
+       "Dovevo trovare un fornitore alternativo."
+      ],
+      [
+       "As a result, we delivered two days early.",
+       "Di conseguenza abbiamo consegnato con due giorni di anticipo."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Registro formale e informale",
+     "body": "In un colloquio il registro è **formale, ma naturale**:\n- «I'd say that my main strength is...» (non «Yeah, I'm well good at...»)\n- «I would welcome the opportunity to...» (non «I'd love to chat»)\n- «I have a degree in...» (non «I have 25 years»: l'età si dice «I'm 25»)\n- Evita lo slang, ma puoi usare le contrazioni nel parlato.\n- Sii **specifico**: numeri, tempi, risultati.\n\nAl telefono o per email dopo il colloquio: «Thank you for taking the time to meet me» / «I would be grateful if you could let me know...».\n\nPer la debolezza: scegli un difetto **reale e gestibile** e racconta come lo stai migliorando.",
+     "ex": [
+      [
+       "I'd say my biggest weakness is delegating.",
+       "Direi che il mio punto debole è delegare."
+      ],
+      [
+       "Thank you for taking the time to meet me.",
+       "La ringrazio per il tempo che mi ha dedicato."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Apertura del colloquio",
+     "it": "Scegli le risposte più adatte a un colloquio (Tu).",
+     "lines": [
+      [
+       "Interviewer",
+       "Good morning. Please take a seat. Could you start by telling us a little about yourself?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Certainly. I've been working in project management for six years, most recently at a logistics firm.",
+         "Yes. I am working in project management since six years, in a logistics firm.",
+         "Yeah, well, I do a bit of everything, really."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Interviewer",
+       "What attracted you to this position?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I was particularly drawn to the opportunity to lead a larger team.",
+         "I am very interested to the possibility of leading a larger team.",
+         "It is exactly the job that all my friends told me to apply for."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Interviewer",
+       "Tell me about a time you worked under pressure."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Last March, our main supplier went bankrupt a week before a launch. I contacted alternatives, and we met the deadline.",
+         "I always work well under pressure, it's no problem for me.",
+         "Last March our supplier has gone bankrupt, so I contact alternatives and we meet the deadline."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Domande di approfondimento",
+     "it": "Il selezionatore insiste. Scegli le risposte migliori.",
+     "lines": [
+      [
+       "Interviewer",
+       "You said 'we' a lot. What did you personally do?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I drew up a revised schedule and negotiated the new delivery dates myself.",
+         "We drew up a revised schedule and negotiated together.",
+         "It was done by a colleague, but I supported him."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Interviewer",
+       "What would you do differently if you faced the same situation again?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "In hindsight, I would have involved the client earlier.",
+         "In hindsight, I would involved the client earlier.",
+         "In hindsight, I had involved the client earlier."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Interviewer",
+       "Do you have any questions for us?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes. Could you tell me what the team's priorities will be for the first six months?",
+         "Yes. How much money I will earn?",
+         "Yes. When I can go on holiday?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "That's a good question. Let me think for a moment.",
+       "Bella domanda. Mi lasci pensare un momento."
+      ],
+      [
+       "My responsibility was to...",
+       "Dovevo occuparmi di..."
+      ],
+      [
+       "As a result, we exceeded our target.",
+       "Di conseguenza abbiamo superato l'obiettivo."
+      ],
+      [
+       "In hindsight, I would have...",
+       "Con il senno di poi, avrei..."
+      ],
+      [
+       "I would welcome the opportunity to...",
+       "Sarei lieto di avere l'occasione di..."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Con il senno di poi, avrei coinvolto il cliente prima.",
+     "en": "In hindsight I would have involved the client earlier",
+     "extra": [
+      "had",
+      "would"
+     ],
+     "why": "Third conditional implicito: would have + participio passato."
+    },
+    {
+     "t": "speak",
+     "en": "That's a good question. Let me think for a moment.",
+     "it": "Bella domanda. Mi lasci pensare un momento."
+    },
+    {
+     "t": "speak",
+     "en": "My responsibility was to find an alternative supplier.",
+     "it": "Dovevo trovare un fornitore alternativo."
+    },
+    {
+     "t": "speak",
+     "en": "In hindsight, I would have involved the client earlier.",
+     "it": "Con il senno di poi, avrei coinvolto il cliente prima."
+    },
+    {
+     "t": "speakTask",
+     "q": "Tell me about a time when you had to meet a tight deadline.",
+     "it": "Rispondi alla domanda con il metodo STAR (almeno 6 frasi): situazione, compito, azione, risultato.",
+     "hints": [
+      "Last year, I was working...",
+      "My responsibility was to...",
+      "First, I... Then I...",
+      "As a result, ..."
+     ],
+     "min": 60,
+     "model": "Last year I was working as an event coordinator when our main speaker cancelled two days before a conference. My responsibility was to find a replacement without damaging the programme. I contacted twelve experts, explained the situation honestly and persuaded a university professor to step in. I also rewrote the schedule so that the session fitted the new speaker's availability. As a result, the conference went ahead as planned, and the feedback for that session was the best of the whole event."
+    }
+   ]
+  },
+  {
+   "id": "b2-01-production",
+   "kind": "production",
+   "title": "La cover letter formale",
+   "intro": "Scrivere una lettera di presentazione: struttura, registro formale, esempi concreti al posto di aggettivi generici. Poi allenati a parlare di te in modo strutturato.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Struttura e frasi della cover letter",
+     "body": "- **Saluto**: Dear Ms Hartley, (se conosci il nome) / Dear Sir or Madam, (se non lo conosci)\n- **Apertura**: I am writing to apply for the position of... / I would like to express my interest in...\n- **Esperienza**: I have been working as... for... / In my current post I am responsible for... / I recently led... which resulted in...\n- **Qualità, con un esempio**: I am meticulous about detail, as I proved when... (non basta scrivere «I am meticulous»)\n- **Motivazione**: I am particularly drawn to... / I would welcome the opportunity to...\n- **Chiusura**: I have attached my CV. / I look forward to hearing from you.\n- **Formula finale**: **Yours sincerely** (se conosci il nome) / **Yours faithfully** (Dear Sir or Madam).\n\nRegistro formale: niente contrazioni, niente «I want», meglio «I would like»; niente punti esclamativi. Errore tipico: «I look forward to hear from you» (to + -ing).",
+     "ex": [
+      [
+       "I am writing to apply for the post of marketing assistant.",
+       "Le scrivo per candidarmi al posto di assistente marketing."
+      ],
+      [
+       "I would welcome the opportunity to discuss my application further.",
+       "Sarei lieto di avere l'occasione di discutere ulteriormente la mia candidatura."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "You are writing to Ms Hartley by name, so you end the letter with 'Yours ___ '.",
+     "opts": [
+      "sincerely",
+      "faithfully",
+      "respectfully"
+     ],
+     "a": 0,
+     "why": "Con il nome del destinatario si usa Yours sincerely; Yours faithfully si usa con «Dear Sir or Madam»."
+    },
+    {
+     "t": "transform",
+     "s1": "I want to apply for the post of marketing assistant.",
+     "key": "WRITING",
+     "s2": "I am ___ for the post of marketing assistant.",
+     "answers": [
+      "writing to apply"
+     ],
+     "why": "Formula formale di apertura."
+    },
+    {
+     "t": "wordform",
+     "s": "I am writing to express my ___ for the vacancy advertised on your website.",
+     "root": "ENTHUSIASTIC",
+     "answers": [
+      "enthusiasm"
+     ],
+     "why": "Nome: enthusiastic -> enthusiasm."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I look forward to hear from you soon.",
+     "answers": [
+      "I look forward to hearing from you soon"
+     ],
+     "why": "Look forward to è seguito dalla preposizione to + -ing."
+    },
+    {
+     "t": "write",
+     "q": "You have seen an advertisement for the post of Marketing Coordinator at a company called Greenfield Media. The advertisement asks for someone with at least three years' experience, good interpersonal skills and the ability to work under pressure. Write a cover letter to the manager, Ms Hartley.",
+     "it": "Scrivi una cover letter formale a Ms Hartley: perché ti candidi, esperienza (present perfect continuous e past simple), due qualità con un esempio concreto (ricorda il metodo STAR), motivazione e chiusura. Registro formale, senza contrazioni.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Ho usato il saluto e la formula finale corretti (Dear Ms Hartley / Yours sincerely)",
+      "Ho aperto con I am writing to apply for...",
+      "Ho usato il present perfect (continuous) per l'esperienza e il past simple per un esempio concreto",
+      "Ho dato un esempio con situazione, azione e risultato",
+      "Ho usato almeno due parole del lessico dell'unità (meticulous, initiative, track record...)",
+      "Ho evitato contrazioni e frasi colloquiali",
+      "Ho chiuso con I look forward to hearing from you"
+     ],
+     "useful": [
+      "I am writing to apply for...",
+      "I have been working as... for...",
+      "In my current post, ...",
+      "I took the initiative to...",
+      "As a result, ...",
+      "I would welcome the opportunity to...",
+      "I have attached my CV.",
+      "I look forward to hearing from you."
+     ],
+     "model": "Dear Ms Hartley,\n\nI am writing to apply for the position of Marketing Coordinator, which I saw advertised on your website. I have been working as a marketing assistant at a regional magazine for four years, and I feel that I am now ready for a more demanding role.\n\nIn my current post I manage the magazine's social media accounts, and I recently led a campaign that increased online subscriptions by thirty per cent. I am meticulous about detail and I work well under pressure, as I proved last spring when our designer fell ill a week before a major launch. I took the initiative to brief a freelancer, and we met the deadline.\n\nI am particularly drawn to your company's commitment to sustainability, and I would welcome the opportunity to contribute to your team. I have attached my CV and I am available for interview at any time.\n\nI look forward to hearing from you.\n\nYours sincerely,\nMarta Rossi"
+    },
+    {
+     "t": "speakTask",
+     "q": "Tell me about yourself and why you want this job.",
+     "it": "Presentati come in un colloquio: esperienza (present perfect), un punto di forza con un esempio, perché ti interessa il ruolo (almeno 6 frasi).",
+     "hints": [
+      "I've been working as... for...",
+      "I'd say my main strength is...",
+      "For example, last year I...",
+      "I'm particularly interested in..."
+     ],
+     "min": 60,
+     "model": "I've been working as a graphic designer for five years, most recently for a small publishing house. I'd say my main strength is adaptability. For example, last year our art director left suddenly, and I took over her projects while we recruited a replacement. We delivered all three books on time. I'm particularly interested in this role because it combines design with team leadership, and that's the direction I want my career to take."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe a time when you disagreed with a colleague or a manager.",
+     "it": "Racconta un disaccordo con il metodo STAR: che cosa è successo, che cosa hai fatto tu, come è finita (usa past simple, past continuous e past perfect).",
+     "hints": [
+      "It happened when...",
+      "I felt that...",
+      "Rather than..., I...",
+      "In the end, ..."
+     ],
+     "min": 60,
+     "model": "It happened last autumn, when my manager and I disagreed about the launch date of a website. I felt that we hadn't tested the payment system enough, but she wanted to launch before a competitor did. Rather than arguing in the meeting, I prepared a short report on the risks and asked to discuss it with her. We agreed to delay the launch by one week. In the end, we found two serious errors, and the launch went smoothly."
+    }
+   ]
+  },
+  {
+   "id": "b2-01-test",
+   "kind": "test",
+   "title": "Test dell'unità 1 (B2)",
+   "intro": "Verifica senza aiuti: tempi, verbi di stato, do enfatico, lessico del colloquio, un cloze, trasformazioni e un ascolto.",
+   "minutes": 20,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "I ___ for this company for six years, so I know the products well.",
+     "opts": [
+      "have been working",
+      "am working",
+      "worked"
+     ],
+     "a": 0,
+     "why": "Durata dal passato a oggi: present perfect continuous."
+    },
+    {
+     "t": "gap",
+     "s": "When the interviewer called my name, I ___ for almost an hour.",
+     "opts": [
+      "had been waiting",
+      "have been waiting",
+      "waited"
+     ],
+     "a": 0,
+     "why": "Attività durata fino a un momento passato: past perfect continuous."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ send you the report, Anna. Please check your spam folder.",
+     "opts": [
+      "did",
+      "do",
+      "was"
+     ],
+     "a": 0,
+     "why": "Do enfatico al passato per contraddire."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ this restaurant is the best in town.",
+     "opts": [
+      "think",
+      "am thinking",
+      "have been thinking"
+     ],
+     "a": 0,
+     "why": "Opinione: verbo di stato al simple."
+    },
+    {
+     "t": "gap",
+     "s": "She ___ at the moment, so she can't come to the phone.",
+     "opts": [
+      "is interviewing",
+      "interviews",
+      "has interviewed"
+     ],
+     "a": 0,
+     "why": "Azione in corso adesso: continuous."
+    },
+    {
+     "t": "gap",
+     "s": "She has an impressive ___ of exceeding sales targets.",
+     "opts": [
+      "track record",
+      "track history",
+      "road record"
+     ],
+     "a": 0,
+     "why": "Collocazione: track record."
+    },
+    {
+     "t": "gap",
+     "s": "You need to ___ a target of fifty new clients this quarter.",
+     "opts": [
+      "meet",
+      "do",
+      "win"
+     ],
+     "a": 0,
+     "why": "Meet a target."
+    },
+    {
+     "t": "gap",
+     "s": "She's very ___ and always checks every figure twice.",
+     "opts": [
+      "meticulous",
+      "assertive",
+      "ambitious"
+     ],
+     "a": 0,
+     "why": "Meticulous = accurato nei dettagli."
+    },
+    {
+     "t": "gap",
+     "s": "After the merger he had to be ___ to cope with new systems and a new boss.",
+     "opts": [
+      "adaptable",
+      "assertive",
+      "meticulous"
+     ],
+     "a": 0,
+     "why": "Adaptable = capace di adattarsi."
+    },
+    {
+     "t": "wordform",
+     "s": "Her ___ to learn new skills impressed the panel.",
+     "root": "WILLING",
+     "answers": [
+      "willingness"
+     ],
+     "why": "Nome: willing -> willingness."
+    },
+    {
+     "t": "wordform",
+     "s": "He showed great ___ after losing his job.",
+     "root": "RESILIENT",
+     "answers": [
+      "resilience"
+     ],
+     "why": "Nome: resilient -> resilience."
+    },
+    {
+     "t": "cloze",
+     "title": "Completa la lettera con una parola per spazio",
+     "mode": "open",
+     "text": "Dear Mr Evans,\n\nI am writing {1} apply for the post of Sales Manager. {2} the past five years I {3} been responsible for a team of eight, and we {4} exceeded our targets every year. I look forward {5} hearing from you.\n\nYours sincerely,\nLaura Smith",
+     "gaps": [
+      {
+       "answers": [
+        "to"
+       ]
+      },
+      {
+       "answers": [
+        "Over",
+        "For",
+        "During",
+        "In"
+       ]
+      },
+      {
+       "answers": [
+        "have"
+       ]
+      },
+      {
+       "answers": [
+        "have"
+       ]
+      },
+      {
+       "answers": [
+        "to"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I started working here in 2018 and I still do.",
+     "key": "BEEN",
+     "s2": "I ___ here since 2018.",
+     "answers": [
+      "have been working",
+      "'ve been working"
+     ],
+     "why": "Present perfect continuous."
+    },
+    {
+     "t": "transform",
+     "s1": "I definitely sent the application on time.",
+     "key": "DID",
+     "s2": "I ___ the application on time.",
+     "answers": [
+      "did send"
+     ],
+     "why": "Do enfatico."
+    },
+    {
+     "t": "transform",
+     "s1": "He isn't normally unreliable, but today he is behaving that way.",
+     "key": "BEING",
+     "s2": "He isn't normally unreliable, but today he ___ unreliable.",
+     "answers": [
+      "is being"
+     ],
+     "why": "Comportamento temporaneo: be + -ing."
+    },
+    {
+     "t": "transform",
+     "s1": "We started discussing the budget two hours ago and we are still discussing it.",
+     "key": "BEEN",
+     "s2": "We ___ discussing the budget for two hours.",
+     "answers": [
+      "have been",
+      "'ve been"
+     ],
+     "why": "Present perfect continuous: have been + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I'm needing more information about the role.",
+     "answers": [
+      "I need more information about the role"
+     ],
+     "why": "Need è un verbo di stato: niente continuous."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She has been working here since three years.",
+     "answers": [
+      "She has been working here for three years"
+     ],
+     "why": "For + durata; since + punto di inizio."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è più adatta a una cover letter formale?",
+     "opts": [
+      "I would welcome the opportunity to discuss my application further.",
+      "I'd love to chat about my application.",
+      "I wanna discuss my application with you guys."
+     ],
+     "a": 0,
+     "why": "Registro formale: would welcome the opportunity."
+    },
+    {
+     "t": "mc",
+     "q": "Nel metodo STAR, la T indica:",
+     "opts": [
+      "Task: ciò di cui eri responsabile",
+      "Team: le persone con cui lavoravi",
+      "Time: quanto è durato il progetto"
+     ],
+     "a": 0,
+     "why": "Situation, Task, Action, Result."
+    },
+    {
+     "t": "order",
+     "it": "Ti ho detto della scadenza, davvero!",
+     "en": "I did tell you about the deadline",
+     "extra": [
+      "do",
+      "been"
+     ],
+     "why": "Do enfatico: did + verbo base."
+    },
+    {
+     "t": "listen",
+     "title": "A message from a recruiter",
+     "it": "Ascolta il messaggio.",
+     "lines": [
+      [
+       "Recruiter",
+       "Good afternoon, Ms Alvarez. This is Daniel Park from Brightwell Consulting. Thank you for attending the interview on Monday. I'm pleased to say that we would like to invite you to a second interview with our regional director. It would be on Friday at eleven. Could you confirm by Wednesday whether that suits you? You can reply by email. Thank you, and I look forward to hearing from you."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What is the purpose of the call?",
+       "opts": [
+        "To invite her to a second interview",
+        "To offer her the job",
+        "To reject her application"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Who will she meet?",
+       "opts": [
+        "The regional director",
+        "The recruiter",
+        "The head of HR"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What must Ms Alvarez do by Wednesday?",
+       "opts": [
+        "Confirm whether the time suits her",
+        "Send her CV again",
+        "Visit the office"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

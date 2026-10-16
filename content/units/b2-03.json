@@ -1,0 +1,1529 @@
+{
+ "id": "b2-03",
+ "level": "B2",
+ "position": 3,
+ "title": "Misteri e indagini",
+ "sub": "Modali al passato - fare ipotesi in riunione e il report",
+ "grammar": "Modali al passato: must have, might have, can't have, should have, needn't have",
+ "topic": "Misteri, scienza, indagini",
+ "situation": "Riunione: analizzare un problema e fare ipotesi",
+ "lessons": [
+  {
+   "id": "b2-03-grammar",
+   "kind": "grammar",
+   "title": "Deve essere stato... non può essere stato...",
+   "intro": "Come si ragiona sul passato quando non si è certi: deduzioni, ipotesi, critiche e cose inutili fatte. Sono i modali al passato, essenziali per riunioni, indagini e conversazioni su ciò che è successo.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Deduzioni sul passato: must, can't, might",
+     "body": "Per dire che cosa **pensi** sia successo, in base a indizi, si usa **modale + have + participio**. Il modale indica quanto sei sicuro:\n- **must have** = sono quasi certo che sia successo\n- **may / might / could have** = è possibile\n- **can't / couldn't have** = sono quasi certo che NON sia successo\n\nPer la negazione di certezza si usa **can't have**, non «mustn't have»: l'opposto di must have è can't have.\n**might not have** significa «forse non è successo» (non è certo come can't have).\n\n**Errori tipici degli italiani**: «must to have», «must have came» (dopo have serve il participio) e «he must have to»: have è l'ausiliare, non un verbo di obbligo.",
+     "table": [
+      [
+       "Certezza",
+       "Forma",
+       "Esempio"
+      ],
+      [
+       "Quasi certo (sì)",
+       "must have + participio",
+       "They must have left."
+      ],
+      [
+       "Possibile",
+       "may / might / could have + participio",
+       "They might have left."
+      ],
+      [
+       "Quasi certo (no)",
+       "can't / couldn't have + participio",
+       "They can't have left."
+      ]
+     ],
+     "ex": [
+      [
+       "The lights are on, so he must have come back.",
+       "Le luci sono accese, quindi dev'essere tornato."
+      ],
+      [
+       "She can't have written this: her English isn't good enough.",
+       "Non può averlo scritto lei: il suo inglese non è abbastanza buono."
+      ],
+      [
+       "It might have been a power cut.",
+       "Potrebbe essere stata una mancanza di corrente."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Forma continua e deduzioni su un periodo",
+     "body": "Se l'azione era in corso o è durata a lungo, usa **have been + -ing**:\n- She must have been working all night. (ha lavorato per ore: continua)\n- They can't have been waiting long.\n\nMa attenzione: se parli del **presente** si usa il modale + infinito semplice: He must be tired (ora). Confronta:\n- He **must be** at home. (adesso)\n- He **must have been** at home. (prima)\n\nNella lingua dei verbali e delle riunioni si ammorbidisce con **It seems that... / It appears that... / There must have been...**",
+     "ex": [
+      [
+       "He must have been driving too fast.",
+       "Dev'essere andato troppo veloce."
+      ],
+      [
+       "There must have been a mistake.",
+       "Dev'esserci stato un errore."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Critica e rimpianto: should have, could have",
+     "body": "Con lo stesso schema (modale + have + participio) si esprime un giudizio su un'azione passata:\n- **should have / ought to have** = era la cosa giusta da fare, ma non è stata fatta\n- **shouldn't have** = è stato un errore farlo\n- **could have** = era possibile, ma non è successo (rimprovero o occasione persa)\n\nYou should have called. (Non hai chiamato: errore.)\nYou shouldn't have called. (Hai chiamato: non andava fatto.)\nYou could have called. (Era possibile: perché no?)",
+     "ex": [
+      [
+       "You should have told me earlier.",
+       "Avresti dovuto dirmelo prima."
+      ],
+      [
+       "We shouldn't have taken that road.",
+       "Non avremmo dovuto prendere quella strada."
+      ],
+      [
+       "You could have called me!",
+       "Avresti potuto chiamarmi!"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Needn't have o didn't need to?",
+     "body": "Entrambi significano «non era necessario», ma con una differenza importante:\n- **needn't have + participio**: l'ho fatto, ma non serviva. I needn't have hurried. (Ho fatto in fretta, inutilmente.)\n- **didn't need to + verbo base**: non era necessario; non sappiamo se l'ho fatto. I didn't need to hurry, so I walked.\n\nCon didn't need to, se il contesto dice che l'azione è avvenuta, equivale a needn't have. Con needn't have, invece, l'azione è sempre avvenuta.",
+     "ex": [
+      [
+       "We needn't have booked a table: the restaurant was empty.",
+       "Non serviva prenotare: il ristorante era vuoto."
+      ],
+      [
+       "She didn't need to wait, so she left.",
+       "Non doveva aspettare, perciò se n'è andata."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The lights were off, so they ___ at home.",
+     "opts": [
+      "can't have been",
+      "mustn't have been",
+      "shouldn't have been"
+     ],
+     "a": 0,
+     "it": "Le luci erano spente, quindi non potevano essere a casa.",
+     "why": "Deduzione negativa sul passato: can't have been. «Mustn't have» non si usa per dedurre."
+    },
+    {
+     "t": "gap",
+     "s": "There's a wet umbrella in the hall. It ___ raining when she arrived.",
+     "opts": [
+      "must have been",
+      "must be",
+      "should have been"
+     ],
+     "a": 0,
+     "why": "Indizio forte, azione passata: must have been."
+    },
+    {
+     "t": "gap",
+     "s": "You ___ me you were ill! I would have helped.",
+     "opts": [
+      "should have told",
+      "must have told",
+      "can't have told"
+     ],
+     "a": 0,
+     "why": "Rimprovero su un'azione non fatta: should have + participio."
+    },
+    {
+     "t": "gap",
+     "s": "We ___ hurried: the train was twenty minutes late.",
+     "opts": [
+      "needn't have",
+      "mustn't have",
+      "can't have"
+     ],
+     "a": 0,
+     "why": "Abbiamo fatto fretta senza necessità: needn't have + participio."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "She can't have written this email: she doesn't speak Spanish.",
+      "She mustn't have written this email: she doesn't speak Spanish.",
+      "She can't wrote this email: she doesn't speak Spanish."
+     ],
+     "a": 0,
+     "why": "Per dedurre che qualcosa è impossibile nel passato: can't have + participio."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «I needn't have brought an umbrella»?",
+     "opts": [
+      "Ho portato l'ombrello, ma non serviva.",
+      "Non ho portato l'ombrello perché non serviva.",
+      "Non avrei dovuto portare l'ombrello perché era vietato."
+     ],
+     "a": 0,
+     "why": "Needn't have + participio: l'azione è stata compiuta inutilmente."
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "The dog ___ (might / eat) the cake: there are crumbs by its bed.",
+     "answers": [
+      "might have eaten"
+     ],
+     "why": "Possibilità sul passato: might + have + participio (eaten)."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Avresti dovuto avvertirmi.",
+     "answers": [
+      "You should have warned me",
+      "You should have told me",
+      "You should have let me know",
+      "You should have told me earlier",
+      "You should have warned me earlier",
+      "You ought to have warned me",
+      "You ought to have told me",
+      "You ought to have let me know",
+      "You ought to have told me earlier",
+      "You ought to have warned me earlier",
+      "You should've warned me",
+      "You should've told me",
+      "You should've let me know",
+      "You should've told me earlier",
+      "You should've warned me earlier"
+     ],
+     "why": "Rimprovero sul passato: should have / ought to have + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "I'm sure Tom took the wrong bus.",
+     "key": "MUST",
+     "s2": "Tom ___ the wrong bus.",
+     "answers": [
+      "must have taken"
+     ],
+     "why": "Deduzione quasi certa sul passato: must have + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "It's impossible that she saw us: she was in Paris.",
+     "key": "COULD",
+     "s2": "She ___ us: she was in Paris.",
+     "answers": [
+      "couldn't have seen",
+      "could not have seen"
+     ],
+     "why": "Impossibilità sul passato: couldn't have + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "It was a mistake to leave so late.",
+     "key": "SHOULD",
+     "s2": "We ___ so late.",
+     "answers": [
+      "shouldn't have left",
+      "should not have left"
+     ],
+     "why": "Critica su un'azione compiuta: shouldn't have + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "It wasn't necessary for us to take a taxi, but we did.",
+     "key": "NEED",
+     "s2": "We ___ a taxi.",
+     "answers": [
+      "needn't have taken",
+      "need not have taken"
+     ],
+     "why": "Azione compiuta ma inutile: needn't have + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "Perhaps the thief got in through the window.",
+     "key": "MIGHT",
+     "s2": "The thief ___ in through the window.",
+     "answers": [
+      "might have got",
+      "might have gotten"
+     ],
+     "why": "Possibilità sul passato: might + have + participio."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "He must to have forgotten the password.",
+     "answers": [
+      "He must have forgotten the password"
+     ],
+     "why": "Dopo un modale non c'è to: must have + participio."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "They mustn't have seen the sign, otherwise they wouldn't have parked there.",
+     "answers": [
+      "They can't have seen the sign, otherwise they wouldn't have parked there",
+      "They couldn't have seen the sign, otherwise they wouldn't have parked there"
+     ],
+     "why": "Per dedurre che qualcosa non è successo si usa can't / couldn't have, non mustn't have."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "You needn't to have waited for me.",
+     "answers": [
+      "You needn't have waited for me",
+      "You need not have waited for me"
+     ],
+     "why": "Needn't è un modale: niente to, solo needn't have + participio."
+    },
+    {
+     "t": "order",
+     "it": "Deve aver lavorato tutta la notte.",
+     "en": "She must have been working all night",
+     "extra": [
+      "has",
+      "be"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Non possono aver saputo del piano.",
+     "en": "They can't have known about the plan",
+     "extra": [
+      "mustn't",
+      "knew"
+     ],
+     "alts": [
+      "They couldn't have known about the plan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2-03-vocab",
+   "kind": "vocab",
+   "title": "Misteri, scienza, indagini",
+   "intro": "Il lessico di chi indaga, formula ipotesi e verifica i fatti: serve per leggere articoli scientifici e di cronaca e per partecipare a una riunione in cui si cerca la causa di un problema.",
+   "minutes": 20,
+   "words": [
+    {
+     "id": "b2-03-w01",
+     "en": "clue",
+     "it": "indizio",
+     "ipa": "kluː",
+     "pos": "n",
+     "ex": [
+      "The torn letter was the first clue.",
+      "La lettera strappata fu il primo indizio."
+     ],
+     "note": "Anche: I haven't got a clue = non ne ho idea."
+    },
+    {
+     "id": "b2-03-w02",
+     "en": "hypothesis",
+     "it": "ipotesi",
+     "ipa": "haɪˈpɒθəsɪs",
+     "pos": "n",
+     "ex": [
+      "Our hypothesis is that the signal comes from the lab next door.",
+      "La nostra ipotesi è che il segnale arrivi dal laboratorio accanto."
+     ],
+     "note": "Plurale: hypotheses /haɪˈpɒθəsiːz/."
+    },
+    {
+     "id": "b2-03-w03",
+     "en": "rule out",
+     "it": "escludere",
+     "ipa": "ˌruːl ˈaʊt",
+     "pos": "pv",
+     "ex": [
+      "Doctors have ruled out a heart problem.",
+      "I medici hanno escluso un problema cardiaco."
+     ]
+    },
+    {
+     "id": "b2-03-w04",
+     "en": "look into",
+     "it": "indagare su",
+     "ipa": "ˈlʊk ˌɪntuː",
+     "pos": "pv",
+     "ex": [
+      "The council has promised to look into the complaints.",
+      "Il comune ha promesso di indagare sui reclami."
+     ],
+     "note": "Pv inseparabile: look into the matter."
+    },
+    {
+     "id": "b2-03-w05",
+     "en": "baffling",
+     "it": "sconcertante, incomprensibile",
+     "ipa": "ˈbæflɪŋ",
+     "pos": "adj",
+     "ex": [
+      "The disappearance of the files remains baffling.",
+      "La scomparsa dei file resta incomprensibile."
+     ],
+     "note": "Il participio baffled descrive chi è sconcertato."
+    },
+    {
+     "id": "b2-03-w06",
+     "en": "tamper with",
+     "it": "manomettere",
+     "ipa": "ˈtæmpə wɪð",
+     "pos": "pv",
+     "ex": [
+      "Someone had tampered with the lock.",
+      "Qualcuno aveva manomesso la serratura."
+     ]
+    },
+    {
+     "id": "b2-03-w07",
+     "en": "coincidence",
+     "it": "coincidenza",
+     "ipa": "kəʊˈɪnsɪdəns",
+     "pos": "n",
+     "ex": [
+      "It can't be a coincidence that both machines failed on the same day.",
+      "Non può essere una coincidenza che entrambe le macchine si siano guastate lo stesso giorno."
+     ]
+    },
+    {
+     "id": "b2-03-w08",
+     "en": "conclusive",
+     "it": "decisivo, concludente",
+     "ipa": "kənˈkluːsɪv",
+     "pos": "adj",
+     "ex": [
+      "There is no conclusive proof that the water was polluted.",
+      "Non c'è una prova decisiva che l'acqua fosse inquinata."
+     ],
+     "note": "Contrario: inconclusive."
+    },
+    {
+     "id": "b2-03-w09",
+     "en": "cast doubt on",
+     "it": "mettere in dubbio",
+     "ipa": "ˌkɑːst ˈdaʊt ɒn",
+     "pos": "phr",
+     "ex": [
+      "The new data cast doubt on the original theory.",
+      "I nuovi dati mettono in dubbio la teoria iniziale."
+     ]
+    },
+    {
+     "id": "b2-03-w10",
+     "en": "get to the bottom of",
+     "it": "andare a fondo di, scoprire la verità su",
+     "ipa": "ˌɡet tə ðə ˈbɒtəm əv",
+     "pos": "phr",
+     "ex": [
+      "We are determined to get to the bottom of this.",
+      "Siamo decisi ad andare a fondo di questa faccenda."
+     ]
+    },
+    {
+     "id": "b2-03-w11",
+     "en": "findings",
+     "it": "risultati (di una ricerca)",
+     "ipa": "ˈfaɪndɪŋz",
+     "pos": "n",
+     "ex": [
+      "The findings of the study will be published next month.",
+      "I risultati dello studio saranno pubblicati il mese prossimo."
+     ],
+     "note": "Quasi sempre al plurale in questo senso."
+    },
+    {
+     "id": "b2-03-w12",
+     "en": "trace",
+     "it": "rintracciare; traccia",
+     "ipa": "treɪs",
+     "pos": "v",
+     "ex": [
+      "Engineers traced the fault to a loose cable.",
+      "Gli ingegneri hanno fatto risalire il guasto a un cavo allentato."
+     ],
+     "note": "Anche nome: not a trace of = nessuna traccia di."
+    },
+    {
+     "id": "b2-03-w13",
+     "en": "plausible",
+     "it": "plausibile",
+     "ipa": "ˈplɔːzəbl",
+     "pos": "adj",
+     "ex": [
+      "Her explanation sounded perfectly plausible.",
+      "La sua spiegazione sembrava del tutto plausibile."
+     ]
+    },
+    {
+     "id": "b2-03-w14",
+     "en": "far-fetched",
+     "it": "inverosimile, tirato per i capelli",
+     "ipa": "ˌfɑː ˈfetʃt",
+     "pos": "adj",
+     "ex": [
+      "The idea that the bridge was built by aliens is far-fetched.",
+      "L'idea che il ponte sia stato costruito dagli alieni è inverosimile."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "rule out a possibility",
+       "escludere una possibilità"
+      ],
+      [
+       "tamper with evidence",
+       "manomettere le prove"
+      ],
+      [
+       "cast doubt on a theory",
+       "mettere in dubbio una teoria"
+      ],
+      [
+       "publish the findings",
+       "pubblicare i risultati"
+      ],
+      [
+       "get to the bottom of it",
+       "andare a fondo della questione"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The police are ___ the disappearance of the painting.",
+     "opts": [
+      "looking into",
+      "looking after",
+      "looking up"
+     ],
+     "a": 0,
+     "why": "Look into = indagare. Look after = prendersi cura; look up = cercare (una parola)."
+    },
+    {
+     "t": "gap",
+     "s": "The results ___ doubt on the earlier theory.",
+     "opts": [
+      "cast",
+      "made",
+      "drew"
+     ],
+     "a": 0,
+     "why": "La collocazione è cast doubt on."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Her story sounds a bit far-___ : I can't believe it.",
+     "answers": [
+      "fetched"
+     ],
+     "why": "Far-fetched = poco credibile."
+    },
+    {
+     "t": "wordform",
+     "s": "The test results were ___ , so we had to repeat the experiment.",
+     "root": "CONCLUDE",
+     "answers": [
+      "inconclusive"
+     ],
+     "why": "Serve l'aggettivo negativo: conclude -> inconclusive."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «a mere coincidence»?",
+     "opts": [
+      "Una semplice coincidenza, senza altra spiegazione",
+      "Una prova decisiva",
+      "Un errore dei ricercatori"
+     ],
+     "a": 0,
+     "why": "Coincidence = due fatti simultanei senza relazione tra loro."
+    }
+   ]
+  },
+  {
+   "id": "b2-03-reading",
+   "kind": "reading",
+   "title": "Il caso del violino scomparso",
+   "intro": "Un articolo da rivista su un furto d'arte risolto grazie a un dettaglio minuscolo. Segui le deduzioni di chi indaga: le domande chiedono di capire che cosa implica il testo, non solo che cosa dice.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "The case of the vanishing violin",
+     "genre": "magazine feature",
+     "text": "When the curator of a small museum in northern Italy opened the display case one Monday morning, she knew at once that something was wrong. The violin, an eighteenth-century instrument worth almost two million euros, had gone. The alarm had not sounded, the door had not been forced and the cameras showed nothing unusual. The police, understandably, were baffled.\n\nThe first theory was that the thief must have been an insider. Only four members of staff had keys, and the alarm code had been changed only a week earlier. Yet all four had solid alibis, and none of them seemed to have any money problems. Detectives interviewed visitors, checked the delivery records and even looked into a former employee who had left the museum on bad terms. Nothing came of it.\n\nIt was a forensic scientist, Dr Elena Marchetti, who changed the direction of the investigation. Examining the glass case under a microscope, she noticed a thin line of fine, pale dust around the lock. It was not the grey dust of the museum's old floors; it was plaster. \"That told me something simple,\" she said later. \"Whoever opened the case had been in contact with building work, and the museum itself had not been decorated for years.\" The records showed, however, that a team of builders had repaired the ceiling of the neighbouring room three weeks before the theft.\n\nThe builders were checked one by one. Most could be ruled out quickly. One, however, had worked at the museum for only two days, under a name that turned out to be false. The agency that had sent him had no record of him either. On the day he left, he had apparently asked a colleague, quite casually, how the alarm system worked. At the time, nobody thought anything of it.\n\nEven so, the evidence was circumstantial, and Dr Marchetti insisted on caution. \"A coincidence can look very convincing,\" she said. \"You must never fall in love with your own theory.\" Further tests on the plaster, together with a fingerprint found on the underside of the case, finally linked the man to the scene. He was arrested at a railway station three months later, and the violin was found, undamaged, wrapped in a bedsheet in a rented garage.\n\nThe case has since become a favourite example in police training courses. It shows, the instructors say, that investigations are rarely solved by sudden flashes of genius. More often they depend on patient attention to small, unglamorous details, and on the willingness to say \"I don't know yet\" until the facts allow a better answer.",
+     "qs": [
+      {
+       "q": "Why was the theft so puzzling at first?",
+       "opts": [
+        "The violin was not worth much.",
+        "There were no signs of a break-in.",
+        "The cameras showed the thief clearly.",
+        "The museum had no alarm."
+       ],
+       "a": 1,
+       "why": "«The alarm had not sounded, the door had not been forced»."
+      },
+      {
+       "q": "Why did detectives first suspect someone working at the museum?",
+       "opts": [
+        "Only a few people had keys.",
+        "A former employee admitted it.",
+        "Two staff members needed money.",
+        "The cameras showed a member of staff."
+       ],
+       "a": 0,
+       "why": "«Only four members of staff had keys»; gli altri indizi non sono veri nel testo."
+      },
+      {
+       "q": "What happened when the detectives investigated the staff?",
+       "opts": [
+        "They found the violin in a staff room.",
+        "They discovered that one person had lied.",
+        "They found nothing to link anyone to the theft.",
+        "They arrested a former employee."
+       ],
+       "a": 2,
+       "why": "«all four had solid alibis... Nothing came of it»."
+      },
+      {
+       "q": "What did Dr Marchetti find near the lock?",
+       "opts": [
+        "A fingerprint",
+        "A piece of cloth",
+        "Plaster dust",
+        "A false key"
+       ],
+       "a": 2,
+       "why": "«it was plaster»."
+      },
+      {
+       "q": "Why was her discovery important?",
+       "opts": [
+        "It suggested a link with recent building work.",
+        "It showed that the case had been cleaned.",
+        "It proved that the museum floors were old.",
+        "It identified the thief immediately."
+       ],
+       "a": 0,
+       "why": "Il gesso collega la serratura ai lavori edili nella stanza accanto."
+      },
+      {
+       "q": "What made one of the builders suspicious?",
+       "opts": [
+        "He asked for a high salary.",
+        "He had worked there for years.",
+        "He used a false name.",
+        "He left the museum at night."
+       ],
+       "a": 2,
+       "why": "«under a name that turned out to be false»."
+      },
+      {
+       "q": "What does Dr Marchetti mean by «You must never fall in love with your own theory»?",
+       "opts": [
+        "Scientists should never share their ideas.",
+        "A coincidence is always more likely than a plan.",
+        "An attractive theory may be wrong, so it must be tested.",
+        "Theories are less important than luck."
+       ],
+       "a": 2,
+       "why": "Il contesto: «A coincidence can look very convincing»; serve cautela e verifica."
+      },
+      {
+       "q": "According to the instructors, investigations are usually solved by ___ .",
+       "opts": [
+        "sudden flashes of genius",
+        "patient attention to small details",
+        "confessions from suspects",
+        "luck and good timing"
+       ],
+       "a": 1,
+       "why": "«they depend on patient attention to small, unglamorous details»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «could be ruled out» significa:",
+     "opts": [
+      "poteva essere escluso",
+      "poteva essere accusato",
+      "poteva essere interrogato",
+      "poteva essere ritrovato"
+     ],
+     "a": 0,
+     "why": "Rule out = escludere una possibilità o un sospettato."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "The evidence was ___ : it suggested he was guilty but did not prove it.",
+     "answers": [
+      "circumstantial"
+     ],
+     "why": "Prova indiziaria: circumstantial evidence."
+    },
+    {
+     "t": "gap",
+     "s": "The thief had not forced the door, so the alarm had never ___ .",
+     "opts": [
+      "sounded",
+      "rattled",
+      "sung"
+     ],
+     "a": 0,
+     "why": "L'allarme che suona: the alarm sounds / sounded."
+    }
+   ]
+  },
+  {
+   "id": "b2-03-listening",
+   "kind": "listening",
+   "title": "Perché le vendite sono crollate?",
+   "intro": "Una riunione di lavoro in cui quattro colleghi cercano la causa di un calo di vendite. Ascolta come avanzano ipotesi, le scartano e si mettono d'accordo sul da farsi.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A sales problem",
+     "it": "Ascolta la riunione. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Ruth",
+       "Right, thanks for coming, everyone. As you know, sales through the app dropped by almost thirty per cent last week, and we need to understand why. Any ideas?"
+      ],
+      [
+       "Karim",
+       "My first thought was the update. It went live on Tuesday, so the timing is suspicious. Something must have gone wrong in the checkout."
+      ],
+      [
+       "Ruth",
+       "Possible. Priya, you looked at the logs, didn't you?"
+      ],
+      [
+       "Priya",
+       "I did. And honestly, it can't have been the update. The checkout error rate is exactly the same as before. People are reaching the payment page, but fewer of them are completing the purchase."
+      ],
+      [
+       "Karim",
+       "So it could be the payment provider. They might have changed something on their side."
+      ],
+      [
+       "Priya",
+       "I rang them this morning. They say nothing has changed, though I'm not sure I believe them."
+      ],
+      [
+       "Ruth",
+       "Hmm. What about the competition? Daniel?"
+      ],
+      [
+       "Daniel",
+       "Well, I checked. Our main rival launched a big discount campaign on Monday. That may well have taken some of our customers. Mind you, it doesn't explain why people leave at the payment stage, does it?"
+      ],
+      [
+       "Priya",
+       "No, that's true. Unless it's the delivery costs. We raised the free-delivery limit from thirty to fifty pounds last month. People might have been surprised by the extra charge at the last moment."
+      ],
+      [
+       "Ruth",
+       "That would make sense. Customers must have seen the shipping fee only on the final screen."
+      ],
+      [
+       "Daniel",
+       "In which case we should have told them earlier. And to be honest, we needn't have changed the limit at all. It saved us very little."
+      ],
+      [
+       "Ruth",
+       "Right. Let's not jump to conclusions, but I like that theory. Priya, can you compare the abandonment rates before and after the change? Karim, please test the app on three different phones, in case there's a display problem. And Daniel, find out exactly what our rival's offer includes. We'll meet again on Friday."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Sales through the app fell by about ___ per cent.",
+       "answers": [
+        "30",
+        "thirty"
+       ]
+      },
+      {
+       "q": "Why did Karim suspect the update?",
+       "opts": [
+        "It had been released at about the same time as the drop.",
+        "Customers had complained about it.",
+        "It was the only change made that month.",
+        "It had cost a lot of money."
+       ],
+       "a": 0,
+       "why": "«It went live on Tuesday, so the timing is suspicious»."
+      },
+      {
+       "q": "What did Priya's check of the logs show?",
+       "opts": [
+        "The update had caused many errors.",
+        "The error rate was unchanged.",
+        "The payment provider had failed.",
+        "Fewer customers visited the app."
+       ],
+       "a": 1,
+       "why": "«it can't have been the update. The checkout error rate is exactly the same»."
+      },
+      {
+       "q": "What does Daniel say about the competitor's campaign?",
+       "opts": [
+        "It is the only explanation.",
+        "It cannot have affected sales.",
+        "It may explain some lost customers but not the whole problem.",
+        "It started before the update."
+       ],
+       "a": 2,
+       "why": "«That may well have taken some of our customers. Mind you, it doesn't explain why people leave at the payment stage»."
+      },
+      {
+       "q": "What is Priya's theory?",
+       "opts": [
+        "Customers were surprised by delivery charges.",
+        "The app is too slow.",
+        "Prices were too high.",
+        "The payment page has a bug."
+       ],
+       "a": 0,
+       "why": "Il limite per la consegna gratuita è salito da 30 a 50 sterline."
+      },
+      {
+       "q": "What does Daniel think about the change to the free-delivery limit?",
+       "opts": [
+        "It was necessary.",
+        "It was not worth making.",
+        "It was explained clearly.",
+        "It was copied from a rival."
+       ],
+       "a": 1,
+       "why": "«we needn't have changed the limit at all. It saved us very little»."
+      },
+      {
+       "q": "What is Karim asked to do?",
+       "opts": [
+        "Contact the payment provider",
+        "Test the app on several phones",
+        "Analyse the rival's offer",
+        "Compare abandonment rates"
+       ],
+       "a": 1,
+       "why": "«Karim, please test the app on three different phones»."
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "It can't have been the update: the error rate is exactly the same as before.",
+     "it": "Non può essere stato l'aggiornamento: la percentuale di errori è identica a prima."
+    },
+    {
+     "t": "dictation",
+     "en": "People might have been surprised by the extra charge at the last moment.",
+     "it": "Le persone potrebbero essere rimaste sorprese dal costo extra all'ultimo momento."
+    },
+    {
+     "t": "speak",
+     "en": "Let's not jump to conclusions, but I like that theory.",
+     "it": "Non saltiamo alle conclusioni, ma questa teoria mi piace."
+    }
+   ]
+  },
+  {
+   "id": "b2-03-situation",
+   "kind": "situation",
+   "title": "In riunione: cercare la causa",
+   "intro": "Un problema, nessuna certezza e quattro colleghi: come fare ipotesi con il giusto grado di cautela, contestare un'idea con garbo e tenere in carreggiata la discussione.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Fare ipotesi con cautela",
+     "body": "In riunione conviene non presentare le ipotesi come fatti. Il grado di sicurezza si regola così:\n- **Molto probabile**: It must have been..., It's highly likely that..., There's a good chance that...\n- **Possibile**: It could / might be..., It may well have been..., Perhaps / Possibly...\n- **Poco probabile**: It's unlikely that..., It can't have been..., I doubt that...\n\nFrasi per introdurre un'ipotesi: **My guess is that...**, **I suspect that...**, **One possible explanation is...**, **It would seem that...**",
+     "ex": [
+      [
+       "My guess is that the delay was caused by a supplier.",
+       "Secondo me il ritardo è dovuto a un fornitore."
+      ],
+      [
+       "It may well have been a software error.",
+       "Potrebbe benissimo essere stato un errore del software."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Dissentire con garbo e guidare la discussione",
+     "body": "Per non rispondere con un secco «no»:\n- **I'm not sure I agree.** / **I'm not convinced that...** = Non sono sicuro di essere d'accordo.\n- **That's a fair point, but...** = È un buon punto, ma...\n- **That doesn't quite add up.** = Non torna del tutto.\n- **What makes you say that?** = Cosa te lo fa dire?\n\nPer gestire la riunione: **Can I just come in here?** (intervenire), **Let's look at this from another angle.**, **Let's park that for now.** (mettiamolo da parte), **Shall we move on?**, **So, to sum up...**",
+     "ex": [
+      [
+       "I'm not convinced that the update is to blame.",
+       "Non sono convinto che la colpa sia dell'aggiornamento."
+      ],
+      [
+       "That doesn't quite add up.",
+       "Questa cosa non quadra del tutto."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Speculating in a meeting",
+     "it": "Scegli la risposta più adatta in una riunione (Tu).",
+     "lines": [
+      [
+       "Hannah",
+       "So why do you think the new product is getting so many returns?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "It may be down to the packaging: some customers might have received damaged boxes.",
+         "It is the packaging. I know it.",
+         "Maybe packaging, maybe not, who knows?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Omar",
+       "I'm not sure. The returns forms mostly say \"not as described\"."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That's a good point. In that case, the description on the website could be misleading.",
+         "That's wrong. The forms are always wrong.",
+         "No, you can't be right about that."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Hannah",
+       "Could you check the product page before Thursday?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Certainly. I'll compare it with the actual product and report back.",
+         "Why me? It's not my job.",
+         "I could, but I would rather not."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "Ipotesi formulata con modali di possibilità, accordo parziale, disponibilità concreta: il registro giusto per una riunione."
+    },
+    {
+     "t": "dialog",
+     "title": "Disagreeing politely",
+     "lines": [
+      [
+       "Jonas",
+       "It must have been human error. Someone probably entered the wrong figures."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That's possible, but I'm not convinced. The figures were checked twice, so it seems unlikely.",
+         "No, that's nonsense.",
+         "You're absolutely wrong about it."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Jonas",
+       "What makes you say that?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Because the same error appears in three different reports. That doesn't quite add up.",
+         "Because I said so.",
+         "I don't know, it's just my feeling."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Jonas",
+       "Fair enough. So what do you suggest?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Perhaps we should check the software before we blame anyone.",
+         "We should find the person who did it.",
+         "I suggest we forget about it."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "My guess is that...",
+       "Secondo me..."
+      ],
+      [
+       "That doesn't quite add up.",
+       "Questa cosa non quadra del tutto."
+      ],
+      [
+       "Let's park that for now.",
+       "Mettiamolo da parte per ora."
+      ],
+      [
+       "What makes you say that?",
+       "Cosa te lo fa dire?"
+      ],
+      [
+       "It may well have been...",
+       "Potrebbe benissimo essere stato..."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Potrebbe essere stato un guasto elettrico.",
+     "en": "It could have been a power cut",
+     "extra": [
+      "can",
+      "must"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "My guess is that the delay was caused by a supplier.",
+     "it": "Secondo me il ritardo è dovuto a un fornitore."
+    },
+    {
+     "t": "speak",
+     "en": "I'm not convinced that the update is to blame.",
+     "it": "Non sono convinto che la colpa sia dell'aggiornamento."
+    },
+    {
+     "t": "speak",
+     "en": "Can I just come in here? That doesn't quite add up.",
+     "it": "Posso intervenire? Questa cosa non quadra del tutto."
+    },
+    {
+     "t": "speakTask",
+     "q": "Your team's website crashed last night. In a meeting, suggest two possible causes and say what you would check first.",
+     "it": "Il sito della tua squadra è andato in tilt ieri sera. Proponi due cause possibili con il giusto grado di cautela e di' che cosa controlleresti per primo (almeno 4 frasi).",
+     "hints": [
+      "My guess is that...",
+      "It might have been...",
+      "I doubt that...",
+      "First, I'd check..."
+     ],
+     "min": 40,
+     "model": "My guess is that too many people visited the site at the same time, because we sent the newsletter yesterday afternoon. It might also have been a problem with the server: the engineers updated it on Monday. I doubt that it was a cyber attack, as we didn't see any strange activity. First, I'd check the traffic figures, and then I'd ask the engineers what changed."
+    }
+   ]
+  },
+  {
+   "id": "b2-03-production",
+   "kind": "production",
+   "title": "Il report",
+   "intro": "Scriverai un report in stile B2 First con titoli e raccomandazioni. Prima gli strumenti: struttura e frasi prudenti, poi qualche esercizio per scaldarti.",
+   "minutes": 30,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come si scrive un report",
+     "body": "Il report del B2 First è rivolto a un destinatario preciso (un direttore, un insegnante) ed è **organizzato con titoli**. Registro neutro-formale, nessun saluto.\n- **Introduction**: scopo del report (The aim of this report is to...).\n- **Sezioni con titolo**: ognuna tratta un punto (Possible reasons, Findings...).\n- **Recommendations**: proposte concrete (I would recommend that..., The school could...).\n- **Conclusion**: sintesi in una frase.\n\nFrasi utili: **It would seem that...**, **Most students said that...**, **It is unlikely that...**, **I would strongly recommend...**, **This would enable / allow...**. Evita le contrazioni e il tono troppo personale. I criteri sono sempre: contenuto, comunicazione, organizzazione, lingua.",
+     "ex": [
+      [
+       "The aim of this report is to examine why attendance has dropped.",
+       "Lo scopo di questo report è esaminare perché la frequenza è calata."
+      ],
+      [
+       "I would recommend offering evening classes.",
+       "Raccomanderei di offrire lezioni serali."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The ___ of this report is to explain why customers have complained.",
+     "opts": [
+      "aim",
+      "target",
+      "goal line"
+     ],
+     "a": 0,
+     "why": "Nel report si dice: The aim / purpose of this report is to..."
+    },
+    {
+     "t": "gap",
+     "s": "I would ___ that the company introduces more flexible working hours.",
+     "opts": [
+      "recommend",
+      "suggest to",
+      "advise to"
+     ],
+     "a": 0,
+     "why": "Recommend that + soggetto + verbo. Con suggest/advise la costruzione sarebbe diversa («suggest that», «advise someone to»)."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "It would ___ that most students are satisfied with the teaching.",
+     "answers": [
+      "seem",
+      "appear"
+     ],
+     "why": "It would seem / appear that = sembrerebbe che (tono formale e cauto)."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I recommend to introduce a shorter timetable.",
+     "answers": [
+      "I recommend introducing a shorter timetable",
+      "I would recommend introducing a shorter timetable",
+      "I recommend that the school introduces a shorter timetable",
+      "I would recommend that the school introduces a shorter timetable",
+      "I recommend that we introduce a shorter timetable",
+      "I would recommend that we introduce a shorter timetable",
+      "I recommend that the school introduce a shorter timetable",
+      "I would recommend that the school introduce a shorter timetable"
+     ],
+     "why": "Dopo recommend non si usa to + infinito: serve -ing oppure that + clausola."
+    },
+    {
+     "t": "write",
+     "q": "The manager of the language school where you study has asked students to write a report on why many students leave after their first term. Write your report, suggesting possible reasons and recommending improvements.",
+     "it": "Scrivi un report (140-190 parole) per il direttore della scuola: introduzione, sezioni con titolo (motivi possibili, raccomandazioni), conclusione. Usa almeno due modali di deduzione al passato.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho proposto motivi possibili e raccomandazioni concrete",
+      "Comunicazione: registro neutro-formale, nessun saluto, niente contrazioni",
+      "Organizzazione: titoli, introduzione con lo scopo, conclusione",
+      "Lingua: ho usato almeno due modali di deduzione (must / might / can't have) e formule come It would seem that",
+      "Ho rispettato il numero di parole (140-190)"
+     ],
+     "useful": [
+      "The aim of this report is to...",
+      "It would seem that...",
+      "Many students must have felt...",
+      "It is unlikely that... was the main reason",
+      "I would recommend + -ing",
+      "If these changes were introduced, ..."
+     ],
+     "model": "Introduction\nThe aim of this report is to examine why a number of students leave the school after their first term and to suggest improvements.\n\nPossible reasons\nMany students must have found the timetable difficult, as most classes take place in the early evening, when people are tired after work. Several students also told me that the groups were too large. It is unlikely that the fees were the main problem, since they are lower than those of other schools. Some people might have left because they did not see enough progress.\n\nRecommendations\nFirstly, I would recommend offering a wider choice of class times, including weekend lessons. Secondly, the school could limit groups to twelve students. Finally, a short progress meeting after six weeks would help learners to see how much they have improved.\n\nConclusion\nIt would seem that the school has a good reputation but does not yet meet the needs of working adults. These changes would probably encourage more students to stay."
+    },
+    {
+     "t": "speakTask",
+     "q": "Think of an unsolved mystery or a strange event. What do you think happened?",
+     "it": "Parla di un mistero irrisolto o di un evento strano e di' che cosa pensi sia successo, usando modali di deduzione al passato.",
+     "hints": [
+      "The mystery of... is that...",
+      "It might have been...",
+      "It can't have been... because...",
+      "In my view, ... must have..."
+     ],
+     "min": 40,
+     "model": "The mystery I find most interesting is the Mary Celeste, the ship that was found with nobody on board. The crew can't have been attacked, because their belongings were still there. It might have been a storm, or the sailors may have feared that the ship was about to explode. In my view, they must have left in a hurry in the lifeboat, and then something went wrong."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe a time when something went wrong at work or at home. What do you think caused it?",
+     "it": "Racconta un momento in cui qualcosa è andato storto e dì quali possono essere state le cause (almeno 4 frasi).",
+     "hints": [
+      "Last week...",
+      "It might have been because...",
+      "I should have...",
+      "Next time I'll..."
+     ],
+     "min": 40,
+     "model": "Last week our internet stopped working for a whole day. It might have been a problem with the provider, but the neighbours were online, so it can't have been that. I think I must have unplugged the router while cleaning the room. I should have checked it first. Next time I'll look at the cables before calling anyone."
+    }
+   ]
+  },
+  {
+   "id": "b2-03-test",
+   "kind": "test",
+   "title": "Test dell'unità 3",
+   "intro": "Verifica finale: modali al passato, lessico delle indagini, lettura e ascolto. Nessun aiuto durante la prova.",
+   "minutes": 25,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "The streets were empty. Everyone ___ gone to the match.",
+     "opts": [
+      "must have",
+      "must",
+      "can have"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She ___ my message: she replied within seconds.",
+     "opts": [
+      "must have received",
+      "can't have received",
+      "needn't have received"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The flight was cancelled, so we ___ left so early.",
+     "opts": [
+      "needn't have",
+      "mustn't have",
+      "can't have"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'm sorry I forgot. I ___ written it down.",
+     "opts": [
+      "should have",
+      "must have",
+      "can't have"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "They can't have been at home: the car wasn't there.",
+      "They mustn't have been at home: the car wasn't there.",
+      "They can't been at home: the car wasn't there."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The evidence was ___ , so the police could not charge anyone.",
+     "opts": [
+      "inconclusive",
+      "conclusive",
+      "convincing",
+      "obvious"
+     ],
+     "a": 0,
+     "why": "Inconclusive = non decisiva."
+    },
+    {
+     "t": "mc",
+     "q": "I'd like to ___ the matter before we draw any conclusions.",
+     "opts": [
+      "look into",
+      "look after",
+      "look up to",
+      "look out"
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "The lights are off. They ___ (must / go) to bed.",
+     "answers": [
+      "must have gone"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "It's not clear what happened. The pipe ___ (might / burst) during the night.",
+     "answers": [
+      "might have burst"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Avresti potuto chiamarmi!",
+     "answers": [
+      "You could have called me",
+      "You could have phoned me",
+      "You could have rung me",
+      "You could have given me a call",
+      "You could have called me!",
+      "You might have called me",
+      "You might have phoned me",
+      "You might have rung me",
+      "You might have given me a call",
+      "You might have called me!",
+      "You could've called me",
+      "You could've phoned me",
+      "You could've rung me",
+      "You could've given me a call",
+      "You could've called me!",
+      "You might've called me",
+      "You might've phoned me",
+      "You might've rung me",
+      "You might've given me a call",
+      "You might've called me!"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I'm certain the thief used a spare key.",
+     "key": "MUST",
+     "s2": "The thief ___ a spare key.",
+     "answers": [
+      "must have used"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "It wasn't necessary for you to bring a gift.",
+     "key": "NEED",
+     "s2": "You ___ a gift.",
+     "answers": [
+      "needn't have brought",
+      "need not have brought",
+      "didn't need to bring",
+      "did not need to bring"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "Perhaps the manager didn't get the email.",
+     "key": "MAY",
+     "s2": "The manager ___ the email.",
+     "answers": [
+      "may not have got",
+      "may not have received",
+      "may not have gotten"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "It was wrong of you to read my private letters.",
+     "key": "SHOULD",
+     "s2": "You ___ my private letters.",
+     "answers": [
+      "shouldn't have read",
+      "should not have read"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She must has lost her phone on the train.",
+     "answers": [
+      "She must have lost her phone on the train"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The burglar must have came in through the back door.",
+     "answers": [
+      "The burglar must have come in through the back door"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "There is no ___ explanation for the noise: nobody has been able to explain it.",
+     "root": "SCIENCE",
+     "answers": [
+      "scientific"
+     ],
+     "why": "Aggettivo: science -> scientific."
+    },
+    {
+     "t": "wordform",
+     "s": "The witness was ___ : his story kept changing.",
+     "root": "RELY",
+     "answers": [
+      "unreliable"
+     ],
+     "why": "Aggettivo negativo: rely -> unreliable."
+    },
+    {
+     "t": "cloze",
+     "title": "A village mystery",
+     "mode": "mc",
+     "text": "Residents of Eastwick woke up on Sunday to find that the village clock had stopped at 3.17. Nobody had heard anything during the night, so a power cut {1} the most likely explanation. But the engineer who {2} into it found nothing wrong. \"It can't {3} been the electricity,\" she said, \"because the church bells, which are on the same circuit, kept ringing all night.\" Some villagers think someone must {4} tampered with the mechanism, although the tower door was locked. For the moment the case remains {5} .",
+     "gaps": [
+      {
+       "opts": [
+        "seemed",
+        "looked at",
+        "felt",
+        "sounded"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "looked",
+        "searched",
+        "examined",
+        "investigated"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "have",
+        "be",
+        "been",
+        "being"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "have",
+        "had",
+        "has",
+        "be"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "unsolved",
+        "unsolving",
+        "unresolving",
+        "insolvent"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A message from the lab",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Anita",
+       "Hello, this is Anita Pace from the lab. I've looked at the water samples from the lake. I'd say the fish can't have died because of pollution from the factory, as the levels of chemicals are perfectly normal. It might have been the heat: last week was unusually hot, and the oxygen in the water may have dropped sharply. I'm not certain yet, so please don't announce anything before I send the full report on Friday."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What does Anita think about the factory?",
+       "opts": [
+        "It is the most likely cause.",
+        "It is unlikely to be the cause.",
+        "It has been closed.",
+        "It must be tested again."
+       ],
+       "a": 1
+      },
+      {
+       "q": "What might have caused the problem?",
+       "opts": [
+        "A chemical spill",
+        "A lack of oxygen caused by the heat",
+        "A disease in the fish",
+        "Too many visitors"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What does she ask the listener to do?",
+       "opts": [
+        "Wait for her report before saying anything",
+        "Ring the factory",
+        "Collect new samples",
+        "Send her the results on Friday"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "In a meeting",
+     "lines": [
+      [
+       "Chair",
+       "Why do you think the new software is so slow?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "It could be the old computers: they might not have enough memory.",
+         "It is the computers, obviously. Everybody knows that.",
+         "I have no idea, and I don't care."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Chair",
+       "Someone suggested it was caused by the update."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm not convinced. The slowdown started a week before the update.",
+         "That's stupid.",
+         "Why do you always say that?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Deve esserci una spiegazione logica.",
+     "en": "There must be a logical explanation",
+     "extra": [
+      "have",
+      "can't"
+     ]
+    }
+   ]
+  }
+ ]
+}

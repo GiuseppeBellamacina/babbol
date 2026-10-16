@@ -1,0 +1,1499 @@
+{
+  "id": "b1-10",
+  "level": "B1",
+  "position": 10,
+  "title": "Vicini, amici e rapporti",
+  "sub": "Phrasal verbs e -ing / to - lamentele cortesi e accordi",
+  "grammar": "Phrasal verbs (separabili e non), gerundio vs infinito con cambio di significato (remember, stop, try)",
+  "topic": "Relazioni e vita sociale",
+  "situation": "Vicini di casa: lamentele cortesi e accordi",
+  "lessons": [
+    {
+      "id": "b1-10-grammar",
+      "kind": "grammar",
+      "title": "Phrasal verbs e forme in -ing / to",
+      "intro": "Due punti che mettono in difficoltà gli italiani: i phrasal verbs (dove va il pronome?) e i verbi che cambiano significato a seconda che siano seguiti da -ing o da to + verbo.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Phrasal verbs: tre famiglie",
+          "body": "Un phrasal verb è un verbo + particella (up, off, after...) con un significato proprio. Ce ne sono tre tipi:\n- **senza complemento** (intransitivi): She **grew up** in Leeds. / The car **broke down**.\n- **separabili**: il complemento può stare in mezzo o dopo: **turn off** the light = turn the light **off**. Se il complemento è un **pronome**, va SEMPRE in mezzo: turn **it** off (mai «turn off it»).\n- **non separabili**: il complemento sta sempre dopo: **look after** my sister -> look after **her**. Come: look for, get over, run into, deal with.\n\nCon tre elementi (verbo + 2 particelle) il complemento va in fondo: **put up with** the noise, **look forward to** the weekend, **run out of** milk.",
+          "ex": [
+            [
+              "Could you turn the music down, please?",
+              "Puoi abbassare la musica, per favore?"
+            ],
+            [
+              "I picked it up at the station.",
+              "L'ho ritirato alla stazione."
+            ],
+            [
+              "She looks after her grandmother.",
+              "Si prende cura della nonna."
+            ]
+          ],
+          "table": [
+            [
+              "Tipo",
+              "Esempio con nome",
+              "Con pronome"
+            ],
+            [
+              "separabile",
+              "turn off the TV / turn the TV off",
+              "turn it off"
+            ],
+            [
+              "non separabile",
+              "look after the kids",
+              "look after them"
+            ],
+            [
+              "tre parti",
+              "put up with the noise",
+              "put up with it"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Come si studiano e dove sbagliano gli italiani",
+          "body": "- Si imparano **a blocchi con un esempio**, non traducendo la particella: «give up» non è «dare su».\n- Molti hanno un equivalente più formale: **put off** = postpone, **find out** = discover, **turn down** = refuse (o abbassare).\n- Errori tipici: «Turn off it», «I look for him since an hour», «I'm looking forward to see you» (qui **to** è una preposizione: serve -ing), «She takes care to the cat» (-> looks after).\n- Nel dubbio sulla posizione, usa il pronome in mezzo: con i separabili è sempre corretto, con i non separabili è sbagliato (non si dice «look her after»). Controlla sul dizionario.",
+          "ex": [
+            [
+              "I'm looking forward to meeting your family.",
+              "Non vedo l'ora di conoscere la tua famiglia."
+            ],
+            [
+              "We ran out of petrol on the motorway.",
+              "Siamo rimasti senza benzina in autostrada."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Remember, forget, stop, try: -ing o to?",
+          "body": "Alcuni verbi cambiano **significato** secondo la forma che segue:\n- **remember / forget + -ing** = ricordare / dimenticare qualcosa **già fatto**: I remember **locking** the door. (ricordo di averla chiusa)\n- **remember / forget + to** = ricordare / dimenticare **di fare** qualcosa: Remember **to lock** the door! (non dimenticare di farlo)\n- **stop + -ing** = smettere di fare: She stopped **smoking**.\n- **stop + to** = fermarsi **per** fare: We stopped **to have** a coffee.\n- **try + -ing** = provare per vedere l'effetto: Try **restarting** the computer.\n- **try + to** = cercare di (con fatica): I tried **to open** the window, but it was stuck.\n- **regret + -ing** = rimpiangere di aver fatto; **regret + to** = dispiacersi di dover (formale): We regret **to inform** you...",
+          "ex": [
+            [
+              "I'll never forget meeting her for the first time.",
+              "Non dimenticherò mai la prima volta che l'ho incontrata."
+            ],
+            [
+              "Don't forget to post the letter.",
+              "Non dimenticare di imbucare la lettera."
+            ],
+            [
+              "We stopped to look at the view.",
+              "Ci siamo fermati a guardare il panorama."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Ripasso: verbi seguiti da -ing o to",
+          "body": "- Solo **-ing**: enjoy, avoid, suggest, mind, finish, keep, practise, give up.\n- Solo **to + verbo**: decide, hope, want, plan, promise, manage, refuse, afford.\n- Dopo una **preposizione** sempre -ing: interested in learning, good at cooking, before leaving. Anche dopo **to** preposizione: look forward to seeing, get used to living.\n- **Used to + base** = un'abitudine passata: I used to live here. **Be/get used to + -ing** = essere abituato a: I'm used to getting up early.\n\nErrori tipici: «She suggested to go», «I enjoy to read», «I'm used to get up early».",
+          "ex": [
+            [
+              "She suggested going to the cinema.",
+              "Ha proposto di andare al cinema."
+            ],
+            [
+              "He refused to apologise.",
+              "Si è rifiutato di scusarsi."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "It's cold in here. Please ___ the heating.",
+          "opts": [
+            "turn on",
+            "turn out",
+            "turn into"
+          ],
+          "a": 0,
+          "it": "Qui fa freddo. Accendi il riscaldamento, per favore.",
+          "why": "Accendere = turn on; turn off = spegnere."
+        },
+        {
+          "t": "gap",
+          "s": "I'll ___ your children while you're at the dentist.",
+          "opts": [
+            "look after",
+            "look for",
+            "look at"
+          ],
+          "a": 0,
+          "it": "Mi occupo io dei tuoi bambini mentre sei dal dentista.",
+          "why": "Look after = prendersi cura di; look for = cercare."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "Please turn it off.",
+            "Please turn off it.",
+            "Please it turn off."
+          ],
+          "a": 0,
+          "why": "Con un pronome il phrasal verb separabile si spezza: turn it off."
+        },
+        {
+          "t": "mc",
+          "q": "Completa: «I'm looking forward ___ you next week.»",
+          "text": "Non vedo l'ora di vederti la settimana prossima.",
+          "opts": [
+            "to seeing",
+            "to see",
+            "for seeing"
+          ],
+          "a": 0,
+          "why": "Nel phrasal verb look forward to, «to» è una preposizione: serve -ing."
+        },
+        {
+          "t": "gap",
+          "s": "I remember ___ him at Sara's party last year. He was wearing a green hat.",
+          "opts": [
+            "meeting",
+            "to meet",
+            "meet"
+          ],
+          "a": 0,
+          "why": "Remember + -ing: ricordo qualcosa che è già successo."
+        },
+        {
+          "t": "gap",
+          "s": "Remember ___ some milk on your way home, please.",
+          "opts": [
+            "to buy",
+            "buying",
+            "buy"
+          ],
+          "a": 0,
+          "why": "Remember + to: non dimenticare di fare qualcosa."
+        },
+        {
+          "t": "gap",
+          "s": "We stopped ___ a coffee on the way to the airport.",
+          "opts": [
+            "to have",
+            "having",
+            "have"
+          ],
+          "a": 0,
+          "why": "Stop + to = ci siamo fermati per prendere un caffè. Stop + -ing significherebbe smettere."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «I tried to open the window»?",
+          "opts": [
+            "Ho cercato di aprire la finestra (ma forse non ci sono riuscito).",
+            "Ho aperto la finestra per vedere che effetto faceva.",
+            "Ho smesso di aprire la finestra."
+          ],
+          "a": 0,
+          "why": "Try + to = fare uno sforzo; try + -ing = fare una prova per vedere l'effetto."
+        },
+        {
+          "t": "type",
+          "q": "Completa con la forma giusta di see",
+          "s": "I'll never forget ___ the sea for the first time.",
+          "answers": [
+            "seeing"
+          ],
+          "why": "Forget + -ing: un ricordo di qualcosa già fatto."
+        },
+        {
+          "t": "type",
+          "q": "Completa con la forma giusta di lock",
+          "s": "She forgot ___ the door, so the burglar just walked in.",
+          "answers": [
+            "to lock"
+          ],
+          "why": "Forget + to: si è dimenticata di farlo."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese (usa put up with)",
+          "text": "Non sopporto più questo rumore.",
+          "answers": [
+            "I can't put up with this noise any more",
+            "I can't put up with this noise anymore",
+            "I can't put up with the noise any more",
+            "I can't put up with the noise anymore",
+            "I can't put up with this noise any longer",
+            "I can't put up with the noise any longer"
+          ],
+          "why": "Put up with = sopportare; è un phrasal verb a tre parti."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "Please turn off it; it's too loud.",
+          "answers": [
+            "Please turn it off; it's too loud"
+          ],
+          "why": "Con un pronome il complemento va in mezzo: turn it off."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "I look forward to see you next week.",
+          "answers": [
+            "I look forward to seeing you next week",
+            "I'm looking forward to seeing you next week"
+          ],
+          "why": "Dopo look forward to serve -ing."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "She suggested to go to the cinema.",
+          "answers": [
+            "She suggested going to the cinema"
+          ],
+          "why": "Dopo suggest si usa -ing."
+        },
+        {
+          "t": "transform",
+          "s1": "My sister takes care of the baby on Mondays.",
+          "key": "LOOKS",
+          "s2": "My sister ___ the baby on Mondays.",
+          "answers": [
+            "looks after"
+          ],
+          "why": "Take care of = look after."
+        },
+        {
+          "t": "transform",
+          "s1": "I clearly recall that I locked the door.",
+          "key": "REMEMBER",
+          "s2": "I clearly ___ the door.",
+          "answers": [
+            "remember locking",
+            "remember having locked"
+          ],
+          "why": "Ricordo di aver fatto: remember + -ing."
+        },
+        {
+          "t": "order",
+          "it": "Ho smesso di fumare due anni fa.",
+          "en": "I stopped smoking two years ago",
+          "extra": [
+            "smoke",
+            "smoked"
+          ],
+          "why": "Smettere di = stop + -ing."
+        }
+      ]
+    },
+    {
+      "id": "b1-10-vocab",
+      "kind": "vocab",
+      "title": "Amici, vicini, rapporti",
+      "intro": "Le parole per parlare di relazioni: dalla lite al fare pace, dal perdere i contatti al chiedere un favore. Molte sono phrasal verbs: studiale con l'esempio.",
+      "minutes": 15,
+      "words": [
+        {
+          "id": "b1-10-w01",
+          "en": "acquaintance",
+          "it": "conoscente",
+          "ipa": "əˈkweɪntəns",
+          "pos": "n",
+          "ex": [
+            "She's not a close friend, just an acquaintance.",
+            "Non è un'amica stretta, solo una conoscente."
+          ],
+          "note": "Non significa «conoscenza» (che è knowledge)."
+        },
+        {
+          "id": "b1-10-w02",
+          "en": "argument",
+          "it": "lite, discussione accesa",
+          "ipa": "ˈɑːɡjumənt",
+          "pos": "n",
+          "ex": [
+            "They had an argument about who should do the washing-up.",
+            "Hanno litigato su chi dovesse lavare i piatti."
+          ],
+          "note": "Falso amico: «argomento» si dice topic o subject."
+        },
+        {
+          "id": "b1-10-w03",
+          "en": "apologise",
+          "it": "scusarsi",
+          "ipa": "əˈpɒlədʒaɪz",
+          "pos": "v",
+          "ex": [
+            "He apologised for being late.",
+            "Si è scusato per il ritardo."
+          ],
+          "note": "Si dice apologise TO someone FOR something. Nome: apology."
+        },
+        {
+          "id": "b1-10-w04",
+          "en": "misunderstanding",
+          "it": "malinteso",
+          "ipa": "ˌmɪsʌndəˈstændɪŋ",
+          "pos": "n",
+          "ex": [
+            "It was all a misunderstanding.",
+            "Era tutto un malinteso."
+          ]
+        },
+        {
+          "id": "b1-10-w05",
+          "en": "fall out",
+          "it": "litigare (e rompere)",
+          "ipa": "fɔːl ˈaʊt",
+          "pos": "pv",
+          "ex": [
+            "They fell out over money.",
+            "Hanno litigato per una questione di soldi."
+          ],
+          "note": "Si dice fall out WITH someone."
+        },
+        {
+          "id": "b1-10-w06",
+          "en": "make up",
+          "it": "fare pace",
+          "ipa": "meɪk ˈʌp",
+          "pos": "pv",
+          "ex": [
+            "We had a row, but we made up the next day.",
+            "Abbiamo litigato, ma abbiamo fatto pace il giorno dopo."
+          ]
+        },
+        {
+          "id": "b1-10-w07",
+          "en": "catch up",
+          "it": "aggiornarsi, mettersi in pari",
+          "ipa": "kætʃ ˈʌp",
+          "pos": "pv",
+          "ex": [
+            "Let's meet for coffee and catch up.",
+            "Vediamoci per un caffè e facciamo il punto."
+          ],
+          "note": "Catch up WITH someone / ON something."
+        },
+        {
+          "id": "b1-10-w08",
+          "en": "keep in touch",
+          "it": "restare in contatto",
+          "ipa": "kiːp ɪn ˈtʌtʃ",
+          "pos": "phr",
+          "ex": [
+            "Promise you'll keep in touch when you move.",
+            "Promettimi che resterai in contatto quando ti trasferirai."
+          ]
+        },
+        {
+          "id": "b1-10-w09",
+          "en": "lose touch",
+          "it": "perdere i contatti",
+          "ipa": "luːz ˈtʌtʃ",
+          "pos": "phr",
+          "ex": [
+            "I lost touch with most of my school friends.",
+            "Ho perso i contatti con la maggior parte degli amici di scuola."
+          ]
+        },
+        {
+          "id": "b1-10-w10",
+          "en": "trust",
+          "it": "fidarsi di; fiducia",
+          "ipa": "trʌst",
+          "pos": "v",
+          "ex": [
+            "I don't trust people who never listen.",
+            "Non mi fido di chi non ascolta mai."
+          ],
+          "note": "Si dice trust someone, senza preposizione."
+        },
+        {
+          "id": "b1-10-w11",
+          "en": "jealous",
+          "it": "geloso, invidioso",
+          "ipa": "ˈdʒeləs",
+          "pos": "adj",
+          "ex": [
+            "He was jealous of his brother's success.",
+            "Era geloso del successo del fratello."
+          ],
+          "note": "Si dice jealous OF."
+        },
+        {
+          "id": "b1-10-w12",
+          "en": "flatmate",
+          "it": "coinquilino",
+          "ipa": "ˈflætmeɪt",
+          "pos": "n",
+          "ex": [
+            "My flatmate always leaves dirty plates in the sink.",
+            "Il mio coinquilino lascia sempre i piatti sporchi nel lavandino."
+          ]
+        },
+        {
+          "id": "b1-10-w13",
+          "en": "housewarming",
+          "it": "festa di inaugurazione della casa",
+          "ipa": "ˈhaʊswɔːmɪŋ",
+          "pos": "n",
+          "ex": [
+            "We're having a housewarming on Saturday.",
+            "Sabato facciamo la festa per la nuova casa."
+          ]
+        },
+        {
+          "id": "b1-10-w14",
+          "en": "favour",
+          "it": "favore",
+          "ipa": "ˈfeɪvə",
+          "pos": "n",
+          "ex": [
+            "Could I ask you a favour?",
+            "Posso chiederti un favore?"
+          ],
+          "note": "Ortografia UK: favour (US: favor)."
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "fall out with a friend",
+              "litigare con un amico"
+            ],
+            [
+              "make up after an argument",
+              "fare pace dopo una lite"
+            ],
+            [
+              "catch up on the news",
+              "aggiornarsi sulle novità"
+            ],
+            [
+              "keep in touch",
+              "restare in contatto"
+            ],
+            [
+              "ask a favour",
+              "chiedere un favore"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "We had a big ___ about money and haven't spoken since.",
+          "opts": [
+            "argument",
+            "topic",
+            "subject"
+          ],
+          "a": 0,
+          "why": "Argument = lite. «Argomento» è topic o subject: falso amico."
+        },
+        {
+          "t": "gap",
+          "s": "It was just a ___ : I thought you said Tuesday, not Thursday.",
+          "opts": [
+            "misunderstanding",
+            "acquaintance",
+            "housewarming"
+          ],
+          "a": 0,
+          "why": "Misunderstanding = malinteso."
+        },
+        {
+          "t": "gap",
+          "s": "We used to be close, but we ___ touch after he moved to Canada.",
+          "opts": [
+            "lost",
+            "missed",
+            "left"
+          ],
+          "a": 0,
+          "why": "Si dice lose touch (with someone), non «miss touch»."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Could you do me a ___ ? Can you pick up my parcel on Friday?",
+          "answers": [
+            "favour",
+            "favor"
+          ],
+          "why": "Do someone a favour = fare un favore a qualcuno."
+        },
+        {
+          "t": "wordform",
+          "s": "He sent me a long ___ for missing my birthday.",
+          "root": "APOLOGISE",
+          "answers": [
+            "apology"
+          ],
+          "why": "Serve un nome: apologise -> apology (non «apologise»)."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «He's an acquaintance»?",
+          "opts": [
+            "È un conoscente.",
+            "È un amico stretto.",
+            "È un collega di lavoro."
+          ],
+          "a": 0,
+          "why": "Acquaintance = conoscente. Non è «conoscenza» (knowledge)."
+        }
+      ]
+    },
+    {
+      "id": "b1-10-reading",
+      "kind": "reading",
+      "title": "Il rumore che ha fatto nascere un'amicizia",
+      "intro": "Un articolo di rivista sulla vita nel palazzo: dal fastidio per il rumore alla scoperta dei vicini. Cerca come cambia l'atteggiamento della scrittrice.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "read",
+          "title": "The neighbour upstairs",
+          "genre": "magazine article",
+          "text": "When I moved into my flat in Leeds two years ago, I didn't know a single person in the building. I remember thinking that big cities were lonely places, and I almost gave up trying to meet anyone. Then the noise started.\n\nThe man in the flat above, Greg, played the drums every Tuesday night. I put up with it for a month. I tried wearing earplugs, I tried turning my music up, and I even tried to sleep in the kitchen. Nothing worked. Finally I decided to talk to him, but I was so nervous that I wrote a list of things to say. On Wednesday I knocked on his door, holding the list.\n\nTo my surprise, Greg was extremely embarrassed. \"I'm so sorry,\" he said. \"I had no idea you could hear me. I forgot to ask the neighbours before I bought the drums.\" He explained that he had been practising for a concert, and he promised to stop playing after nine o'clock. Then he asked me whether I wanted to come and listen to him play. I said no, but he insisted, and I went upstairs the following Sunday.\n\nThat evening changed everything. We talked for hours, and I found out that he had grown up only twenty miles from my home town. A few weeks later he introduced me to Mei, who lives opposite, and to an elderly couple, the Hendersons, who have lived in the building for forty years. Now we have a shared group chat, and we take it in turns to water each other's plants when we're away. Last winter, when I was ill, Mei did my shopping and Mr Henderson sent me a card.\n\nI still think about how close I came to doing nothing. If I hadn't knocked on that door, I would probably still be pretending that nobody lived above me. So my advice is simple: don't wait for the noise to get worse. Be polite, be honest, and try talking to your neighbours. You might be surprised by what you find out.",
+          "qs": [
+            {
+              "q": "How did the writer feel about the new city at first?",
+              "opts": [
+                "It seemed a lonely place.",
+                "It seemed exciting.",
+                "It seemed too expensive."
+              ],
+              "a": 0,
+              "why": "«I remember thinking that big cities were lonely places»."
+            },
+            {
+              "q": "What did Greg do on Tuesday nights?",
+              "opts": [
+                "He played the drums.",
+                "He held a party.",
+                "He practised the guitar."
+              ],
+              "a": 0,
+              "why": "«played the drums every Tuesday night»."
+            },
+            {
+              "q": "Why did the writer write a list?",
+              "opts": [
+                "The writer was nervous about talking to him.",
+                "The writer wanted to give it to him.",
+                "The writer was afraid of forgetting the date."
+              ],
+              "a": 0,
+              "why": "«I was so nervous that I wrote a list of things to say»."
+            },
+            {
+              "q": "How did Greg react when the writer knocked on his door?",
+              "opts": [
+                "He was embarrassed and apologised.",
+                "He was angry.",
+                "He didn't understand English."
+              ],
+              "a": 0,
+              "why": "«Greg was extremely embarrassed. 'I'm so sorry'»."
+            },
+            {
+              "q": "Greg promised not to play after ___ .",
+              "answers": [
+                "nine",
+                "9",
+                "nine o'clock",
+                "9 o'clock",
+                "9 p.m.",
+                "9pm",
+                "21:00"
+              ]
+            },
+            {
+              "q": "Greg and the writer grew up in the same town.",
+              "opts": [
+                "False",
+                "True",
+                "Not given"
+              ],
+              "a": 0,
+              "why": "«grown up only twenty miles from my home town»: vicino, non lo stesso paese."
+            },
+            {
+              "q": "Mei plays a musical instrument.",
+              "opts": [
+                "Not given",
+                "True",
+                "False"
+              ],
+              "a": 0,
+              "why": "Il testo non lo dice."
+            },
+            {
+              "q": "What is the writer's main advice?",
+              "opts": [
+                "Speak politely to neighbours before things get worse.",
+                "Move to another building.",
+                "Never complain to neighbours."
+              ],
+              "a": 0,
+              "why": "Ultimo paragrafo: «Be polite, be honest, and try talking to your neighbours»."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «I put up with it for a month» significa:",
+          "opts": [
+            "Per un mese l'ho sopportato.",
+            "Per un mese l'ho messo da parte.",
+            "Per un mese l'ho costruito."
+          ],
+          "a": 0,
+          "why": "Put up with = sopportare."
+        },
+        {
+          "t": "gap",
+          "s": "They take it in ___ to water the plants.",
+          "opts": [
+            "turns",
+            "times",
+            "rounds"
+          ],
+          "a": 0,
+          "why": "Take it in turns = fare a turno."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola dal testo",
+          "s": "I found ___ that he had grown up near my home town.",
+          "answers": [
+            "out"
+          ],
+          "why": "Find out = scoprire."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «embarrassed»?",
+          "opts": [
+            "imbarazzato",
+            "incinta",
+            "scoraggiato"
+          ],
+          "a": 0,
+          "why": "Falso amico: embarrassed = in imbarazzo."
+        }
+      ]
+    },
+    {
+      "id": "b1-10-listening",
+      "kind": "listening",
+      "title": "Una chiacchierata tra vicini",
+      "intro": "Una vicina bussa alla porta per un problema, ma con molto garbo. Ascolta come si chiede e come si trova un accordo senza litigare.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "A quick word",
+          "it": "Ascolta la conversazione e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Dan",
+              "Oh, hello, Mrs Collins. Is everything all right?"
+            ],
+            [
+              "Mrs Collins",
+              "Hello, Dan. Yes, yes, I just wanted a quick word, if you've got a minute."
+            ],
+            [
+              "Dan",
+              "Of course. Come in. Would you like a cup of tea?"
+            ],
+            [
+              "Mrs Collins",
+              "No, thank you, I won't stay long. It's about Biscuit."
+            ],
+            [
+              "Dan",
+              "Oh dear. Has he done something?"
+            ],
+            [
+              "Mrs Collins",
+              "Not exactly. It's just that he barks quite a lot when you're out. Yesterday he barked from nine until about twelve, and I couldn't concentrate on my crossword."
+            ],
+            [
+              "Dan",
+              "Oh, I'm so sorry. I had no idea. I leave for work at half past eight, and I suppose he gets lonely."
+            ],
+            [
+              "Mrs Collins",
+              "I thought it might be that. I don't want to make a fuss, I love dogs, but it's rather difficult in the mornings."
+            ],
+            [
+              "Dan",
+              "You're right, and I really appreciate you telling me. I'll try leaving the radio on for him. And I could ask my sister to take him out for a walk at lunchtime."
+            ],
+            [
+              "Mrs Collins",
+              "That would be lovely. Actually, I could pop in myself on Wednesdays, because I'm at home. I wouldn't mind giving him a biscuit."
+            ],
+            [
+              "Dan",
+              "Really? That's very kind. But I don't want to take advantage."
+            ],
+            [
+              "Mrs Collins",
+              "Not at all. Shall we try it for two weeks and see how it goes?"
+            ],
+            [
+              "Dan",
+              "Deal. Let me give you my mobile number, so you can text me if there's a problem."
+            ],
+            [
+              "Mrs Collins",
+              "Perfect. Thank you, Dan. And remember to bring Biscuit round for tea one day."
+            ],
+            [
+              "Dan",
+              "I will. Thanks again, Mrs Collins."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What is the problem?",
+              "opts": [
+                "The dog barks when Dan is out.",
+                "Dan plays loud music.",
+                "Dan's car blocks the road."
+              ],
+              "a": 0
+            },
+            {
+              "q": "Yesterday the dog barked until about ___ .",
+              "answers": [
+                "twelve",
+                "12",
+                "noon",
+                "midday",
+                "12 o'clock"
+              ]
+            },
+            {
+              "q": "What time does Dan leave for work?",
+              "opts": [
+                "Half past eight",
+                "Nine o'clock",
+                "Half past nine"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What will Dan try first?",
+              "opts": [
+                "Leaving the radio on",
+                "Moving to another flat",
+                "Buying a bigger dog bed"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does Mrs Collins offer to do on Wednesdays?",
+              "opts": [
+                "Visit the dog",
+                "Take the dog for a walk",
+                "Feed the dog at lunchtime"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What do they decide?",
+              "opts": [
+                "To try the plan for two weeks",
+                "To ask the landlord",
+                "To stop the dog going out"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "I don't want to make a fuss, but it's rather difficult in the mornings.",
+          "it": "Non voglio fare storie, ma la mattina è piuttosto difficile."
+        },
+        {
+          "t": "dictation",
+          "en": "Shall we try it for two weeks and see how it goes?",
+          "it": "Proviamo per due settimane e vediamo come va?"
+        },
+        {
+          "t": "speak",
+          "en": "Sorry to bother you, but could I have a quick word?",
+          "it": "Scusa il disturbo, posso parlarti un momento?"
+        }
+      ]
+    },
+    {
+      "id": "b1-10-situation",
+      "kind": "situation",
+      "title": "Vicini di casa: lamentele cortesi",
+      "intro": "In inglese una lamentela diretta suona aggressiva. Impari a dire le cose con garbo, a rispondere senza offendersi e a mettersi d'accordo.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Lamentarsi con garbo",
+          "body": "- **Sorry to bother you, but...** = Scusa il disturbo, ma...\n- **Could I have a quick word?** = Posso parlarti un momento?\n- **I don't want to make a fuss, but...** = Non voglio fare storie, ma...\n- **Would you mind turning the music down?** (mind + -ing)\n- **I was wondering if you could...** = Mi chiedevo se potresti...\n- **It's just that...** = È solo che...\n\nDa evitare: «You must stop the noise!» (ordine, scortese) e «I want that you...» (-> I'd like you to...).",
+          "ex": [
+            [
+              "Would you mind keeping the noise down after eleven?",
+              "Ti dispiacerebbe fare meno rumore dopo le undici?"
+            ],
+            [
+              "I was wondering if you could move your car.",
+              "Mi chiedevo se potresti spostare la macchina."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Rispondere e trovare un accordo",
+          "body": "Se sei tu a ricevere la lamentela:\n- **I'm so sorry, I had no idea.** = Mi dispiace, non ne avevo idea.\n- **I'll make sure it doesn't happen again.**\n- **Thanks for letting me know.** = Grazie di avermelo detto.\n\nPer accordarsi:\n- **How about...?** / **Shall we try...?**\n- **That sounds fair.** = Mi sembra giusto.\n- **Let's see how it goes.** = Vediamo come va.\n- **Do you want me to...?** = Vuoi che io...?\n\nPer chiedere un favore: **Could you do me a favour?** / **Would you mind looking after my plants?**",
+          "ex": [
+            [
+              "Thanks for letting me know. I'll keep it down.",
+              "Grazie di avermelo detto. Farò meno rumore."
+            ],
+            [
+              "Do you want me to bring in your post?",
+              "Vuoi che ritiri la tua posta?"
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Il rumore della festa",
+          "it": "Scegli la battuta più naturale per te (Tu).",
+          "lines": [
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hi, sorry to bother you, but could I have a quick word?",
+                  "Hi, I must to talk with you about your music.",
+                  "Hello, you make too much noise, you must stop."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Neighbour",
+              "Of course. What's the matter?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "It's about the music last night. Would you mind turning it down after eleven?",
+                  "It's about the music last night. I want that you turn down it after eleven.",
+                  "It's about the music last night. Would you mind to turn down it after eleven?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Neighbour",
+              "Oh, I'm so sorry. We had friends over. I'll make sure it doesn't happen again."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thanks, I really appreciate it.",
+                  "Thanks, I am really agree.",
+                  "Thanks, it's very pleasant for me."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Un favore",
+          "it": "Il tuo vicino ti chiede aiuto. Scegli le risposte giuste.",
+          "lines": [
+            [
+              "Neighbour",
+              "Hi! I wonder if you could do me a favour. Could you look after my plants while I'm away next week?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Sure, no problem. How often should I water them?",
+                  "Sure. How much times I have to water them?",
+                  "Sure, no problem. How often I should water them?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Neighbour",
+              "Twice a week is fine. Here's a spare key."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thanks. Do you want me to bring in your post as well?",
+                  "Thanks. Do you want that I bring your post too?",
+                  "Thanks. Want you that I take the post inside?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Neighbour",
+              "That would be great. I'll bring you something back from Spain."
+            ]
+          ]
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "I don't want to make a fuss, but...",
+              "Non voglio fare storie, ma..."
+            ],
+            [
+              "Would you mind keeping it down?",
+              "Ti dispiacerebbe abbassare il volume?"
+            ],
+            [
+              "Thanks for letting me know.",
+              "Grazie di avermelo detto."
+            ],
+            [
+              "That sounds fair.",
+              "Mi sembra giusto."
+            ],
+            [
+              "Let's see how it goes.",
+              "Vediamo come va."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Ti dispiacerebbe spostare la macchina?",
+          "en": "Would you mind moving your car",
+          "extra": [
+            "to move",
+            "do"
+          ],
+          "why": "Would you mind + -ing."
+        },
+        {
+          "t": "speak",
+          "en": "I'm so sorry, I had no idea.",
+          "it": "Mi dispiace tanto, non ne avevo idea."
+        },
+        {
+          "t": "speak",
+          "en": "Would you mind turning the music down?",
+          "it": "Ti dispiacerebbe abbassare la musica?"
+        },
+        {
+          "t": "speak",
+          "en": "Let's see how it goes.",
+          "it": "Vediamo come va."
+        },
+        {
+          "t": "speakTask",
+          "q": "Your neighbour's dog barks every morning. Talk to your neighbour politely.",
+          "it": "Sei alla porta del vicino: introduci il problema con garbo, spiega perché ti disturba e proponi una soluzione (almeno 4 frasi).",
+          "hints": [
+            "Sorry to bother you, but...",
+            "It's just that...",
+            "Would you mind...?",
+            "How about...?"
+          ],
+          "min": 30,
+          "model": "Hi, sorry to bother you, but could I have a quick word? It's about your dog. I don't want to make a fuss, but he barks every morning and I work from home. Would you mind leaving the radio on for him? Or how about trying a different time for his walk?"
+        }
+      ]
+    },
+    {
+      "id": "b1-10-production",
+      "kind": "production",
+      "title": "Scrivere un articolo",
+      "intro": "Per il B1 Preliminary si scrive spesso un articolo per una rivista o un sito: titolo, apertura che cattura, opinione con esempi, chiusura con una domanda.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come è fatto un articolo",
+          "body": "- **Titolo** chiaro, spesso una domanda: What makes a good neighbour?\n- **Apertura** che coinvolge: Have you ever...? / Last year I...\n- **Corpo**: opinione + esempi: In my opinion... / For example... / However...\n- **Chiusura**: invito al lettore: Why not...? / What do you think?\n- Tono semi-formale: poche contrazioni, niente slang.\n- Usa varietà: phrasal verbs, forme in -ing, un paio di tempi diversi.\n\nErrore tipico: scrivere tutto in un blocco o in elenco. Un articolo ha paragrafi brevi e connettivi: however, for example, as a result, in addition.",
+          "ex": [
+            [
+              "In my opinion, a good neighbour respects your space.",
+              "Secondo me, un buon vicino rispetta i tuoi spazi."
+            ],
+            [
+              "Why not knock on their door and say hello?",
+              "Perché non bussare alla loro porta e salutare?"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Good neighbours say hello. ___ , they respect your privacy.",
+          "opts": [
+            "In addition",
+            "Although",
+            "Unless"
+          ],
+          "a": 0,
+          "why": "Si aggiunge un'idea: in addition."
+        },
+        {
+          "t": "gap",
+          "s": "I suggest ___ to your neighbours before you complain to anyone else.",
+          "opts": [
+            "talking",
+            "to talk",
+            "talk"
+          ],
+          "a": 0,
+          "why": "Suggest + -ing."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "I found out that my neighbour was growing up in Leeds.",
+          "answers": [
+            "I found out that my neighbour had grown up in Leeds",
+            "I found out that my neighbour grew up in Leeds"
+          ],
+          "why": "Si parla di un fatto passato concluso: grew up / had grown up."
+        },
+        {
+          "t": "order",
+          "it": "Perché non bussare alla loro porta?",
+          "en": "Why not knock on their door",
+          "extra": [
+            "to",
+            "knocking"
+          ],
+          "why": "Why not + verbo base."
+        },
+        {
+          "t": "write",
+          "q": "Your college magazine is asking for articles called 'What makes a good neighbour?'. Write your article.",
+          "it": "Scrivi un articolo per la rivista con titolo «What makes a good neighbour?»: apertura personale, la tua opinione con almeno un esempio, un consiglio e una domanda finale per il lettore.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho scritto un titolo e diviso il testo in paragrafi",
+            "Ho espresso la mia opinione con In my opinion o I think",
+            "Ho dato almeno un esempio (For example...)",
+            "Ho usato almeno un phrasal verb (look after, put up with, find out...)",
+            "Ho usato almeno una forma in -ing dopo un verbo o una preposizione",
+            "Ho finito con una domanda al lettore"
+          ],
+          "useful": [
+            "In my opinion,",
+            "For example,",
+            "However,",
+            "Of course,",
+            "I suggest + -ing",
+            "look after / put up with / find out",
+            "Why not...?",
+            "Do you...?"
+          ],
+          "model": "What makes a good neighbour?\n\nLast year I moved to a new street, and I soon found out that having good neighbours changes everything.\n\nIn my opinion, a good neighbour is someone who respects your space. They don't play loud music late at night, and they always say hello. However, a good neighbour also helps when you need it. For example, mine looked after my cat when I was away, and I took in her parcels.\n\nOf course, nobody is perfect. If something bothers you, I suggest talking about it politely instead of complaining to other people.\n\nDo you know your neighbours well? If not, why not knock on their door and introduce yourself?"
+        },
+        {
+          "t": "speakTask",
+          "q": "Describe your neighbours. Do you get on well with them?",
+          "it": "Parla dei tuoi vicini (o dei vicini ideali): come sono, se vi frequentate, un episodio.",
+          "hints": [
+            "My neighbours are...",
+            "We usually...",
+            "Once, ...",
+            "I wish..."
+          ],
+          "min": 40,
+          "model": "My neighbours are quite friendly. We usually say hello on the stairs, and sometimes we have a chat. Once, I locked myself out, and the woman next door let me wait in her flat. I'd like to know them better, but we're all very busy."
+        },
+        {
+          "t": "speakTask",
+          "q": "Tell a story about a misunderstanding with a friend, a colleague or a neighbour.",
+          "it": "Racconta un malinteso: che cosa è successo, come vi siete chiariti, come è finita (usa i tempi del passato e fall out / make up).",
+          "hints": [
+            "It all started when...",
+            "I thought that...",
+            "In the end, we...",
+            "We made up..."
+          ],
+          "min": 40,
+          "model": "It all started when I forgot to reply to my friend's message. She thought I was angry with her, so she stopped calling me. After two weeks, I realised what had happened and I phoned her. We talked for an hour, we both apologised, and we made up."
+        }
+      ]
+    },
+    {
+      "id": "b1-10-test",
+      "kind": "test",
+      "title": "Test dell'unità 10",
+      "intro": "Verifica finale del livello B1: phrasal verbs, -ing / to, e ripasso di present perfect, tempi del passato, condizionali, passivo, discorso indiretto e relative.",
+      "minutes": 20,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "I ___ in this flat since 2019.",
+          "opts": [
+            "have lived",
+            "lived",
+            "am living"
+          ],
+          "a": 0,
+          "why": "Situazione che continua fino a oggi con since: present perfect."
+        },
+        {
+          "t": "gap",
+          "s": "When I got to the station, the train ___ .",
+          "opts": [
+            "had already left",
+            "already left",
+            "has already left"
+          ],
+          "a": 0,
+          "why": "Prima di un altro momento del passato: past perfect."
+        },
+        {
+          "t": "gap",
+          "s": "If I ___ more money, I'd buy a bigger flat.",
+          "opts": [
+            "had",
+            "have",
+            "would have"
+          ],
+          "a": 0,
+          "why": "Second conditional: if + past simple."
+        },
+        {
+          "t": "gap",
+          "s": "This bridge ___ in 1890.",
+          "opts": [
+            "was built",
+            "built",
+            "has been built"
+          ],
+          "a": 0,
+          "why": "Passivo al passato semplice con una data precisa."
+        },
+        {
+          "t": "gap",
+          "s": "She said she ___ me the next day.",
+          "opts": [
+            "would call",
+            "will call",
+            "is calling"
+          ],
+          "a": 0,
+          "why": "Discorso indiretto: will diventa would."
+        },
+        {
+          "t": "gap",
+          "s": "The woman ___ lives upstairs is a nurse.",
+          "opts": [
+            "who",
+            "which",
+            "whose"
+          ],
+          "a": 0,
+          "why": "Per le persone, soggetto della relativa: who."
+        },
+        {
+          "t": "gap",
+          "s": "Could you ___ the lights? I'm going to bed.",
+          "opts": [
+            "turn off",
+            "turn over",
+            "turn into"
+          ],
+          "a": 0,
+          "why": "Spegnere = turn off."
+        },
+        {
+          "t": "mc",
+          "q": "Come dici «Ricordo di aver chiuso la porta a chiave»?",
+          "opts": [
+            "I remember locking the door.",
+            "I remember to lock the door.",
+            "I remember lock the door."
+          ],
+          "a": 0,
+          "why": "Un ricordo del passato: remember + -ing."
+        },
+        {
+          "t": "mc",
+          "q": "Come dici «Non dimenticare di chiamarmi»?",
+          "opts": [
+            "Don't forget to call me.",
+            "Don't forget calling me.",
+            "Don't forget call me."
+          ],
+          "a": 0,
+          "why": "Forget + to per le azioni da fare."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I can't put up with him.",
+            "I can't put up him with.",
+            "I can't put with up him."
+          ],
+          "a": 0,
+          "why": "Il phrasal verb a tre parti non si separa."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "If I would have time, I would help you.",
+          "answers": [
+            "If I had time, I would help you",
+            "If I had time, I'd help you"
+          ],
+          "why": "Nella if-clause del second conditional si usa il past simple, non would."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "He said me that he was tired.",
+          "answers": [
+            "He told me that he was tired",
+            "He said that he was tired",
+            "He told me he was tired",
+            "He said he was tired"
+          ],
+          "why": "Say non vuole il complemento di persona: told me / said that."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "I have seen her yesterday.",
+          "answers": [
+            "I saw her yesterday"
+          ],
+          "why": "Con yesterday serve il past simple."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "The film which I told you about it was great.",
+          "answers": [
+            "The film which I told you about was great",
+            "The film I told you about was great",
+            "The film that I told you about was great"
+          ],
+          "why": "Il pronome relativo sostituisce già «it»: non si ripete."
+        },
+        {
+          "t": "transform",
+          "s1": "Someone stole my bike last night.",
+          "key": "STOLEN",
+          "s2": "My bike ___ last night.",
+          "answers": [
+            "was stolen"
+          ],
+          "why": "Passivo del past simple: was + participio."
+        },
+        {
+          "t": "transform",
+          "s1": "'I will phone you tomorrow,' she said.",
+          "key": "WOULD",
+          "s2": "She said she ___ me the next day.",
+          "answers": [
+            "would phone",
+            "would call",
+            "would ring"
+          ],
+          "why": "Reported speech: will -> would."
+        },
+        {
+          "t": "transform",
+          "s1": "The last time I saw him was in 2019.",
+          "key": "SEEN",
+          "s2": "I ___ him since 2019.",
+          "answers": [
+            "haven't seen",
+            "have not seen"
+          ],
+          "why": "Since + present perfect: haven't seen."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Ho smesso di fumare tre anni fa.",
+          "answers": [
+            "I stopped smoking three years ago",
+            "I gave up smoking three years ago",
+            "I quit smoking three years ago"
+          ],
+          "why": "Smettere di = stop + -ing; con «ago» serve il past simple."
+        },
+        {
+          "t": "wordform",
+          "s": "He sent me a long ___ for missing my birthday.",
+          "root": "APOLOGISE",
+          "answers": [
+            "apology"
+          ],
+          "why": "Nome: apologise -> apology."
+        },
+        {
+          "t": "gap",
+          "s": "We had a big ___ about the parking space and haven't spoken since.",
+          "opts": [
+            "argument",
+            "topic",
+            "subject"
+          ],
+          "a": 0,
+          "why": "Argument = lite; topic e subject = argomento."
+        },
+        {
+          "t": "gap",
+          "s": "They fell out last year, but they've ___ now.",
+          "opts": [
+            "made up",
+            "made out",
+            "put up"
+          ],
+          "a": 0,
+          "why": "Make up = fare pace."
+        },
+        {
+          "t": "order",
+          "it": "Sono stati invitati alla festa.",
+          "en": "They were invited to the party",
+          "extra": [
+            "invited",
+            "are"
+          ],
+          "why": "Passivo: be + participio."
+        },
+        {
+          "t": "cloze",
+          "title": "Completa il testo",
+          "mode": "mc",
+          "text": "Hi Lisa,\n\nI {1} in this street for three months now, and I'm starting to feel at home. Last week my neighbour asked me {2} her cat while she was on holiday. I said yes, but I {3} how to open the special tin, so I had to phone her. If she {4} me again, I'll ask for instructions first. Pat, {5} husband is a chef, has promised to cook for me.\n\nSpeak soon,\nVera",
+          "gaps": [
+            {
+              "opts": [
+                "have lived",
+                "lived",
+                "am living",
+                "live"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "to look after",
+                "looking after",
+                "look after",
+                "to looking after"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "didn't know",
+                "hadn't known",
+                "don't know",
+                "wasn't knowing"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "asks",
+                "will ask",
+                "asked",
+                "would ask"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "whose",
+                "who",
+                "which",
+                "that"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A note about the bins",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            [
+              "Kate",
+              "Hi Mr Brown, it's Kate from number twelve. I'm calling about the bins. The council collects them on Thursdays now, not Fridays, so please put them out on Wednesday night. Also, I'd be grateful if you could move your car a little to the left, because the van can't get past. Thanks very much."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "When should the bins go out?",
+              "opts": [
+                "On Wednesday night",
+                "On Thursday evening",
+                "On Friday morning"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What changed?",
+              "opts": [
+                "The collection day",
+                "The council's address",
+                "The size of the bins"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does Kate ask Mr Brown to do?",
+              "opts": [
+                "Move his car",
+                "Buy a new bin",
+                "Call the council"
+              ],
+              "a": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

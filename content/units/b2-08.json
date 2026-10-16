@@ -1,0 +1,1514 @@
+{
+ "id": "b2-08",
+ "level": "B2",
+ "position": 8,
+ "title": "Ambiente e dibattito",
+ "sub": "Inversione ed enfasi - discutere di temi globali e scrivere un saggio d'opinione",
+ "grammar": "Inversione ed enfasi: cleft sentences, not only, hardly, no sooner, so/such",
+ "topic": "Ambiente e temi globali",
+ "situation": "Dibattito: essere d'accordo e in disaccordo con cortesia",
+ "lessons": [
+  {
+   "id": "b2-08-grammar",
+   "kind": "grammar",
+   "title": "Not only... but also: inversione ed enfasi",
+   "intro": "In inglese si dà enfasi spostando le parole: con le frasi scisse (It was... that) e con l'inversione dopo avverbi negativi (Never have I..., Not only did she...). Sono strutture tipiche di saggi, discorsi e articoli, e compaiono spesso nel B2 First.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Cleft sentences: mettere in risalto un elemento",
+     "body": "Le frasi scisse isolano ciò che vuoi sottolineare. Le forme principali:\n- **It is / was + elemento + that / who**: It was the drought **that** ruined the harvest. (non la grandine)\n- **What + soggetto + verbo + is / was**: **What** worries me **is** the lack of water.\n- **All I / The only thing I + verbo + is**: **All** we need **is** more time.\n- **The reason why... is that**: The reason why prices rose **is that** supplies were short.\n\nPer le persone si usa who, per le cose that. Dopo It is / was **non** si usa when o where per tempo e luogo: **It was in 2015 that** the law changed (non «when»).\n**Errore tipico degli italiani**: ripetere il pronome («What I enjoyed it was the food») o dimenticare is / was a metà frase.",
+     "ex": [
+      [
+       "It was the lack of rain that caused the crop failure.",
+       "Fu la mancanza di pioggia a causare il fallimento del raccolto."
+      ],
+      [
+       "What worries me is the speed of the change.",
+       "Quello che mi preoccupa è la velocità del cambiamento."
+      ],
+      [
+       "All I want is a clean river to swim in.",
+       "Tutto quello che voglio è un fiume pulito dove nuotare."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Inversione dopo avverbi negativi",
+     "body": "Quando una frase comincia con un avverbio negativo o restrittivo, l'ausiliare passa **prima del soggetto**, come in una domanda. Se non c'è ausiliare si usa do / does / did:\n- **Never / Rarely / Seldom / Little**: Never **have I seen** such pollution. / Rarely **do** people **walk** here.\n- **Not only... (but also)**: Not only **did the factory pollute** the river, but it also...\n- **Hardly / Scarcely... when** e **No sooner... than**: Hardly **had we left** when it began to rain. / No sooner **had we left than** it began to rain.\n- **Under no circumstances / On no account / At no time**: Under no circumstances **should you** leave the tap running.\n- **Only then / Only after / Only when / Not until**: Only then **did I realise** how serious it was.\n\nSi usa nello scritto formale e nei discorsi. **Errore tipico degli italiani**: mantenere l'ordine normale («Not only the company ignored...») o dimenticare did («Rarely people walk here»). Attenzione: solo la parte con l'avverbio si inverte, il resto della frase resta normale.",
+     "table": [
+      [
+       "Espressione",
+       "Inversione",
+       "Frase"
+      ],
+      [
+       "Never / Rarely",
+       "have / do + soggetto",
+       "Rarely do we get such clear skies."
+      ],
+      [
+       "Not only",
+       "did / has + soggetto",
+       "Not only did she win, but..."
+      ],
+      [
+       "Hardly ... when",
+       "had + soggetto",
+       "Hardly had I sat down when..."
+      ],
+      [
+       "No sooner ... than",
+       "had + soggetto",
+       "No sooner had I sat down than..."
+      ],
+      [
+       "Only then / Not until",
+       "did + soggetto",
+       "Not until May did the rain return."
+      ]
+     ],
+     "ex": [
+      [
+       "Never have I seen such a polluted beach.",
+       "Non ho mai visto una spiaggia così inquinata."
+      ],
+      [
+       "Not only did the factory pollute the river, but it also destroyed the wildlife.",
+       "La fabbrica non solo ha inquinato il fiume, ma ha anche distrutto la fauna."
+      ],
+      [
+       "No sooner had we arrived than the storm began.",
+       "Eravamo appena arrivati quando iniziò la tempesta."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "So e such con inversione",
+     "body": "**So + aggettivo** e **such + (a) + nome** sottolineano l'intensità e introducono la conseguenza con **that**. In stile formale la frase può cominciare con so / such e l'inversione:\n- **So + aggettivo + be + soggetto + that**: **So severe was** the drought **that** farmers lost everything.\n- **Such + be + soggetto + that**: **Such was** the heat **that** schools closed.\n- Forma normale: The drought was **so** severe **that**... / It was **such a** severe drought **that**...\n\nRicorda: so + aggettivo senza articolo, such a + nome. **Errore tipico degli italiani**: «such severe was the drought» o «so a severe drought».",
+     "ex": [
+      [
+       "So severe was the drought that farmers lost their crops.",
+       "La siccità fu così grave che gli agricoltori persero i raccolti."
+      ],
+      [
+       "Such was the heat that nobody went out.",
+       "Il caldo era tale che nessuno usciva."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Altre inversioni e il do enfatico",
+     "body": "Altre strutture con inversione:\n- **Condizionali senza if** (registro formale): **Should you need** help, call me. / **Were I** you, I'd act now. / **Had I known**, I would have helped.\n- **Neither / Nor / So + ausiliare**: She doesn't recycle, and **neither do I**. / **So have we.**\n- **Little did + soggetto**: **Little did they know** that the factory was closing.\n\nPer l'enfasi nel parlato si può usare anche **do / does / did** prima del verbo base: I **do** think we should act. / She **did** warn them. Si pronuncia con forza e serve a contraddire o ribadire.\nAttenzione: Not only senza inversione è corretto se non è in apertura di frase: The plan is not only expensive but also risky.",
+     "ex": [
+      [
+       "Should you need any help, please call me.",
+       "Se dovesse aver bisogno di aiuto, mi chiami."
+      ],
+      [
+       "Little did she know that her flight had been cancelled.",
+       "Non sapeva affatto che il suo volo era stato cancellato."
+      ],
+      [
+       "I do think we should act now.",
+       "Io penso proprio che dovremmo agire adesso."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "It was the lack of rain ___ caused the crop failure.",
+     "opts": [
+      "that",
+      "what",
+      "when"
+     ],
+     "a": 0,
+     "why": "Nella frase scissa con una cosa come soggetto si usa that (o which); what e when non sono possibili."
+    },
+    {
+     "t": "gap",
+     "s": "___ I need is a long holiday.",
+     "opts": [
+      "What",
+      "That",
+      "It"
+     ],
+     "a": 0,
+     "why": "What I need is... è la frase scissa con what: «Quello di cui ho bisogno è...»."
+    },
+    {
+     "t": "gap",
+     "s": "Not only ___ the river, but it also killed thousands of fish.",
+     "opts": [
+      "did the factory pollute",
+      "the factory polluted",
+      "the factory did pollute"
+     ],
+     "a": 0,
+     "why": "Dopo Not only all'inizio serve l'inversione con did e il verbo alla forma base."
+    },
+    {
+     "t": "gap",
+     "s": "Hardly had we sat down ___ the lights went out.",
+     "opts": [
+      "when",
+      "than",
+      "that"
+     ],
+     "a": 0,
+     "why": "Hardly... when. No sooner... than è la coppia con than."
+    },
+    {
+     "t": "gap",
+     "s": "She was ___ a good speaker that everybody listened in silence.",
+     "opts": [
+      "such",
+      "so",
+      "very"
+     ],
+     "a": 0,
+     "why": "Con a + nome si usa such; so vuole l'aggettivo da solo (so good a speaker è molto formale)."
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Solo allora capii quanto fosse grave»?",
+     "opts": [
+      "Only then did I realise how serious it was.",
+      "Only then I realised how serious it was.",
+      "Only then I did realise how serious it was."
+     ],
+     "a": 0,
+     "why": "Dopo Only then l'ausiliare precede il soggetto: did I realise."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "Such was the heat that nobody went out.",
+      "So was the heat that nobody went out.",
+      "Such the heat was that nobody went out."
+     ],
+     "a": 0,
+     "why": "Such + be + soggetto + that: l'inversione è obbligatoria con such all'inizio."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "No sooner had the meeting started ___ the fire alarm went off.",
+     "answers": [
+      "than"
+     ],
+     "why": "No sooner si accompagna sempre a than."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA o PIÙ parole",
+     "s": "Under no circumstances ___ the tap running overnight.",
+     "answers": [
+      "should you leave",
+      "must you leave",
+      "can you leave",
+      "may you leave",
+      "are you to leave"
+     ],
+     "why": "Con Under no circumstances serve l'inversione: ausiliare + soggetto + verbo base."
+    },
+    {
+     "t": "transform",
+     "s1": "The factory polluted the river and also destroyed local wildlife.",
+     "key": "ONLY",
+     "s2": "Not ___ the river, but it also destroyed local wildlife.",
+     "answers": [
+      "only did the factory pollute"
+     ],
+     "why": "Not only + did + soggetto + verbo base."
+    },
+    {
+     "t": "transform",
+     "s1": "I had never seen such a huge landfill.",
+     "key": "NEVER",
+     "s2": "___ such a huge landfill.",
+     "answers": [
+      "Never had I seen"
+     ],
+     "why": "Never in apertura vuole l'inversione: had + soggetto + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "The lack of investment caused the problem.",
+     "key": "WAS",
+     "s2": "It ___ investment that caused the problem.",
+     "answers": [
+      "was the lack of",
+      "was lack of",
+      "was a lack of"
+     ],
+     "why": "Frase scissa: It was + elemento + that."
+    },
+    {
+     "t": "transform",
+     "s1": "As soon as he arrived, the rain stopped.",
+     "key": "SOONER",
+     "s2": "No ___ arrived than the rain stopped.",
+     "answers": [
+      "sooner had he"
+     ],
+     "why": "No sooner + had + soggetto + participio... than."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "Not only the company ignored the warnings, but it also lied about it.",
+     "answers": [
+      "Not only did the company ignore the warnings, but it also lied about it",
+      "Not only did the company ignore the warnings but it also lied about it"
+     ],
+     "why": "Dopo Not only serve l'inversione con did e il verbo alla forma base."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "Hardly she had left the house when it started to rain.",
+     "answers": [
+      "Hardly had she left the house when it started to rain"
+     ],
+     "why": "Hardly vuole l'ausiliare had prima del soggetto."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "It was in 2015 when the treaty was signed.",
+     "answers": [
+      "It was in 2015 that the treaty was signed"
+     ],
+     "why": "Nella frase scissa, anche per il tempo si usa that."
+    },
+    {
+     "t": "order",
+     "it": "Raramente un governo ha agito così in fretta.",
+     "en": "Rarely has a government acted so quickly",
+     "extra": [
+      "have",
+      "did"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Quello che mi preoccupa è la mancanza di acqua.",
+     "en": "What worries me is the lack of water",
+     "extra": [
+      "that",
+      "which"
+     ],
+     "alts": [
+      "The lack of water is what worries me"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2-08-vocab",
+   "kind": "vocab",
+   "title": "Ambiente e temi globali",
+   "intro": "Il lessico per parlare di clima, risorse e politiche ambientali: serve in articoli, dibattiti e saggi d'opinione, e ricorre spesso nelle collocazioni del B2 First.",
+   "minutes": 20,
+   "words": [
+    {
+     "id": "b2-08-w01",
+     "en": "emissions",
+     "it": "emissioni",
+     "ipa": "ɪˈmɪʃnz",
+     "pos": "n",
+     "ex": [
+      "The city plans to cut carbon emissions by half.",
+      "La città prevede di dimezzare le emissioni di carbonio."
+     ],
+     "note": "In questo senso si usa quasi sempre al plurale."
+    },
+    {
+     "id": "b2-08-w02",
+     "en": "sustainable",
+     "it": "sostenibile",
+     "ipa": "səˈsteɪnəbl",
+     "pos": "adj",
+     "ex": [
+      "We need more sustainable ways of producing energy.",
+      "Servono modi più sostenibili di produrre energia."
+     ],
+     "note": "Il nome è sustainability."
+    },
+    {
+     "id": "b2-08-w03",
+     "en": "deforestation",
+     "it": "deforestazione",
+     "ipa": "ˌdiːˌfɒrɪˈsteɪʃn",
+     "pos": "n",
+     "ex": [
+      "Deforestation is destroying the habitat of many species.",
+      "La deforestazione sta distruggendo l'habitat di molte specie."
+     ],
+     "note": "Non numerabile."
+    },
+    {
+     "id": "b2-08-w04",
+     "en": "drought",
+     "it": "siccità",
+     "ipa": "draʊt",
+     "pos": "n",
+     "ex": [
+      "The drought lasted three years and ruined the farms.",
+      "La siccità è durata tre anni e ha rovinato le aziende agricole."
+     ],
+     "note": "Si pronuncia con il suono «au», non «o»."
+    },
+    {
+     "id": "b2-08-w05",
+     "en": "endangered",
+     "it": "in via di estinzione",
+     "ipa": "ɪnˈdeɪndʒəd",
+     "pos": "adj",
+     "ex": [
+      "The mountain gorilla is an endangered species.",
+      "Il gorilla di montagna è una specie in via di estinzione."
+     ],
+     "note": "Collocazione tipica: an endangered species."
+    },
+    {
+     "id": "b2-08-w06",
+     "en": "landfill",
+     "it": "discarica",
+     "ipa": "ˈlændfɪl",
+     "pos": "n",
+     "ex": [
+      "Most of our rubbish still ends up in landfill.",
+      "La maggior parte dei nostri rifiuti finisce ancora in discarica."
+     ],
+     "note": "Come «rubbish» in questo senso è non numerabile."
+    },
+    {
+     "id": "b2-08-w07",
+     "en": "fossil fuels",
+     "it": "combustibili fossili",
+     "ipa": "ˈfɒsl ˈfjuːəlz",
+     "pos": "phr",
+     "ex": [
+      "Many countries still depend heavily on fossil fuels.",
+      "Molti paesi dipendono ancora molto dai combustibili fossili."
+     ],
+     "note": "Di solito al plurale."
+    },
+    {
+     "id": "b2-08-w08",
+     "en": "tackle",
+     "it": "affrontare (un problema)",
+     "ipa": "ˈtækl",
+     "pos": "v",
+     "ex": [
+      "Governments must tackle climate change without delay.",
+      "I governi devono affrontare il cambiamento climatico senza ritardi."
+     ],
+     "note": "Si dice tackle a problem / an issue."
+    },
+    {
+     "id": "b2-08-w09",
+     "en": "raise awareness",
+     "it": "sensibilizzare",
+     "ipa": "ˌreɪz əˈweənəs",
+     "pos": "phr",
+     "ex": [
+      "The campaign aims to raise awareness of plastic pollution.",
+      "La campagna vuole sensibilizzare sull'inquinamento da plastica."
+     ],
+     "note": "Raise awareness of / about + nome."
+    },
+    {
+     "id": "b2-08-w10",
+     "en": "habitat",
+     "it": "habitat",
+     "ipa": "ˈhæbɪtæt",
+     "pos": "n",
+     "ex": [
+      "Wetlands are the natural habitat of many birds.",
+      "Le zone umide sono l'habitat naturale di molti uccelli."
+     ],
+     "note": "Si pronuncia con l'accento sulla prima sillaba."
+    },
+    {
+     "id": "b2-08-w11",
+     "en": "shortage",
+     "it": "carenza",
+     "ipa": "ˈʃɔːtɪdʒ",
+     "pos": "n",
+     "ex": [
+      "There is a serious shortage of drinking water in the region.",
+      "C'è una grave carenza di acqua potabile nella regione."
+     ],
+     "note": "Si dice a shortage of + nome."
+    },
+    {
+     "id": "b2-08-w12",
+     "en": "drastic",
+     "it": "drastico",
+     "ipa": "ˈdræstɪk",
+     "pos": "adj",
+     "ex": [
+      "Drastic measures are needed to protect the coast.",
+      "Servono misure drastiche per proteggere la costa."
+     ],
+     "note": "Collocazioni: drastic measures / action / change."
+    },
+    {
+     "id": "b2-08-w13",
+     "en": "ban",
+     "it": "vietare",
+     "ipa": "bæn",
+     "pos": "v",
+     "ex": [
+      "The council has banned cars from the old town.",
+      "Il comune ha vietato le auto nel centro storico."
+     ],
+     "note": "Si usa anche come nome: a ban on plastic bags."
+    },
+    {
+     "id": "b2-08-w14",
+     "en": "incentive",
+     "it": "incentivo",
+     "ipa": "ɪnˈsentɪv",
+     "pos": "n",
+     "ex": [
+      "Tax incentives encourage people to buy electric cars.",
+      "Gli incentivi fiscali spingono le persone ad acquistare auto elettriche."
+     ],
+     "note": "Si dice an incentive to do something."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "raise awareness",
+       "sensibilizzare"
+      ],
+      [
+       "fossil fuels",
+       "combustibili fossili"
+      ],
+      [
+       "endangered species",
+       "specie in via di estinzione"
+      ],
+      [
+       "tax incentive",
+       "incentivo fiscale"
+      ],
+      [
+       "drastic measures",
+       "misure drastiche"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "There has been a complete ___ on fishing in the bay since 2019.",
+     "opts": [
+      "ban",
+      "forbidding",
+      "prohibit"
+     ],
+     "a": 0,
+     "why": "Qui serve un nome: a ban on + nome."
+    },
+    {
+     "t": "gap",
+     "s": "Years of ___ have left the fields dry and the farmers desperate.",
+     "opts": [
+      "drought",
+      "shortage",
+      "emissions"
+     ],
+     "a": 0,
+     "why": "Drought = siccità: lunghi periodi senza pioggia."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "There is a serious ___ of clean water in the region.",
+     "answers": [
+      "shortage",
+      "lack",
+      "scarcity"
+     ],
+     "why": "Shortage of + nome non numerabile; lack e scarcity sono sinonimi."
+    },
+    {
+     "t": "wordform",
+     "s": "The company has made ___ a priority in everything it does.",
+     "root": "SUSTAIN",
+     "answers": [
+      "sustainability"
+     ],
+     "why": "Serve un nome dopo made: sustain -> sustainability."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «tackle» in «tackle the problem»?",
+     "opts": [
+      "affrontare",
+      "ignorare",
+      "aggravare",
+      "rimandare"
+     ],
+     "a": 0,
+     "why": "Tackle a problem = affrontarlo con decisione."
+    }
+   ]
+  },
+  {
+   "id": "b2-08-reading",
+   "kind": "reading",
+   "title": "Basta cambiare le nostre abitudini?",
+   "intro": "Un articolo d'opinione sul peso delle scelte individuali nella crisi ambientale. Troverai molte frasi scisse e inversioni usate in un testo vero: nota come danno forza all'argomentazione.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Is it up to us?",
+     "genre": "opinion column",
+     "text": "Every few months, a new headline tells us that we are running out of time. Politicians promise action, scientists repeat their warnings, and ordinary people are left wondering what, exactly, they are supposed to do. Should we cycle to work, give up meat, or simply hope that governments will sort it out?\n\nTake my neighbour, Hannah. She has not owned a car for ten years, she carries her own cup to the café, and she sorts her rubbish more carefully than anyone I know. Not only does she do all of this, but she also writes to her MP twice a year. Yet when I asked her recently whether it made any difference, she laughed. \"Honestly, I'm not sure,\" she said. \"What bothers me is that a single cargo ship can produce more pollution in a day than I will save in a lifetime.\"\n\nHannah has a point. According to one widely quoted study, a hundred companies have been responsible for more than seventy per cent of global emissions since 1988. It is these companies, rather than individual households, that decide how energy is produced and how goods are packaged. Rarely do ordinary consumers have a real choice: if the only affordable supermarket in town wraps every cucumber in plastic, there is very little a shopper can do about it.\n\nAnd yet it would be a mistake to conclude that personal habits do not matter. Such is the power of example that a single family fitting solar panels can encourage a whole street to follow. Local campaigns have persuaded councils to ban plastic bags, plant thousands of trees and open new cycle lanes. Hardly had one town introduced a charge for disposable cups when three neighbouring towns copied the idea. Change, in other words, often starts small and spreads quickly.\n\nThe most convincing argument, I think, is that individual and collective action are not rivals. It is when people care that politicians feel pressure to act, and it is only when laws change that the biggest polluters are forced to follow. Without public demand, governments have little incentive to introduce drastic measures; without government action, even the most committed citizen is fighting a losing battle.\n\nSo what should we do? Hannah's answer is characteristically practical. \"Do what you can, then vote for people who will do more,\" she says. \"And don't feel guilty about the rest.\" It is advice I find hard to improve on. Guilt, after all, has never saved a single forest, whereas habit, pressure and good legislation sometimes have. Perhaps what matters most is not whether our own efforts are perfect, but whether we are prepared to keep asking for better, from our leaders, from the businesses we buy from, and from ourselves.",
+     "qs": [
+      {
+       "q": "Why does the writer describe Hannah's daily habits?",
+       "opts": [
+        "To show that even a very committed person has doubts about her impact",
+        "To criticise people who do not recycle",
+        "To prove that cycling is the best solution",
+        "To suggest that Hannah is wealthier than most people"
+       ],
+       "a": 0,
+       "why": "Hannah fa molto, eppure «I'm not sure» che serva a qualcosa."
+      },
+      {
+       "q": "What bothers Hannah most?",
+       "opts": [
+        "Her neighbours do not recycle.",
+        "One cargo ship can pollute more than she will ever save.",
+        "Politicians do not answer her letters.",
+        "She cannot afford solar panels."
+       ],
+       "a": 1,
+       "why": "«a single cargo ship can produce more pollution in a day than I will save in a lifetime»."
+      },
+      {
+       "q": "According to the study mentioned, what share of global emissions do a hundred companies account for?",
+       "opts": [
+        "About a third",
+        "Around half",
+        "More than seventy per cent",
+        "Less than ten per cent"
+       ],
+       "a": 2,
+       "why": "«more than seventy per cent of global emissions since 1988»."
+      },
+      {
+       "q": "What does the writer say about the choices of ordinary consumers?",
+       "opts": [
+        "They are usually well informed.",
+        "They are often limited by what companies offer.",
+        "They have no effect on prices.",
+        "They change too quickly."
+       ],
+       "a": 1,
+       "why": "«Rarely do ordinary consumers have a real choice»: se il supermercato impacchetta tutto nella plastica, il cliente non può farci nulla."
+      },
+      {
+       "q": "What happened after one town introduced a charge for disposable cups?",
+       "opts": [
+        "The idea was rejected by neighbouring towns.",
+        "Local shops complained to the council.",
+        "Three nearby towns did the same.",
+        "Cup sales fell by seventy per cent."
+       ],
+       "a": 2,
+       "why": "«three neighbouring towns copied the idea»."
+      },
+      {
+       "q": "What is the writer's main point in the fifth paragraph?",
+       "opts": [
+        "Governments should act without waiting for public opinion.",
+        "Citizens and governments must both play their part.",
+        "Individual action is a waste of time.",
+        "Only the biggest polluters can solve the problem."
+       ],
+       "a": 1,
+       "why": "«individual and collective action are not rivals»."
+      },
+      {
+       "q": "What is Hannah's advice at the end?",
+       "opts": [
+        "Give up everything that harms the planet.",
+        "Stop reading the news.",
+        "Do what you can and vote for people who will do more.",
+        "Write more letters to companies."
+       ],
+       "a": 2,
+       "why": "«Do what you can, then vote for people who will do more»."
+      },
+      {
+       "q": "Guilt has never saved a single ___ .",
+       "answers": [
+        "forest"
+       ],
+       "why": "«Guilt, after all, has never saved a single forest»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «Hannah has a point» significa:",
+     "opts": [
+      "Hannah ha ragione su qualcosa",
+      "Hannah ha uno scopo preciso",
+      "Hannah è molto puntuale",
+      "Hannah cambia argomento"
+     ],
+     "a": 0,
+     "why": "Have a point = avere ragione, dire una cosa sensata."
+    },
+    {
+     "t": "mc",
+     "q": "«He is fighting a losing battle» significa che:",
+     "opts": [
+      "sta lottando senza possibilità di successo",
+      "sta perdendo la pazienza",
+      "ha già vinto in passato",
+      "non vuole lottare"
+     ],
+     "a": 0,
+     "why": "A losing battle = una battaglia persa in partenza."
+    },
+    {
+     "t": "gap",
+     "s": "Local groups persuaded the council ___ plastic bags.",
+     "opts": [
+      "to ban",
+      "ban",
+      "banning"
+     ],
+     "a": 0,
+     "why": "Persuade + oggetto + to + verbo: persuaded the council to ban."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "It is these companies ___ decide how energy is produced.",
+     "answers": [
+      "that",
+      "which"
+     ],
+     "why": "Frase scissa con soggetto cosa-aziende: that (o which) + verbo."
+    }
+   ]
+  },
+  {
+   "id": "b2-08-listening",
+   "kind": "listening",
+   "title": "Un dibattito alla radio",
+   "intro": "Un esperto e una commerciante discutono se vietare le auto in centro. Ascolta come dissentono con cortesia e come cercano un compromesso: sono le formule che userai nella lezione successiva.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Should cities ban cars?",
+     "it": "Ascolta il dibattito. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Claire",
+       "Welcome back to Talking Point. Tonight's question: should cities ban cars from their centres? With me are Dr Owen Hart, a transport planner, and Priya Nair, who runs a bakery in Bristol. Owen, let's start with you."
+      ],
+      [
+       "Owen",
+       "Thanks, Claire. Well, I'm convinced it's the right way forward. Not only do car-free centres cut emissions, but they also make streets safer. When Ghent closed its centre to traffic, air pollution fell by a quarter within two years."
+      ],
+      [
+       "Priya",
+       "I see your point, Owen, but I'm not sure it's that simple. Half of my customers drive in from the villages. Were the centre closed tomorrow, I'd lose a lot of business. What worries me is that nobody asks the shop owners first."
+      ],
+      [
+       "Owen",
+       "That's a fair concern. But the evidence from other cities suggests that shops actually do better. People who walk past a window spend more time looking than people who drive past it."
+      ],
+      [
+       "Priya",
+       "That may be true for clothes shops. I'm not convinced it applies to a bakery, where people want a quick stop. And frankly, public transport here is unreliable. Until the buses improve, a ban would simply punish people with no alternative."
+      ],
+      [
+       "Claire",
+       "Owen, is that a problem?"
+      ],
+      [
+       "Owen",
+       "Absolutely, and I'd agree with Priya on that. Nobody is suggesting a ban overnight. The plan is to start with Saturdays, and only when the new tram line opens would the restrictions become permanent. In the meantime, there would be free parking at the edge of the city and a bus every five minutes."
+      ],
+      [
+       "Priya",
+       "Well, that changes things a little. If that really happens, I'd be willing to try it. But I'd want a review after six months, and compensation for businesses that lose out."
+      ],
+      [
+       "Owen",
+       "That seems reasonable to me. Perhaps we could meet halfway: a six-month trial, then a public vote."
+      ],
+      [
+       "Claire",
+       "A trial and a vote. I think we can all agree that's a start. Priya, Owen, thank you both. After the break, we'll hear from listeners who have lived in car-free cities."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Air pollution in Ghent fell by ___ within two years.",
+       "answers": [
+        "a quarter",
+        "one quarter",
+        "25%",
+        "25 per cent",
+        "25 percent",
+        "25"
+       ]
+      },
+      {
+       "q": "What is Priya's job?",
+       "opts": [
+        "She runs a bakery.",
+        "She is a transport planner.",
+        "She works for the council.",
+        "She is a radio presenter."
+       ],
+       "a": 0,
+       "why": "«Priya Nair, who runs a bakery in Bristol»."
+      },
+      {
+       "q": "Why is Priya worried about a ban?",
+       "opts": [
+        "She would lose customers who come from the villages.",
+        "She thinks walking is dangerous.",
+        "She does not like trams.",
+        "She would have to pay more rent."
+       ],
+       "a": 0,
+       "why": "«Half of my customers drive in from the villages»."
+      },
+      {
+       "q": "What does Owen say about shops in car-free centres?",
+       "opts": [
+        "They often do better.",
+        "They have to close.",
+        "They only sell clothes.",
+        "They need free parking."
+       ],
+       "a": 0,
+       "why": "«shops actually do better»."
+      },
+      {
+       "q": "What does Priya say about public transport?",
+       "opts": [
+        "It is too expensive.",
+        "It is unreliable at the moment.",
+        "It is better than in Ghent.",
+        "It is the only solution."
+       ],
+       "a": 1,
+       "why": "«public transport here is unreliable»."
+      },
+      {
+       "q": "What is the first step of the plan Owen describes?",
+       "opts": [
+        "A ban on Saturdays only",
+        "A ban every weekday",
+        "A permanent ban from next month",
+        "Free buses for a year"
+       ],
+       "a": 0,
+       "why": "«The plan is to start with Saturdays»."
+      },
+      {
+       "q": "How does the discussion end?",
+       "opts": [
+        "Owen and Priya agree on a six-month trial followed by a vote.",
+        "Priya refuses any change.",
+        "Owen cancels the plan.",
+        "The listeners decide immediately."
+       ],
+       "a": 0,
+       "why": "«a six-month trial, then a public vote»."
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "Not only do car-free centres cut emissions, but they also make streets safer.",
+     "it": "I centri senza auto non solo riducono le emissioni, ma rendono anche le strade più sicure."
+    },
+    {
+     "t": "dictation",
+     "en": "Were the centre closed tomorrow, I'd lose a lot of business.",
+     "it": "Se il centro chiudesse domani, perderei molti affari."
+    },
+    {
+     "t": "speak",
+     "en": "I see your point, but I'm not sure it's that simple.",
+     "it": "Capisco il tuo punto di vista, ma non sono sicuro che sia così semplice."
+    }
+   ]
+  },
+  {
+   "id": "b2-08-situation",
+   "kind": "situation",
+   "title": "Il dibattito",
+   "intro": "Come si esprime accordo e disaccordo in modo cortese, come si interrompe senza offendere e come si cerca un compromesso. Utile in riunioni, esami orali e conversazioni tra colleghi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Essere d'accordo e in disaccordo",
+     "body": "Gli inglesi dissentono raramente in modo diretto. Si usano formule che riconoscono l'opinione dell'altro prima di opporsi:\n- **Accordo totale**: I couldn't agree more. / That's exactly what I think. / You've got a point there.\n- **Accordo parziale**: That's true up to a point, but... / I see what you mean, but... / I take your point; however...\n- **Disaccordo cortese**: I'm afraid I see it differently. / I'm not sure I agree. / With respect, I think that's a little unfair.\n- **Disaccordo forte**: I couldn't disagree more. / I'm sorry, but I really can't accept that.\n\n**Errori tipici degli italiani**: «I am agree» (si dice I agree), «I am not agree» (I don't agree) e il troppo diretto «No, you are wrong», che in inglese suona scortese.",
+     "ex": [
+      [
+       "I see your point, but I'm afraid I see it differently.",
+       "Capisco il tuo punto, ma temo di vederla diversamente."
+      ],
+      [
+       "That's true up to a point, but it isn't the whole story.",
+       "È vero fino a un certo punto, ma non è tutta la storia."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Intervenire, chiarire, concludere",
+     "body": "Per gestire una discussione:\n- **Inserirsi**: Could I just add something? / Sorry to interrupt, but...\n- **Non farsi interrompere**: Let me finish my point, if I may.\n- **Chiedere chiarimenti**: What exactly do you mean by...? / Could you give an example?\n- **Riformulare**: Let me put it another way. / What I'm trying to say is...\n- **Cercare un compromesso**: Perhaps we could meet halfway. / Could we agree on...?\n- **Chiudere**: To sum up, we agree on... but not on...\n\nLe frasi scisse aiutano a dare rilievo: **What concerns me is...** / **The real issue is that...**",
+     "ex": [
+      [
+       "Could I just add something to that?",
+       "Posso aggiungere qualcosa a quanto detto?"
+      ],
+      [
+       "What concerns me is the cost.",
+       "Quello che mi preoccupa è il costo."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "A student meeting",
+     "it": "Scegli la battuta più adatta a un dibattito cortese.",
+     "lines": [
+      [
+       "Chair",
+       "So, the proposal is to ban bottled water from the campus shop. Who would like to start?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I think it's a good idea, because plastic waste is becoming a real problem.",
+         "It's a stupid idea, nobody wants this.",
+         "I am agree, the plastic is bad."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Dan",
+       "I see what you mean, but students will simply buy drinks off campus."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That's true up to a point, but we could install more free water fountains.",
+         "No, you are wrong, this is not true.",
+         "Yes, but you don't understand nothing."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Dan",
+       "Fountains cost money, though. Who is going to pay for them?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Fair point. Perhaps the university could use the money it saves on plastic cups.",
+         "I don't know, it's not my problem.",
+         "You always find problems, Dan."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "Si riconosce il punto dell'altro (I see what you mean, fair point) e poi si propone una soluzione, senza attaccare la persona."
+    },
+    {
+     "t": "dialog",
+     "title": "Over lunch",
+     "it": "Scegli la risposta più naturale.",
+     "lines": [
+      [
+       "Marta",
+       "Honestly, I think congestion charges are unfair on people who live outside the city."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I take your point, but the money could be used to improve buses and trains.",
+         "I disagree totally, you only say rubbish.",
+         "I'm not agree, charges are fine."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Marta",
+       "Possibly, but the buses are terrible at the moment."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That's a fair comment. Could I just add that the charge would only start once the service improves?",
+         "Then you must walk, it's simple.",
+         "The buses are not terrible. End of the discussion."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Marta",
+       "Well, if they promised that, I might change my mind."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Great, so we are closer than we thought.",
+         "So you were wrong from the start.",
+         "Good, I always win these discussions."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "I couldn't agree more.",
+       "Sono pienamente d'accordo."
+      ],
+      [
+       "I see your point, but...",
+       "Capisco quello che dici, ma..."
+      ],
+      [
+       "Sorry to interrupt, but...",
+       "Scusa se ti interrompo, ma..."
+      ],
+      [
+       "Could I just add something?",
+       "Posso aggiungere una cosa?"
+      ],
+      [
+       "Let me put it another way.",
+       "Lo dico in un altro modo."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Sono d'accordo con te fino a un certo punto, ma non sono convinto.",
+     "en": "I agree with you up to a point but I am not convinced",
+     "extra": [
+      "since",
+      "for"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I couldn't agree more, but we need a clear plan.",
+     "it": "Sono pienamente d'accordo, ma ci serve un piano chiaro."
+    },
+    {
+     "t": "speak",
+     "en": "Could I just add something to that?",
+     "it": "Posso aggiungere qualcosa a questo?"
+    },
+    {
+     "t": "speak",
+     "en": "That's true up to a point, but it isn't the whole story.",
+     "it": "È vero fino a un certo punto, ma non è tutta la storia."
+    },
+    {
+     "t": "speakTask",
+     "q": "Your town council wants to close the city centre to cars. Take part in a discussion: give your opinion, then respond politely to a point you disagree with.",
+     "it": "Dai la tua opinione sulla chiusura del centro alle auto, poi rispondi con cortesia a un'obiezione con cui non sei d'accordo (almeno 5 frasi).",
+     "hints": [
+      "In my opinion...",
+      "I see your point, but...",
+      "What concerns me is...",
+      "Perhaps we could meet halfway."
+     ],
+     "min": 50,
+     "model": "In my opinion, closing the centre to cars is a good idea, because the air is terrible and the streets are dangerous for children. Someone might say that shops will lose customers. I see your point, but in many cities the opposite has happened. What concerns me is that public transport must be reliable first, otherwise people will be angry. Perhaps we could meet halfway and try a closure on weekends for six months."
+    }
+   ]
+  },
+  {
+   "id": "b2-08-production",
+   "kind": "production",
+   "title": "Il saggio d'opinione",
+   "intro": "Scriverai un saggio in cui esprimi e difendi la tua opinione, con struttura chiara, connettivi e almeno una frase enfatica. Poi due attività di parlato.",
+   "minutes": 30,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Il saggio d'opinione",
+     "body": "Un saggio B2 First ha un registro neutro-formale e quattro parti:\n- **Introduzione**: presenta il tema e la tua posizione (In my opinion... / It is often claimed that...).\n- **Primo argomento**: con esempio o dato (It is certainly the case that... / For instance...).\n- **Secondo argomento o controargomento**: Admittedly... / However, it would be wrong to... / On the other hand...\n- **Conclusione**: In conclusion, I believe... / To sum up, ...\n\nUsa **connettivi** (moreover, in addition, nevertheless, as a result) e **enfasi** con misura: una o due strutture come Not only... but also, Rarely do..., What matters most is... Niente contrazioni, niente slang, nessuna domanda diretta al lettore che non sia retorica.\nI criteri sono contenuto, comunicazione, organizzazione e lingua: tutti i punti della traccia devono essere trattati.",
+     "ex": [
+      [
+       "In my opinion, this view is only partly true.",
+       "A mio parere, questa idea è vera solo in parte."
+      ],
+      [
+       "What matters most is public pressure.",
+       "Quello che conta di più è la pressione dell'opinione pubblica."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "It is true that governments have more power. ___, individuals still play a part.",
+     "opts": [
+      "However",
+      "Moreover",
+      "Therefore"
+     ],
+     "a": 0,
+     "why": "Serve un connettivo di contrasto: However. Moreover aggiunge, Therefore indica conseguenza."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "To my ___, banning plastic bags is the only sensible solution.",
+     "answers": [
+      "mind"
+     ],
+     "why": "To my mind = a mio parere, formula tipica del saggio."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "According to me, cars should be banned from the city centre.",
+     "answers": [
+      "In my opinion, cars should be banned from the city centre",
+      "In my opinion cars should be banned from the city centre",
+      "To my mind, cars should be banned from the city centre",
+      "To my mind cars should be banned from the city centre",
+      "I believe cars should be banned from the city centre",
+      "I think cars should be banned from the city centre"
+     ],
+     "why": "According to me non si usa per esprimere la propria opinione: In my opinion / To my mind."
+    },
+    {
+     "t": "write",
+     "q": "Some people say that individuals can do little to protect the environment and that governments and companies must take the lead. Write an essay giving your opinion.",
+     "it": "Scrivi un saggio d'opinione (140-190 parole): presenta il tema, dai due argomenti con esempi, riconosci un punto di vista opposto e concludi. Usa almeno una frase scissa e una inversione.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho espresso chiaramente la mia opinione e sostenuto con esempi",
+      "Comunicazione: registro neutro-formale, nessuna contrazione",
+      "Organizzazione: introduzione, argomenti, controargomento, conclusione, con connettivi",
+      "Lingua: ho usato almeno una frase scissa e una inversione (Not only..., Rarely..., Never...)",
+      "Ho rispettato il numero di parole (140-190)"
+     ],
+     "useful": [
+      "It is often claimed that...",
+      "In my opinion, ...",
+      "Moreover, ...",
+      "Admittedly, ...",
+      "Not only..., but also...",
+      "What matters most is...",
+      "In conclusion, I believe that..."
+     ],
+     "model": "It is often claimed that protecting the environment is the job of governments and large companies, and that ordinary people can do very little. In my opinion, this view is only partly true.\n\nIt is certainly the case that governments have the greatest power. They can ban harmful products, tax pollution and invest in renewable energy, none of which an individual can do alone. Moreover, a handful of industries produce most of the world's emissions, so change at that level matters enormously.\n\nHowever, it would be wrong to ignore personal responsibility. Not only do small choices, such as using public transport or wasting less food, reduce our own impact, but they also send a message to politicians and businesses. Rarely do leaders act without public pressure.\n\nIn conclusion, I believe that the two kinds of action depend on each other. Governments should take the lead, but citizens must show that they are prepared to follow."
+    },
+    {
+     "t": "speakTask",
+     "q": "Do you think individuals or governments can do more to protect the environment? Give reasons.",
+     "it": "Dì chi secondo te può fare di più per l'ambiente, individui o governi, e perché (almeno 5 frasi).",
+     "hints": [
+      "In my opinion...",
+      "On the one hand...",
+      "However...",
+      "What matters most is..."
+     ],
+     "min": 50,
+     "model": "In my opinion, governments can do more, because only they can pass laws and invest in public transport and clean energy. However, individuals should not wait for them. What matters most is that people change their habits and vote for politicians who take the problem seriously. On the one hand, one person's choices seem small; on the other hand, millions of small choices make a real difference."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe an environmental problem in your area and say what could be done about it.",
+     "it": "Descrivi un problema ambientale della tua zona e dì che cosa si potrebbe fare (almeno 5 frasi).",
+     "hints": [
+      "The main problem here is...",
+      "It is caused by...",
+      "Not only..., but also...",
+      "One solution would be..."
+     ],
+     "min": 50,
+     "model": "The main problem in my area is traffic. Not only does it cause noise, but it also pollutes the air, especially in winter. It is mostly caused by people who drive alone to work. One solution would be to improve the bus service and build safe cycle lanes. The council could also offer incentives to people who share cars."
+    }
+   ]
+  },
+  {
+   "id": "b2-08-test",
+   "kind": "test",
+   "title": "Test dell'unità 8",
+   "intro": "Verifica finale: inversione, frasi scisse, lessico ambientale, lettura e ascolto. Nessun aiuto durante la prova.",
+   "minutes": 25,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "No sooner had she opened the door ___ the cat ran out.",
+     "opts": [
+      "than",
+      "when",
+      "that"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Rarely ___ such a beautiful beach.",
+     "opts": [
+      "have I seen",
+      "I have seen",
+      "did I saw"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "It was the manager ___ made the final decision.",
+     "opts": [
+      "who",
+      "what",
+      "whom"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "So ___ was the storm that the ferry service was cancelled.",
+     "opts": [
+      "violent",
+      "violently",
+      "a violent"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Completa la frase: Only after the report was published ___ the problem.",
+     "opts": [
+      "did the government admit",
+      "the government admitted",
+      "the government did admit"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The country is facing a severe ___ of fresh water.",
+     "opts": [
+      "shortage",
+      "ban",
+      "habitat",
+      "incentive"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Many animals lose their natural ___ when forests are cut down.",
+     "opts": [
+      "habitat",
+      "landfill",
+      "incentive",
+      "shortage"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "The government introduced tax ___ to encourage people to buy electric cars.",
+     "opts": [
+      "incentives",
+      "shortages",
+      "droughts",
+      "bans"
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Little ___ she know that her flight had been cancelled.",
+     "answers": [
+      "did"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Quello di cui abbiamo bisogno è più tempo.",
+     "answers": [
+      "What we need is more time",
+      "All we need is more time",
+      "The thing we need is more time",
+      "The thing that we need is more time",
+      "The only thing we need is more time",
+      "The only thing that we need is more time"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "The film was so boring that we left early.",
+     "key": "SUCH",
+     "s2": "It ___ boring film that we left early.",
+     "answers": [
+      "was such a"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "The meeting had just started when the power went off.",
+     "key": "HARDLY",
+     "s2": "___ started when the power went off.",
+     "answers": [
+      "Hardly had the meeting"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "If you need any help, just call me.",
+     "key": "SHOULD",
+     "s2": "___ any help, just call me.",
+     "answers": [
+      "Should you need"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "Seldom people recycle glass in this village.",
+     "answers": [
+      "Seldom do people recycle glass in this village"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "What I really enjoyed it was the food.",
+     "answers": [
+      "What I really enjoyed was the food"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "The ___ of the rainforest has accelerated in recent years.",
+     "root": "DESTROY",
+     "answers": [
+      "destruction"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "Scientists are worried about the ___ of several species.",
+     "root": "APPEAR",
+     "answers": [
+      "disappearance"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "A cleaner town",
+     "mode": "mc",
+     "text": "Over the past decade, the local council has made real efforts to {1} the problem of litter. A campaign to {2} awareness of recycling was launched, and a {3} on plastic bags came into force last year. Not only {4} the amount of rubbish in the streets fallen, but the number of volunteers has also doubled. It is {5} efforts like these that cities become cleaner.",
+     "gaps": [
+      {
+       "opts": [
+        "tackle",
+        "cure",
+        "mend",
+        "attend"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "raise",
+        "rise",
+        "lift",
+        "arise"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "ban",
+        "brake",
+        "blockade",
+        "closure"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "has",
+        "does",
+        "is",
+        "have"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "through",
+        "during",
+        "despite",
+        "without"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A reminder from the group",
+     "it": "Ascolta il messaggio.",
+     "lines": [
+      [
+       "Sam",
+       "Hi everyone, it's Sam from the Greenshore group. A quick reminder about Saturday's beach clean. We're meeting at ten o'clock at the car park, not at the café as last time. Please bring gloves and a bucket if you have one; we'll provide the bags. Last month we collected over two hundred kilos of rubbish, and the council has promised to send a lorry to take it away. Afterwards there'll be free soup for everyone. See you there!"
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Where will the group meet?",
+       "opts": [
+        "At the car park",
+        "At the café",
+        "At the council office",
+        "On the beach"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What should people bring?",
+       "opts": [
+        "Gloves and a bucket",
+        "Bags and soup",
+        "A lorry",
+        "Bags and a lorry"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How much rubbish was collected last month?",
+       "opts": [
+        "Over 200 kilos",
+        "About 20 kilos",
+        "Over 2,000 kilos",
+        "Exactly 100 kilos"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Mai ho visto tanta spazzatura su una spiaggia.",
+     "en": "Never have I seen so much rubbish on a beach",
+     "extra": [
+      "did",
+      "be"
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "At a meeting",
+     "lines": [
+      [
+       "Chair",
+       "Does anyone want to comment on the proposal?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I see your point, but I'm afraid I see it differently.",
+         "You are wrong, it's a stupid proposal.",
+         "I am not agree with this."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Chair",
+       "Could you explain why?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Of course. What concerns me is the cost, which seems far too high.",
+         "Because it's bad and that's all.",
+         "I explained it yesterday, listen better."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Quale formula è la più adatta per dissentire con cortesia?",
+     "opts": [
+      "I'm afraid I see it differently.",
+      "You are completely wrong.",
+      "I am not agree with you."
+     ],
+     "a": 0
+    }
+   ]
+  }
+ ]
+}

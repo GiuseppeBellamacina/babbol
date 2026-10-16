@@ -1,0 +1,1517 @@
+{
+  "id": "b1-07",
+  "level": "B1",
+  "position": 7,
+  "title": "Notizie, messaggi, telefonate",
+  "sub": "Il reported speech - lasciare e riferire un messaggio",
+  "grammar": "Reported speech: affermazioni, domande, ordini; say vs tell",
+  "topic": "Media e comunicazione",
+  "situation": "Lasciare e prendere messaggi al telefono",
+  "lessons": [
+    {
+      "id": "b1-07-grammar",
+      "kind": "grammar",
+      "title": "Riferire ciò che hanno detto",
+      "intro": "Quando racconti che cosa ha detto qualcun altro, in inglese i tempi dei verbi «fanno un passo indietro» e cambiano alcune parole (oggi, domani, qui). In più c'è la trappola di say e tell. Imparare queste regole serve a raccontare conversazioni, a prendere messaggi e a scrivere email.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Affermazioni: il passo indietro dei tempi",
+          "body": "Il **discorso diretto** riporta le parole esatte: «I'm tired,» she said. Il **discorso indiretto** le riferisce: She said (that) she **was** tired.\n\nSe il verbo che introduce (said, told) è al **passato**, il verbo del discorso diretto fa di solito un passo indietro:\n- present simple -> **past simple**\n- present continuous -> **past continuous**\n- past simple e present perfect -> **past perfect**\n- will -> **would**; can -> **could**; must -> **had to**\n\nCambiano anche **pronomi** (I -> he/she) e **espressioni di tempo e luogo**:\n- now -> **then**; today -> **that day**; tomorrow -> **the next day / the following day**; yesterday -> **the day before**; ago -> **before**; here -> **there**; this -> **that**.\n\n**That** dopo said/told si può omettere.",
+          "table": [
+            [
+              "Discorso diretto",
+              "Discorso indiretto"
+            ],
+            [
+              "«I work in Leeds.»",
+              "She said she worked in Leeds."
+            ],
+            [
+              "«I'm waiting for a call.»",
+              "He said he was waiting for a call."
+            ],
+            [
+              "«I lost my phone.» / «I've lost my phone.»",
+              "She said she had lost her phone."
+            ],
+            [
+              "«I'll call you tomorrow.»",
+              "He said he would call me the next day."
+            ],
+            [
+              "«I can't come.»",
+              "She said she couldn't come."
+            ]
+          ],
+          "ex": [
+            [
+              "She said she was working from home that day.",
+              "Ha detto che quel giorno lavorava da casa."
+            ],
+            [
+              "Tom said he had never seen the film.",
+              "Tom ha detto di non aver mai visto il film."
+            ],
+            [
+              "He said he would call me the next day.",
+              "Ha detto che mi avrebbe chiamato il giorno dopo."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Say o tell?",
+          "body": "- **tell** vuole sempre la **persona** subito dopo: He **told me** he was late. (mai «He told that...»)\n- **say** non vuole la persona: He **said** he was late. Se la vuoi, serve to: He said **to me** that...\n\nAltri usi di **tell**: tell the truth, tell a lie, tell a story, tell the time, tell someone to do something. Altri usi di **say**: say hello, say goodbye, say sorry.\n\n**Errori tipici degli italiani**:\n- «He said me that he was tired» -> He **told me** that he was tired / He **said** that he was tired.\n- «She told that she was ill» -> She **told me** / She **said** that she was ill.\n- «He said to call him» -> meglio: He **told me to** call him.",
+          "ex": [
+            [
+              "She told me she was moving to Spain.",
+              "Mi ha detto che si trasferiva in Spagna."
+            ],
+            [
+              "He said that the train was late.",
+              "Ha detto che il treno era in ritardo."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Domande e ordini riferiti",
+          "body": "**Domande**: si usa **asked** (non said) e l'ordine diventa quello di una frase affermativa: **niente inversione, niente do/does/did**, e niente punto interrogativo.\n- «Where do you live?» -> She asked me **where I lived**.\n- «What time is the meeting?» -> He asked **what time the meeting was**.\n- Le domande sì/no vogliono **if** o **whether**: «Do you like jazz?» -> She asked me **if / whether I liked** jazz.\n\n**Ordini e richieste**: **told / asked + persona + (not) to + verbo**.\n- «Close the window.» -> He **told me to close** the window.\n- «Please don't be late.» -> She **asked us not to be** late.\n\n**Errori tipici**: «She asked me where did I live» -> where **I lived**. «He told me don't touch it» -> He told me **not to touch** it.",
+          "ex": [
+            [
+              "He asked me where the station was.",
+              "Mi ha chiesto dove fosse la stazione."
+            ],
+            [
+              "She asked me whether I had already eaten.",
+              "Mi ha chiesto se avessi già mangiato."
+            ],
+            [
+              "The teacher told us not to use our phones.",
+              "L'insegnante ci ha detto di non usare i telefoni."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Quando il passo indietro non serve",
+          "body": "Non sei obbligato a cambiare il tempo se:\n- **ciò che è stato detto è ancora vero** e lo dici subito: Anna said she **lives** in Bath. (vive ancora lì)\n- **il verbo che introduce è al presente**: She **says** she **is** tired. Oppure: Tell him I'**ll** call later.\n\nI **verbi di riporto** rendono la frase più precisa di said: **admit** (ammettere), **promise**, **explain**, **suggest**, **mention** (accennare), **announce**.\n- «I'll help you.» -> He **promised to help** me.\n- «I broke the window.» -> She **admitted breaking** the window.\n\nIn caso di dubbio nei test, **fai il passo indietro**: è sempre corretto.",
+          "ex": [
+            [
+              "He promised to call me back.",
+              "Ha promesso di richiamarmi."
+            ],
+            [
+              "She mentioned that the shop was closed.",
+              "Ha accennato al fatto che il negozio fosse chiuso."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "'I lost my passport.' = Marco said he ___ his passport.",
+          "opts": [
+            "had lost",
+            "has lost",
+            "lose"
+          ],
+          "a": 0,
+          "it": "Marco ha detto di aver perso il passaporto.",
+          "why": "Il past simple del discorso diretto diventa past perfect nel riportato."
+        },
+        {
+          "t": "gap",
+          "s": "'I'll call you tomorrow.' = She said she ___ me the next day.",
+          "opts": [
+            "would call",
+            "would to call",
+            "will to call"
+          ],
+          "a": 0,
+          "why": "Will diventa would; dopo would si usa il verbo base."
+        },
+        {
+          "t": "gap",
+          "s": "'Where do you live?' = He asked me where I ___ .",
+          "opts": [
+            "lived",
+            "did live",
+            "do I live"
+          ],
+          "a": 0,
+          "why": "Nelle domande riferite il verbo si comporta come in una frase affermativa e torna indietro di un tempo."
+        },
+        {
+          "t": "gap",
+          "s": "'Do you speak French?' = She asked me ___ I spoke French.",
+          "opts": [
+            "if",
+            "that",
+            "what"
+          ],
+          "a": 0,
+          "why": "Le domande sì/no riferite si introducono con if o whether."
+        },
+        {
+          "t": "gap",
+          "s": "The doctor ___ me to rest for a week.",
+          "opts": [
+            "told",
+            "said",
+            "spoke"
+          ],
+          "a": 0,
+          "why": "Tell + persona + to + verbo. Say non si usa con la persona."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "She told me that she was busy.",
+            "She said me that she was busy.",
+            "She told that she was busy."
+          ],
+          "a": 0,
+          "why": "Tell vuole subito la persona (told me); say no (said me è sbagliato)."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "He asked me where the station was.",
+            "He asked me where was the station.",
+            "He asked me where the station was it."
+          ],
+          "a": 0,
+          "why": "Nelle domande riferite non c'è inversione: where the station was."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo",
+          "s": "'I'm working on a report.' = She said she ___ on a report.",
+          "answers": [
+            "was working"
+          ],
+          "why": "Present continuous diventa past continuous."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "He said he ___ (never / be) to London.",
+          "answers": [
+            "had never been",
+            "'d never been"
+          ],
+          "why": "Il present perfect del discorso diretto diventa past perfect."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Anna mi ha detto che sarebbe arrivata alle otto.",
+          "answers": [
+            "Anna told me she would arrive at eight",
+            "Anna told me that she would arrive at eight",
+            "Anna told me she'd arrive at eight",
+            "Anna told me that she'd arrive at eight",
+            "Anna said she would arrive at eight",
+            "Anna said that she would arrive at eight",
+            "Anna said she'd arrive at eight",
+            "Anna said that she'd arrive at eight",
+            "Anna told me she would arrive at 8",
+            "Anna said she would arrive at 8"
+          ],
+          "why": "Futuro nel passato: will diventa would. Con told serve il complemento me."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Marco mi ha chiesto se avevo già mangiato.",
+          "answers": [
+            "Marco asked me if I had already eaten",
+            "Marco asked me whether I had already eaten",
+            "Marco asked me if I had eaten already",
+            "Marco asked me whether I had eaten already",
+            "Marco asked me if I'd already eaten",
+            "Marco asked me whether I'd already eaten",
+            "Marco asked if I had already eaten",
+            "Marco asked whether I had already eaten",
+            "Marco asked if I'd already eaten",
+            "Marco asked if I had eaten already"
+          ],
+          "why": "Domanda sì/no riferita: asked + if/whether, ordine affermativo, past perfect."
+        },
+        {
+          "t": "fix",
+          "s": "He said me that he was tired.",
+          "answers": [
+            "He told me that he was tired",
+            "He told me he was tired",
+            "He said that he was tired",
+            "He said he was tired"
+          ],
+          "why": "Say non si usa con la persona: told me, oppure said senza me."
+        },
+        {
+          "t": "fix",
+          "s": "She asked me where did I live.",
+          "answers": [
+            "She asked me where I lived",
+            "She asked me where I was living"
+          ],
+          "why": "Nelle domande riferite non c'è do/did: where I lived."
+        },
+        {
+          "t": "fix",
+          "s": "The teacher told us don't use phones.",
+          "answers": [
+            "The teacher told us not to use phones",
+            "The teacher told us not to use our phones"
+          ],
+          "why": "Ordine negativo riferito: told + persona + not to + verbo."
+        },
+        {
+          "t": "transform",
+          "s1": "'I'm leaving tomorrow,' Paul said.",
+          "key": "LEAVING",
+          "s2": "Paul said he ___ the next day.",
+          "answers": [
+            "was leaving",
+            "would be leaving"
+          ],
+          "why": "Present continuous diventa past continuous; tomorrow diventa the next day."
+        },
+        {
+          "t": "transform",
+          "s1": "'Did you enjoy the film?' she asked me.",
+          "key": "IF",
+          "s2": "She asked me ___ the film.",
+          "answers": [
+            "if I had enjoyed",
+            "if I enjoyed",
+            "if I'd enjoyed"
+          ],
+          "why": "Domanda sì/no riferita: if + soggetto + verbo al passato (o past perfect)."
+        },
+        {
+          "t": "transform",
+          "s1": "'Close the window, please,' the teacher said to us.",
+          "key": "ASKED",
+          "s2": "The teacher ___ the window.",
+          "answers": [
+            "asked us to close"
+          ],
+          "why": "Richiesta riferita: asked + persona + to + verbo."
+        },
+        {
+          "t": "order",
+          "it": "Mi ha detto che era occupata.",
+          "en": "She said she was busy",
+          "extra": [
+            "is",
+            "were"
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Ci ha detto di non fare rumore.",
+          "en": "He told us not to make noise",
+          "extra": [
+            "don't",
+            "made"
+          ],
+          "alts": [
+            "He told us to not make noise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-07-vocab",
+      "kind": "vocab",
+      "title": "Media e telefono",
+      "intro": "Le parole dei mezzi di informazione e le espressioni che servono davvero al telefono: passare una chiamata, riattaccare, lasciare un messaggio. Molti phrasal verbs hanno un significato che non si indovina.",
+      "minutes": 20,
+      "words": [
+        {
+          "id": "b1-07-w01",
+          "en": "broadcast",
+          "it": "trasmettere; trasmissione",
+          "ipa": "ˈbrɔːdkɑːst",
+          "pos": "v",
+          "ex": [
+            "The match will be broadcast live on Saturday.",
+            "La partita sarà trasmessa in diretta sabato."
+          ],
+          "note": "Verbo irregolare: broadcast - broadcast - broadcast. Anche nome: a broadcast."
+        },
+        {
+          "id": "b1-07-w02",
+          "en": "journalist",
+          "it": "giornalista",
+          "ipa": "ˈdʒɜːnəlɪst",
+          "pos": "n",
+          "ex": [
+            "She works as a journalist for a local paper.",
+            "Fa la giornalista per un giornale locale."
+          ]
+        },
+        {
+          "id": "b1-07-w03",
+          "en": "advert",
+          "it": "pubblicità (singola)",
+          "ipa": "ˈædvɜːt",
+          "pos": "n",
+          "ex": [
+            "There's a funny advert for that shampoo on TV.",
+            "C'è una pubblicità divertente di quello shampoo in TV."
+          ],
+          "note": "Abbreviazione informale di advertisement (BrE); in inglese americano: ad."
+        },
+        {
+          "id": "b1-07-w04",
+          "en": "subscribe",
+          "it": "abbonarsi, iscriversi",
+          "ipa": "səbˈskraɪb",
+          "pos": "v",
+          "ex": [
+            "I subscribe to two online magazines.",
+            "Sono abbonato a due riviste online."
+          ],
+          "note": "Si usa con to: subscribe to. Nome: subscription."
+        },
+        {
+          "id": "b1-07-w05",
+          "en": "rumour",
+          "it": "voce, diceria",
+          "ipa": "ˈruːmə",
+          "pos": "n",
+          "ex": [
+            "There's a rumour that the shop is closing.",
+            "Gira voce che il negozio chiuda."
+          ],
+          "note": "Collocazione: spread a rumour. USA: rumor."
+        },
+        {
+          "id": "b1-07-w06",
+          "en": "interview",
+          "it": "intervista; colloquio di lavoro",
+          "ipa": "ˈɪntəvjuː",
+          "pos": "n",
+          "ex": [
+            "The journalist did an interview with the mayor.",
+            "La giornalista ha intervistato il sindaco."
+          ],
+          "note": "Anche verbo: to interview someone."
+        },
+        {
+          "id": "b1-07-w07",
+          "en": "voicemail",
+          "it": "segreteria telefonica",
+          "ipa": "ˈvɔɪsmeɪl",
+          "pos": "n",
+          "ex": [
+            "I got your voicemail, sorry I missed your call.",
+            "Ho sentito il tuo messaggio in segreteria, scusa se ho perso la chiamata."
+          ],
+          "note": "Collocazione: leave a voicemail."
+        },
+        {
+          "id": "b1-07-w08",
+          "en": "get through",
+          "it": "riuscire a parlare (al telefono)",
+          "ipa": "ɡet ˈθruː",
+          "pos": "pv",
+          "ex": [
+            "I tried to call the bank, but I couldn't get through.",
+            "Ho provato a chiamare la banca, ma non sono riuscito a parlare con nessuno."
+          ],
+          "note": "Get through to + persona o ufficio."
+        },
+        {
+          "id": "b1-07-w09",
+          "en": "hang up",
+          "it": "riattaccare",
+          "ipa": "ˌhæŋ ˈʌp",
+          "pos": "pv",
+          "ex": [
+            "Don't hang up, I'll just check.",
+            "Non riattaccare, controllo un attimo."
+          ],
+          "note": "Passato: hung up."
+        },
+        {
+          "id": "b1-07-w10",
+          "en": "call back",
+          "it": "richiamare",
+          "ipa": "kɔːl ˈbæk",
+          "pos": "pv",
+          "ex": [
+            "Could you ask her to call me back?",
+            "Potresti chiederle di richiamarmi?"
+          ],
+          "note": "Si può dire anche ring back (BrE)."
+        },
+        {
+          "id": "b1-07-w11",
+          "en": "put through",
+          "it": "passare una chiamata",
+          "ipa": "ˌpʊt ˈθruː",
+          "pos": "pv",
+          "ex": [
+            "One moment, I'll put you through to the manager.",
+            "Un attimo, le passo il direttore."
+          ],
+          "note": "Put someone through to someone."
+        },
+        {
+          "id": "b1-07-w12",
+          "en": "take a message",
+          "it": "prendere un messaggio",
+          "ipa": "teɪk ə ˈmesɪdʒ",
+          "pos": "phr",
+          "ex": [
+            "She's out. Can I take a message?",
+            "Non c'è. Posso prendere un messaggio?"
+          ],
+          "note": "Chi chiama lascia un messaggio (leave a message); chi risponde lo prende (take)."
+        },
+        {
+          "id": "b1-07-w13",
+          "en": "announce",
+          "it": "annunciare",
+          "ipa": "əˈnaʊns",
+          "pos": "v",
+          "ex": [
+            "The company announced a new phone yesterday.",
+            "Ieri l'azienda ha annunciato un nuovo telefono."
+          ],
+          "note": "Nome: an announcement. Non si usa con la persona: «announce me» è sbagliato."
+        },
+        {
+          "id": "b1-07-w14",
+          "en": "mention",
+          "it": "accennare, menzionare",
+          "ipa": "ˈmenʃn",
+          "pos": "v",
+          "ex": [
+            "He mentioned that he was changing jobs.",
+            "Ha accennato al fatto che sta cambiando lavoro."
+          ],
+          "note": "Mention non vuole to: «mention to me» è sbagliato; si dice mention it to me. Risposta di cortesia: Don't mention it."
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "get through to someone",
+              "riuscire a parlare con qualcuno"
+            ],
+            [
+              "hang up on someone",
+              "riattaccare in faccia a qualcuno"
+            ],
+            [
+              "put someone through",
+              "passare la chiamata a qualcuno"
+            ],
+            [
+              "leave a voicemail",
+              "lasciare un messaggio in segreteria"
+            ],
+            [
+              "spread a rumour",
+              "far girare una voce"
+            ],
+            [
+              "subscribe to a channel",
+              "iscriversi a un canale"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I tried to call him ten times, but I couldn't ___ .",
+          "opts": [
+            "get through",
+            "get over",
+            "get in"
+          ],
+          "a": 0,
+          "why": "«Get through» = riuscire a collegarsi al telefono. «Get over» è superare."
+        },
+        {
+          "t": "gap",
+          "s": "Sorry, Mr Clarke is in a meeting. Can I ___ a message?",
+          "opts": [
+            "take",
+            "make",
+            "do"
+          ],
+          "a": 0,
+          "why": "Chi risponde prende un messaggio (take a message): non si usa make o do."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «Hold on, I'll put you through»?",
+          "opts": [
+            "Aspetti, le passo la chiamata.",
+            "Aspetti, le metto un ordine.",
+            "Aspetti, la richiamo io."
+          ],
+          "a": 0,
+          "why": "«Put someone through» = passare la linea a un'altra persona."
+        },
+        {
+          "t": "wordform",
+          "s": "She works as a ___ for a national newspaper.",
+          "root": "JOURNAL",
+          "answers": [
+            "journalist"
+          ],
+          "why": "Serve la persona: journal -> journalist."
+        },
+        {
+          "t": "wordform",
+          "s": "The company made an ___ about its new phone last week.",
+          "root": "ANNOUNCE",
+          "answers": [
+            "announcement"
+          ],
+          "why": "Serve il nome: announce -> announcement."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "I'm busy now. Can I call you ___ in ten minutes?",
+          "answers": [
+            "back"
+          ],
+          "sub": "Sono occupato ora. Posso richiamarti tra dieci minuti?"
+        }
+      ]
+    },
+    {
+      "id": "b1-07-reading",
+      "kind": "reading",
+      "title": "Come ti informi?",
+      "intro": "Un giornalista ha chiesto a quattro persone come seguono le notizie. L'articolo è scritto quasi tutto in reported speech: osserva come cambiano i tempi e quali verbi di riporto usa l'autore.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "read",
+          "title": "How do you follow the news?",
+          "genre": "articolo",
+          "text": "Twenty years ago most people read a newspaper at breakfast or watched the evening news on television. Today everything has changed. Last month we stopped four people in a busy shopping street and asked them how they follow the news. Here is what they told us.\n\nMarta, a 29-year-old graphic designer, said that she didn't buy newspapers any more. She explained that she read the headlines on her phone while she was waiting for the bus. However, she admitted that she often stopped after the first paragraph and sometimes got the wrong idea about a story. She said she wanted to read more carefully, but she never had enough time.\n\nFrank, who is 67 and retired, told us that he had bought the same newspaper every morning for forty years. He said he enjoyed reading it slowly with a cup of tea, and that he would never change his habit. When we asked him whether he trusted the internet, he laughed and replied that he didn't trust anything without a journalist's name under it.\n\nPriya, a 19-year-old student, told us that she got most of her news from video clips on social media. She said they were quick, funny and easy to understand. Then she added that her friends often shared stories that turned out to be rumours, so she always checked a second source before she believed anything.\n\nFinally, Tom, a 42-year-old taxi driver, said that the radio was on in his car all day. He told us that he listened to a news bulletin every hour and to a phone-in programme in the afternoon. He added that he had learned more from the drivers who called the programme than from any website.\n\nSo what is the best way to follow the news? Perhaps there isn't one. But all four agreed on one thing: they wanted information they could trust, and they were prepared to spend a little time to find it.",
+          "qs": [
+            {
+              "q": "Why does Marta sometimes misunderstand a story?",
+              "opts": [
+                "She often stops reading after the first paragraph.",
+                "She never reads the headlines.",
+                "She reads the news in a foreign language."
+              ],
+              "a": 0,
+              "why": "«...she often stopped after the first paragraph and sometimes got the wrong idea»."
+            },
+            {
+              "q": "What does Frank do every morning?",
+              "opts": [
+                "He reads the same newspaper.",
+                "He listens to the radio.",
+                "He watches the news on television."
+              ],
+              "a": 0,
+              "why": "«...he had bought the same newspaper every morning for forty years»."
+            },
+            {
+              "q": "Frank said he might change his habit one day.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "Ha detto «he would never change his habit»."
+            },
+            {
+              "q": "Why does Priya check a second source?",
+              "opts": [
+                "Her friends sometimes share rumours.",
+                "Video clips are too long.",
+                "She doesn't trust journalists."
+              ],
+              "a": 0,
+              "why": "«...her friends often shared stories that turned out to be rumours»."
+            },
+            {
+              "q": "Priya is studying journalism.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 2,
+              "why": "Il testo dice solo che è una studentessa di 19 anni."
+            },
+            {
+              "q": "Tom listens to a news bulletin every ___ .",
+              "answers": [
+                "hour"
+              ],
+              "why": "«...he listened to a news bulletin every hour»."
+            },
+            {
+              "q": "Where did Tom learn more than from any website?",
+              "opts": [
+                "From drivers who phoned the programme",
+                "From the newspapers in his car",
+                "From his passengers"
+              ],
+              "a": 0,
+              "why": "«...he had learned more from the drivers who called the programme»."
+            },
+            {
+              "q": "What did all four people agree about?",
+              "opts": [
+                "They wanted information they could trust.",
+                "They preferred printed newspapers.",
+                "They had no time to follow the news."
+              ],
+              "a": 0,
+              "why": "«...they wanted information they could trust»."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «stories that turned out to be rumours» significa:",
+          "opts": [
+            "storie che alla fine si sono rivelate dicerie",
+            "storie che sono diventate famose",
+            "storie che sono state tolte dai giornali"
+          ],
+          "a": 0,
+          "why": "Turn out to be = rivelarsi, risultare alla fine."
+        },
+        {
+          "t": "gap",
+          "s": "When we asked him ___ he trusted the internet, he laughed.",
+          "opts": [
+            "whether",
+            "that",
+            "what"
+          ],
+          "a": 0,
+          "why": "Domanda sì/no riferita: whether (o if)."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola del testo",
+          "s": "Marta ___ that she often stopped after the first paragraph.",
+          "answers": [
+            "admitted",
+            "explained",
+            "said"
+          ],
+          "sub": "Ha ammesso: verbo di riporto."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Frank is 67 and ___ , so he has time to read slowly.",
+          "answers": [
+            "retired"
+          ],
+          "sub": "In pensione."
+        }
+      ]
+    },
+    {
+      "id": "b1-07-listening",
+      "kind": "listening",
+      "title": "Un messaggio in ufficio",
+      "intro": "Una telefonata a un ufficio: la persona che cerchi non c'è e lasci un messaggio. Ascolta con attenzione che cosa viene chiesto e che cosa è già stato fatto.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Leaving a message",
+          "it": "Ascolta la telefonata e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Ben",
+              "Good morning, Eastgate Printing, Ben speaking. How can I help?"
+            ],
+            [
+              "Laura",
+              "Hello, could I speak to Mr Clarke, please? It's Laura Evans from Bright Events."
+            ],
+            [
+              "Ben",
+              "I'm afraid he's not at his desk at the moment. He's in a meeting until twelve. Can I take a message?"
+            ],
+            [
+              "Laura",
+              "Yes, please. Could you tell him that I can't come to the meeting on Thursday? My train has been cancelled, and there isn't another one until the evening."
+            ],
+            [
+              "Ben",
+              "Sure. So, you can't come on Thursday because of the trains. Shall I ask him to call you back?"
+            ],
+            [
+              "Laura",
+              "Yes, please. And could you ask him whether we can have the meeting on Friday instead? I'm free all day."
+            ],
+            [
+              "Ben",
+              "No problem. Is the number he has still your mobile?"
+            ],
+            [
+              "Laura",
+              "Actually, no. I've changed it. It's zero seven seven double one, four five six, double eight nine."
+            ],
+            [
+              "Ben",
+              "Let me read that back. Zero seven seven double one, four five six, double eight nine. Is that right?"
+            ],
+            [
+              "Laura",
+              "That's right. Oh, and one more thing. Please tell him that I've sent the budget by email, so he doesn't need to bring a printed copy."
+            ],
+            [
+              "Ben",
+              "Of course. I'll give him your message as soon as he comes out of the meeting."
+            ],
+            [
+              "Laura",
+              "Thank you very much. Goodbye."
+            ],
+            [
+              "Ben",
+              "Goodbye, Ms Evans."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Why can't Mr Clarke come to the phone?",
+              "opts": [
+                "He is in a meeting.",
+                "He is out of the office all day.",
+                "He is on another call."
+              ],
+              "a": 0
+            },
+            {
+              "q": "Why can't Laura come on Thursday?",
+              "opts": [
+                "Her train has been cancelled.",
+                "She is ill.",
+                "She has another meeting."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does Laura want to know?",
+              "opts": [
+                "Whether they can meet on Friday",
+                "Whether the meeting is cancelled",
+                "Whether Mr Clarke has her number"
+              ],
+              "a": 0
+            },
+            {
+              "q": "How does Ben check the telephone number?",
+              "opts": [
+                "He reads it back to Laura.",
+                "He asks her to spell it.",
+                "He writes it on an email."
+              ],
+              "a": 0
+            },
+            {
+              "q": "Mr Clarke doesn't need to bring a printed budget because Laura has ___ it.",
+              "answers": [
+                "emailed",
+                "sent"
+              ]
+            },
+            {
+              "q": "When will Ben give Mr Clarke the message?",
+              "opts": [
+                "As soon as the meeting finishes",
+                "At lunchtime",
+                "Tomorrow morning"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "Could you tell him that I can't come on Thursday?",
+          "it": "Potresti dirgli che giovedì non posso venire?"
+        },
+        {
+          "t": "dictation",
+          "en": "I'll give him your message as soon as he comes out of the meeting.",
+          "it": "Gli darò il suo messaggio appena esce dalla riunione."
+        },
+        {
+          "t": "speak",
+          "en": "I'm afraid he's not at his desk at the moment.",
+          "it": "Temo che al momento non sia alla sua scrivania."
+        }
+      ]
+    },
+    {
+      "id": "b1-07-situation",
+      "kind": "situation",
+      "title": "Al telefono: messaggi",
+      "intro": "Chiamare un ufficio, chiedere di una persona, lasciare un messaggio, prenderne uno per un collega. Si usano formule precise: imparale a memoria, funzionano sempre.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Frasi per chiamare e rispondere",
+          "body": "Chi chiama:\n- **Hello, could I speak to Ms Hayes, please?** = Potrei parlare con la signora Hayes?\n- **It's Paolo Rossi from Alfa Tours.** (non «I am...») = Sono Paolo Rossi di...\n- **I'm calling about...** = Chiamo per...\n- **Could you ask her to call me back?** = Potrebbe chiederle di richiamarmi?\n- **Could you tell him that...?** = Potrebbe dirgli che...?\n- **Could I leave a message?** = Posso lasciare un messaggio?\n\nChi risponde:\n- **Good morning, Dale's Hotel, how can I help?**\n- **Who's calling, please?** = Chi parla, per favore?\n- **I'll put you through. / Hold on, please.** = Le passo la chiamata. / Attenda in linea.\n- **I'm afraid she's not available. Can I take a message?**\n- **Could you spell that, please?** = Può fare lo spelling?",
+          "ex": [
+            [
+              "Could I speak to Ms Hayes, please?",
+              "Potrei parlare con la signora Hayes?"
+            ],
+            [
+              "I'm afraid he's not available. Can I take a message?",
+              "Temo che non sia disponibile. Posso prendere un messaggio?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Riferire il messaggio e il registro",
+          "body": "Quando poi riferisci il messaggio, usi il reported speech:\n- **Laura called. She said she couldn't come on Thursday, and she asked if you could call her back.**\n- **She asked me to tell you that she'd sent the budget.**\n\nRegistro: al telefono, in contesto di lavoro, usa il **tono indiretto**:\n- troppo diretto: «Where is Mr Clarke? I need him now.» -> **I'm sorry to bother you, but is Mr Clarke available?**\n- brusco: «Tell her to call me.» -> **Could you ask her to call me back when she has a moment?**\n- troppo informale: «Yeah, it's me. Is he there?» -> **Hello, it's Sam. Is Mr Clarke there, please?**\n\n**Errore tipico degli italiani**: «I am Paolo» al telefono: si dice **It's Paolo** (o **This is Paolo**), mai «I am».",
+          "ex": [
+            [
+              "Could you ask her to call me back?",
+              "Potrebbe chiederle di richiamarmi?"
+            ],
+            [
+              "She said she'd call you later.",
+              "Ha detto che ti avrebbe chiamato più tardi."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Chiamare un hotel",
+          "it": "Scegli la risposta più adatta e cortese (Tu).",
+          "lines": [
+            [
+              "Receptionist",
+              "Good afternoon, Park Hotel. How can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good afternoon. Could I speak to Ms Hayes, please? It's Paolo Rossi.",
+                  "Hello. I am Paolo Rossi, give me Ms Hayes.",
+                  "Pronto, I want Ms Hayes."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Receptionist",
+              "I'm afraid she's in a meeting at the moment. Can I take a message?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, please. Could you ask her to call me back this afternoon? My number is 07700 900 345.",
+                  "Yes. Tell her that I call her, she knows the number.",
+                  "No, I wait here until she finishes."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Receptionist",
+              "Certainly. Could you spell your surname for me?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Of course. It's R-O-S-S-I.",
+                  "R, O, S, S, I, you must write it correctly.",
+                  "Rossi like the football player."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Receptionist",
+              "Thank you, Mr Rossi. I'll give her the message as soon as she is free."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you very much. Goodbye.",
+                  "OK. She must call me today.",
+                  "Thanks, bye bye, ciao ciao."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Al telefono in contesto professionale ci si presenta con It's... / This is..., si chiede con Could I speak to...? e si lascia un messaggio con richieste indirette (Could you ask her to...?)."
+        },
+        {
+          "t": "dialog",
+          "title": "Prendere un messaggio per un collega",
+          "lines": [
+            [
+              "Caller",
+              "Hello, is Jenny there, please?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I'm afraid she's out of the office until Thursday. Can I take a message?",
+                  "She isn't here. Call another day.",
+                  "Jenny is not in, why you want her?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Caller",
+              "Yes, please. Could you tell her that the delivery will be a day late?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Of course. The delivery will be a day late. And could I have your name, please?",
+                  "OK. Which delivery? I know nothing about it.",
+                  "Yes, I tell her, but she don't like late deliveries."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Caller",
+              "It's Mark Bell from Greenfield Foods. She can call me back on my mobile."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you, Mr Bell. I'll ask her to call you back as soon as she's in.",
+                  "I put it on the table, maybe she sees it.",
+                  "Mr Bell, mobile, OK. Goodbye."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Prendere un messaggio significa raccogliere nome, azienda, messaggio e recapito, e ripeterli per conferma. Meglio una frase completa e cortese."
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "Could I leave a message?",
+              "Posso lasciare un messaggio?"
+            ],
+            [
+              "I'll put you through.",
+              "Le passo la chiamata."
+            ],
+            [
+              "Who's calling, please?",
+              "Chi parla, per favore?"
+            ],
+            [
+              "Could you ask him to call me back?",
+              "Potrebbe chiedergli di richiamarmi?"
+            ],
+            [
+              "I'm afraid she's not available.",
+              "Temo che non sia disponibile."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Potrebbe dirle che ho chiamato?",
+          "en": "Could you tell her that I called",
+          "extra": [
+            "told",
+            "calling"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "Could I speak to Ms Hayes, please? It's Paolo Rossi.",
+          "it": "Potrei parlare con la signora Hayes? Sono Paolo Rossi."
+        },
+        {
+          "t": "speak",
+          "en": "Could you ask her to call me back this afternoon?",
+          "it": "Potrebbe chiederle di richiamarmi questo pomeriggio?"
+        },
+        {
+          "t": "speak",
+          "en": "I'm afraid he's not available. Can I take a message?",
+          "it": "Temo che non sia disponibile. Posso prendere un messaggio?"
+        },
+        {
+          "t": "speakTask",
+          "q": "You are calling a company to speak to a colleague, Mr Hall, but he is out. Leave a message.",
+          "it": "Chiama un'azienda: presentati, chiedi del signor Hall, e dato che non c'è lascia un messaggio chiaro con un recapito (almeno 6 frasi).",
+          "hints": [
+            "Hello, could I speak to...?",
+            "It's... from...",
+            "Could you tell him that...?",
+            "Could you ask him to call me back?",
+            "My number is..."
+          ],
+          "min": 50,
+          "model": "Hello, could I speak to Mr Hall, please? It's Elena Bianchi from Rossi Furniture. Oh, I see. Could I leave a message, then? Could you tell him that the sofas he ordered will arrive on Friday instead of Thursday? And could you ask him to call me back if that is a problem? My number is 07700 900 123. Thank you very much for your help."
+        }
+      ]
+    },
+    {
+      "id": "b1-07-production",
+      "kind": "production",
+      "title": "Riferire una conversazione per email",
+      "intro": "Nell'esame B1 Preliminary spesso si scrive un'email informale a un amico. Qui racconti che cosa ti ha detto un'altra persona, e per questo il reported speech è lo strumento giusto.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come riferire una conversazione in un'email",
+          "body": "Una buona email che riferisce una conversazione ha:\n1. **Contesto**: con chi hai parlato, quando, per cosa. I spoke to Mr Davies this morning.\n2. **Che cosa ha detto**: con verbi di riporto vari. He **said**, he **told me**, he **explained**, he **mentioned**, he **promised**, he **admitted**.\n3. **Che cosa hai chiesto tu**: I **asked** him whether... / I **asked** him to...\n4. **Che cosa succede ora**: Can you...? / Let me know if...\n\nUsa **connettivi**: also, however, so, because, in the end. In un'email a un amico le contrazioni sono normali.\n\nControlla: tempi indietro di un passo, pronomi cambiati, niente inversione nelle domande, **told me** (mai «said me»).",
+          "ex": [
+            [
+              "He explained that the plumber couldn't come until Wednesday.",
+              "Ha spiegato che l'idraulico non poteva venire prima di mercoledì."
+            ],
+            [
+              "I asked him whether we could change the date.",
+              "Gli ho chiesto se potevamo cambiare la data."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "She ___ that the meeting had been cancelled.",
+          "opts": [
+            "told me",
+            "said me",
+            "said to"
+          ],
+          "a": 0,
+          "why": "Tell vuole subito la persona (told me). «Said me» è un errore e «said to» non può reggere that senza un complemento."
+        },
+        {
+          "t": "fix",
+          "s": "He said that the plumber will come on Wednesday.",
+          "answers": [
+            "He said that the plumber would come on Wednesday",
+            "He said the plumber would come on Wednesday"
+          ],
+          "why": "Il verbo introduttivo è al passato: will diventa would."
+        },
+        {
+          "t": "transform",
+          "s1": "'Can you pay by Friday?' he asked me.",
+          "key": "WHETHER",
+          "s2": "He asked me ___ pay by Friday.",
+          "answers": [
+            "whether I could"
+          ],
+          "why": "Domanda sì/no riferita: whether + soggetto + could."
+        },
+        {
+          "t": "write",
+          "q": "You spoke to your landlord, Mr Davies, on the phone this morning about a broken heater. Write an email to your housemate Chiara. Tell her what Mr Davies said, what you asked him, and ask her to do something.",
+          "it": "Scrivi un'email informale alla tua coinquilina Chiara di 100-120 parole: riferisci che cosa ha detto il padrone di casa, che cosa gli hai chiesto tu, e chiedi a Chiara di fare una cosa. Usa il reported speech (almeno tre frasi).",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho iniziato con Hi Chiara e chiuso con una formula informale",
+            "Ho usato almeno tre frasi in reported speech con i tempi indietro di un passo",
+            "Ho usato told me e non said me",
+            "Ho riferito almeno una domanda senza inversione (asked him if / why...)",
+            "Ho chiesto qualcosa a Chiara alla fine"
+          ],
+          "useful": [
+            "I spoke to... this morning.",
+            "He said that...",
+            "He told me to...",
+            "I asked him whether...",
+            "Can you let me know if...?"
+          ],
+          "model": "Hi Chiara,\n\nI spoke to Mr Davies, our landlord, on the phone this morning. He said that he was very sorry about the broken heater and that a plumber would come on Wednesday. I asked him whether the plumber could come in the afternoon, because I'm at work until five, but he said that he couldn't promise anything. He told me to leave the key with our neighbour, Mrs Hall.\n\nHe also mentioned that the rent would go up by ten pounds next month. I asked him why, and he explained that the building costs had gone up.\n\nCan you let me know if you're free on Wednesday? Otherwise, I'll ask Mrs Hall.\n\nSpeak soon,\nLuca"
+        },
+        {
+          "t": "speakTask",
+          "q": "Tell a friend about a phone call or a conversation you had recently.",
+          "it": "Racconta a un amico una telefonata o una conversazione che hai avuto di recente: con chi, di che cosa avete parlato, che cosa ti ha detto (almeno 5 frasi, con il reported speech).",
+          "hints": [
+            "I spoke to... yesterday.",
+            "He said that...",
+            "She told me to...",
+            "I asked her whether..."
+          ],
+          "min": 40,
+          "model": "Yesterday I spoke to my sister on the phone. She said that she was moving to a new flat next month, and she told me that it was much bigger than the old one. I asked her whether it had a balcony, and she said it did. She asked me to help her with the move, so I promised to come on Saturday."
+        },
+        {
+          "t": "speakTask",
+          "q": "Tell me about some news you read or heard recently, as if you were talking to a friend.",
+          "it": "Riferisci una notizia che hai letto o sentito di recente, dicendo chi l'ha annunciata e che cosa ha detto (almeno 5 frasi).",
+          "hints": [
+            "I heard on the radio that...",
+            "The journalist said that...",
+            "The mayor announced that...",
+            "Apparently..."
+          ],
+          "min": 40,
+          "model": "I heard on the radio this morning that the council had announced a plan for a new cycle path in the city centre. The mayor said that work would start in May and that it would take about six months. A journalist asked him whether the shops would stay open, and he answered that they would. I think it's a good idea, although the traffic will be terrible."
+        }
+      ]
+    },
+    {
+      "id": "b1-07-test",
+      "kind": "test",
+      "title": "Test dell'unità 7",
+      "intro": "Verifica senza aiuti: reported speech, say e tell, lessico dei media e del telefono, un testo e un ascolto. Le correzioni le vedi alla fine.",
+      "minutes": 25,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "'I live in Bath.' = She told me she ___ in Bath.",
+          "opts": [
+            "lived",
+            "has lived",
+            "was lived"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "'I'm cooking dinner.' = He said he ___ dinner.",
+          "opts": [
+            "was cooking",
+            "cooked",
+            "is cooking"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "'We've finished.' = They said they ___ .",
+          "opts": [
+            "had finished",
+            "have finished",
+            "were finish"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "'I can help you.' = She said she ___ help me.",
+          "opts": [
+            "could",
+            "can to",
+            "would to"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "My boss ___ me to send the report by Friday.",
+          "opts": [
+            "told",
+            "said",
+            "spoke"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "She asked me what time the film started.",
+            "She asked me what time did the film start.",
+            "She asked me what time the film does start."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "He told us not to be late.",
+            "He said us to not be late.",
+            "He told us don't be late."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo",
+          "s": "'I'll phone you tomorrow.' = He said he ___ me the next day.",
+          "answers": [
+            "would phone",
+            "would call",
+            "would ring"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Luca mi ha detto che era molto stanco.",
+          "answers": [
+            "Luca told me he was very tired",
+            "Luca told me that he was very tired",
+            "Luca said he was very tired",
+            "Luca said that he was very tired"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Mi ha chiesto dove abitavo.",
+          "answers": [
+            "He asked me where I lived",
+            "She asked me where I lived",
+            "He asked me where I was living",
+            "She asked me where I was living",
+            "He asked where I lived",
+            "She asked where I lived"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "She said me that she was going to Rome.",
+          "answers": [
+            "She told me that she was going to Rome",
+            "She told me she was going to Rome",
+            "She said that she was going to Rome",
+            "She said she was going to Rome"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "He asked me why was I so late.",
+          "answers": [
+            "He asked me why I was so late"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "'What time does the shop open?' he asked.",
+          "key": "OPENED",
+          "s2": "He asked what time the shop ___ .",
+          "answers": [
+            "opened"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "'Please open the door,' she said to me.",
+          "key": "ASKED",
+          "s2": "She ___ the door.",
+          "answers": [
+            "asked me to open"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "The mayor made an ___ about the new bridge.",
+          "root": "ANNOUNCE",
+          "answers": [
+            "announcement"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I couldn't ___ to the bank this morning. The line was always busy.",
+          "opts": [
+            "get through",
+            "get over",
+            "get in"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Please don't ___ up. I'll find out and call you back.",
+          "opts": [
+            "hang",
+            "put",
+            "take"
+          ],
+          "a": 0
+        },
+        {
+          "t": "order",
+          "it": "Mi ha chiesto se potevo richiamarla.",
+          "en": "She asked me if I could call her back",
+          "extra": [
+            "did",
+            "told"
+          ]
+        },
+        {
+          "t": "cloze",
+          "title": "Completa il messaggio",
+          "mode": "mc",
+          "text": "Hi Sara, I spoke to Dan this morning. He {1} he was sorry about the delay. I {2} him when the parcel would arrive, and he {3} it would come on Friday. He also {4} me to call the shop if there was a problem. I {5} I would.",
+          "gaps": [
+            {
+              "opts": [
+                "said",
+                "told",
+                "spoke",
+                "asked"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "asked",
+                "said",
+                "answered",
+                "spoke"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "said",
+                "told",
+                "asked",
+                "spoke"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "told",
+                "said",
+                "asked to",
+                "spoke"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "promised",
+                "said to",
+                "told",
+                "spoke"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A voicemail",
+          "it": "Ascolta il messaggio in segreteria.",
+          "lines": [
+            [
+              "Rita",
+              "Hi Sam, it's Rita. I called the travel agency this morning. They said that our flight had been moved to eleven forty, so we don't have to leave home before nine. The woman also told me that we can take only one suitcase each. Oh, and I asked her whether we could change seats, but she said it wasn't possible. Call me back when you can. Bye."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What time is the flight now?",
+              "opts": [
+                "11.40",
+                "9.00",
+                "10.40"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What did the woman say about luggage?",
+              "opts": [
+                "Only one suitcase each is allowed.",
+                "Two suitcases each are allowed.",
+                "Suitcases must be sent before."
+              ],
+              "a": 0
+            },
+            {
+              "q": "Can Rita and Sam change seats?",
+              "opts": [
+                "No, it isn't possible.",
+                "Yes, for a small fee.",
+                "Rita doesn't say."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Al telefono",
+          "lines": [
+            [
+              "Receptionist",
+              "Good morning, Hudson's. How can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good morning. Could I speak to Mr Lee, please? It's Anna Conti.",
+                  "Good morning. I am Anna Conti, I want Mr Lee.",
+                  "Pronto, Mr Lee is there?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Receptionist",
+              "I'm afraid he's not available. Can I take a message?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, please. Could you ask him to call me back this afternoon?",
+                  "Yes. He must call me.",
+                  "No, I want to speak to him now."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1527 @@
+{
+ "id": "b2-09",
+ "level": "B2",
+ "position": 9,
+ "title": "Vivere all'estero",
+ "sub": "Be used to, get used to, verb patterns e articoli - burocrazia e email formale",
+ "grammar": "Be used to / get used to, verb patterns avanzati (-ing / to + infinito), articoli generici e zero article",
+ "topic": "Vivere all'estero, shock culturale",
+ "situation": "Burocrazia: affitto, residenza, sanità e banca all'estero",
+ "lessons": [
+  {
+   "id": "b2-09-grammar",
+   "kind": "grammar",
+   "title": "Abituarsi: used to, get used to e verb patterns",
+   "intro": "Chi vive all'estero deve abituarsi a cose nuove: per dirlo servono be used to e get used to, che non vanno confusi con used to. In più: dopo quale verbo si usa -ing e dopo quale to + infinito, e quando l'articolo non ci vuole.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Used to, be used to, get used to",
+     "body": "Tre strutture che si assomigliano ma significano cose diverse:\n- **used to + infinito**: abitudine o stato nel passato, ora finito. I **used to live** in Rome. (non vivo più lì)\n- **be used to + -ing / nome**: essere abituato. I'**m used to getting up** early. (per me è normale)\n- **get used to + -ing / nome**: abituarsi, il processo. I'm **getting used to driving** on the left.\n\nIn **be / get used to** la parola **to è una preposizione**: dopo ci vuole il gerundio o un nome, mai l'infinito. Anche **look forward to**, **object to**, **in addition to** funzionano così.\nNegativa e domanda di used to: I **didn't use to** like coffee. / **Did** you **use to** play tennis?\nPer le abitudini passate si può usare anche **would** (When I was young, we would swim every day), ma non per gli stati: «I would live in Rome» è sbagliato.\n**Errori tipici degli italiani**: «I'm used to live alone», «I used to living here», «I am used to» al posto di «I got used to» per un cambiamento.",
+     "table": [
+      [
+       "Struttura",
+       "Dopo",
+       "Significato"
+      ],
+      [
+       "used to",
+       "infinito",
+       "abitudine passata"
+      ],
+      [
+       "be used to",
+       "-ing / nome",
+       "essere abituato"
+      ],
+      [
+       "get used to",
+       "-ing / nome",
+       "abituarsi"
+      ]
+     ],
+     "ex": [
+      [
+       "I used to live in a small village.",
+       "Una volta vivevo in un piccolo villaggio."
+      ],
+      [
+       "She isn't used to the cold weather yet.",
+       "Non è ancora abituata al freddo."
+      ],
+      [
+       "It took him a month to get used to working nights.",
+       "Gli ci è voluto un mese per abituarsi a lavorare di notte."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "-ing o to + infinito?",
+     "body": "Il verbo che precede decide la forma del verbo successivo.\n- **+ -ing**: enjoy, avoid, suggest, admit, deny, risk, keep, mind, consider, can't help, it's no use, be worth, look forward to. She **avoided answering**. / I'm **looking forward to meeting** you.\n- **+ to + infinito**: decide, refuse, promise, manage, afford, hope, plan, offer, agree, seem. He **refused to pay**.\n- **+ oggetto + to + infinito**: persuade, allow, advise, remind, warn, invite, force, expect, want. They **allowed us to stay**.\n- **make / let + oggetto + infinito senza to**: She **made me wait**. / They **let us go**. Al passivo make riprende to: I **was made to wait**.\n- **suggest** non vuole mai to + infinito: She **suggested going** (o: suggested that we go).\n\n**Errori tipici degli italiani**: «I suggest to go», «He decided leaving», «She allowed me going», «I look forward to see you».",
+     "ex": [
+      [
+       "She suggested meeting at the station.",
+       "Ha suggerito di incontrarci in stazione."
+      ],
+      [
+       "The landlord refused to return the deposit.",
+       "Il padrone di casa ha rifiutato di restituire la caparra."
+      ],
+      [
+       "My boss made me work all weekend.",
+       "Il capo mi ha fatto lavorare tutto il fine settimana."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Verbi con -ing e to + infinito: cambia il significato",
+     "body": "Alcuni verbi accettano entrambe le forme, ma con **significato diverso**:\n- **remember / forget + -ing**: ricordo / dimentico un fatto passato. I remember **locking** the door. (l'ho fatto, me lo ricordo)\n- **remember / forget + to + inf.**: ricordo / dimentico di fare qualcosa. I forgot **to lock** the door. (non l'ho fatto)\n- **stop + -ing**: smettere. He stopped **smoking**. / **stop + to + inf.**: fermarsi per fare. He stopped **to smoke**.\n- **try + -ing**: provare come esperimento. Try **restarting** the computer. / **try + to + inf.**: sforzarsi. I tried **to open** it but couldn't.\n- **regret + -ing**: rimpiangere. I regret **telling** her. / **regret + to + inf.**: spiacersi di dover (formale). We regret **to inform** you...\n- **go on + -ing**: continuare. / **go on + to + inf.**: passare a fare dopo. She went on **to become** a doctor.\n\nCon i verbi di percezione: **see him leave** (l'ho visto uscire, tutto) / **see him leaving** (l'ho visto mentre usciva).",
+     "ex": [
+      [
+       "I remember meeting him at a conference.",
+       "Ricordo di averlo incontrato a una conferenza."
+      ],
+      [
+       "Remember to bring your passport.",
+       "Ricordati di portare il passaporto."
+      ],
+      [
+       "She stopped to look at the map.",
+       "Si è fermata a guardare la mappa."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Articoli: generici, specifici e zero article",
+     "body": "Per parlare **in generale** di plurali e nomi non numerabili l'inglese **non usa l'articolo**:\n- **Life** abroad can be lonely. / **Prices** are high. / **Italians** love coffee. (non «The life», «The prices»)\n\nSi usa **the** quando è chiaro quale: **The prices** in this city are high. / **The people** I met were friendly. Si usa the anche per cose uniche (the sun, the government), per i superlativi, per aggettivi che indicano gruppi (**the unemployed**) e per nazioni al plurale o con Republic/Kingdom (**the Netherlands, the UK**).\n\n**Niente articolo** in alcune espressioni fisse: go **home**, go to **work**, **at** school / **in** hospital / **in** bed (come luoghi per la loro funzione), **by** bus / **by** car, **in** summer, **for** breakfast. Con un lavoro si usa **a / an**: She's **an** engineer.\n**Errori tipici degli italiani**: «The life is expensive», «I go to the home», «She is engineer», «I have a flu» (si dice I have flu oppure I have the flu).",
+     "ex": [
+      [
+       "Life abroad is not always easy.",
+       "La vita all'estero non è sempre facile."
+      ],
+      [
+       "The prices in this city are high.",
+       "I prezzi in questa città sono alti."
+      ],
+      [
+       "She works as an engineer in the Netherlands.",
+       "Lavora come ingegnere nei Paesi Bassi."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "I'm not used to ___ on the left yet.",
+     "opts": [
+      "driving",
+      "drive",
+      "be driving"
+     ],
+     "a": 0,
+     "why": "Be used to + -ing: to qui è una preposizione."
+    },
+    {
+     "t": "gap",
+     "s": "When I was a child, we ___ spend every summer by the sea.",
+     "opts": [
+      "used to",
+      "were used to",
+      "got used to"
+     ],
+     "a": 0,
+     "why": "Abitudine passata ormai finita: used to + infinito."
+    },
+    {
+     "t": "gap",
+     "s": "They're looking forward ___ you next month.",
+     "opts": [
+      "to meeting",
+      "to meet",
+      "meeting"
+     ],
+     "a": 0,
+     "why": "Look forward to + -ing: to è una preposizione."
+    },
+    {
+     "t": "gap",
+     "s": "The council doesn't allow tenants ___ pets.",
+     "opts": [
+      "to keep",
+      "keeping",
+      "keep"
+     ],
+     "a": 0,
+     "why": "Allow + oggetto + to + infinito."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "Life abroad can be lonely.",
+      "The life abroad can be lonely.",
+      "Life in abroad can be lonely."
+     ],
+     "a": 0,
+     "why": "Il senso è generale: nessun articolo con life."
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Torno a casa a piedi»?",
+     "opts": [
+      "I walk home.",
+      "I walk to home.",
+      "I walk to the home."
+     ],
+     "a": 0,
+     "why": "Home è un avverbio di luogo: niente to e niente articolo."
+    },
+    {
+     "t": "mc",
+     "q": "«I remember locking the door» significa:",
+     "opts": [
+      "Ricordo di aver chiuso la porta.",
+      "Ricordo che devo chiudere la porta.",
+      "Mi sono ricordato di chiudere la porta."
+     ],
+     "a": 0,
+     "why": "Remember + -ing = ricordo un fatto passato. Remember + to = non dimenticare di fare."
+    },
+    {
+     "t": "type",
+     "q": "Completa con la forma giusta del verbo",
+     "s": "She suggested ___ (meet) at the station.",
+     "answers": [
+      "meeting"
+     ],
+     "why": "Suggest + -ing (oppure that + clausola), mai to + infinito."
+    },
+    {
+     "t": "type",
+     "q": "Completa con la forma giusta del verbo",
+     "s": "I'm still getting used to ___ (live) in a small flat.",
+     "answers": [
+      "living"
+     ],
+     "why": "Get used to + -ing."
+    },
+    {
+     "t": "transform",
+     "s1": "I am not accustomed to the noise of the city.",
+     "key": "USED",
+     "s2": "I am not ___ the noise of the city.",
+     "answers": [
+      "used to"
+     ],
+     "why": "Be used to + nome: essere abituato a qualcosa."
+    },
+    {
+     "t": "transform",
+     "s1": "It took me a long time to become accustomed to living alone.",
+     "key": "GOT",
+     "s2": "I eventually ___ living alone.",
+     "answers": [
+      "got used to"
+     ],
+     "why": "Get used to + -ing per il processo di abituarsi."
+    },
+    {
+     "t": "transform",
+     "s1": "She said that she would definitely meet us at six.",
+     "key": "PROMISED",
+     "s2": "She ___ us at six.",
+     "answers": [
+      "promised to meet",
+      "promised she would meet",
+      "promised that she would meet",
+      "promised she'd meet"
+     ],
+     "why": "Promise + to + infinito."
+    },
+    {
+     "t": "transform",
+     "s1": "My boss made me work all weekend.",
+     "key": "MADE",
+     "s2": "I ___ work all weekend.",
+     "answers": [
+      "was made to"
+     ],
+     "why": "Al passivo make vuole to + infinito."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I'm not used to drive on the left.",
+     "answers": [
+      "I'm not used to driving on the left",
+      "I am not used to driving on the left"
+     ],
+     "why": "Dopo be used to serve il gerundio."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The council has decided allowing tenants to keep pets.",
+     "answers": [
+      "The council has decided to allow tenants to keep pets"
+     ],
+     "why": "Decide + to + infinito."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The unemployment is rising in many European countries.",
+     "answers": [
+      "Unemployment is rising in many European countries"
+     ],
+     "why": "Nome non numerabile in senso generale: niente articolo."
+    },
+    {
+     "t": "order",
+     "it": "Non vedo l'ora di vivere all'estero.",
+     "en": "I am looking forward to living abroad",
+     "extra": [
+      "live",
+      "for"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2-09-vocab",
+   "kind": "vocab",
+   "title": "Vivere all'estero",
+   "intro": "Lessico per chi si trasferisce: shock culturale, affitto e burocrazia. Sono le parole che servono per leggere un contratto, riempire un modulo e raccontare la tua esperienza.",
+   "minutes": 20,
+   "words": [
+    {
+     "id": "b2-09-w01",
+     "en": "culture shock",
+     "it": "shock culturale",
+     "ipa": "ˈkʌltʃə ʃɒk",
+     "pos": "phr",
+     "ex": [
+      "She suffered from culture shock during her first month in Tokyo.",
+      "Ha sofferto di shock culturale durante il primo mese a Tokyo."
+     ],
+     "note": "Non numerabile: culture shock, mai «a culture shock»."
+    },
+    {
+     "id": "b2-09-w02",
+     "en": "homesick",
+     "it": "nostalgico di casa",
+     "ipa": "ˈhəʊmsɪk",
+     "pos": "adj",
+     "ex": [
+      "He felt homesick during his first winter abroad.",
+      "Si sentiva nostalgico di casa durante il suo primo inverno all'estero."
+     ],
+     "note": "Si dice be / feel homesick."
+    },
+    {
+     "id": "b2-09-w03",
+     "en": "settle in",
+     "it": "ambientarsi",
+     "ipa": "ˌsetl ˈɪn",
+     "pos": "pv",
+     "ex": [
+      "It took the children a few weeks to settle in at their new school.",
+      "I bambini hanno impiegato qualche settimana ad ambientarsi nella nuova scuola."
+     ],
+     "note": "Anche settle into + luogo."
+    },
+    {
+     "id": "b2-09-w04",
+     "en": "integrate",
+     "it": "integrarsi",
+     "ipa": "ˈɪntɪɡreɪt",
+     "pos": "v",
+     "ex": [
+      "Learning the language helped him integrate into the community.",
+      "Imparare la lingua lo ha aiutato a integrarsi nella comunità."
+     ],
+     "note": "Integrate into / with."
+    },
+    {
+     "id": "b2-09-w05",
+     "en": "expat",
+     "it": "espatriato",
+     "ipa": "ˈekspæt",
+     "pos": "n",
+     "ex": [
+      "There is a large expat community in Lisbon.",
+      "A Lisbona c'è una grande comunità di espatriati."
+     ],
+     "note": "Abbreviazione informale di expatriate."
+    },
+    {
+     "id": "b2-09-w06",
+     "en": "landlord",
+     "it": "padrone di casa",
+     "ipa": "ˈlændlɔːd",
+     "pos": "n",
+     "ex": [
+      "My landlord has promised to repair the heating.",
+      "Il mio padrone di casa ha promesso di riparare il riscaldamento."
+     ],
+     "note": "Al femminile: landlady."
+    },
+    {
+     "id": "b2-09-w07",
+     "en": "tenant",
+     "it": "inquilino",
+     "ipa": "ˈtenənt",
+     "pos": "n",
+     "ex": [
+      "The tenants must pay the rent by the first of each month.",
+      "Gli inquilini devono pagare l'affitto entro il primo di ogni mese."
+     ]
+    },
+    {
+     "id": "b2-09-w08",
+     "en": "tenancy agreement",
+     "it": "contratto d'affitto",
+     "ipa": "ˈtenənsi əˈɡriːmənt",
+     "pos": "phr",
+     "ex": [
+      "Read the tenancy agreement carefully before you sign it.",
+      "Leggi con attenzione il contratto d'affitto prima di firmarlo."
+     ],
+     "note": "In UK anche rental agreement o lease."
+    },
+    {
+     "id": "b2-09-w09",
+     "en": "deposit",
+     "it": "caparra, cauzione",
+     "ipa": "dɪˈpɒzɪt",
+     "pos": "n",
+     "ex": [
+      "You will get your deposit back if the flat is left clean.",
+      "Riavrai la cauzione se l'appartamento viene lasciato pulito."
+     ],
+     "note": "Attenzione: anche «deposito in banca», ma qui è la somma lasciata al padrone di casa."
+    },
+    {
+     "id": "b2-09-w10",
+     "en": "residence permit",
+     "it": "permesso di soggiorno",
+     "ipa": "ˈrezɪdəns ˈpɜːmɪt",
+     "pos": "phr",
+     "ex": [
+      "Citizens of some countries need a residence permit to work here.",
+      "I cittadini di alcuni paesi hanno bisogno di un permesso di soggiorno per lavorare qui."
+     ]
+    },
+    {
+     "id": "b2-09-w11",
+     "en": "paperwork",
+     "it": "pratiche, scartoffie",
+     "ipa": "ˈpeɪpəwɜːk",
+     "pos": "n",
+     "ex": [
+      "The paperwork took longer than the move itself.",
+      "Le pratiche hanno richiesto più tempo del trasloco stesso."
+     ],
+     "note": "Non numerabile: mai «paperworks»."
+    },
+    {
+     "id": "b2-09-w12",
+     "en": "red tape",
+     "it": "burocrazia eccessiva",
+     "ipa": "ˌred ˈteɪp",
+     "pos": "phr",
+     "ex": [
+      "Starting a business here involves a lot of red tape.",
+      "Avviare un'attività qui comporta molta burocrazia."
+     ],
+     "note": "Ha sempre senso negativo; non numerabile."
+    },
+    {
+     "id": "b2-09-w13",
+     "en": "get the hang of",
+     "it": "prenderci la mano",
+     "ipa": "ɡet ðə ˈhæŋ əv",
+     "pos": "phr",
+     "ex": [
+      "You'll soon get the hang of the ticket machines.",
+      "Presto ci prenderai la mano con le biglietterie automatiche."
+     ],
+     "note": "Informale. Segue un nome o -ing."
+    },
+    {
+     "id": "b2-09-w14",
+     "en": "proof of address",
+     "it": "documento che prova la residenza",
+     "ipa": "ˌpruːf əv əˈdres",
+     "pos": "phr",
+     "ex": [
+      "The bank asked for proof of address, such as a utility bill.",
+      "La banca ha chiesto un documento che provi l'indirizzo, come una bolletta."
+     ],
+     "note": "Non numerabile."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "culture shock",
+       "shock culturale"
+      ],
+      [
+       "residence permit",
+       "permesso di soggiorno"
+      ],
+      [
+       "proof of address",
+       "documento che prova la residenza"
+      ],
+      [
+       "tenancy agreement",
+       "contratto d'affitto"
+      ],
+      [
+       "red tape",
+       "burocrazia eccessiva"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Every month I pay the rent directly to my ___ .",
+     "opts": [
+      "landlord",
+      "tenant",
+      "expat"
+     ],
+     "a": 0,
+     "why": "Chi riceve l'affitto è il landlord; chi lo paga è il tenant."
+    },
+    {
+     "t": "gap",
+     "s": "It took me six months to get the ___ of the bus system.",
+     "opts": [
+      "hang",
+      "grip",
+      "grasp"
+     ],
+     "a": 0,
+     "why": "L'espressione è get the hang of."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Immigrants who learn the language often find it easier to ___ into society.",
+     "answers": [
+      "integrate",
+      "fit",
+      "blend",
+      "settle"
+     ],
+     "why": "Integrate into = integrarsi in."
+    },
+    {
+     "t": "wordform",
+     "s": "The ___ of foreign workers into the team was surprisingly smooth.",
+     "root": "INTEGRATE",
+     "answers": [
+      "integration"
+     ],
+     "why": "Serve un nome: integrate -> integration."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «homesick»?",
+     "opts": [
+      "Triste perché si ha nostalgia di casa",
+      "Ammalato per il cibo",
+      "Senza casa",
+      "Stanco del proprio lavoro"
+     ],
+     "a": 0,
+     "why": "Homesick = nostalgia di casa e famiglia."
+    }
+   ]
+  },
+  {
+   "id": "b2-09-reading",
+   "kind": "reading",
+   "title": "Quello che nessuno ti dice",
+   "intro": "Il post di un blog scritto da una donna italiana trasferita a Dublino: shock culturale, burocrazia e solitudine. Nel testo trovi be used to, get used to e molte espressioni utili per raccontare un'esperienza.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "What nobody tells you about moving abroad",
+     "genre": "blog post",
+     "text": "When I accepted a job in Dublin two years ago, I was convinced that the move would be easy. I spoke English reasonably well, the flight from Turin took less than three hours, and my new employer had even arranged a flat. What I had not expected was the culture shock, which arrived not in the first week, when everything felt like a holiday, but in the third month.\n\nThe first surprise was the weather, or rather my relationship with it. I was used to hot, dry summers and clear winters, so grey drizzle that could last for days left me exhausted. Then there was the food. Eating dinner at six o'clock seemed to me completely absurd, yet that was when my colleagues went home and, worse, when the canteen closed. Within a few weeks I had stopped fighting it, although I still cannot get used to having a sandwich as a proper lunch.\n\nPaperwork was a different story. At home I had always complained about bureaucracy, but I discovered that every country has its own version. To open a bank account I needed proof of address, and to get proof of address I needed a bank account. It took three visits, two phone calls and a very patient neighbour, who lent me an old utility bill, before the problem was solved. Eventually I got the hang of the system, and I now carry a folder with copies of everything, just in case.\n\nThe hardest part, however, was loneliness. People were friendly, but friendliness is not the same as friendship. Colleagues would say, \"We should grab a coffee sometime,\" and I would wait for an invitation that never came. It took me months to realise that this was simply a polite way of saying hello. Once I understood, I began suggesting specific plans, and things changed. I joined a climbing club, volunteered at a language café and, little by little, built a circle of friends.\n\nIf I could give advice to anyone thinking of moving abroad, it would be this. Do not expect to feel at home immediately: it can take a year or more to settle in. Learn the local customs before you start judging them. Keep in touch with people at home, but avoid comparing everything with the way things are done there, because it will only make you miserable. And be patient with yourself. Nobody adapts perfectly, and a little homesickness is a sign that you cared about the life you left.\n\nToday, I would not go back. Dublin has become a place where I am no longer a guest but a resident, someone who complains about the rain with the same enthusiasm as everybody else. I still miss my family, my mother's cooking and the sound of my own language in the street. But I have learnt that being at home is not about a place; it is about the people you find, and the effort you make to meet them halfway.",
+     "qs": [
+      {
+       "q": "When did the writer's culture shock begin?",
+       "opts": [
+        "In the first week",
+        "In the third month",
+        "After a year",
+        "Before she left Italy"
+       ],
+       "a": 1,
+       "why": "«not in the first week... but in the third month»."
+      },
+      {
+       "q": "Which food-related habit does she still find difficult?",
+       "opts": [
+        "Eating dinner very late",
+        "Having a sandwich as a proper lunch",
+        "Cooking for colleagues",
+        "Eating in the canteen"
+       ],
+       "a": 1,
+       "why": "«I still cannot get used to having a sandwich as a proper lunch»."
+      },
+      {
+       "q": "Why was it difficult to open a bank account?",
+       "opts": [
+        "The bank closed early.",
+        "She had no passport.",
+        "She needed proof of address, which she could only get with an account.",
+        "Her employer refused to help."
+       ],
+       "a": 2,
+       "why": "«to get proof of address I needed a bank account»."
+      },
+      {
+       "q": "How does she deal with paperwork now?",
+       "opts": [
+        "She hires an assistant.",
+        "She keeps a folder with copies of everything.",
+        "She avoids banks.",
+        "She asks her neighbour to do it."
+       ],
+       "a": 1,
+       "why": "«I now carry a folder with copies of everything»."
+      },
+      {
+       "q": "What did she misunderstand about her colleagues?",
+       "opts": [
+        "She thought a casual coffee suggestion was a real invitation.",
+        "She thought they disliked her.",
+        "She believed they worked too much.",
+        "She did not understand their accent."
+       ],
+       "a": 0,
+       "why": "«I would wait for an invitation that never came»: era un modo gentile di salutare."
+      },
+      {
+       "q": "What did she do to make friends?",
+       "opts": [
+        "She changed jobs.",
+        "She joined a climbing club and volunteered at a language café.",
+        "She moved to another city.",
+        "She invited her family to visit."
+       ],
+       "a": 1,
+       "why": "«I joined a climbing club, volunteered at a language café»."
+      },
+      {
+       "q": "Which advice does the writer give?",
+       "opts": [
+        "Compare the new country with your own.",
+        "Learn the local customs before judging them.",
+        "Avoid contact with people at home.",
+        "Expect to settle in within a month."
+       ],
+       "a": 1,
+       "why": "«Learn the local customs before you start judging them»."
+      },
+      {
+       "q": "Being at home depends on the ___ you find and the effort you make.",
+       "answers": [
+        "people"
+       ],
+       "why": "«it is about the people you find»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «get the hang of» significa:",
+     "opts": [
+      "prenderci la mano",
+      "appendere",
+      "rifiutare",
+      "dimenticare"
+     ],
+     "a": 0,
+     "why": "Get the hang of something = imparare a farlo bene."
+    },
+    {
+     "t": "gap",
+     "s": "She still cannot get used to ___ a sandwich for lunch.",
+     "opts": [
+      "having",
+      "have",
+      "has"
+     ],
+     "a": 0,
+     "why": "Get used to + -ing."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "It can take a year or more to settle ___ .",
+     "answers": [
+      "in"
+     ],
+     "why": "Settle in = ambientarsi."
+    },
+    {
+     "t": "mc",
+     "q": "«Colleagues would say, \"We should grab a coffee sometime\"» usa would per indicare:",
+     "opts": [
+      "un'abitudine passata",
+      "una richiesta educata",
+      "una condizione irreale",
+      "una promessa futura"
+     ],
+     "a": 0,
+     "why": "Would (non used to) per ripetute azioni abituali nel passato."
+    }
+   ]
+  },
+  {
+   "id": "b2-09-listening",
+   "kind": "listening",
+   "title": "All'ufficio anagrafe",
+   "intro": "Un italiano trasferito in Inghilterra va in comune a registrarsi come residente. Ascolta quali documenti servono, quanto costa il certificato e perché gli serve.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Registering at the town hall",
+     "it": "Ascolta la conversazione. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Mrs Evans",
+       "Good morning. Can I help you?"
+      ],
+      [
+       "Marco",
+       "Good morning. I've just moved to Leeds from Italy and I'd like to register as a resident. Do I need an appointment?"
+      ],
+      [
+       "Mrs Evans",
+       "Normally yes, but we're quiet this morning, so I can see you now. Have you brought your documents?"
+      ],
+      [
+       "Marco",
+       "I think so. I've got my passport and my tenancy agreement. I wasn't sure what else to bring."
+      ],
+      [
+       "Mrs Evans",
+       "That's a good start. We also need proof of your address, such as a utility bill, but a tenancy agreement signed by your landlord is fine. Is your name on it?"
+      ],
+      [
+       "Marco",
+       "Yes, it is. I rent a room in a shared house, and the landlord signed it last week."
+      ],
+      [
+       "Mrs Evans",
+       "Perfect. And are you working or studying?"
+      ],
+      [
+       "Marco",
+       "Working. I'm a physiotherapist at the city hospital. I started on the first of the month."
+      ],
+      [
+       "Mrs Evans",
+       "Then you'll also need to register with a doctor. That's a separate process, but you can do it at any local surgery. Just take your passport and this form."
+      ],
+      [
+       "Marco",
+       "Is there a fee for the registration?"
+      ],
+      [
+       "Mrs Evans",
+       "No, it's free. But if you want a certificate to prove that you live here, it's fifteen pounds. Most banks ask for one."
+      ],
+      [
+       "Marco",
+       "Actually, that's why I'm here. I'm trying to open a bank account and they want proof of residence."
+      ],
+      [
+       "Mrs Evans",
+       "In that case, I'd get the certificate. It will be posted to you within five working days, so make sure someone is at home to collect it. Now, could you fill in this form in capital letters, please?"
+      ],
+      [
+       "Marco",
+       "Of course. Where do I write the date I arrived?"
+      ],
+      [
+       "Mrs Evans",
+       "Here, at the top. And sign at the bottom."
+      ],
+      [
+       "Marco",
+       "Done. Thank you very much for your help."
+      ],
+      [
+       "Mrs Evans",
+       "You're welcome. Good luck with the new job."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Where has Marco moved from?",
+       "opts": [
+        "Italy",
+        "Ireland",
+        "Spain",
+        "Germany"
+       ],
+       "a": 0,
+       "why": "«I've just moved to Leeds from Italy»."
+      },
+      {
+       "q": "Why can Mrs Evans see him without an appointment?",
+       "opts": [
+        "He is a friend of the family.",
+        "The office is quiet that morning.",
+        "It is an emergency.",
+        "He has a special permit."
+       ],
+       "a": 1,
+       "why": "«we're quiet this morning, so I can see you now»."
+      },
+      {
+       "q": "Which document does Mrs Evans accept as proof of address?",
+       "opts": [
+        "A tenancy agreement signed by the landlord",
+        "A letter from his employer",
+        "A bank statement",
+        "A passport"
+       ],
+       "a": 0,
+       "why": "«a tenancy agreement signed by your landlord is fine»."
+      },
+      {
+       "q": "What is Marco's job?",
+       "opts": [
+        "Teacher",
+        "Physiotherapist",
+        "Bank clerk",
+        "Student"
+       ],
+       "a": 1,
+       "why": "«I'm a physiotherapist at the city hospital»."
+      },
+      {
+       "q": "The certificate costs ___ pounds.",
+       "answers": [
+        "15",
+        "fifteen",
+        "£15"
+       ]
+      },
+      {
+       "q": "Why does Marco need the certificate?",
+       "opts": [
+        "To open a bank account",
+        "To see a doctor",
+        "To renew his passport",
+        "To rent a car"
+       ],
+       "a": 0,
+       "why": "«I'm trying to open a bank account and they want proof of residence»."
+      },
+      {
+       "q": "How long will the certificate take to arrive?",
+       "opts": [
+        "Within five working days",
+        "Within a month",
+        "The same day",
+        "Within two weeks"
+       ],
+       "a": 0,
+       "why": "«posted to you within five working days»."
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "I've just moved here from Italy and I'd like to register as a resident.",
+     "it": "Mi sono appena trasferito qui dall'Italia e vorrei registrarmi come residente."
+    },
+    {
+     "t": "dictation",
+     "en": "Could you fill in this form in capital letters, please?",
+     "it": "Potrebbe compilare questo modulo in stampatello, per favore?"
+    },
+    {
+     "t": "speak",
+     "en": "Do I need to make an appointment?",
+     "it": "Devo prendere un appuntamento?"
+    }
+   ]
+  },
+  {
+   "id": "b2-09-situation",
+   "kind": "situation",
+   "title": "Burocrazia all'estero",
+   "intro": "Affitto, residenza, medico e banca: le richieste che servono per sbrigare le pratiche in un paese straniero, con il tono giusto e le domande che evitano brutte sorprese.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Affittare e registrarsi",
+     "body": "Frasi utili per un appartamento e per le pratiche:\n- **I'm interested in the flat advertised online.** = Sono interessato all'appartamento in annuncio.\n- **Is the rent inclusive of bills?** = L'affitto comprende le utenze?\n- **How much is the deposit, and when will it be returned?** = Quanto è la cauzione e quando verrà restituita?\n- **Is there a minimum tenancy?** = C'è una durata minima del contratto?\n- **Could you send me the tenancy agreement before I sign?** = Può mandarmi il contratto prima della firma?\n- **Who is responsible for repairs?** = Chi si occupa delle riparazioni?\n- **I'd like to register as a resident.** = Vorrei registrarmi come residente.\n\nPer chiedere chiarimenti: **Sorry, could you explain what that means?** / **Would you mind writing that down?**",
+     "ex": [
+      [
+       "Is the rent inclusive of bills?",
+       "L'affitto comprende le utenze?"
+      ],
+      [
+       "Who is responsible for repairs?",
+       "Chi è responsabile delle riparazioni?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "In banca e dal medico",
+     "body": "Alla banca:\n- **I'd like to open a current account.** = Vorrei aprire un conto corrente.\n- **What documents do I need to bring?**\n- **Is there a monthly fee?** / **Is there an overdraft facility?**\n- **How long will it take for the card to arrive?**\n\nDal medico (UK: **GP** = medico di base, **surgery** = ambulatorio):\n- **I'd like to register with a GP.**\n- **I'd like to make an appointment, please.**\n- **I've been having headaches for a week.** = Ho mal di testa da una settimana.\n- **Could I have a prescription for these?** = Può prescrivermi questi farmaci?\n\n**Errore tipico degli italiani**: «I have an appointment to the doctor» (dal medico: **with** the doctor / at the surgery).",
+     "ex": [
+      [
+       "I'd like to open a current account.",
+       "Vorrei aprire un conto corrente."
+      ],
+      [
+       "I'd like to register with a GP.",
+       "Vorrei iscrivermi presso un medico di base."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Viewing a flat",
+     "it": "Scegli la battuta più naturale e cortese.",
+     "lines": [
+      [
+       "Landlord",
+       "So, this is the room. The rent is five hundred pounds a month."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "It's lovely. Is the rent inclusive of bills?",
+         "Five hundred? Too expensive, I pay four hundred.",
+         "Is nice. The bills are included or no?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Landlord",
+       "Water and heating are included, but not electricity or internet."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I see. And how much is the deposit, and when will it be returned?",
+         "I want that you give me the deposit back immediately.",
+         "What is the deposit? You keep it?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Landlord",
+       "It's one month's rent, and you get it back within ten days after you leave."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That sounds fair. Could you send me the tenancy agreement before I sign?",
+         "Fine, give me the keys now.",
+         "I need to sign nothing, I trust you."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "Domande dirette ma cortesi (Is the rent inclusive of bills? / Could you send me...) mostrano che conosci le cose da chiedere prima di firmare."
+    },
+    {
+     "t": "dialog",
+     "title": "At the bank",
+     "it": "Scegli la risposta più adatta.",
+     "lines": [
+      [
+       "Clerk",
+       "Good afternoon. How can I help you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Good afternoon. I'd like to open a current account, please.",
+         "I want a bank account, fast.",
+         "Hello, I have the necessity to a conto."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "Certainly. Do you have proof of address and some form of ID?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I've brought my passport and my tenancy agreement. Is that enough?",
+         "I have the passport. The rest I don't have.",
+         "My address is a secret."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "That's fine. The account has no monthly fee, and your card will arrive within a week."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Perfect. What happens if I need to withdraw more than my balance?",
+         "No fee? Then there is a trick, surely.",
+         "Okay, I'm waiting here for the card."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Is the rent inclusive of bills?",
+       "L'affitto comprende le utenze?"
+      ],
+      [
+       "Could you send me the tenancy agreement?",
+       "Può mandarmi il contratto d'affitto?"
+      ],
+      [
+       "I'd like to open a current account.",
+       "Vorrei aprire un conto corrente."
+      ],
+      [
+       "What documents do I need to bring?",
+       "Quali documenti devo portare?"
+      ],
+      [
+       "I'd like to register with a doctor.",
+       "Vorrei iscrivermi presso un medico."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Quando mi verrà restituita la caparra?",
+     "en": "When will the deposit be returned to me",
+     "extra": [
+      "did",
+      "given"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "Is the rent inclusive of bills?",
+     "it": "L'affitto comprende le utenze?"
+    },
+    {
+     "t": "speak",
+     "en": "What documents do I need to bring with me?",
+     "it": "Quali documenti devo portare con me?"
+    },
+    {
+     "t": "speak",
+     "en": "I'd like to register with a doctor, please.",
+     "it": "Vorrei iscrivermi presso un medico, per favore."
+    },
+    {
+     "t": "speakTask",
+     "q": "You are renting a flat abroad. Phone the landlord to ask about the rent, the deposit and the contract, and to arrange a viewing.",
+     "it": "Telefona al padrone di casa: chiedi dell'affitto, della cauzione, del contratto e concorda una visita (almeno 5 frasi).",
+     "hints": [
+      "I'm calling about the flat...",
+      "Is the rent inclusive of bills?",
+      "How much is the deposit?",
+      "Would it be possible to see the flat on...?"
+     ],
+     "min": 50,
+     "model": "Hello, I'm calling about the flat advertised online. Is it still available? I'd like to know whether the rent is inclusive of bills, and how much the deposit is. Could you also tell me how long the minimum tenancy is? If possible, I'd like to see the flat on Saturday morning. And could you send me the tenancy agreement beforehand, so that I can read it carefully?"
+    }
+   ]
+  },
+  {
+   "id": "b2-09-production",
+   "kind": "production",
+   "title": "L'email formale a un ufficio",
+   "intro": "Scriverai un'email formale a un ufficio pubblico per chiedere informazioni e un appuntamento. Struttura, formule e registro sono quelli richiesti anche nella prova di scrittura del B2 First.",
+   "minutes": 30,
+   "steps": [
+    {
+     "t": "note",
+     "title": "L'email formale a un ufficio",
+     "body": "Una buona email formale è breve, chiara e cortese. La struttura:\n- **Oggetto** chiaro: Enquiry about resident registration.\n- **Saluto**: Dear Sir or Madam, (o Dear Mr / Ms + cognome se lo conosci).\n- **Scopo** nella prima frase: I am writing to enquire about... / to request... / to confirm...\n- **Dettagli**: chi sei e qual è la tua situazione, in modo sintetico.\n- **Richieste** cortesi: Could you please let me know...? / I would be grateful if you could...\n- **Chiusura**: Thank you in advance for your help. / I look forward to hearing from you.\n- **Formula finale**: Yours faithfully (senza nome del destinatario) o Yours sincerely (con nome). Nelle email si accetta anche Kind regards.\n\n**Evita**: contrazioni (I'm, can't), espressioni colloquiali, punti esclamativi, frasi come «I want to know». Con un verbo dopo **look forward to** serve -ing: I look forward to **hearing** from you.",
+     "ex": [
+      [
+       "I am writing to enquire about the procedure for registration.",
+       "Scrivo per informarmi sulla procedura di registrazione."
+      ],
+      [
+       "I would be grateful if you could confirm the fee.",
+       "Le sarei grato se potesse confermarmi la tariffa."
+      ]
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è adatta a un'email formale a un ufficio?",
+     "opts": [
+      "I would be grateful if you could confirm the opening hours.",
+      "Can you tell me the opening hours?",
+      "Tell me when you are open."
+     ],
+     "a": 0,
+     "why": "Il condizionale con grateful if you could è la formula più cortese."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Please let me ___ whether I need to book an appointment.",
+     "answers": [
+      "know"
+     ],
+     "why": "Let me know = fammi sapere."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I am looking forward to hear from you.",
+     "answers": [
+      "I am looking forward to hearing from you",
+      "I look forward to hearing from you"
+     ],
+     "why": "Look forward to è seguito da -ing: to è una preposizione."
+    },
+    {
+     "t": "write",
+     "q": "You have recently moved to another country and need to register as a resident. Write an email to the local registration office. Say who you are, ask which documents you need, whether there is a fee, and request an appointment at a convenient time.",
+     "it": "Scrivi un'email formale all'ufficio anagrafe (140-190 parole): presentati brevemente, chiedi quali documenti servono, se c'è una tariffa, e proponi gli orari per un appuntamento. Non usare contrazioni.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho spiegato la situazione, chiesto i documenti, la tariffa e l'appuntamento",
+      "Comunicazione: registro formale costante, nessuna contrazione, saluto e chiusura adatti",
+      "Organizzazione: oggetto, scopo, dettagli, richieste, chiusura in paragrafi distinti",
+      "Lingua: ho usato almeno una formula con I would be grateful if you could e look forward to + -ing",
+      "Ho rispettato il numero di parole (140-190)"
+     ],
+     "useful": [
+      "I am writing to enquire about...",
+      "Could you please let me know...?",
+      "I would be grateful if you could...",
+      "I would prefer an appointment...",
+      "Thank you in advance for your help.",
+      "I look forward to hearing from you.",
+      "Yours faithfully,"
+     ],
+     "model": "Subject: Enquiry about resident registration\n\nDear Sir or Madam,\n\nI am writing to enquire about the procedure for registering as a resident in your city. I moved here from Italy on 1 September to start a job at the university, and I am renting a flat in Highfield Road.\n\nCould you please let me know which documents I need to bring with me? I have my passport, a signed tenancy agreement and a letter from my employer, but I am not sure whether these are sufficient. I would also be grateful if you could tell me whether there is a fee, and whether I can make an appointment online or must visit the office in person.\n\nSince I work during the day, I would prefer an appointment early in the morning or after five o'clock. If this is not possible, please let me know about any other options.\n\nThank you in advance for your help. I look forward to hearing from you.\n\nYours faithfully,\nMarco Bianchi"
+    },
+    {
+     "t": "speakTask",
+     "q": "Tell me about a time when you had to deal with bureaucracy. What was difficult?",
+     "it": "Racconta una volta in cui hai dovuto affrontare la burocrazia: che cos'era difficile e com'è finita (almeno 5 frasi).",
+     "hints": [
+      "I had to...",
+      "It took...",
+      "What I found most difficult was...",
+      "In the end..."
+     ],
+     "min": 50,
+     "model": "Last year I had to renew my residence permit. I had to queue for two hours, only to be told that I had forgotten one document. What I found most difficult was that nobody could explain exactly which form I needed. In the end, I went back the next day with a folder full of copies, and everything was sorted out in ten minutes."
+    },
+    {
+     "t": "speakTask",
+     "q": "Imagine you are going to live in another country. What do you think you would find hardest to get used to?",
+     "it": "Immagina di trasferirti all'estero: a che cosa faresti più fatica ad abituarti e perché (almeno 5 frasi).",
+     "hints": [
+      "I think I would find it hard to get used to...",
+      "I'm used to...",
+      "On the other hand...",
+      "I'd soon get the hang of..."
+     ],
+     "min": 50,
+     "model": "I think I would find it hardest to get used to the food and the lunchtimes. I'm used to having a long lunch with my family, so a quick sandwich would feel strange. On the other hand, I'd soon get the hang of the language, because I like speaking with people. I would probably feel homesick for the first few months, but I am sure I would settle in."
+    }
+   ]
+  },
+  {
+   "id": "b2-09-test",
+   "kind": "test",
+   "title": "Test dell'unità 9",
+   "intro": "Verifica finale: used to e get used to, verb patterns, articoli, lessico dell'espatrio, lettura e ascolto. Nessun aiuto durante la prova.",
+   "minutes": 25,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "She soon got used ___ in a small flat.",
+     "opts": [
+      "to living",
+      "to live",
+      "living"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We ___ go skiing every winter when I was a child.",
+     "opts": [
+      "used to",
+      "are used to",
+      "got used to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Do you mind ___ the window?",
+     "opts": [
+      "opening",
+      "to open",
+      "open"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The landlord refused ___ the deposit.",
+     "opts": [
+      "to return",
+      "returning",
+      "return"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I remember ___ the door, so it can't be open.",
+     "opts": [
+      "locking",
+      "to lock",
+      "lock"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "I look forward to hearing from you.",
+      "I look forward to hear from you.",
+      "I look forward hearing from you."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "Prices are high, but the quality of life is excellent.",
+      "The prices are high, but the quality of the life is excellent.",
+      "Prices are high, but the quality of the life is excellent."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "A ___ is money you pay when you rent a flat, which you get back at the end.",
+     "opts": [
+      "deposit",
+      "premium",
+      "excess",
+      "paperwork"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "After six months abroad, she was still ___ for her family.",
+     "opts": [
+      "homesick",
+      "homeless",
+      "nostalgia",
+      "missing"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "I spent the whole morning filling in ___ at the town hall.",
+     "opts": [
+      "paperwork",
+      "landlord",
+      "tenant",
+      "expat"
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "It can take a year to settle ___ in a new country.",
+     "answers": [
+      "in"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Mi sono abituato a vivere da solo.",
+     "answers": [
+      "I got used to living alone",
+      "I have got used to living alone",
+      "I've got used to living alone",
+      "I have become used to living alone",
+      "I've become used to living alone",
+      "I got used to living on my own",
+      "I have got used to living on my own",
+      "I've got used to living on my own",
+      "I have become used to living on my own",
+      "I've become used to living on my own",
+      "I have gotten used to living alone",
+      "I've gotten used to living alone",
+      "I became used to living alone",
+      "I got used to living by myself",
+      "I have got used to living by myself",
+      "I've got used to living by myself"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "She said she would help me with the forms.",
+     "key": "PROMISED",
+     "s2": "She ___ me with the forms.",
+     "answers": [
+      "promised to help",
+      "promised she would help",
+      "promised that she would help",
+      "promised she'd help"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I have lived here for years, so the traffic seems normal to me.",
+     "key": "USED",
+     "s2": "I ___ the traffic here.",
+     "answers": [
+      "am used to",
+      "'m used to",
+      "have got used to",
+      "have become used to",
+      "have gotten used to"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "He tried not to answer the question.",
+     "key": "AVOIDED",
+     "s2": "He ___ the question.",
+     "answers": [
+      "avoided answering"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She suggested to go to the town hall together.",
+     "answers": [
+      "She suggested going to the town hall together",
+      "She suggested that we go to the town hall together",
+      "She suggested we go to the town hall together",
+      "She suggested that we should go to the town hall together"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I am looking forward to see you next month.",
+     "answers": [
+      "I am looking forward to seeing you next month",
+      "I'm looking forward to seeing you next month"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "The ___ to a new culture can be painful at first.",
+     "root": "ADJUST",
+     "answers": [
+      "adjustment"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "She felt ___ at the party because she didn't know anyone.",
+     "root": "COMFORT",
+     "answers": [
+      "uncomfortable"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "An enquiry",
+     "mode": "open",
+     "text": "Dear Sir or Madam,\n\nI am writing {1} enquire about the language courses offered by your centre. I would be grateful {2} you could send me information {3} the prices and the timetable. I am particularly interested {4} an evening course, as I work {5} the day.\n\nYours faithfully,\nAnna Rossi",
+     "gaps": [
+      {
+       "answers": [
+        "to"
+       ]
+      },
+      {
+       "answers": [
+        "if"
+       ]
+      },
+      {
+       "answers": [
+        "about",
+        "on",
+        "regarding",
+        "concerning"
+       ]
+      },
+      {
+       "answers": [
+        "in"
+       ]
+      },
+      {
+       "answers": [
+        "during",
+        "throughout"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A message from the landlord",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Mr Clarke",
+       "Hello, this is Mr Clarke, the landlord of fourteen Park Road. I'm calling about the flat. I'm afraid the heating engineer can't come on Tuesday as planned, so he'll come on Thursday between two and four. Please make sure somebody is at home. Also, the deposit of six hundred pounds will be returned within ten days after you leave, provided the flat is clean. Call me if you have any questions."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "When will the engineer come?",
+       "opts": [
+        "On Thursday afternoon",
+        "On Tuesday morning",
+        "On Thursday morning",
+        "On Friday"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How much is the deposit?",
+       "opts": [
+        "£600",
+        "£60",
+        "£160",
+        "£1,000"
+       ],
+       "a": 0
+      },
+      {
+       "q": "When will the deposit be returned?",
+       "opts": [
+        "Within ten days after the tenant leaves",
+        "On the day of the move",
+        "Within a month",
+        "Never"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Sono abituato a lavorare con scadenze strette.",
+     "en": "I am used to working to tight deadlines",
+     "extra": [
+      "work",
+      "for"
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Renting a room",
+     "lines": [
+      [
+       "Landlord",
+       "The room is available from the first of next month. Are you interested?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, very much. Is the rent inclusive of bills?",
+         "Yes, I take it. Bills are not my problem.",
+         "I am interesting, the bills are included?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Landlord",
+       "Water and heating are included. The deposit is one month's rent."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That's fine. Could you send me the tenancy agreement before I sign?",
+         "Fine, where do I sign?",
+         "I want that you send me the contract tomorrow."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

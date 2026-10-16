@@ -1,0 +1,1502 @@
+{
+  "id": "b1-09",
+  "level": "B1",
+  "position": 9,
+  "title": "Salute e stile di vita",
+  "sub": "Must, might, can't - fare deduzioni e dare consigli",
+  "grammar": "Modali di deduzione (must, might, can't) presenti e passati; ripasso di obbligo, divieto e consiglio",
+  "topic": "Salute e stile di vita",
+  "situation": "Dal medico: descrivere i sintomi e chiamare i soccorsi (999 / 112)",
+  "lessons": [
+    {
+      "id": "b1-09-grammar",
+      "kind": "grammar",
+      "title": "Must, might, can't: tirare le somme",
+      "intro": "Dal medico, in ufficio, al telefono: spesso devi dire che cosa pensi che sia successo, senza esserne certo. Con i modali di deduzione lo fai in modo preciso e naturale.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Deduzione al presente: quanto sei sicuro?",
+          "body": "Usiamo i modali per dire quanto siamo **sicuri** di qualcosa, in base a indizi:\n- **must** = sono quasi certo che sia vero: He **must** be tired. (ha lavorato 12 ore)\n- **might / may / could** = è possibile, ma non ne sono sicuro: She **might** be at the gym.\n- **can't** = sono quasi certo che NON sia vero: That **can't** be Anna's car. (la sua è rossa)\n\n**Attenzione**: il contrario di «must» in questo senso è **can't**, non «mustn't». «He mustn't be tired» non si usa per dedurre.\nDopo il modale il verbo resta alla forma base, senza «to»: «She must to be sixty» è sbagliato.",
+          "ex": [
+            [
+              "He's been working since six. He must be exhausted.",
+              "Lavora dalle sei. Deve essere esausto."
+            ],
+            [
+              "I'm not sure where Tom is. He might be in a meeting.",
+              "Non so dove sia Tom. Potrebbe essere in riunione."
+            ],
+            [
+              "That can't be the right address: there's no house here.",
+              "Non può essere l'indirizzo giusto: qui non c'è nessuna casa."
+            ]
+          ],
+          "table": [
+            [
+              "Sicurezza",
+              "Modale",
+              "Esempio"
+            ],
+            [
+              "quasi certo (sì)",
+              "must be",
+              "It must be late."
+            ],
+            [
+              "possibile",
+              "might / may / could be",
+              "It might be late."
+            ],
+            [
+              "quasi certo (no)",
+              "can't be",
+              "It can't be late."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Deduzione nel passato e in corso",
+          "body": "Per ragionare su qualcosa **già successo** si usa **modale + have + participio passato**:\n- **must have** + pp = deve aver fatto / sicuramente ha fatto\n- **might / may / could have** + pp = può aver fatto, forse ha fatto\n- **can't / couldn't have** + pp = non può aver fatto\n\nPer qualcosa che sta succedendo **adesso** si usa **modale + be + -ing**: Look, everyone has an umbrella. It **must be raining**.\n\nErrori tipici: «He must have forgot» (serve il participio: forgotten), «He must has gone», «He mustn't have taken it» (per dedurre si usa can't have).",
+          "ex": [
+            [
+              "She must have missed the train, because she's very late.",
+              "Deve aver perso il treno, perché è molto in ritardo."
+            ],
+            [
+              "You could have caught something on the plane.",
+              "Potresti aver preso qualcosa in aereo."
+            ],
+            [
+              "He can't have known about the party: nobody told him.",
+              "Non può averlo saputo: nessuno gliel'ha detto."
+            ]
+          ],
+          "table": [
+            [
+              "",
+              "Forma",
+              "Esempio"
+            ],
+            [
+              "passato",
+              "must / might / can't + have + pp",
+              "He must have left."
+            ],
+            [
+              "adesso",
+              "must / might / can't + be + -ing",
+              "He must be sleeping."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Obbligo, divieto, consiglio (ripasso)",
+          "body": "Non confondere la deduzione con l'obbligo:\n- **must / have to** = è obbligatorio: You **have to** show your passport. (**must** = obbligo sentito da chi parla)\n- **mustn't** = è **vietato**: You **mustn't** smoke here.\n- **don't have to** = **non è necessario**, ma puoi: You **don't have to** pay, it's free.\n- **should / ought to** = è meglio, consiglio: You **should** see a doctor.\n- **had better** + base = sarebbe meglio, con tono di avvertimento: You'**d better** rest, or you'll get worse.\n\nErrori tipici: «you don't must», «I must to go», «you haven't to pay». Al passato di «have to» si usa **had to**: I had to wait two hours.",
+          "ex": [
+            [
+              "You mustn't drive if you feel dizzy.",
+              "Non devi guidare se hai le vertigini. (è vietato / pericoloso)"
+            ],
+            [
+              "You don't have to take the tablets with food.",
+              "Non è necessario prendere le compresse con il cibo."
+            ],
+            [
+              "You'd better call the doctor today.",
+              "Faresti meglio a chiamare il medico oggi."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Come riconoscere il significato",
+          "body": "Una stessa frase italiana come «deve essere stanco» o «non deve fumare» in inglese cambia a seconda del senso. Chiediti:\n- sto **tirando una conclusione**? -> must / might / can't\n- sto dando una **regola**? -> must / have to / mustn't\n- sto dicendo che **non serve**? -> don't have to / needn't\n- sto dando un **consiglio**? -> should / ought to / had better\n\nPer il **passato** di una regola si usa **had to**; per quello di una deduzione **must have + pp**. Non esiste «had must».",
+          "ex": [
+            [
+              "You must be joking!",
+              "Stai scherzando, vero!"
+            ],
+            [
+              "We had to wait for the results.",
+              "Abbiamo dovuto aspettare i risultati."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Mario has been working for twelve hours. He ___ be exhausted.",
+          "opts": [
+            "must",
+            "can't",
+            "mustn't"
+          ],
+          "a": 0,
+          "it": "Mario lavora da dodici ore. Deve essere esausto.",
+          "why": "Indizio forte che porta a una conclusione positiva: must."
+        },
+        {
+          "t": "gap",
+          "s": "Marta is on holiday in Greece, so she ___ be at the office today.",
+          "opts": [
+            "can't",
+            "must",
+            "has to"
+          ],
+          "a": 0,
+          "it": "Marta è in vacanza in Grecia, quindi non può essere in ufficio oggi.",
+          "why": "Conclusione quasi certa in negativo: can't (non «mustn't»)."
+        },
+        {
+          "t": "gap",
+          "s": "I'm not sure where Anna is. She ___ be in the library.",
+          "opts": [
+            "might",
+            "can't",
+            "has to"
+          ],
+          "a": 0,
+          "it": "Non so dove sia Anna. Potrebbe essere in biblioteca.",
+          "why": "«Non sono sicuro»: possibilità, quindi might."
+        },
+        {
+          "t": "gap",
+          "s": "You ___ drive after drinking alcohol. It's illegal.",
+          "opts": [
+            "mustn't",
+            "don't have to",
+            "might not"
+          ],
+          "a": 0,
+          "it": "Non devi guidare dopo aver bevuto. È illegale.",
+          "why": "Divieto: mustn't. «Don't have to» significherebbe «non è necessario»."
+        },
+        {
+          "t": "gap",
+          "s": "The window is broken. Somebody ___ it with a ball.",
+          "opts": [
+            "must have broken",
+            "must break",
+            "must to have broken"
+          ],
+          "a": 0,
+          "it": "La finestra è rotta. Qualcuno deve averla rotta con una palla.",
+          "why": "Deduzione sul passato: must have + participio passato."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "He can't have taken the nine o'clock train: it was cancelled.",
+            "He mustn't have taken the nine o'clock train: it was cancelled.",
+            "He can't have took the nine o'clock train: it was cancelled."
+          ],
+          "a": 0,
+          "why": "Per escludere nel passato: can't have + participio passato (taken, non took)."
+        },
+        {
+          "t": "mc",
+          "q": "Tutti hanno l'ombrello in mano. Che cosa dici?",
+          "opts": [
+            "Look, everyone's got an umbrella. It must be raining.",
+            "Look, everyone's got an umbrella. It must rain.",
+            "Look, everyone's got an umbrella. It must to be raining."
+          ],
+          "a": 0,
+          "why": "Azione in corso adesso: must + be + -ing."
+        },
+        {
+          "t": "type",
+          "q": "Completa con due o tre parole (modale + verbo)",
+          "s": "Tom has been awake for 24 hours. He ___ very tired.",
+          "answers": [
+            "must be",
+            "must be feeling",
+            "must feel"
+          ],
+          "why": "Conclusione sicura: must + be."
+        },
+        {
+          "t": "type",
+          "q": "Completa con 3 parole (might / leave)",
+          "s": "I can't find my keys. I ___ them at the office.",
+          "answers": [
+            "might have left",
+            "may have left",
+            "could have left"
+          ],
+          "why": "Possibilità nel passato: might have + participio."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "That ___ be Paola's car: hers is red and this one is blue.",
+          "answers": [
+            "can't",
+            "cannot",
+            "couldn't"
+          ],
+          "why": "Conclusione negativa: can't."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "She must to be at least sixty.",
+          "answers": [
+            "She must be at least sixty"
+          ],
+          "why": "Dopo i modali il verbo è alla forma base, senza «to»."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "You don't must tell anyone about the surprise.",
+          "answers": [
+            "You mustn't tell anyone about the surprise",
+            "You must not tell anyone about the surprise"
+          ],
+          "why": "Il modale non usa don't: per un divieto si dice mustn't."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "He must have forgot about the meeting.",
+          "answers": [
+            "He must have forgotten about the meeting"
+          ],
+          "why": "Dopo have serve il participio passato: forgotten."
+        },
+        {
+          "t": "transform",
+          "s1": "I'm sure she is nervous about the exam.",
+          "key": "MUST",
+          "s2": "She ___ nervous about the exam.",
+          "answers": [
+            "must be",
+            "must be feeling"
+          ],
+          "why": "Sono sicuro che = must."
+        },
+        {
+          "t": "transform",
+          "s1": "Perhaps they missed the bus.",
+          "key": "MIGHT",
+          "s2": "They ___ the bus.",
+          "answers": [
+            "might have missed"
+          ],
+          "why": "Forse + passato = might have + participio."
+        },
+        {
+          "t": "transform",
+          "s1": "I'm sure he didn't know about the party.",
+          "key": "CAN'T",
+          "s2": "He ___ about the party.",
+          "answers": [
+            "can't have known",
+            "couldn't have known"
+          ],
+          "why": "Sicuro che non + passato = can't have + participio."
+        },
+        {
+          "t": "order",
+          "it": "Deve aver perso il treno.",
+          "en": "She must have missed the train",
+          "extra": [
+            "has",
+            "missing"
+          ],
+          "why": "Deduzione sul passato: must have + participio passato."
+        }
+      ]
+    },
+    {
+      "id": "b1-09-vocab",
+      "kind": "vocab",
+      "title": "Salute e stile di vita",
+      "intro": "Il lessico per descrivere sintomi, piccoli infortuni e abitudini sane. Le collocazioni sono quelle che sentirai dal medico o leggerai su un articolo di salute.",
+      "minutes": 15,
+      "words": [
+        {
+          "id": "b1-09-w01",
+          "en": "dizzy",
+          "it": "con le vertigini, stordito",
+          "ipa": "ˈdɪzi",
+          "pos": "adj",
+          "ex": [
+            "I felt dizzy when I stood up too quickly.",
+            "Mi sono sentito stordito quando mi sono alzato troppo in fretta."
+          ]
+        },
+        {
+          "id": "b1-09-w02",
+          "en": "sprain",
+          "it": "slogare; slogatura",
+          "ipa": "spreɪn",
+          "pos": "v",
+          "ex": [
+            "She sprained her wrist playing tennis.",
+            "Si è slogata il polso giocando a tennis."
+          ],
+          "note": "Anche nome: a sprain."
+        },
+        {
+          "id": "b1-09-w03",
+          "en": "bruise",
+          "it": "livido",
+          "ipa": "bruːz",
+          "pos": "n",
+          "ex": [
+            "I've got a huge bruise on my arm.",
+            "Ho un livido enorme sul braccio."
+          ],
+          "note": "Anche verbo: I bruised my knee."
+        },
+        {
+          "id": "b1-09-w04",
+          "en": "rash",
+          "it": "eruzione cutanea",
+          "ipa": "ræʃ",
+          "pos": "n",
+          "ex": [
+            "He got a rash after eating strawberries.",
+            "Gli è venuta un'irritazione dopo aver mangiato le fragole."
+          ]
+        },
+        {
+          "id": "b1-09-w05",
+          "en": "allergic",
+          "it": "allergico",
+          "ipa": "əˈlɜːdʒɪk",
+          "pos": "adj",
+          "ex": [
+            "I'm allergic to cats.",
+            "Sono allergico ai gatti."
+          ],
+          "note": "Si dice allergic TO, mai «allergic at»."
+        },
+        {
+          "id": "b1-09-w06",
+          "en": "injury",
+          "it": "infortunio, ferita",
+          "ipa": "ˈɪndʒəri",
+          "pos": "n",
+          "ex": [
+            "He missed the match because of a knee injury.",
+            "Ha saltato la partita per un infortunio al ginocchio."
+          ]
+        },
+        {
+          "id": "b1-09-w07",
+          "en": "infection",
+          "it": "infezione",
+          "ipa": "ɪnˈfekʃn",
+          "pos": "n",
+          "ex": [
+            "She has a chest infection.",
+            "Ha un'infezione al torace."
+          ]
+        },
+        {
+          "id": "b1-09-w08",
+          "en": "side effect",
+          "it": "effetto collaterale",
+          "ipa": "ˈsaɪd ɪˌfekt",
+          "pos": "n",
+          "ex": [
+            "One side effect of the tablets is sleepiness.",
+            "Un effetto collaterale delle compresse è la sonnolenza."
+          ]
+        },
+        {
+          "id": "b1-09-w09",
+          "en": "check-up",
+          "it": "controllo medico",
+          "ipa": "ˈtʃek ʌp",
+          "pos": "n",
+          "ex": [
+            "I have a check-up every year.",
+            "Faccio un controllo ogni anno."
+          ]
+        },
+        {
+          "id": "b1-09-w10",
+          "en": "recover",
+          "it": "guarire, riprendersi",
+          "ipa": "rɪˈkʌvə",
+          "pos": "v",
+          "ex": [
+            "It took him a month to recover from the flu.",
+            "Ci ha messo un mese a riprendersi dall'influenza."
+          ],
+          "note": "Si dice recover FROM."
+        },
+        {
+          "id": "b1-09-w11",
+          "en": "ambulance",
+          "it": "ambulanza",
+          "ipa": "ˈæmbjələns",
+          "pos": "n",
+          "ex": [
+            "The ambulance arrived in five minutes.",
+            "L'ambulanza è arrivata in cinque minuti."
+          ],
+          "emoji": "🚑"
+        },
+        {
+          "id": "b1-09-w12",
+          "en": "blood pressure",
+          "it": "pressione sanguigna",
+          "ipa": "ˈblʌd ˌpreʃə",
+          "pos": "n",
+          "ex": [
+            "The nurse checked my blood pressure.",
+            "L'infermiera mi ha misurato la pressione."
+          ]
+        },
+        {
+          "id": "b1-09-w13",
+          "en": "balanced diet",
+          "it": "dieta equilibrata",
+          "ipa": "ˌbælənst ˈdaɪət",
+          "pos": "n",
+          "ex": [
+            "A balanced diet includes fruit, vegetables and protein.",
+            "Una dieta equilibrata comprende frutta, verdura e proteine."
+          ]
+        },
+        {
+          "id": "b1-09-w14",
+          "en": "well-being",
+          "it": "benessere",
+          "ipa": "ˌwelˈbiːɪŋ",
+          "pos": "n",
+          "ex": [
+            "Walking every day is good for your well-being.",
+            "Camminare ogni giorno fa bene al benessere."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "sprain your ankle",
+              "slogarsi la caviglia"
+            ],
+            [
+              "take your blood pressure",
+              "misurare la pressione"
+            ],
+            [
+              "recover from an illness",
+              "guarire da una malattia"
+            ],
+            [
+              "have a check-up",
+              "fare un controllo"
+            ],
+            [
+              "be allergic to nuts",
+              "essere allergico alla frutta secca"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I can't eat shellfish: I'm ___ to it.",
+          "opts": [
+            "allergic",
+            "allergy",
+            "allergical"
+          ],
+          "a": 0,
+          "why": "Aggettivo + to: allergic to. «Allergy» è il nome (an allergy to shellfish)."
+        },
+        {
+          "t": "gap",
+          "s": "He's still ___ from a serious operation, so he can't work yet.",
+          "opts": [
+            "recovering",
+            "recuperating of",
+            "healing up of"
+          ],
+          "a": 0,
+          "why": "Si dice recover from (non «of»): recovering from an operation."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "I fell on the ice and now I have a big blue and purple ___ on my knee.",
+          "answers": [
+            "bruise"
+          ],
+          "why": "A volte c'è anche il verbo: I bruised my knee."
+        },
+        {
+          "t": "wordform",
+          "s": "The doctor said it was a viral ___ , not an allergy.",
+          "root": "INFECT",
+          "answers": [
+            "infection"
+          ],
+          "why": "Serve un nome: infect -> infection."
+        },
+        {
+          "t": "mc",
+          "q": "«Side effect» in un foglietto illustrativo significa:",
+          "opts": [
+            "effetto collaterale",
+            "effetto speciale",
+            "effetto immediato"
+          ],
+          "a": 0,
+          "why": "Falso amico da evitare: «effetto speciale» sarebbe special effect."
+        }
+      ]
+    },
+    {
+      "id": "b1-09-reading",
+      "kind": "reading",
+      "title": "Piccole abitudini, grandi risultati",
+      "intro": "Un blog personale su come cambiare stile di vita senza esagerare. Leggi cercando le idee principali, poi controlla i dettagli.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "read",
+          "title": "One small change at a time",
+          "genre": "blog",
+          "text": "Three months ago my doctor gave me a shock. I had gone for a routine check-up, expecting to hear that everything was fine, but my blood pressure was higher than it should be. \"You're only thirty-eight,\" she said, \"but you sit at a desk all day, you sleep badly and you live on sandwiches. Your body must be sending you a message.\" I went home determined to change my life completely.\n\nThat was my first mistake. During the first week I got up at five to run, cooked every meal from scratch and threw away all the sweets in my kitchen. By Friday I was exhausted and dizzy, and on Saturday I sprained my ankle on a muddy path. I must have looked ridiculous, sitting on the pavement and checking an app that told me I had slept for only four hours. My sister, who is a physiotherapist, phoned that evening. \"You can't change everything at once,\" she said. \"You might feel motivated now, but you'll give up by the end of the month. Pick one thing.\"\n\nSo I did. I chose sleep. I decided that I had to be in bed by eleven, and that I mustn't look at my phone after half past ten. It sounds simple, but it was hard at the beginning. After two weeks, though, I noticed that I was less tired and didn't need three coffees before lunch. Then I added a ten-minute walk after dinner. Last month I started cooking one proper meal on Sundays, so that I have healthy lunches for the whole week.\n\nI'm not a different person yet. I still eat chocolate, and I don't have to run marathons to be healthy, whatever the internet says. But last week I went back for another check-up. My blood pressure still wasn't perfect, but it was much better, and my doctor looked pleasantly surprised. \"Whatever you're doing,\" she said, \"you'd better keep doing it.\"\n\nMy advice? Don't try to become an athlete overnight. Small habits are boring, but they work, and your ankle will thank you.",
+          "qs": [
+            {
+              "q": "Why was the writer surprised at the check-up?",
+              "opts": [
+                "The blood pressure was too high.",
+                "The doctor said everything was perfect.",
+                "The doctor wanted to send the writer to hospital."
+              ],
+              "a": 0,
+              "why": "«...my blood pressure was higher than it should be»."
+            },
+            {
+              "q": "What went wrong in the first week?",
+              "opts": [
+                "The writer tried to change too much at once.",
+                "The writer had no time to cook.",
+                "The writer ate too many sweets."
+              ],
+              "a": 0,
+              "why": "Il primo errore: cambiare tutto insieme (sveglia alle cinque, cucina, niente dolci)."
+            },
+            {
+              "q": "The writer's sister is a doctor.",
+              "opts": [
+                "False",
+                "True",
+                "Not given"
+              ],
+              "a": 0,
+              "why": "«My sister, who is a physiotherapist»: è fisioterapista."
+            },
+            {
+              "q": "What did the sister advise?",
+              "opts": [
+                "To concentrate on one change.",
+                "To stop running.",
+                "To see a specialist."
+              ],
+              "a": 0,
+              "why": "«Pick one thing.»"
+            },
+            {
+              "q": "The writer decided to be in bed by ___ .",
+              "answers": [
+                "11",
+                "eleven",
+                "11 p.m.",
+                "11pm",
+                "eleven o'clock",
+                "11 o'clock",
+                "23:00"
+              ]
+            },
+            {
+              "q": "The writer has stopped eating chocolate.",
+              "opts": [
+                "False",
+                "True",
+                "Not given"
+              ],
+              "a": 0,
+              "why": "«I still eat chocolate»."
+            },
+            {
+              "q": "The writer's sister has also changed her habits.",
+              "opts": [
+                "Not given",
+                "True",
+                "False"
+              ],
+              "a": 0,
+              "why": "Il testo non dice nulla sulle abitudini della sorella."
+            },
+            {
+              "q": "What is the main message of the text?",
+              "opts": [
+                "Small, steady changes work better than sudden big ones.",
+                "Everyone must run a marathon.",
+                "Doctors are always right."
+              ],
+              "a": 0,
+              "why": "Ultimo paragrafo: «Don't try to become an athlete overnight»."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «Pick one thing» significa:",
+          "opts": [
+            "Scegline una sola.",
+            "Raccogli una cosa.",
+            "Prendi qualcosa."
+          ],
+          "a": 0,
+          "why": "Pick = scegliere; qui è un consiglio."
+        },
+        {
+          "t": "gap",
+          "s": "I felt so ___ that I had to sit down for a minute.",
+          "opts": [
+            "dizzy",
+            "sprained",
+            "allergic"
+          ],
+          "a": 0,
+          "why": "Dizzy = che ha le vertigini."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola dal testo",
+          "s": "She cooks every meal from ___ , without using ready-made food.",
+          "answers": [
+            "scratch"
+          ],
+          "why": "From scratch = da zero, partendo dagli ingredienti."
+        },
+        {
+          "t": "mc",
+          "q": "In «he looked pleasantly surprised», pleasantly indica:",
+          "opts": [
+            "in modo positivo",
+            "con gentilezza",
+            "con fretta"
+          ],
+          "a": 0,
+          "why": "Pleasantly = in modo piacevole; non è «gentilmente»."
+        }
+      ]
+    },
+    {
+      "id": "b1-09-listening",
+      "kind": "listening",
+      "title": "Una visita dal medico di base",
+      "intro": "Ascolta una visita in un ambulatorio inglese: sintomi, domande del medico e consigli. Riascoltala se serve.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "At the doctor's",
+          "it": "Ascolta la visita e rispondi alle domande. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Dr Patel",
+              "Come in, Mr Ricci. Take a seat. What can I do for you today?"
+            ],
+            [
+              "Mr Ricci",
+              "Well, doctor, I've been feeling dizzy for about a week, especially in the morning."
+            ],
+            [
+              "Dr Patel",
+              "I see. Does it happen when you stand up quickly?"
+            ],
+            [
+              "Mr Ricci",
+              "Yes, mostly. And yesterday I almost fell over on the stairs at work."
+            ],
+            [
+              "Dr Patel",
+              "Hmm. Are you eating and drinking normally?"
+            ],
+            [
+              "Mr Ricci",
+              "Actually, no. I skip breakfast, and I only have a couple of glasses of water a day. I drink a lot of coffee, though."
+            ],
+            [
+              "Dr Patel",
+              "That could be part of the problem. Any pain in your chest?"
+            ],
+            [
+              "Mr Ricci",
+              "No chest pain, but I've had a bit of a headache in the afternoons."
+            ],
+            [
+              "Dr Patel",
+              "Are you taking any medicine at the moment?"
+            ],
+            [
+              "Mr Ricci",
+              "Only something for my allergy, in spring. I'm not allergic to anything else, as far as I know."
+            ],
+            [
+              "Dr Patel",
+              "Good. Let me check your blood pressure. Yes, it's a little low. That might explain the dizziness. I don't think it's anything serious, but I'd like you to have a blood test, just to be sure."
+            ],
+            [
+              "Mr Ricci",
+              "Should I stop drinking coffee?"
+            ],
+            [
+              "Dr Patel",
+              "You don't have to stop, but you should cut down. Have breakfast every day and drink plenty of water. If you feel faint again, or you get chest pain, you must call 999 straight away."
+            ],
+            [
+              "Mr Ricci",
+              "Understood. Thank you, doctor."
+            ],
+            [
+              "Dr Patel",
+              "Book the blood test at reception, and come back in two weeks."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "How long has Mr Ricci felt dizzy?",
+              "opts": [
+                "About a week",
+                "A few days",
+                "About a month"
+              ],
+              "a": 0
+            },
+            {
+              "q": "When does he mostly feel dizzy?",
+              "opts": [
+                "When he stands up quickly",
+                "After meals",
+                "When he is driving"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does he usually do about breakfast?",
+              "opts": [
+                "He doesn't have it.",
+                "He has a big one.",
+                "He has only coffee and a biscuit."
+              ],
+              "a": 0
+            },
+            {
+              "q": "Dr Patel wants Mr Ricci to have a blood ___ .",
+              "answers": [
+                "test"
+              ]
+            },
+            {
+              "q": "What does the doctor think about the problem?",
+              "opts": [
+                "It probably isn't serious.",
+                "It is certainly an infection.",
+                "It is an allergic reaction."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does the doctor say about coffee?",
+              "opts": [
+                "He should drink less of it.",
+                "He must stop completely.",
+                "He can drink as much as he likes."
+              ],
+              "a": 0
+            },
+            {
+              "q": "When must Mr Ricci call 999?",
+              "opts": [
+                "If he feels faint again or has chest pain.",
+                "If he has a headache.",
+                "If he forgets the blood test."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "You don't have to stop, but you should cut down.",
+          "it": "Non è necessario smettere, ma dovresti ridurre."
+        },
+        {
+          "t": "dictation",
+          "en": "If you feel faint again, you must call 999 straight away.",
+          "it": "Se ti senti di nuovo svenire, devi chiamare subito il 999."
+        },
+        {
+          "t": "speak",
+          "en": "I've been feeling dizzy for about a week.",
+          "it": "Mi sento stordito da circa una settimana."
+        }
+      ]
+    },
+    {
+      "id": "b1-09-situation",
+      "kind": "situation",
+      "title": "Dal medico e in emergenza",
+      "intro": "Descrivere i sintomi con precisione e sapere che cosa dire in una chiamata di emergenza. Frasi da imparare a memoria: nel momento del bisogno non c'è tempo di tradurre.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Descrivere i sintomi",
+          "body": "- **I've had a pain in my back since Monday.** = Ho mal di schiena da lunedì. (present perfect + since)\n- **It hurts when I bend over.** = Mi fa male quando mi piego.\n- **It started two days ago.** = È iniziato due giorni fa.\n- **I feel dizzy / sick / very weak.**\n- **I'm allergic to penicillin.**\n- **I'm taking tablets for my blood pressure.**\n\nIl medico chiederà: **What seems to be the problem? How long have you had it? Are you taking any medicine?**\n\nErrore tipico: «I have a pain since Monday» -> **I've had** a pain since Monday. «My back hurts me» -> **My back hurts.**",
+          "ex": [
+            [
+              "I've had a sore back since Monday.",
+              "Ho mal di schiena da lunedì."
+            ],
+            [
+              "Are you allergic to anything?",
+              "È allergico a qualcosa?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Numeri di emergenza e cosa dire",
+          "body": "Nel Regno Unito il numero di emergenza è **999**. In tutta l'Unione Europea funziona il **112**. (In Italia esistono anche numeri nazionali come il 118, ma il 112 è valido ovunque in Europa.)\n\nLa persona al telefono chiederà: **Which service do you need?** (ambulanza, polizia, vigili del fuoco)\n\nChe cosa dire, in ordine:\n- **I need an ambulance.**\n- **Where are you?** -> We're outside the station on Park Road.\n- **What's happened?** -> A man has collapsed. He's breathing, but he isn't responding.\n- Resta in linea: **Stay on the line and don't hang up.**\n\nUn consiglio generale: in caso di dubbio su un sintomo grave, non aspettare. Chiama.",
+          "ex": [
+            [
+              "I need an ambulance, please.",
+              "Mi serve un'ambulanza, per favore."
+            ],
+            [
+              "She's collapsed and she isn't breathing.",
+              "È svenuta e non respira."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Dal medico di base",
+          "it": "Scegli la battuta giusta per te (Tu).",
+          "lines": [
+            [
+              "Doctor",
+              "Good morning. What seems to be the problem?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I've had a sore back since Monday, and it hurts when I bend over.",
+                  "I have a sore back since Monday, and it hurts me when I bend.",
+                  "My back is hurting me since Monday when I bend."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Doctor",
+              "Did you do anything that might have caused it?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I think I lifted something too heavy while I was moving house.",
+                  "I think I have lifted something too heavy when I moved house.",
+                  "I think I lift something too heavy while moving house."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Doctor",
+              "I'll give you some advice. You should rest, and you shouldn't lift anything heavy for a week."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Should I take anything for the pain?",
+                  "Do I should take anything for the pain?",
+                  "Am I have to take something for the pain?"
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Chiamata di emergenza",
+          "it": "Sei testimone di un malore per strada. Scegli le battute giuste.",
+          "lines": [
+            [
+              "Operator",
+              "Emergency. Which service do you need?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Ambulance, please. A man has collapsed in the street.",
+                  "Ambulance, please. A man is fall down in the street.",
+                  "Ambulance, please. A man has been collapse in the street."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Operator",
+              "What's the address?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "We're outside the post office on Mill Road.",
+                  "We are in front to the post office at Mill Road.",
+                  "We stay outside of the post office in Mill Road."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Operator",
+              "Is he breathing?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, he's breathing, but he isn't answering me.",
+                  "Yes, he breathes, but he doesn't answer to me.",
+                  "Yes, he is breath, but he don't answer me."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Operator",
+              "Stay with him. An ambulance is on its way."
+            ]
+          ]
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "I've had a headache since lunch.",
+              "Ho mal di testa da pranzo."
+            ],
+            [
+              "It hurts when I swallow.",
+              "Mi fa male quando deglutisco."
+            ],
+            [
+              "I'm allergic to penicillin.",
+              "Sono allergico alla penicillina."
+            ],
+            [
+              "Stay on the line.",
+              "Resti in linea."
+            ],
+            [
+              "He isn't responding.",
+              "Non risponde."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Da quanto tempo ha questo dolore?",
+          "en": "How long have you had this pain",
+          "extra": [
+            "did",
+            "since"
+          ],
+          "why": "Domanda con present perfect: How long have you had...?"
+        },
+        {
+          "t": "speak",
+          "en": "I've had a sore throat since Tuesday.",
+          "it": "Ho mal di gola da martedì."
+        },
+        {
+          "t": "speak",
+          "en": "I'm allergic to penicillin.",
+          "it": "Sono allergico alla penicillina."
+        },
+        {
+          "t": "speak",
+          "en": "I need an ambulance. Someone has collapsed.",
+          "it": "Mi serve un'ambulanza. Una persona è svenuta."
+        },
+        {
+          "t": "speakTask",
+          "q": "You are at the doctor's. Describe your symptoms.",
+          "it": "Sei dal medico: descrivi un problema di salute inventato (che cosa senti, da quanto tempo, se prendi farmaci). Almeno 4 frasi.",
+          "hints": [
+            "I've had... since...",
+            "It hurts when...",
+            "I'm taking...",
+            "I'm allergic to..."
+          ],
+          "min": 30,
+          "model": "I've had a headache since Monday, and it gets worse in the afternoon. I feel a bit dizzy when I stand up. It started after a very stressful week at work. I'm not taking any medicine at the moment, and I'm not allergic to anything. Do you think it might be serious?"
+        }
+      ]
+    },
+    {
+      "id": "b1-09-production",
+      "kind": "production",
+      "title": "Un'email per dare consigli",
+      "intro": "Scrivi un'email a un amico che sta male o è stressato: consigli chiari, tono gentile, senza sembrare un medico. Poi parla di come ti prendi cura di te.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Dare consigli per iscritto",
+          "body": "- **Aprire**: Thanks for your message. / I'm sorry to hear that...\n- **Deduzione**: You must be exhausted! / It might be stress.\n- **Consigli**: You should... / You shouldn't... / If I were you, I'd... / Why don't you...? / It might help to... / You'd better... (più forte)\n- **Rassicurare**: Don't worry too much. / You don't have to be perfect.\n- **Contrasto**: However, ... / but ...\n- **Chiudere**: Call me if you want to talk. / Take care! / Love, / Best wishes,\n\nErrore tipico: «You should to rest» (dopo should niente to) e «it's better that you rest» (meglio: you'd better rest).",
+          "ex": [
+            [
+              "If I were you, I'd talk to your manager.",
+              "Al posto tuo parlerei con il tuo capo."
+            ],
+            [
+              "It might help to go to bed earlier.",
+              "Potrebbe aiutare andare a letto prima."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "You look pale. You ___ go home and rest.",
+          "opts": [
+            "should",
+            "must to",
+            "would better"
+          ],
+          "a": 0,
+          "why": "Consiglio: should + base, senza «to»."
+        },
+        {
+          "t": "gap",
+          "s": "If I ___ you, I'd see a doctor.",
+          "opts": [
+            "were",
+            "am",
+            "would be"
+          ],
+          "a": 0,
+          "why": "Consiglio con «If I were you, I'd...»: nel if-clause si usa were."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "You should to drink more water.",
+          "answers": [
+            "You should drink more water"
+          ],
+          "why": "Dopo should il verbo resta alla forma base."
+        },
+        {
+          "t": "order",
+          "it": "Al posto tuo, andrei dal medico.",
+          "en": "If I were you I'd see a doctor",
+          "extra": [
+            "am",
+            "will"
+          ],
+          "why": "If I were you, I'd + verbo base."
+        },
+        {
+          "t": "write",
+          "q": "Your friend Jo has started a new job and writes to you: 'I'm sleeping badly, I'm always tired and I feel stressed.' Write an email to Jo. Say you are sorry, say what you think the problem is, and give some advice.",
+          "it": "Scrivi un'email a Jo: dispiacere, che cosa pensi sia la causa (deduzione con must/might), 3-4 consigli (should, If I were you..., You'd better...). Consigli generici, non da medico.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho iniziato e chiuso con una formula amichevole",
+            "Ho usato almeno una deduzione (must / might / can't)",
+            "Ho dato almeno tre consigli con modali diversi (should, you'd better, If I were you...)",
+            "Ho usato almeno un connettivo di contrasto (however, but)",
+            "Ho suggerito di vedere il medico solo se il problema continua"
+          ],
+          "useful": [
+            "Thanks for your message.",
+            "I'm sorry to hear that.",
+            "You must be...",
+            "If I were you, I'd...",
+            "It might help to...",
+            "You'd better...",
+            "However,",
+            "Take care!"
+          ],
+          "model": "Hi Jo,\n\nThanks for your message. I'm sorry you're feeling so tired. A new job is stressful, so you must be exhausted!\n\nFirst of all, you should go to bed at the same time every night, and you shouldn't check your phone in bed. If I were you, I'd also stop drinking coffee after lunch. It might help to go for a short walk in the evening, too.\n\nDon't worry too much. You don't have to be perfect in your first month, and nobody can expect miracles. However, if you still feel bad in two weeks, you'd better see your doctor.\n\nCall me if you want to talk!\n\nLove,\nMarta"
+        },
+        {
+          "t": "speakTask",
+          "q": "What do you do to stay healthy? What could you do better?",
+          "it": "Parla delle tue abitudini: che cosa fai già per stare bene e che cosa dovresti cambiare (usa should e ought to).",
+          "hints": [
+            "I usually...",
+            "I should...",
+            "I ought to...",
+            "I'd like to..."
+          ],
+          "min": 40,
+          "model": "I try to walk to work every day, and I don't eat much junk food. But I should sleep more, because I often go to bed after midnight. I ought to drink less coffee, too. This year I'd like to do some exercise twice a week."
+        },
+        {
+          "t": "speakTask",
+          "q": "A colleague looks very tired and keeps yawning. What do you think has happened? What do you say to him?",
+          "it": "Fai deduzioni su un collega stanco (must have, might have) e digli che cosa ti sembra meglio fare.",
+          "hints": [
+            "You look...",
+            "You must have...",
+            "He might have...",
+            "Why don't you...?"
+          ],
+          "min": 30,
+          "model": "You look really tired, Paolo. You must have had a bad night. Maybe the baby didn't sleep, or you might have worked too late. If I were you, I'd go home early today. Why don't you take the afternoon off?"
+        }
+      ]
+    },
+    {
+      "id": "b1-09-test",
+      "kind": "test",
+      "title": "Test dell'unità 9",
+      "intro": "Verifica senza aiuti: modali di deduzione, obbligo e consiglio, lessico della salute, un testo e un ascolto.",
+      "minutes": 15,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "I saw them leave for the airport an hour ago. They ___ be at home.",
+          "opts": [
+            "can't",
+            "must",
+            "might"
+          ],
+          "a": 0,
+          "why": "Sono certo che non sono a casa: can't."
+        },
+        {
+          "t": "gap",
+          "s": "The patient has a very high temperature. He ___ have an infection.",
+          "opts": [
+            "must",
+            "can't",
+            "has to"
+          ],
+          "a": 0,
+          "why": "Indizio forte: deduzione positiva con must."
+        },
+        {
+          "t": "gap",
+          "s": "You ___ go to work with a fever. Stay at home.",
+          "opts": [
+            "shouldn't",
+            "don't have to",
+            "might not"
+          ],
+          "a": 0,
+          "why": "Consiglio negativo: shouldn't."
+        },
+        {
+          "t": "gap",
+          "s": "She looks pale. She ___ be ill, or perhaps she's just tired.",
+          "opts": [
+            "might",
+            "must",
+            "can't"
+          ],
+          "a": 0,
+          "why": "Due possibilità: might."
+        },
+        {
+          "t": "gap",
+          "s": "I'm ___ to penicillin, so I always tell the doctor.",
+          "opts": [
+            "allergic",
+            "allergy",
+            "allergical"
+          ],
+          "a": 0,
+          "why": "Aggettivo allergic + to."
+        },
+        {
+          "t": "wordform",
+          "s": "The doctor said it was a viral ___ .",
+          "root": "INFECT",
+          "answers": [
+            "infection"
+          ],
+          "why": "Nome: infection."
+        },
+        {
+          "t": "wordform",
+          "s": "Her ___ from the operation was quicker than expected.",
+          "root": "RECOVER",
+          "answers": [
+            "recovery"
+          ],
+          "why": "Nome: recover -> recovery."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "You must have been very worried.",
+            "You must be been very worried.",
+            "You must had been very worried."
+          ],
+          "a": 0,
+          "why": "Deduzione sul passato: must have been."
+        },
+        {
+          "t": "mc",
+          "q": "Come dici «Non devi venire se non vuoi»?",
+          "opts": [
+            "You don't have to come if you don't want to.",
+            "You mustn't come if you don't want to.",
+            "You haven't to come if you don't want."
+          ],
+          "a": 0,
+          "why": "Non necessario = don't have to; mustn't è un divieto."
+        },
+        {
+          "t": "mc",
+          "q": "Quale numero di emergenza funziona in tutta l'Unione Europea?",
+          "opts": [
+            "112",
+            "118",
+            "911"
+          ],
+          "a": 0,
+          "why": "Il 112 è il numero unico europeo."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «blood pressure»?",
+          "opts": [
+            "pressione sanguigna",
+            "analisi del sangue",
+            "donazione di sangue"
+          ],
+          "a": 0,
+          "why": "Blood pressure = pressione; analisi = blood test."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "They must be arrived by now.",
+          "answers": [
+            "They must have arrived by now"
+          ],
+          "why": "Deduzione sul passato: must have + participio."
+        },
+        {
+          "t": "fix",
+          "q": "Correggi l'errore",
+          "s": "You had better to see a doctor.",
+          "answers": [
+            "You had better see a doctor",
+            "You'd better see a doctor"
+          ],
+          "why": "Had better + base, senza «to»."
+        },
+        {
+          "t": "transform",
+          "s1": "Perhaps the doctor is busy.",
+          "key": "MAY",
+          "s2": "The doctor ___ busy.",
+          "answers": [
+            "may be"
+          ],
+          "why": "Forse = may be."
+        },
+        {
+          "t": "transform",
+          "s1": "It's possible that she took the wrong pills.",
+          "key": "COULD",
+          "s2": "She ___ the wrong pills.",
+          "answers": [
+            "could have taken"
+          ],
+          "why": "Possibilità nel passato: could have + participio."
+        },
+        {
+          "t": "transform",
+          "s1": "It isn't necessary for you to book in advance.",
+          "key": "HAVE",
+          "s2": "You ___ book in advance.",
+          "answers": [
+            "don't have to",
+            "do not have to"
+          ],
+          "why": "Non necessario = don't have to."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Marco deve aver preso un raffreddore.",
+          "answers": [
+            "Marco must have caught a cold",
+            "Marco must have got a cold"
+          ],
+          "why": "Deduzione sul passato: must have + participio (caught)."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Mi sono slogato la caviglia.",
+          "answers": [
+            "I sprained my ankle",
+            "I've sprained my ankle",
+            "I have sprained my ankle",
+            "I twisted my ankle"
+          ],
+          "why": "Sprain = slogare."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Last week I went for a ___ at my doctor's: everything was fine.",
+          "answers": [
+            "check-up",
+            "checkup"
+          ],
+          "why": "Check-up = controllo di routine."
+        },
+        {
+          "t": "order",
+          "it": "Non devi dimenticare le medicine.",
+          "en": "You mustn't forget your medicine",
+          "extra": [
+            "forgetting",
+            "taking"
+          ],
+          "why": "Divieto/avvertimento: mustn't + base."
+        },
+        {
+          "t": "cloze",
+          "title": "Completa il testo",
+          "mode": "mc",
+          "text": "Hi Anna,\n\nSorry I couldn't come on Saturday. On Monday I {1} my ankle playing football, and it is still very swollen. The doctor says I {2} rest it for at least a week. She also gave me some tablets, but I'm {3} to one of the ingredients, so I only take half. Last night I couldn't sleep, so I {4} look terrible today. Marco wasn't at the party either. He {5} been ill, I think.\n\nSpeak soon,\nElena",
+          "gaps": [
+            {
+              "opts": [
+                "sprained",
+                "sprain",
+                "have sprained",
+                "was sprained"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "have to",
+                "must to",
+                "should to",
+                "am having to"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "allergic",
+                "allergy",
+                "allergical",
+                "allergen"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "must",
+                "mustn't",
+                "can't",
+                "have"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "must have",
+                "must",
+                "must has",
+                "have"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from the clinic",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            [
+              "Receptionist",
+              "Hello, this is Greenfield Clinic calling for Mrs Evans. Your blood test results are ready, and the doctor would like to see you on Thursday at ten past four. You don't have to bring anything, but please arrive five minutes early. If you can't come, call us before Wednesday. Thank you."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What is the message about?",
+              "opts": [
+                "Some test results",
+                "A change of doctor",
+                "A new prescription"
+              ],
+              "a": 0
+            },
+            {
+              "q": "When is the appointment?",
+              "opts": [
+                "Thursday afternoon",
+                "Wednesday morning",
+                "Thursday morning"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What should Mrs Evans do if she can't come?",
+              "opts": [
+                "Phone the clinic before Wednesday.",
+                "Come on Friday.",
+                "Send an email on Thursday."
+              ],
+              "a": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

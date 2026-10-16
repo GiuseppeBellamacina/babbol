@@ -1,0 +1,1506 @@
+{
+  "id": "b1-05",
+  "level": "B1",
+  "position": 5,
+  "title": "Soldi e ambiente",
+  "sub": "Periodi ipotetici, unless e in case - cosa succede se...",
+  "grammar": "Zero, first e second conditional, unless, in case, as long as",
+  "topic": "Soldi e ambiente",
+  "situation": "In banca: aprire un conto e problemi con la carta",
+  "lessons": [
+    {
+      "id": "b1-05-grammar",
+      "kind": "grammar",
+      "title": "Se succede, se succedesse",
+      "intro": "In italiano il periodo ipotetico è un incubo di congiuntivi. In inglese è molto più regolare, ma gli italiani sbagliano il tempo dopo if. Qui impari le tre strutture e due parole utili: unless e in case.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Zero e first conditional: cose vere e cose probabili",
+          "body": "**Zero conditional**: **if + present simple, present simple**. Per fatti sempre veri e regole.\n- If you heat ice, it **melts**.\n- If I **don't sleep**, I **get** a headache.\n\n**First conditional**: **if + present simple, will + base**. Per una **situazione possibile** nel futuro e la sua conseguenza.\n- If it **rains** tomorrow, we'**ll stay** at home.\n- If you **save** £50 a month, you'**ll have** £600 in a year.\n\nNella frase con if **non si mette mai will**: «If I will see him» è l'errore più comune. Nella principale, al posto di will, si possono usare **can, may, might** o un imperativo: *If you see Anna, tell her to call me.*",
+          "table": [
+            [
+              "Tipo",
+              "If clause",
+              "Frase principale",
+              "Esempio"
+            ],
+            [
+              "Zero",
+              "present simple",
+              "present simple",
+              "If you mix blue and yellow, you get green."
+            ],
+            [
+              "First",
+              "present simple",
+              "will + base",
+              "If I get the job, I'll buy a car."
+            ]
+          ],
+          "ex": [
+            [
+              "If you don't pay by the 10th, the bank charges a fee.",
+              "Se non paghi entro il 10, la banca applica una commissione."
+            ],
+            [
+              "If I find a bargain, I'll send you the link.",
+              "Se trovo un affare, ti mando il link."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Second conditional: situazioni immaginarie",
+          "body": "**If + past simple, would + base**. Si usa per situazioni **irreali o improbabili nel presente o nel futuro**, che in italiano esprimi con il congiuntivo imperfetto e il condizionale.\n- If I **had** more money, I'**d buy** a bigger flat. (ma non ce l'ho)\n- If I **won** the lottery, I **would invest** in solar panels.\n\nCon **be** si usa **were** per tutte le persone (anche was è accettato nel parlato): If I **were** you, I'd talk to the manager.\n\n**Errori tipici degli italiani**:\n- «If I **would have** more money...» (would nella if clause è sbagliato)\n- «If I **will** win...» (will non si usa dopo if)\n- usare il present simple nell'if e would nella principale («If I win, I would...»).",
+          "table": [
+            [
+              "Tipo",
+              "If clause",
+              "Frase principale",
+              "Esempio"
+            ],
+            [
+              "Second",
+              "past simple",
+              "would + base",
+              "If I earned more, I would save more."
+            ]
+          ],
+          "ex": [
+            [
+              "If I were rich, I wouldn't work so hard.",
+              "Se fossi ricco, non lavorerei così tanto."
+            ],
+            [
+              "What would you do if you lost your card?",
+              "Che cosa faresti se perdessi la carta?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Unless, in case, as long as",
+          "body": "- **Unless = if ... not**: Unless you hurry, you'll miss the train. (= If you don't hurry...) Dopo unless **non si mette un altro not**: «Unless you don't hurry» è sbagliato.\n- **In case + present simple**: per **precauzione**, qualcosa che farai prima, nel caso succeda. I'll take an umbrella **in case it rains**. (lo prendo prima, non dopo che piove). Non va confuso con **if**: I'll take it **if it rains** = lo prendo solo se piove.\n- **As long as / provided (that)** = **a condizione che**: You can borrow my car **as long as you drive carefully**.\n\nDopo tutte queste congiunzioni, come dopo if, si usa il **present simple** per il futuro.",
+          "ex": [
+            [
+              "You won't get a refund unless you have the receipt.",
+              "Non avrai il rimborso a meno che tu abbia lo scontrino."
+            ],
+            [
+              "Take some cash in case the card machine isn't working.",
+              "Porta un po' di contanti nel caso il POS non funzioni."
+            ],
+            [
+              "I'll lend you the money as long as you pay me back soon.",
+              "Ti presto i soldi purché me li restituisca presto."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Quale tipo scegliere?",
+          "body": "Chiediti: la situazione è **sempre vera**, **possibile** o **immaginaria**?\n- Sempre vera -> **zero**: If you boil water, it evaporates.\n- Possibile / realistica -> **first**: If I get a pay rise, I'll save more.\n- Immaginaria / improbabile -> **second**: If I got a pay rise, I would travel more.\n\nLa differenza è nell'attitudine di chi parla: «If I win the lottery, I'll buy a house» suona come se ci credessi; «If I won the lottery, I would buy a house» come un sogno.",
+          "ex": [
+            [
+              "If I get the money, I'll invest it.",
+              "Se ottengo i soldi, li investirò."
+            ],
+            [
+              "If I got the money, I would invest it.",
+              "Se ricevessi quei soldi, li investirei."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "If you heat ice, it ___ .",
+          "opts": [
+            "melts",
+            "will melts",
+            "melt"
+          ],
+          "a": 0,
+          "it": "Se scaldi il ghiaccio, si scioglie.",
+          "why": "Fatto sempre vero: zero conditional, present simple con la -s della terza persona."
+        },
+        {
+          "t": "gap",
+          "s": "If it ___ tomorrow, we'll cancel the picnic.",
+          "opts": [
+            "rains",
+            "will rain",
+            "rained"
+          ],
+          "a": 0,
+          "why": "First conditional: present simple nell'if clause, mai will."
+        },
+        {
+          "t": "gap",
+          "s": "If I ___ more money, I'd buy a bigger flat.",
+          "opts": [
+            "had",
+            "have",
+            "would have"
+          ],
+          "a": 0,
+          "why": "Second conditional: past simple nell'if clause, would nella principale."
+        },
+        {
+          "t": "gap",
+          "s": "I'll lend you the money ___ you pay me back next month.",
+          "opts": [
+            "as long as",
+            "unless",
+            "in case"
+          ],
+          "a": 0,
+          "why": "«A condizione che» = as long as."
+        },
+        {
+          "t": "gap",
+          "s": "I always take a charger with me ___ my battery runs out.",
+          "opts": [
+            "in case",
+            "unless",
+            "as soon as"
+          ],
+          "a": 0,
+          "why": "Precauzione: in case + present simple."
+        },
+        {
+          "t": "gap",
+          "s": "You won't get a refund ___ you have the receipt.",
+          "opts": [
+            "unless",
+            "if",
+            "in case"
+          ],
+          "a": 0,
+          "why": "Unless = if not: senza scontrino niente rimborso."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "If I won the lottery, I would travel round the world.",
+            "If I would win the lottery, I would travel round the world.",
+            "If I win the lottery, I would travel round the world."
+          ],
+          "a": 0,
+          "why": "Second conditional: if + past simple, would + base. Would non va nell'if clause."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «Unless you hurry, you'll miss the bus»?",
+          "opts": [
+            "Se non ti sbrighi, perderai l'autobus.",
+            "Se ti sbrighi, perderai l'autobus.",
+            "A meno che tu perda l'autobus, ti sbrighi."
+          ],
+          "a": 0,
+          "why": "Unless = if ... not."
+        },
+        {
+          "t": "type",
+          "q": "Zero conditional: scrivi la forma giusta",
+          "s": "If you ___ (mix) red and yellow, you get orange.",
+          "answers": [
+            "mix"
+          ],
+          "why": "Fatto sempre vero: present simple."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta di be",
+          "s": "If I ___ you, I wouldn't spend all that money.",
+          "answers": [
+            "were",
+            "was"
+          ],
+          "why": "Nel second conditional si usa were per tutte le persone (was nel parlato informale)."
+        },
+        {
+          "t": "type",
+          "q": "Completa con UNA parola",
+          "s": "We'll be late ___ we leave now.",
+          "answers": [
+            "unless"
+          ],
+          "why": "Unless = se non: «saremo in ritardo se non partiamo adesso»."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Se avessi più tempo, imparerei il tedesco.",
+          "answers": [
+            "If I had more time, I would learn German",
+            "If I had more time, I'd learn German",
+            "If I had more time, I would study German",
+            "If I had more time, I'd study German"
+          ],
+          "why": "Situazione immaginaria: if + past simple, would + base."
+        },
+        {
+          "t": "fix",
+          "s": "If I will see him, I'll tell him.",
+          "answers": [
+            "If I see him, I'll tell him",
+            "If I see him I will tell him"
+          ],
+          "why": "Dopo if non si usa will: present simple."
+        },
+        {
+          "t": "fix",
+          "s": "If I would have a car, I would drive to work.",
+          "answers": [
+            "If I had a car, I would drive to work",
+            "If I had a car, I'd drive to work"
+          ],
+          "why": "Would non si mette nell'if clause: serve il past simple."
+        },
+        {
+          "t": "fix",
+          "s": "Unless you don't hurry, we'll miss the train.",
+          "answers": [
+            "Unless you hurry, we'll miss the train",
+            "If you don't hurry, we'll miss the train"
+          ],
+          "why": "Unless contiene già la negazione: niente secondo not."
+        },
+        {
+          "t": "transform",
+          "s1": "I'm not rich, so I can't buy that car.",
+          "key": "RICH",
+          "s2": "If I ___ , I could buy that car.",
+          "answers": [
+            "were rich",
+            "was rich"
+          ],
+          "why": "Situazione irreale: if + were / was + aggettivo."
+        },
+        {
+          "t": "transform",
+          "s1": "Take your passport, because the bank may ask for ID.",
+          "key": "CASE",
+          "s2": "Take your passport ___ for ID.",
+          "answers": [
+            "in case the bank asks",
+            "in case they ask"
+          ],
+          "why": "In case + present simple per la precauzione."
+        },
+        {
+          "t": "order",
+          "it": "Se guadagnassi di più, risparmierei di più ogni mese.",
+          "en": "If I earned more money I would save more every month",
+          "extra": [
+            "earns",
+            "saved"
+          ],
+          "alts": [
+            "I would save more every month if I earned more money",
+            "If I earned more I would save more money every month",
+            "I would save more money every month if I earned more"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-05-vocab",
+      "kind": "vocab",
+      "title": "Soldi e ambiente",
+      "intro": "Il lessico per parlare di bilancio personale, di banca e di ambiente: quanto spendi, quanto risparmi e che cosa lasci sul pianeta.",
+      "minutes": 15,
+      "words": [
+        {
+          "id": "b1-05-w01",
+          "en": "afford",
+          "it": "permettersi (economicamente)",
+          "ipa": "əˈfɔːd",
+          "pos": "v",
+          "ex": [
+            "I can't afford a new car on my salary.",
+            "Non posso permettermi un'auto nuova con il mio stipendio."
+          ],
+          "note": "Si usa quasi sempre con can / can't: can't afford + nome o to + verbo."
+        },
+        {
+          "id": "b1-05-w02",
+          "en": "budget",
+          "it": "bilancio, budget",
+          "ipa": "ˈbʌdʒɪt",
+          "pos": "n",
+          "ex": [
+            "We have a tight budget this month.",
+            "Questo mese abbiamo un budget molto stretto."
+          ],
+          "note": "Anche verbo: budget for = mettere in preventivo. Collocazione: stick to a budget."
+        },
+        {
+          "id": "b1-05-w03",
+          "en": "income",
+          "it": "reddito, entrate",
+          "ipa": "ˈɪŋkʌm",
+          "pos": "n",
+          "ex": [
+            "Her income is lower than her expenses.",
+            "Le sue entrate sono inferiori alle spese."
+          ],
+          "note": "Salary = stipendio fisso; income = tutte le entrate."
+        },
+        {
+          "id": "b1-05-w04",
+          "en": "withdraw",
+          "it": "prelevare",
+          "ipa": "wɪðˈdrɔː",
+          "pos": "v",
+          "ex": [
+            "I withdrew two hundred pounds from the cash machine.",
+            "Ho prelevato duecento sterline al bancomat."
+          ],
+          "note": "Irregolare: withdraw - withdrew - withdrawn. Il nome è withdrawal."
+        },
+        {
+          "id": "b1-05-w05",
+          "en": "overdraft",
+          "it": "scoperto di conto",
+          "ipa": "ˈəʊvədrɑːft",
+          "pos": "n",
+          "ex": [
+            "I'm in my overdraft until the end of the month.",
+            "Sono scoperto fino a fine mese."
+          ],
+          "note": "Si dice be in your overdraft o go into your overdraft."
+        },
+        {
+          "id": "b1-05-w06",
+          "en": "fee",
+          "it": "commissione, quota",
+          "ipa": "fiː",
+          "pos": "n",
+          "ex": [
+            "There's a small fee for withdrawals abroad.",
+            "C'è una piccola commissione per i prelievi all'estero."
+          ],
+          "note": "Per i servizi (banca, scuola, medico). Il biglietto è fare."
+        },
+        {
+          "id": "b1-05-w07",
+          "en": "invest",
+          "it": "investire",
+          "ipa": "ɪnˈvest",
+          "pos": "v",
+          "ex": [
+            "She invested her savings in solar panels.",
+            "Ha investito i risparmi in pannelli solari."
+          ],
+          "note": "Invest in + cosa."
+        },
+        {
+          "id": "b1-05-w08",
+          "en": "waste",
+          "it": "sprecare / spreco, rifiuti",
+          "ipa": "weɪst",
+          "pos": "v",
+          "ex": [
+            "Don't waste water while you brush your teeth.",
+            "Non sprecare l'acqua mentre ti lavi i denti."
+          ],
+          "note": "Anche nome non numerabile: a waste of time / food waste."
+        },
+        {
+          "id": "b1-05-w09",
+          "en": "recycle",
+          "it": "riciclare",
+          "ipa": "ˌriːˈsaɪkl",
+          "pos": "v",
+          "ex": [
+            "We recycle all our glass and paper.",
+            "Ricicliamo tutto il vetro e la carta."
+          ]
+        },
+        {
+          "id": "b1-05-w10",
+          "en": "renewable",
+          "it": "rinnovabile",
+          "ipa": "rɪˈnjuːəbl",
+          "pos": "adj",
+          "ex": [
+            "Wind is a renewable energy source.",
+            "Il vento è una fonte di energia rinnovabile."
+          ]
+        },
+        {
+          "id": "b1-05-w11",
+          "en": "pollution",
+          "it": "inquinamento",
+          "ipa": "pəˈluːʃn",
+          "pos": "n",
+          "ex": [
+            "Air pollution is a big problem in the city.",
+            "L'inquinamento atmosferico è un grosso problema in città."
+          ],
+          "note": "Non numerabile: mai «pollutions»."
+        },
+        {
+          "id": "b1-05-w12",
+          "en": "carbon footprint",
+          "it": "impronta di carbonio",
+          "ipa": "ˈkɑːbən ˈfʊtprɪnt",
+          "pos": "n",
+          "ex": [
+            "Flying less will reduce your carbon footprint.",
+            "Volare meno ridurrà la tua impronta di carbonio."
+          ]
+        },
+        {
+          "id": "b1-05-w13",
+          "en": "second-hand",
+          "it": "di seconda mano, usato",
+          "ipa": "ˌsekənd ˈhænd",
+          "pos": "adj",
+          "ex": [
+            "I bought a second-hand bike for fifty pounds.",
+            "Ho comprato una bici usata per cinquanta sterline."
+          ],
+          "note": "Si usa anche come avverbio: I bought it second-hand."
+        },
+        {
+          "id": "b1-05-w14",
+          "en": "bargain",
+          "it": "affare, occasione",
+          "ipa": "ˈbɑːɡɪn",
+          "pos": "n",
+          "ex": [
+            "At ten pounds, this jacket is a real bargain.",
+            "A dieci sterline, questa giacca è un vero affare."
+          ],
+          "note": "Indica l'acquisto conveniente. Contrattare sul prezzo si dice haggle."
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "pay a fee",
+              "pagare una commissione"
+            ],
+            [
+              "withdraw cash",
+              "prelevare contanti"
+            ],
+            [
+              "reduce your carbon footprint",
+              "ridurre la propria impronta di carbonio"
+            ],
+            [
+              "stick to a budget",
+              "rispettare un budget"
+            ],
+            [
+              "recycle plastic",
+              "riciclare la plastica"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I can't ___ a new car on my salary.",
+          "opts": [
+            "afford",
+            "pay",
+            "spend"
+          ],
+          "a": 0,
+          "why": "«Permettersi» economicamente = afford. Pay e spend vogliono un'altra costruzione."
+        },
+        {
+          "t": "gap",
+          "s": "I bought this jacket for only ten pounds. It was a real ___ .",
+          "opts": [
+            "bargain",
+            "affair",
+            "discount"
+          ],
+          "a": 0,
+          "why": "Un acquisto molto conveniente è a bargain. Discount è lo sconto, non l'affare."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Some banks ___ a small fee for every withdrawal abroad.",
+          "answers": [
+            "charge",
+            "apply"
+          ],
+          "why": "Si dice charge a fee: applicare una commissione."
+        },
+        {
+          "t": "wordform",
+          "s": "Using public transport helps to reduce air ___ in big cities.",
+          "root": "POLLUTE",
+          "answers": [
+            "pollution"
+          ],
+          "why": "Serve un nome non numerabile: pollute -> pollution."
+        },
+        {
+          "t": "wordform",
+          "s": "We need more ___ energy, like sun and wind.",
+          "root": "RENEW",
+          "answers": [
+            "renewable"
+          ],
+          "why": "Serve un aggettivo: renew -> renewable."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «second-hand» riferito a un'auto?",
+          "opts": [
+            "usata",
+            "di seconda classe",
+            "di seconda scelta"
+          ],
+          "a": 0,
+          "why": "Second-hand = già usato da qualcun altro."
+        }
+      ]
+    },
+    {
+      "id": "b1-05-reading",
+      "kind": "reading",
+      "title": "Il vero prezzo della moda economica",
+      "intro": "Un articolo di opinione su come risparmiare e inquinare meno cambiando il modo di fare shopping. Cerca i periodi ipotetici e le regole che l'autore si è dato.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "read",
+          "title": "The hidden price of cheap clothes",
+          "genre": "article",
+          "text": "A few months ago I counted the clothes in my wardrobe. There were sixty-three items, and I had worn only about twenty of them in the last year. I felt a little embarrassed, because most of those clothes had been cheap bargains: a five-pound T-shirt here, a ten-pound jumper there. If something costs so little, you don't think twice about buying it.\n\nBut cheap clothes have a hidden price. The fashion industry produces about a tenth of the world's carbon emissions, and a lot of what we buy ends up in the bin after only a few wears. According to some studies, a single cotton T-shirt needs about two thousand litres of water. If we all bought half as many clothes, the pollution from the industry would fall dramatically.\n\nSo what can we do? Some people say that we should simply stop shopping, but that isn't realistic for most of us. Instead, I decided to try a different approach. First, I set a monthly budget: forty pounds, and not a penny more. Second, I made a rule that I would only buy something if I could imagine wearing it at least thirty times. Finally, I started looking in second-hand shops and online markets. I was surprised by how many good things you can find there. Last week I bought a wool coat for eighteen pounds that would cost over a hundred in a normal shop.\n\nMy friend Laura thinks I'm being too strict. \"You'll get bored,\" she says, \"unless you allow yourself a treat now and then.\" She may be right, so I have agreed to buy one new item every season. In case I forget the rules, I've written them on a note inside the wardrobe door.\n\nI'm not trying to be perfect. But I now believe that if we spent more on fewer, better things, we would save money and help the planet at the same time.",
+          "qs": [
+            {
+              "q": "Why did the writer feel embarrassed?",
+              "opts": [
+                "Most of the clothes had hardly been worn.",
+                "The clothes had been very expensive.",
+                "Friends had criticised the wardrobe."
+              ],
+              "a": 0,
+              "why": "«I had worn only about twenty of them in the last year»."
+            },
+            {
+              "q": "The fashion industry produces about ___ of the world's carbon emissions.",
+              "answers": [
+                "a tenth",
+                "one tenth",
+                "10%",
+                "10 per cent",
+                "10 percent",
+                "ten per cent",
+                "ten percent"
+              ]
+            },
+            {
+              "q": "What would happen if people bought half as many clothes?",
+              "opts": [
+                "Pollution would fall a lot.",
+                "Prices would go down.",
+                "Shops would close."
+              ],
+              "a": 0,
+              "why": "«The pollution from the industry would fall dramatically»."
+            },
+            {
+              "q": "How much is the writer's monthly clothes budget?",
+              "opts": [
+                "40 pounds",
+                "18 pounds",
+                "63 pounds"
+              ],
+              "a": 0,
+              "why": "«forty pounds, and not a penny more»."
+            },
+            {
+              "q": "What is the writer's rule for buying clothes?",
+              "opts": [
+                "Only buy things they could wear at least thirty times.",
+                "Never buy more than one item a month.",
+                "Only buy things under ten pounds."
+              ],
+              "a": 0,
+              "why": "«I would only buy something if I could imagine wearing it at least thirty times»."
+            },
+            {
+              "q": "The wool coat cost ___ pounds.",
+              "answers": [
+                "18",
+                "eighteen"
+              ]
+            },
+            {
+              "q": "What does Laura think?",
+              "opts": [
+                "The writer will get bored without a treat.",
+                "The writer should stop shopping completely.",
+                "Second-hand clothes are a bad idea."
+              ],
+              "a": 0,
+              "why": "«You'll get bored unless you allow yourself a treat now and then»."
+            },
+            {
+              "q": "The writer has now stopped buying new clothes completely.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "Ha accettato di comprare un capo nuovo a ogni stagione."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «you don't think twice about buying it» significa:",
+          "opts": [
+            "lo compri senza pensarci troppo",
+            "lo compri due volte",
+            "ci pensi per due giorni"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Last week I bought a coat that ___ over a hundred pounds in a normal shop.",
+          "opts": [
+            "would cost",
+            "will cost",
+            "costing"
+          ],
+          "a": 0,
+          "why": "Il prezzo ipotetico in un negozio normale: would + base."
+        },
+        {
+          "t": "type",
+          "q": "Completa come nel testo",
+          "s": "I've written the rules on a note inside the ___ door.",
+          "answers": [
+            "wardrobe"
+          ],
+          "why": "Wardrobe = armadio."
+        }
+      ]
+    },
+    {
+      "id": "b1-05-listening",
+      "kind": "listening",
+      "title": "Meno spese, meno plastica",
+      "intro": "Due amici parlano di come tengono sotto controllo le spese e di come riciclano. Ascolta i piccoli trucchi quotidiani e le condizioni che pongono.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Saving money and plastic",
+          "it": "Ascolta il dialogo e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+          "lines": [
+            [
+              "Emma",
+              "Jack, have you seen my bank statement? I don't understand where all my money goes."
+            ],
+            [
+              "Jack",
+              "Well, if you spend like me, it just disappears. I've started using an app that tracks every payment. It shows you everything."
+            ],
+            [
+              "Emma",
+              "Does it work?"
+            ],
+            [
+              "Jack",
+              "Honestly, yes. Last month I realised I was spending sixty pounds on takeaway coffee. If I stopped buying them, I'd save over seven hundred a year."
+            ],
+            [
+              "Emma",
+              "Seven hundred! That's a holiday."
+            ],
+            [
+              "Jack",
+              "Exactly. So now I make coffee at home and I take it in a flask. Unless it's an emergency, I don't buy any."
+            ],
+            [
+              "Emma",
+              "I should do the same. What about the environment? You told me you're trying to recycle more."
+            ],
+            [
+              "Jack",
+              "Yes, but it's harder than it sounds. In my building there's only one bin, so I take my plastic bottles to the supermarket. I always take a bag with me, in case I find some more on the way."
+            ],
+            [
+              "Emma",
+              "That's dedication. I'd forget."
+            ],
+            [
+              "Jack",
+              "If you put the bag next to your front door, you won't forget. That's my trick."
+            ],
+            [
+              "Emma",
+              "Okay, I'll try. And if it doesn't work, I'll blame you!"
+            ],
+            [
+              "Jack",
+              "Fair enough."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What is Emma's problem?",
+              "opts": [
+                "She doesn't know where her money goes.",
+                "She has lost her bank card.",
+                "She spends too much on coffee."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does Jack use to check his spending?",
+              "opts": [
+                "An app",
+                "A notebook",
+                "A spreadsheet"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Jack was spending about ___ pounds a month on takeaway coffee.",
+              "answers": [
+                "60",
+                "sixty"
+              ]
+            },
+            {
+              "q": "How much could Jack save in a year?",
+              "opts": [
+                "Over 700 pounds",
+                "About 60 pounds",
+                "Around 7,000 pounds"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Why does Jack take plastic bottles to the supermarket?",
+              "opts": [
+                "His building has only one bin.",
+                "The supermarket pays him.",
+                "He works there."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What is Jack's trick for remembering the bag?",
+              "opts": [
+                "Putting it by the front door",
+                "Writing a note on the fridge",
+                "Asking Emma to remind him"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "If I stopped buying coffee, I would save over seven hundred pounds a year.",
+          "it": "Se smettessi di comprare il caffè, risparmierei più di settecento sterline all'anno."
+        },
+        {
+          "t": "dictation",
+          "en": "I always take a bag with me, in case I find some more bottles.",
+          "it": "Porto sempre una borsa con me, nel caso trovassi altre bottiglie."
+        },
+        {
+          "t": "speak",
+          "en": "If I had more money, I would travel more often.",
+          "it": "Se avessi più soldi, viaggerei più spesso."
+        }
+      ]
+    },
+    {
+      "id": "b1-05-situation",
+      "kind": "situation",
+      "title": "In banca",
+      "intro": "Aprire un conto, chiedere delle commissioni, bloccare una carta inghiottita dal bancomat. Le frasi per cavartela in banca in inglese senza tradurre dall'italiano.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Aprire un conto",
+          "body": "- **I'd like to open a current account.** = Vorrei aprire un conto corrente. (current account; savings account = conto di risparmio)\n- **What do I need to bring?** / **Do you need proof of address?**\n- **Is there a monthly fee?** = C'è un canone mensile?\n- **Can I get a debit card with it?**\n- **How long will it take to open?**\n\nAttenzione: «conto» è **account**, mentre **bill** è la fattura o la bolletta (a gas bill). «Carta di credito» è credit card, ma la carta del conto corrente è la **debit card**.",
+          "ex": [
+            [
+              "I'd like to open a current account, please.",
+              "Vorrei aprire un conto corrente, per favore."
+            ],
+            [
+              "Is there a monthly fee?",
+              "C'è un canone mensile?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Problemi con la carta",
+          "body": "- **My card has been swallowed by the cash machine.** (ATM = cash machine / cashpoint)\n- **I've lost my card. Could you block it, please?**\n- **My card was declined.** = Il pagamento è stato rifiutato.\n- **There's a payment I don't recognise on my statement.**\n- **Could you send me a replacement card?**\n\nTono: **Could you...? / Would it be possible to...?** sono cortesi; «You must...» è troppo diretto e non aiuta. Per ringraziare: **That would be very helpful, thank you.**",
+          "ex": [
+            [
+              "My card was declined at the supermarket.",
+              "La mia carta è stata rifiutata al supermercato."
+            ],
+            [
+              "Could you block it and send me a replacement?",
+              "Potrebbe bloccarla e mandarmene una nuova?"
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Aprire un conto",
+          "it": "Scegli la battuta più naturale e cortese (Tu).",
+          "lines": [
+            [
+              "Clerk",
+              "Good morning. How can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I'd like to open a current account, please.",
+                  "I want open a account of the bank.",
+                  "I would like open me a conto."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "Certainly. Do you have some ID and proof of address with you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, I've brought my passport and a recent gas bill.",
+                  "Yes, I have my passport and a bill of the gas of the last month, is good?",
+                  "Yes, I bring here passport and bill."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "Thank you. Just so you know, there's a monthly fee of three pounds unless you pay in at least a thousand pounds a month."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I see. Is there any way to avoid the fee?",
+                  "I see. You must remove the fee, it's not fair.",
+                  "I see. The fee is a joke."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "In inglese per le richieste si usano forme cortesi con «I'd like...» e «Is there any way to...?»; le forme dirette suonano scortesi."
+        },
+        {
+          "t": "dialog",
+          "title": "La carta è rimasta nel bancomat",
+          "lines": [
+            [
+              "Clerk",
+              "Good afternoon. Can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good afternoon. I'm afraid my card has been swallowed by the cash machine.",
+                  "Good afternoon. The machine ate my card and I want it back now.",
+                  "Good afternoon. My card is eaten from the machine."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "I'm sorry to hear that. Was it your debit card?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, it was. Could you block it and send me a new one?",
+                  "Yes, is it. You block it and send new.",
+                  "Yes, it was. I want that you send me a new."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "Of course. The new card will arrive in five working days. If you need cash before then, I can give you a temporary card."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "That would be very helpful, thank you.",
+                  "That would be very useful for me, thanks you.",
+                  "That is helpful, thank."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "I'd like to open a current account.",
+              "Vorrei aprire un conto corrente."
+            ],
+            [
+              "My card was declined.",
+              "La mia carta è stata rifiutata."
+            ],
+            [
+              "Could you block my card?",
+              "Potrebbe bloccare la mia carta?"
+            ],
+            [
+              "Is there a monthly fee?",
+              "C'è un canone mensile?"
+            ],
+            [
+              "I'd like to withdraw some cash.",
+              "Vorrei prelevare un po' di contanti."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Vorrei sapere se c'è una commissione per i prelievi all'estero.",
+          "en": "I would like to know if there is a fee for withdrawals abroad",
+          "extra": [
+            "tax",
+            "withdraw"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "I'd like to open a current account, please.",
+          "it": "Vorrei aprire un conto corrente, per favore."
+        },
+        {
+          "t": "speak",
+          "en": "My card was declined and I don't know why.",
+          "it": "La mia carta è stata rifiutata e non so perché."
+        },
+        {
+          "t": "speak",
+          "en": "Could you block it and send me a replacement?",
+          "it": "Potrebbe bloccarla e mandarmene una nuova?"
+        },
+        {
+          "t": "speakTask",
+          "q": "You are at the bank because you have lost your card. Explain the problem and ask for help.",
+          "it": "Sei in banca: hai perso la carta. Spiega che cosa è successo, chiedi di bloccarla e di averne una nuova, chiedi quanto ci vuole (almeno 5 frasi cortesi).",
+          "hints": [
+            "Good morning, I'm afraid I've lost...",
+            "Could you block it, please?",
+            "Is there a fee for a replacement?",
+            "How long will it take?",
+            "If I need cash before then, ..."
+          ],
+          "min": 40,
+          "model": "Good morning. I'm afraid I've lost my debit card. I think I left it in a taxi yesterday evening. Could you block it, please? Is there a fee for a replacement card? Also, how long will it take to arrive? If I need cash before then, could I withdraw some at the counter? Thank you, I really appreciate your help."
+        }
+      ]
+    },
+    {
+      "id": "b1-05-production",
+      "kind": "production",
+      "title": "Un articolo di opinione",
+      "intro": "Scriverai un breve articolo d'opinione su un tema di attualità, usando i periodi ipotetici per proporre idee e conseguenze. Prima prepari struttura e connettivi.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come si scrive un articolo d'opinione",
+          "body": "Struttura in 3-4 paragrafi brevi:\n- **Titolo** (una domanda funziona bene)\n- **Opinione chiara**: In my opinion, ... / I strongly believe that...\n- **Argomento e conseguenza**: If people have to pay, they will think twice.\n- **Obiezione e risposta**: Some people say that... However, ...\n- **Conclusione**: To sum up, ... / All in all, ...\n\n**Connettivi**: On the one hand... on the other hand, However, Therefore, For example, Unless we..., As long as...\n\nPer dare un consiglio o proporre una soluzione: **If I were the government, I would...**",
+          "ex": [
+            [
+              "If shops charged for bags, people would use fewer.",
+              "Se i negozi facessero pagare le borse, la gente ne userebbe di meno."
+            ],
+            [
+              "Unless we act now, the problem will get worse.",
+              "Se non agiamo ora, il problema peggiorerà."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "___ the one hand, plastic bags are cheap; on the other hand, they harm the sea.",
+          "opts": [
+            "On",
+            "In",
+            "At"
+          ],
+          "a": 0,
+          "why": "L'espressione è on the one hand... on the other hand."
+        },
+        {
+          "t": "gap",
+          "s": "Some people think that prices will go up. ___ , I believe the benefits are bigger.",
+          "opts": [
+            "However",
+            "Because",
+            "So that"
+          ],
+          "a": 0,
+          "why": "However introduce un'obiezione o un contrasto con la frase precedente."
+        },
+        {
+          "t": "fix",
+          "s": "If I would be the mayor, I would ban cars in the city centre.",
+          "answers": [
+            "If I were the mayor, I would ban cars in the city centre",
+            "If I was the mayor, I would ban cars in the city centre"
+          ],
+          "why": "Nell'if clause: past simple (were), non would."
+        },
+        {
+          "t": "type",
+          "q": "Completa con UNA parola",
+          "s": "In my ___ , shops should charge for plastic bags.",
+          "answers": [
+            "opinion",
+            "view"
+          ],
+          "why": "In my opinion / In my view: per esprimere il proprio parere."
+        },
+        {
+          "t": "transform",
+          "s1": "If we don't change our habits, the seas will be full of plastic.",
+          "key": "UNLESS",
+          "s2": "The seas will be full of plastic ___ our habits.",
+          "answers": [
+            "unless we change",
+            "unless we all change"
+          ],
+          "why": "Unless = if ... not, e il verbo resta affermativo."
+        },
+        {
+          "t": "write",
+          "q": "A school magazine is asking readers for short articles. Write an article answering the question: Should shops charge for plastic bags? Give your opinion, support it with reasons and say what you would do if you were in charge.",
+          "it": "Scrivi un breve articolo d'opinione sul tema «Should shops charge for plastic bags?»: dai la tua opinione, motivala e di' che cosa faresti se fossi il responsabile.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho messo un titolo e organizzato il testo in paragrafi",
+            "Ho espresso chiaramente la mia opinione (In my opinion...)",
+            "Ho usato almeno un first conditional e un second conditional",
+            "Ho usato unless o in case almeno una volta",
+            "Ho aggiunto un'obiezione con However o some people say..."
+          ],
+          "useful": [
+            "In my opinion, ...",
+            "If people have to pay, they will...",
+            "If I were the government, I would...",
+            "Some people say that... However, ...",
+            "Unless we change...",
+            "To sum up, ..."
+          ],
+          "model": "Should shops charge for plastic bags?\n\nIn my opinion, shops should definitely charge for plastic bags. If people have to pay even a few pence, they will think twice and bring their own bags. In my town, bag use fell by half after the new rule.\n\nSome people say that this is unfair to customers on low incomes. However, if you reuse one strong bag, you save money in the long run.\n\nIf I were the government, I would go even further and ban single-use plastic completely. Unless we change our habits now, our seas will be full of plastic in the future.\n\nTo sum up, small charges can bring big changes."
+        },
+        {
+          "t": "speakTask",
+          "q": "What would you do if you had a lot more money?",
+          "it": "Che cosa faresti se avessi molti più soldi? Usa il second conditional (almeno 4 frasi).",
+          "hints": [
+            "If I had more money, I would...",
+            "I wouldn't...",
+            "I would also...",
+            "If I were rich, ..."
+          ],
+          "min": 40,
+          "model": "If I had a lot more money, I would first pay off my debts. Then I would invest in a small flat, because I wouldn't have to pay rent any more. I would also travel more, but I wouldn't fly everywhere because I care about the environment. And if I were really rich, I would give some money to a charity that plants trees."
+        },
+        {
+          "t": "speakTask",
+          "q": "What can ordinary people do to protect the environment?",
+          "it": "Che cosa possono fare le persone comuni per proteggere l'ambiente? Usa first conditional, unless o in case (almeno 4 frasi).",
+          "hints": [
+            "If we all..., we will...",
+            "Unless we..., ...",
+            "I always... in case...",
+            "As long as..."
+          ],
+          "min": 40,
+          "model": "If we all use less plastic, the sea will be cleaner. I always take a cloth bag to the supermarket in case I buy something. Unless we change how we travel, pollution will keep getting worse, so I walk or cycle when I can. And as long as it's possible, I buy second-hand clothes."
+        }
+      ]
+    },
+    {
+      "id": "b1-05-test",
+      "kind": "test",
+      "title": "Test dell'unità 5",
+      "intro": "Verifica senza aiuti: zero, first e second conditional, unless, in case e il lessico di soldi e ambiente. Le correzioni le vedi alla fine.",
+      "minutes": 20,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "If you freeze water, it ___ into ice.",
+          "opts": [
+            "turns",
+            "will turns",
+            "turn"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "If the bank ___ my card tomorrow, I'll go to the shop.",
+          "opts": [
+            "sends",
+            "will send",
+            "sent"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "If she ___ more free time, she would learn to paint.",
+          "opts": [
+            "had",
+            "has",
+            "would have"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "You can use my laptop ___ you don't delete anything.",
+          "opts": [
+            "as long as",
+            "unless",
+            "in case"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Write down the number ___ you forget it.",
+          "opts": [
+            "in case",
+            "unless",
+            "as soon as"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "We won't go on holiday ___ we save enough money.",
+          "opts": [
+            "unless",
+            "if",
+            "in case"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "If I ___ in your position, I would ask the bank for advice.",
+          "opts": [
+            "were",
+            "am",
+            "would be"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "This bank ___ a fee for every transfer abroad.",
+          "opts": [
+            "charges",
+            "pays",
+            "costs"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "If I had a bigger budget, I would buy a new laptop.",
+            "If I would have a bigger budget, I would buy a new laptop.",
+            "If I have a bigger budget, I would buy a new laptop."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «I'll take a coat in case it gets cold»?",
+          "opts": [
+            "Prendo un cappotto nel caso faccia freddo.",
+            "Prendo il cappotto solo quando farà freddo.",
+            "Prendo il cappotto perché fa già freddo."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta",
+          "s": "If you ___ (add) sugar to coffee, it tastes sweeter.",
+          "answers": [
+            "add"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Completa con UNA parola",
+          "s": "I'll be angry ___ you tell me the truth.",
+          "answers": [
+            "unless"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Se vincessi alla lotteria, comprerei una casa.",
+          "answers": [
+            "If I won the lottery, I would buy a house",
+            "If I won the lottery, I'd buy a house",
+            "If I won the lottery, I would buy a flat",
+            "If I won the lottery, I'd buy a flat"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta (negativa)",
+          "s": "If it ___ (not / rain) tomorrow, we'll go to the beach.",
+          "answers": [
+            "doesn't rain",
+            "does not rain"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "If I will find a bargain, I'll buy it.",
+          "answers": [
+            "If I find a bargain, I'll buy it",
+            "If I find a bargain I will buy it"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "If I would live near the sea, I would swim every day.",
+          "answers": [
+            "If I lived near the sea, I would swim every day",
+            "If I lived near the sea, I'd swim every day"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "Unless you don't pay the fee, they will close your account.",
+          "answers": [
+            "Unless you pay the fee, they will close your account",
+            "If you don't pay the fee, they will close your account"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "I don't have enough money, so I can't buy a house.",
+          "key": "ENOUGH",
+          "s2": "If I ___ money, I could buy a house.",
+          "answers": [
+            "had enough"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "Bring some cash because the card machine might not work.",
+          "key": "CASE",
+          "s2": "Bring some cash ___ work.",
+          "answers": [
+            "in case the machine doesn't",
+            "in case it doesn't",
+            "in case the card machine doesn't"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "Cars cause a lot of air ___ in the city centre.",
+          "root": "POLLUTE",
+          "answers": [
+            "pollution"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I can't ___ to go on holiday this year; everything is too expensive.",
+          "opts": [
+            "afford",
+            "pay",
+            "waste"
+          ],
+          "a": 0
+        },
+        {
+          "t": "order",
+          "it": "Se fossi in te, parlerei con il direttore della banca.",
+          "en": "If I were you I would talk to the bank manager",
+          "extra": [
+            "am",
+            "will"
+          ],
+          "alts": [
+            "I would talk to the bank manager if I were you"
+          ]
+        },
+        {
+          "t": "cloze",
+          "title": "Completa l'email",
+          "mode": "mc",
+          "text": "Hi Jo,\n\nI'm trying to save money. If I {1} less on clothes, I'll have enough for a holiday by June. If I {2} a lot more, I would buy a car, but I can't afford one now. I always take cash in case the card machine {3} work. I won't buy anything new unless it {4} really necessary.\n\nSpeak soon,\nEva",
+          "gaps": [
+            {
+              "opts": [
+                "spend",
+                "will spend",
+                "spent"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "earned",
+                "earn",
+                "would earn"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "doesn't",
+                "does",
+                "not"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "is",
+                "isn't",
+                "will be"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from the bank",
+          "it": "Ascolta il messaggio in segreteria.",
+          "lines": [
+            [
+              "Bank",
+              "Hello Mr Davies, this is the card team. Your new debit card will arrive on Friday. If you want to use it straight away, you will need to call us to activate it. Unless you tell us otherwise, we will block your old card on Monday, so please keep some cash in case you need it over the weekend. Thank you."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "When will the new card arrive?",
+              "opts": [
+                "On Friday",
+                "On Monday",
+                "At the weekend"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What must Mr Davies do to use the card straight away?",
+              "opts": [
+                "Phone the bank to activate it.",
+                "Go to the branch.",
+                "Wait until Monday."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What will the bank do on Monday?",
+              "opts": [
+                "Block the old card.",
+                "Send another card.",
+                "Close the account."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "In banca",
+          "lines": [
+            [
+              "Clerk",
+              "Good morning. How can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Good morning. I'd like to open a current account, please.",
+                  "Good morning. I want to open me an account.",
+                  "Good morning. I would open a account of current."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Clerk",
+              "Of course. Is there anything else you need?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, could you tell me if there is a monthly fee?",
+                  "Yes, you tell me if is a monthly fee.",
+                  "Yes, I want know the fee monthly."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

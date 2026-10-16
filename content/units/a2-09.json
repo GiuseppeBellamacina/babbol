@@ -1,0 +1,1531 @@
+{
+ "id": "a2-09",
+ "level": "A2",
+ "position": 9,
+ "title": "Trasporti e imprevisti",
+ "sub": "First conditional, when / as soon as / until - in stazione e in aeroporto",
+ "grammar": "First conditional, time clauses (when, as soon as, until), preposizioni di tempo e luogo",
+ "topic": "Trasporti",
+ "situation": "In stazione e in aeroporto (biglietti, ritardi, gate)",
+ "lessons": [
+  {
+   "id": "a2-09-grammar",
+   "kind": "grammar",
+   "title": "If, when, until: parlare del futuro",
+   "intro": "In italiano diciamo «se piove, resterò a casa» e «ti chiamo quando arrivo». In inglese dopo if e when il verbo resta al presente, non al futuro. È l'errore di grammatica più frequente di chi viaggia: lo sistemiamo qui, con le preposizioni di tempo e luogo.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "First conditional: if + presente, will + verbo base",
+     "body": "Si usa per parlare di una **possibilità reale nel futuro** e della sua conseguenza.\n\nStruttura: **If + present simple, ... will + verbo base**.\n- If the train is late, I'll call you.\n- If it rains, we won't go to the beach.\n\nL'ordine si può invertire (senza virgola): **I'll call you if the train is late.**\n\n**Errore tipico degli italiani**: «If it will rain, I will stay at home». Dopo **if** non si usa **will**: in italiano il verbo dopo «se» è al futuro, in inglese al presente.\n\nAl posto di will si può usare anche **can**, **must**, **should** o un imperativo: If you're hungry, **have** a sandwich.",
+     "table": [
+      [
+       "",
+       "Frase con if",
+       "Conseguenza"
+      ],
+      [
+       "Affermativa",
+       "If I miss the bus,",
+       "I'll take a taxi."
+      ],
+      [
+       "Negativa",
+       "If you don't hurry,",
+       "you won't catch the train."
+      ],
+      [
+       "Domanda",
+       "What will you do",
+       "if the flight is cancelled?"
+      ]
+     ],
+     "ex": [
+      [
+       "If we leave now, we'll arrive on time.",
+       "Se partiamo ora, arriveremo in orario."
+      ],
+      [
+       "If it doesn't stop raining, we won't go out.",
+       "Se non smette di piovere, non usciremo."
+      ],
+      [
+       "What will you do if you miss your flight?",
+       "Che cosa farai se perdi il volo?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "When, as soon as, until, before, after",
+     "body": "Con queste parole di tempo che parlano del futuro, il verbo che le segue è al **presente**, mai al futuro.\n- **when** = quando: I'll call you **when I arrive**.\n- **as soon as** = appena: I'll text you **as soon as I get there**.\n- **until** (o till) = fino a quando: Wait here **until the bus comes**.\n- **before** = prima che / prima di: Let's have a coffee **before we go**.\n- **after** = dopo che: I'll call you **after the meeting ends**.\n\nLa frase principale ha will (o un imperativo), la frase con la parola di tempo ha il presente.\n\n**Errore tipico**: «I'll call you when I will arrive» -> **I'll call you when I arrive.**\nAttenzione: **if** = «se» (è possibile che succeda), **when** = «quando» (succederà di sicuro). If I arrive late... / When I arrive...",
+     "ex": [
+      [
+       "I'll text you as soon as I land.",
+       "Ti scrivo appena atterro."
+      ],
+      [
+       "We'll wait until you come back.",
+       "Aspetteremo finché non torni."
+      ],
+      [
+       "Don't leave the station before I get there.",
+       "Non lasciare la stazione prima che io arrivi."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Preposizioni di tempo: at, on, in",
+     "body": "- **at**: ore e momenti precisi: at 6.45, at noon, at night, at the weekend.\n- **on**: giorni e date: on Monday, on 5 May, on Friday morning.\n- **in**: mesi, stagioni, anni, parti del giorno: in June, in winter, in 2027, in the morning / in the afternoon / in the evening.\n\nAttenzione: **at night** ma **in the morning**; **on Friday morning** (se c'è un giorno, si usa on).\n\nAltre due, spesso confuse in italiano:\n- **by** = **entro**: Be at the station by eight. (alle otto o prima)\n- **until** = **fino a**: I'll wait until eight. (resto fino alle otto)\n\nSi dice **for** per la durata: The flight takes two hours / I waited for an hour.",
+     "table": [
+      [
+       "at",
+       "on",
+       "in"
+      ],
+      [
+       "at 7.30",
+       "on Tuesday",
+       "in July"
+      ],
+      [
+       "at noon",
+       "on 12 June",
+       "in the evening"
+      ],
+      [
+       "at night",
+       "on Saturday night",
+       "in 2028"
+      ]
+     ],
+     "ex": [
+      [
+       "The train leaves at 7.30 on Saturday morning.",
+       "Il treno parte alle 7.30 di sabato mattina."
+      ],
+      [
+       "We're flying to Madrid in May.",
+       "Voliamo a Madrid a maggio."
+      ],
+      [
+       "Please arrive at the gate by ten.",
+       "Per favore presentatevi al gate entro le dieci."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Preposizioni di luogo e trasporti",
+     "body": "- **at** un punto o un luogo di servizio: at the station, at the airport, at the bus stop, at the gate.\n- **in** uno spazio chiuso o una città: in London, in the car, in a taxi.\n- **on** i mezzi pubblici su cui si sale e si cammina: on the train, on the bus, on the plane, on the platform.\n\nIl mezzo di trasporto con **by**, senza articolo: **by train, by bus, by car, by plane**. Ma a piedi: **on foot**.\nPer arrivare: **arrive at** (stazione, aeroporto, hotel) e **arrive in** (città o paese). Mai «arrive to».\nSalire e scendere: **get on / get off** (treno, autobus, aereo), **get in / get out of** (auto, taxi).\n\nErrore tipico: «I go to work with the train» -> **I go to work by train.**",
+     "ex": [
+      [
+       "I'm at the station. Where are you?",
+       "Sono alla stazione. Dove sei?"
+      ],
+      [
+       "We arrived in Naples at midnight.",
+       "Siamo arrivati a Napoli a mezzanotte."
+      ],
+      [
+       "Get off the bus at the next stop.",
+       "Scendi dall'autobus alla prossima fermata."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "If the train is late, we ___ the connection.",
+     "opts": [
+      "will miss",
+      "would miss",
+      "are missing"
+     ],
+     "a": 0,
+     "it": "Se il treno è in ritardo, perderemo la coincidenza.",
+     "why": "Possibilità reale nel futuro: if + presente, will + verbo base."
+    },
+    {
+     "t": "gap",
+     "s": "I'll call you as soon as I ___ at the airport.",
+     "opts": [
+      "arrive",
+      "will arrive",
+      "arrived"
+     ],
+     "a": 0,
+     "it": "Ti chiamo appena arrivo all'aeroporto.",
+     "why": "Dopo as soon as il verbo è al presente, anche se parli del futuro."
+    },
+    {
+     "t": "gap",
+     "s": "Wait here until the bus ___ .",
+     "opts": [
+      "comes",
+      "will come",
+      "came"
+     ],
+     "a": 0,
+     "it": "Aspetta qui finché non arriva l'autobus.",
+     "why": "Dopo until il verbo resta al presente."
+    },
+    {
+     "t": "gap",
+     "s": "The flight leaves ___ 6.45 a.m.",
+     "opts": [
+      "at",
+      "on",
+      "in"
+     ],
+     "a": 0,
+     "it": "Il volo parte alle 6.45.",
+     "why": "Con le ore si usa at."
+    },
+    {
+     "t": "gap",
+     "s": "We're meeting ___ Friday morning.",
+     "opts": [
+      "on",
+      "in",
+      "at"
+     ],
+     "a": 0,
+     "it": "Ci vediamo venerdì mattina.",
+     "why": "Con un giorno della settimana si usa on, anche se segue morning."
+    },
+    {
+     "t": "gap",
+     "s": "She travels to work ___ train.",
+     "opts": [
+      "by",
+      "with",
+      "in"
+     ],
+     "a": 0,
+     "it": "Va al lavoro in treno.",
+     "why": "Il mezzo di trasporto si esprime con by, senza articolo."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "If it rains, I won't go by bike.",
+      "If it will rain, I won't go by bike.",
+      "If it rained, I won't go by bike."
+     ],
+     "a": 0,
+     "why": "Dopo if serve il presente: if it rains."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "We arrived at the station at nine.",
+      "We arrived to the station at nine.",
+      "We arrived the station at nine."
+     ],
+     "a": 0,
+     "why": "Si dice arrive at (un luogo) o arrive in (una città). Mai «arrive to», e il verbo non è transitivo."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Se perdo il treno, prenderò l'autobus.",
+     "answers": [
+      "If I miss the train, I'll take the bus",
+      "If I miss the train, I will take the bus",
+      "If I miss the train, I'll catch the bus",
+      "If I miss the train, I will catch the bus",
+      "If I miss the train, I'll go by bus",
+      "If I miss the train, I will go by bus",
+      "If I miss the train, I'll get the bus",
+      "If I miss the train, I will get the bus"
+     ],
+     "why": "If + presente, will + verbo base. «Perdere un treno» = miss."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Ti chiamo quando arrivo.",
+     "answers": [
+      "I'll call you when I arrive",
+      "I will call you when I arrive",
+      "I'll phone you when I arrive",
+      "I will phone you when I arrive",
+      "I'll ring you when I arrive",
+      "I will ring you when I arrive",
+      "I'll call you when I get there",
+      "I will call you when I get there",
+      "I'll call you when I get to the airport",
+      "I'll call you when I get to the station"
+     ],
+     "why": "Dopo when il verbo è al presente: when I arrive. Non «when I will arrive»."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "If you ___ (hurry), you'll catch the train.",
+     "answers": [
+      "hurry"
+     ],
+     "why": "Dopo if il verbo è al presente."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "I'll wait here until she ___ (come) back.",
+     "answers": [
+      "comes"
+     ],
+     "why": "Dopo until il verbo è al presente, terza persona con -s."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "We'll have lunch ___ we get to the hotel.",
+     "answers": [
+      "when",
+      "after",
+      "once",
+      "before"
+     ],
+     "why": "Una parola di tempo seguita dal presente: quando, dopo che, una volta che."
+    },
+    {
+     "t": "fix",
+     "s": "If it will be sunny tomorrow, we will go to the beach.",
+     "answers": [
+      "If it is sunny tomorrow, we will go to the beach",
+      "If it's sunny tomorrow, we will go to the beach",
+      "If it is sunny tomorrow, we'll go to the beach",
+      "If it's sunny tomorrow, we'll go to the beach"
+     ],
+     "why": "Dopo if il presente (it is sunny), non il futuro."
+    },
+    {
+     "t": "fix",
+     "s": "I'll phone you when I will arrive in Rome.",
+     "answers": [
+      "I'll phone you when I arrive in Rome",
+      "I will phone you when I arrive in Rome"
+     ],
+     "why": "Dopo when si usa il presente, anche se è il futuro."
+    },
+    {
+     "t": "transform",
+     "s1": "I'll call you. First I have to land.",
+     "key": "SOON",
+     "s2": "I'll call you ___ I land.",
+     "answers": [
+      "as soon as"
+     ],
+     "why": "Appena = as soon as."
+    },
+    {
+     "t": "transform",
+     "s1": "The train might be cancelled. In that case I'll take a taxi.",
+     "key": "IF",
+     "s2": "I'll take a taxi ___ .",
+     "answers": [
+      "if the train is cancelled",
+      "if the train's cancelled",
+      "if the train gets cancelled"
+     ],
+     "why": "If + presente nella subordinata; anche con il passivo: is cancelled."
+    },
+    {
+     "t": "order",
+     "it": "Aspetterò finché non arriva il tuo treno.",
+     "en": "I'll wait until your train arrives",
+     "extra": [
+      "will",
+      "arrive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-09-vocab",
+   "kind": "vocab",
+   "title": "Il lessico dei trasporti",
+   "intro": "Biglietti, binari, gate e orari: le parole che servono ogni volta che prendi un treno o un aereo nel Regno Unito.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-09-w01",
+     "en": "ticket",
+     "it": "biglietto",
+     "ipa": "ˈtɪkɪt",
+     "pos": "n",
+     "ex": [
+      "Can I have a ticket to Oxford, please?",
+      "Posso avere un biglietto per Oxford, per favore?"
+     ],
+     "note": "Vale per treni, aerei e spettacoli.",
+     "emoji": "🎫"
+    },
+    {
+     "id": "a2-09-w02",
+     "en": "platform",
+     "it": "binario",
+     "ipa": "ˈplætfɔːm",
+     "pos": "n",
+     "ex": [
+      "The train to Leeds leaves from platform 6.",
+      "Il treno per Leeds parte dal binario 6."
+     ],
+     "note": "In inglese si dice «platform», non «rail»."
+    },
+    {
+     "id": "a2-09-w03",
+     "en": "timetable",
+     "it": "orario (dei treni)",
+     "ipa": "ˈtaɪmteɪbl",
+     "pos": "n",
+     "ex": [
+      "Let's check the timetable first.",
+      "Controlliamo prima l'orario."
+     ],
+     "note": "Gli orari di trasporto sono «timetable» (UK); «schedule» è americano."
+    },
+    {
+     "id": "a2-09-w04",
+     "en": "single",
+     "it": "biglietto di sola andata",
+     "ipa": "ˈsɪŋɡl",
+     "pos": "n",
+     "ex": [
+      "A single to Bath, please.",
+      "Un'andata per Bath, per favore."
+     ],
+     "note": "Anche «a single ticket»."
+    },
+    {
+     "id": "a2-09-w05",
+     "en": "return",
+     "it": "biglietto di andata e ritorno",
+     "ipa": "rɪˈtɜːn",
+     "pos": "n",
+     "ex": [
+      "Two returns to York, please.",
+      "Due andata e ritorno per York, per favore."
+     ],
+     "note": "In UK si dice «a return»; «round trip» è americano."
+    },
+    {
+     "id": "a2-09-w06",
+     "en": "departure",
+     "it": "partenza",
+     "ipa": "dɪˈpɑːtʃə",
+     "pos": "n",
+     "ex": [
+      "The departure time is 7.15.",
+      "L'orario di partenza è le 7.15."
+     ],
+     "note": "Il verbo è «depart»; più comune è «leave»."
+    },
+    {
+     "id": "a2-09-w07",
+     "en": "arrival",
+     "it": "arrivo",
+     "ipa": "əˈraɪvl",
+     "pos": "n",
+     "ex": [
+      "The arrival time is 11.40.",
+      "L'orario di arrivo è le 11.40."
+     ]
+    },
+    {
+     "id": "a2-09-w08",
+     "en": "gate",
+     "it": "uscita d'imbarco, gate",
+     "ipa": "ɡeɪt",
+     "pos": "n",
+     "ex": [
+      "Your flight leaves from gate 14.",
+      "Il suo volo parte dal gate 14."
+     ]
+    },
+    {
+     "id": "a2-09-w09",
+     "en": "boarding pass",
+     "it": "carta d'imbarco",
+     "ipa": "ˈbɔːdɪŋ pɑːs",
+     "pos": "n",
+     "ex": [
+      "Please show your boarding pass.",
+      "Mostri la carta d'imbarco, per favore."
+     ]
+    },
+    {
+     "id": "a2-09-w10",
+     "en": "connection",
+     "it": "coincidenza",
+     "ipa": "kəˈnekʃn",
+     "pos": "n",
+     "ex": [
+      "I missed my connection in Frankfurt.",
+      "Ho perso la coincidenza a Francoforte."
+     ],
+     "note": "«Coincidence» è un'altra cosa: significa «caso, combinazione»."
+    },
+    {
+     "id": "a2-09-w11",
+     "en": "passenger",
+     "it": "passeggero",
+     "ipa": "ˈpæsɪndʒə",
+     "pos": "n",
+     "ex": [
+      "All passengers must wear a seat belt.",
+      "Tutti i passeggeri devono allacciare la cintura."
+     ]
+    },
+    {
+     "id": "a2-09-w12",
+     "en": "get on",
+     "it": "salire (su treno, autobus, aereo)",
+     "ipa": "get ɒn",
+     "pos": "pv",
+     "ex": [
+      "We got on the train at Manchester.",
+      "Siamo saliti sul treno a Manchester."
+     ],
+     "note": "Per auto e taxi si dice «get in»."
+    },
+    {
+     "id": "a2-09-w13",
+     "en": "get off",
+     "it": "scendere (da treno, autobus, aereo)",
+     "ipa": "get ɒf",
+     "pos": "pv",
+     "ex": [
+      "You should get off at the next stop.",
+      "Dovresti scendere alla prossima fermata."
+     ],
+     "note": "Per auto e taxi si dice «get out of»."
+    },
+    {
+     "id": "a2-09-w14",
+     "en": "train",
+     "it": "treno",
+     "ipa": "treɪn",
+     "pos": "n",
+     "ex": [
+      "The last train leaves at eleven.",
+      "L'ultimo treno parte alle undici."
+     ],
+     "emoji": "🚆"
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "catch a train",
+       "prendere un treno"
+      ],
+      [
+       "miss a flight",
+       "perdere un volo"
+      ],
+      [
+       "check the timetable",
+       "controllare l'orario"
+      ],
+      [
+       "get off the bus",
+       "scendere dall'autobus"
+      ],
+      [
+       "show your boarding pass",
+       "mostrare la carta d'imbarco"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Which ___ does the train to Leeds leave from?",
+     "opts": [
+      "platform",
+      "gate",
+      "rail"
+     ],
+     "a": 0,
+     "why": "Il binario di una stazione è «platform». Il «gate» è la porta d'imbarco in aeroporto."
+    },
+    {
+     "t": "gap",
+     "s": "Please go to ___ 12: your flight is now boarding.",
+     "opts": [
+      "gate",
+      "platform",
+      "door"
+     ],
+     "a": 0,
+     "why": "In aeroporto si va al «gate»."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "I'd like a ___ ticket to Bath, please. I'm not coming back today.",
+     "answers": [
+      "single",
+      "one-way"
+     ],
+     "sub": "Vorrei un biglietto di sola andata per Bath. Oggi non torno."
+    },
+    {
+     "t": "wordform",
+     "s": "The train's ___ in London is at 9.15.",
+     "root": "ARRIVE",
+     "answers": [
+      "arrival"
+     ],
+     "why": "Serve il nome: arrive -> arrival."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «a return to York»?",
+     "opts": [
+      "un biglietto di andata e ritorno per York",
+      "un ritorno a York",
+      "un biglietto di solo ritorno da York"
+     ],
+     "a": 0,
+     "why": "In UK «a return» è un biglietto di andata e ritorno."
+    }
+   ]
+  },
+  {
+   "id": "a2-09-reading",
+   "kind": "reading",
+   "title": "Un weekend a Edimburgo",
+   "intro": "Leggi l'email di Leo a una sua amica: organizza il viaggio in treno e prepara un piano B per il maltempo. Fai attenzione ai verbi dopo if, when, until e as soon as.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Plans for Edinburgh",
+     "genre": "email",
+     "text": "Hi Maya,\n\nThanks for your message. I'm so excited about our trip! I've checked the timetable and bought the tickets. Our train leaves from London King's Cross at 8.30 on Saturday morning, so we have to be at the station by eight. The journey takes four and a half hours, and the train arrives in Edinburgh at one o'clock. A single ticket was cheaper than I expected: only forty-five pounds, because I bought it three weeks before.\n\nThere's one problem. The weather forecast isn't good. If it rains on Saturday, we'll visit the castle and the museums instead of walking in the hills. And if the trains are late, I'll text you as soon as I know. Please do the same!\n\nWhen we get to Edinburgh, we'll go to the hotel first and leave our bags. Then we'll have lunch near the station. I'll wait for you at the entrance to platform 4 until you arrive. If you're not there at ten past eight, I'll call you.\n\nCan you bring your camera? I'll bring the snacks!\n\nSee you on Saturday,\nLeo",
+     "qs": [
+      {
+       "q": "What time does the train leave London?",
+       "opts": [
+        "8.00",
+        "8.30",
+        "1.00"
+       ],
+       "a": 1,
+       "why": "«Our train leaves from London King's Cross at 8.30»."
+      },
+      {
+       "q": "When do Leo and Maya have to be at the station?",
+       "opts": [
+        "By 8.00",
+        "At 8.30",
+        "At 1.00"
+       ],
+       "a": 0,
+       "why": "«We have to be at the station by eight»: alle otto o prima."
+      },
+      {
+       "q": "Leo's ticket cost ___ pounds.",
+       "answers": [
+        "45",
+        "forty-five",
+        "forty five"
+       ]
+      },
+      {
+       "q": "Why was the ticket cheap?",
+       "opts": [
+        "He bought it early.",
+        "It was a student ticket.",
+        "He had a discount card."
+       ],
+       "a": 0,
+       "why": "«Because I bought it three weeks before»."
+      },
+      {
+       "q": "What will they do if it rains?",
+       "opts": [
+        "Visit the castle and museums",
+        "Walk in the hills",
+        "Go home"
+       ],
+       "a": 0,
+       "why": "«If it rains on Saturday, we'll visit the castle and the museums»."
+      },
+      {
+       "q": "The hotel is next to the station.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 2,
+       "why": "Il testo dice che mangeranno vicino alla stazione, ma non dove si trova l'hotel."
+      },
+      {
+       "q": "Leo will call Maya if she isn't at the station at 8.10.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 0,
+       "why": "«If you're not there at ten past eight, I'll call you»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «as soon as I know» significa:",
+     "opts": [
+      "appena lo so",
+      "finché non lo so",
+      "così presto lo so"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The journey ___ four and a half hours.",
+     "opts": [
+      "takes",
+      "makes",
+      "does"
+     ],
+     "a": 0,
+     "why": "La durata di un viaggio si esprime con «take»."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola, come nel testo",
+     "s": "I'll wait for you at platform 4 ___ you arrive.",
+     "answers": [
+      "until",
+      "till"
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «weather forecast» significa:",
+     "opts": [
+      "previsioni del tempo",
+      "tempo atmosferico",
+      "temperatura"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "a2-09-listening",
+   "kind": "listening",
+   "title": "Volo in ritardo",
+   "intro": "In aeroporto, una passeggera chiede informazioni su un volo in ritardo. Ascolta orari e istruzioni: il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "At the information desk",
+     "it": "Ascolta la conversazione e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Agent",
+       "Good morning. How can I help?"
+      ],
+      [
+       "Elena",
+       "Hi. Is the flight to Dublin on time? It's at ten fifty."
+      ],
+      [
+       "Agent",
+       "Let me check. I'm afraid it's delayed. It will leave at eleven forty."
+      ],
+      [
+       "Elena",
+       "Oh no. Do I have to check in again?"
+      ],
+      [
+       "Agent",
+       "No, you don't have to. Your boarding pass is still fine. The gate will open at eleven fifteen, so please wait in the departure lounge until you hear the announcement."
+      ],
+      [
+       "Elena",
+       "Is there somewhere to get a coffee?"
+      ],
+      [
+       "Agent",
+       "Yes, there's a café on the first floor. Because of the delay, you can have a free sandwich and a drink. Just show your boarding pass."
+      ],
+      [
+       "Elena",
+       "That's very kind. My friend is waiting for me in Dublin. I'll phone her as soon as I sit down."
+      ],
+      [
+       "Agent",
+       "Good idea. If there is any other change, we'll send you a text message."
+      ],
+      [
+       "Elena",
+       "Thank you very much."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What was the original departure time?",
+       "opts": [
+        "10.15",
+        "10.50",
+        "11.40"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What is the new departure time?",
+       "opts": [
+        "11.15",
+        "11.40",
+        "11.50"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Does Elena have to check in again?",
+       "opts": [
+        "Yes, at the desk",
+        "Yes, online",
+        "No"
+       ],
+       "a": 2
+      },
+      {
+       "q": "The gate will open at ___ .",
+       "answers": [
+        "11.15",
+        "eleven fifteen",
+        "quarter past eleven",
+        "11:15",
+        "a quarter past eleven"
+       ]
+      },
+      {
+       "q": "Where is the café?",
+       "opts": [
+        "On the first floor",
+        "Next to the gate",
+        "Outside the airport"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What will Elena do as soon as she sits down?",
+       "opts": [
+        "Have a sandwich",
+        "Phone her friend",
+        "Check the timetable"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "Please wait in the departure lounge until you hear the announcement.",
+     "it": "Per favore attenda nella sala partenze finché non sente l'annuncio."
+    },
+    {
+     "t": "dictation",
+     "en": "I'll phone her as soon as I sit down.",
+     "it": "La chiamo appena mi siedo."
+    },
+    {
+     "t": "speak",
+     "en": "Is the flight to Dublin on time?",
+     "it": "Il volo per Dublino è in orario?"
+    }
+   ]
+  },
+  {
+   "id": "a2-09-situation",
+   "kind": "situation",
+   "title": "In stazione e in aeroporto",
+   "intro": "Comprare un biglietto, chiedere il binario, capire che cosa fare quando un treno o un volo ha un problema. Le frasi che servono davvero quando sei di fretta.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "In stazione",
+     "body": "- **A return to Manchester, please.** = Un'andata e ritorno per Manchester.\n- **A single to Bath, please.** = Un'andata per Bath.\n- **What time is the next train to Leeds?** = A che ora è il prossimo treno per Leeds?\n- **Which platform does it leave from?** = Da quale binario parte?\n- **Do I have to change?** = Devo cambiare?\n- **Is this the right train for Cardiff?** = È questo il treno giusto per Cardiff?\n- **Does this train stop at Reading?** = Questo treno ferma a Reading?\n\nCon **change** si intende il cambio di treno: **change at Birmingham**. «Cambiare soldi» è un'altra cosa (exchange).",
+     "ex": [
+      [
+       "Which platform does the train to Leeds leave from?",
+       "Da quale binario parte il treno per Leeds?"
+      ],
+      [
+       "Do I have to change at Crewe?",
+       "Devo cambiare a Crewe?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "In aeroporto e quando c'è un ritardo",
+     "body": "- **Where is the check-in desk for Dublin?** = Dov'è il banco check-in per Dublino?\n- **Which gate is it?** = Qual è il gate?\n- **What time does boarding start?** = A che ora inizia l'imbarco?\n- **My flight is delayed. What should I do?** = Il mio volo è in ritardo. Che cosa devo fare?\n- **I missed my connection. Can I get another flight?** = Ho perso la coincidenza. Posso avere un altro volo?\n- **The train is cancelled. Will there be another one?**\n\nL'annuncio del gate lo si sente dagli altoparlanti: **Flight EZ204 to Dublin is now boarding at gate 14.** Se non capisci, chiedi: **Sorry, could you repeat that, please?**",
+     "ex": [
+      [
+       "What time does boarding start?",
+       "A che ora inizia l'imbarco?"
+      ],
+      [
+       "My flight is delayed. What should I do?",
+       "Il mio volo è in ritardo. Che cosa devo fare?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Alla biglietteria",
+     "it": "Scegli la battuta più naturale per te (Tu).",
+     "lines": [
+      [
+       "Clerk",
+       "Good morning. Where to?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "A return to Manchester, please.",
+         "A ticket go and return to Manchester, please.",
+         "One return for Manchester, please, I want."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "That's forty-two pounds. Are you travelling today?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes. Which platform does it leave from?",
+         "Yes. From which platform it leaves?",
+         "Yes. On which platform leaves it?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "Platform 5. The train leaves at ten past nine."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thank you. Do I have to change?",
+         "Thank you. I must to change?",
+         "Thank you. Have I to change?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al gate",
+     "lines": [
+      [
+       "Staff",
+       "Good afternoon. Can I see your boarding pass, please?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Here you are. Is this the right gate for Dublin?",
+         "Here you are. Is this the gate good for Dublin?",
+         "Take it. This is gate for Dublin?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Staff",
+       "Yes, but boarding hasn't started yet. It starts at half past three."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "OK. Is the flight on time?",
+         "OK. The flight is in time?",
+         "OK. Is on time the flight?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Staff",
+       "There's a short delay, about twenty minutes. We'll make an announcement."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thanks. I'll wait here until you call us.",
+         "Thanks. I wait here until you will call us.",
+         "Thanks. I will waiting here until you call."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Which platform does it leave from?",
+       "Da quale binario parte?"
+      ],
+      [
+       "Do I have to change?",
+       "Devo cambiare?"
+      ],
+      [
+       "What time does boarding start?",
+       "A che ora inizia l'imbarco?"
+      ],
+      [
+       "My flight is delayed.",
+       "Il mio volo è in ritardo."
+      ],
+      [
+       "Could you repeat that, please?",
+       "Potrebbe ripetere, per favore?"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Da quale binario parte il treno per Leeds?",
+     "en": "Which platform does the train to Leeds leave from",
+     "extra": [
+      "leaves",
+      "on"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "A return to Manchester, please.",
+     "it": "Un'andata e ritorno per Manchester, per favore."
+    },
+    {
+     "t": "speak",
+     "en": "Which platform does it leave from?",
+     "it": "Da quale binario parte?"
+    },
+    {
+     "t": "speak",
+     "en": "My flight is delayed. What should I do?",
+     "it": "Il mio volo è in ritardo. Che cosa devo fare?"
+    },
+    {
+     "t": "speakTask",
+     "q": "Your train is cancelled. Ask the staff at the station for help.",
+     "it": "Il tuo treno è stato cancellato. Chiedi aiuto al personale della stazione: spiega il problema, chiedi qual è il prossimo treno e da quale binario parte (almeno 4 frasi).",
+     "hints": [
+      "Excuse me, my train is cancelled.",
+      "What time is the next train to...?",
+      "Which platform does it leave from?",
+      "Do I have to change?"
+     ],
+     "min": 30,
+     "model": "Excuse me, my train to Leeds is cancelled. What time is the next one? Which platform does it leave from? And do I have to change? I have an important meeting at noon, so I'm in a hurry. Thank you for your help."
+    }
+   ]
+  },
+  {
+   "id": "a2-09-production",
+   "kind": "production",
+   "title": "Un messaggio di cambio programma",
+   "intro": "Il tuo viaggio non va come previsto e devi avvisare un amico. Scriverai un messaggio chiaro, con scuse, nuovo piano e un 'se' per ogni imprevisto. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come avvisare di un cambio di programma",
+     "body": "- **Scusati subito**: Sorry, but... / I'm really sorry, but my plans have changed. (se vuoi dare una scusa breve)\n- **Spiega il problema**: My train is cancelled. / My flight is delayed.\n- **Proponi un nuovo piano**: Could we meet at... instead? / I'll take the next train and arrive at...\n- **Usa i condizionali**: If everything goes well, I'll be there by... / If I miss this train, I'll let you know.\n- **Prometti aggiornamenti**: I'll text you as soon as I get on the train. / I'll call you when I arrive.\n- **Chiudi**: Sorry again! / See you soon!\n\nRicorda: dopo **if, when, as soon as, until** il verbo è al presente.",
+     "ex": [
+      [
+       "Sorry, but my train is cancelled.",
+       "Mi dispiace, ma il mio treno è stato cancellato."
+      ],
+      [
+       "Could we have dinner at nine instead?",
+       "Potremmo cenare alle nove invece?"
+      ],
+      [
+       "I'll text you as soon as I get on the next train.",
+       "Ti scrivo appena salgo sul prossimo treno."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Wait for me at the gate ___ I get there. I'm running!",
+     "opts": [
+      "until",
+      "since",
+      "for"
+     ],
+     "a": 0,
+     "why": "Dopo until il verbo è al presente: aspettami fino a quando arrivo."
+    },
+    {
+     "t": "gap",
+     "s": "Could we meet ___ Saturday instead of Friday?",
+     "opts": [
+      "on",
+      "in",
+      "at"
+     ],
+     "a": 0,
+     "why": "Con i giorni della settimana si usa on."
+    },
+    {
+     "t": "fix",
+     "s": "If you will be late, call me.",
+     "answers": [
+      "If you are late, call me",
+      "If you're late, call me"
+     ],
+     "why": "Dopo if si usa il presente, non will."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Se il treno è in ritardo, ti mando un messaggio.",
+     "answers": [
+      "If the train is late, I'll text you",
+      "If the train is late, I will text you",
+      "If the train is delayed, I'll text you",
+      "If the train is delayed, I will text you",
+      "If the train is late, I'll send you a message",
+      "If the train is late, I will send you a message",
+      "If the train is delayed, I'll send you a message",
+      "If the train is delayed, I will send you a message",
+      "If the train is late, I'll message you",
+      "If the train is late, I will message you"
+     ],
+     "why": "If + presente, will + verbo base. «Mandare un messaggio» = text / send a message."
+    },
+    {
+     "t": "write",
+     "q": "You are travelling to meet your friend Sam, but your train is cancelled. Write a message to Sam. Say sorry, explain the problem, suggest a new plan and say what you will do and when.",
+     "it": "Stai andando a trovare l'amico Sam, ma il tuo treno è cancellato. Scrivigli: scusati, spiega il problema, proponi un nuovo piano e di' che cosa farai e quando (usa if, when o as soon as).",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho chiesto scusa e spiegato il problema",
+      "Ho usato if + presente + will",
+      "Ho usato when, as soon as o until con il presente",
+      "Ho usato almeno una preposizione di tempo corretta (at, on, in)",
+      "Ho chiuso con una formula amichevole"
+     ],
+     "useful": [
+      "Hi Sam,",
+      "Sorry, but...",
+      "My train is cancelled.",
+      "Could we meet at... instead?",
+      "If everything goes well, I'll...",
+      "I'll text you as soon as...",
+      "See you soon!"
+     ],
+     "model": "Hi Sam,\n\nI'm really sorry, but my train from Milan is cancelled, so I can't arrive at six. If everything goes well, I'll take the 7.30 train and I'll be in Turin at nine. Could we have dinner at 9.30 instead?\n\nI'll text you as soon as I get on the train. If I can't catch it, I'll call you.\n\nSorry again!\nElena"
+    },
+    {
+     "t": "speakTask",
+     "q": "Call a friend to say that your flight is delayed.",
+     "it": "Telefona a un amico per dirgli che il tuo volo è in ritardo: spiega il problema, di' a che ora arriverai e che cosa farai appena atterri (almeno 4 frasi).",
+     "hints": [
+      "My flight is delayed.",
+      "It will arrive at...",
+      "As soon as I land, I'll...",
+      "If it is later, I'll..."
+     ],
+     "min": 30,
+     "model": "Hi Marco, it's Anna. I'm at the airport and my flight is delayed by two hours. It will arrive at seven o'clock instead of five. As soon as I land, I'll take a taxi to your flat. If there are any more problems, I'll call you again."
+    },
+    {
+     "t": "speakTask",
+     "q": "What will you do tomorrow if the weather is good and if it is bad?",
+     "it": "Dì che cosa farai domani se il tempo è bello e che cosa se è brutto (almeno 4 frasi con if).",
+     "hints": [
+      "If it's sunny, I'll...",
+      "If it rains, I'll...",
+      "When I get home, I'll...",
+      "I'll wait until..."
+     ],
+     "min": 30,
+     "model": "If it's sunny tomorrow, I'll go to the park by bike with my friends. If it rains, I'll stay at home and cook. When I get home in the evening, I'll watch a film. I'll go to bed early because I have to get up at six."
+    }
+   ]
+  },
+  {
+   "id": "a2-09-test",
+   "kind": "test",
+   "title": "Test dell'unità 9",
+   "intro": "Verifica senza aiuti: condizionale, parole di tempo, preposizioni, lessico dei trasporti, lettura e ascolto. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "If you don't hurry, you ___ the train.",
+     "opts": [
+      "will miss",
+      "miss will",
+      "would missing"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'll text you when I ___ at the hotel.",
+     "opts": [
+      "arrive",
+      "will arrive",
+      "arrived"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She'll wait here until you ___ .",
+     "opts": [
+      "come",
+      "will come",
+      "came"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The shop opens ___ 9 o'clock ___ weekdays.",
+     "opts": [
+      "at / on",
+      "on / at",
+      "in / in"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We're going on holiday ___ August.",
+     "opts": [
+      "in",
+      "on",
+      "at"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Which ___ does the train leave from?",
+     "opts": [
+      "platform",
+      "gate",
+      "street"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "At the airport you must show your ___ at the gate.",
+     "opts": [
+      "boarding pass",
+      "timetable",
+      "connection"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'd like a ___ to Oxford, please. I'm coming back tonight.",
+     "opts": [
+      "return",
+      "single",
+      "departure"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "If it rains, we'll stay at home.",
+      "If it will rain, we'll stay at home.",
+      "If it rains, we stay will at home."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I go to work by bus.",
+      "I go to work with the bus.",
+      "I go to work on the bus by."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase significa «Devi essere qui entro le otto»?",
+     "opts": [
+      "You must be here by eight.",
+      "You must be here until eight.",
+      "You must be here since eight."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "If we ___ (leave) now, we'll arrive on time.",
+     "answers": [
+      "leave"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "I'll call you as soon as the plane ___ (land).",
+     "answers": [
+      "lands"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Se piove, prenderemo un taxi.",
+     "answers": [
+      "If it rains, we'll take a taxi",
+      "If it rains, we will take a taxi",
+      "If it rains we'll take a taxi",
+      "If it rains we will take a taxi",
+      "If it rains, we'll get a taxi",
+      "If it rains, we will get a taxi",
+      "If it rains, we'll catch a taxi",
+      "If it rains, we will catch a taxi"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Da quale binario parte il treno?",
+     "answers": [
+      "Which platform does the train leave from",
+      "Which platform does the train go from",
+      "What platform does the train leave from",
+      "From which platform does the train leave"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "I'll call you when I will get to the station.",
+     "answers": [
+      "I'll call you when I get to the station",
+      "I will call you when I get to the station",
+      "I'll call you when I arrive at the station",
+      "I will call you when I arrive at the station"
+     ],
+     "why": "Dopo when il presente."
+    },
+    {
+     "t": "fix",
+     "s": "We arrived to the airport at six.",
+     "answers": [
+      "We arrived at the airport at six"
+     ],
+     "why": "Si dice arrive at."
+    },
+    {
+     "t": "transform",
+     "s1": "Maybe it will rain. In that case, we'll stay at home.",
+     "key": "IF",
+     "s2": "We'll stay at home ___ .",
+     "answers": [
+      "if it rains"
+     ],
+     "why": "If + presente nella subordinata."
+    },
+    {
+     "t": "wordform",
+     "s": "Passengers are asked to arrive two hours before ___ .",
+     "root": "DEPART",
+     "answers": [
+      "departure"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Ti scrivo appena salgo sul treno.",
+     "en": "I'll text you as soon as I get on the train",
+     "extra": [
+      "will",
+      "gets"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa il messaggio",
+     "mode": "mc",
+     "text": "Hi Tom,\n\nMy flight is {1} by an hour, so I'll land {2} 6.30 {3} of 5.30. I'll phone you as soon as I {4}. If you want, wait for me {5} the arrivals hall.\n\nSee you soon,\nAnna",
+     "gaps": [
+      {
+       "opts": [
+        "delayed",
+        "delay",
+        "slowly",
+        "retarded"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "at",
+        "on",
+        "in",
+        "by"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "instead",
+        "in place",
+        "rather",
+        "contrary"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "land",
+        "will land",
+        "landed",
+        "landing"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "in",
+        "from",
+        "to",
+        "on"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A station announcement",
+     "it": "Ascolta l'annuncio in stazione.",
+     "lines": [
+      [
+       "Announcer",
+       "Attention, please. The 10.15 train to Bristol is delayed by twenty minutes. It will now leave from platform 3 at 10.35. Passengers for Bristol should wait on platform 3. If you have a connection at Bristol, please speak to a member of staff. We are sorry for the delay."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What is the new departure time?",
+       "opts": [
+        "10.15",
+        "10.35",
+        "10.55"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Which platform does the train leave from?",
+       "opts": [
+        "Platform 3",
+        "Platform 10",
+        "Platform 15"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Who should passengers with a connection speak to?",
+       "opts": [
+        "A member of staff",
+        "The driver",
+        "The ticket office"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "In stazione",
+     "lines": [
+      [
+       "Clerk",
+       "Where to?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "A single to Bath, please.",
+         "One ticket go to Bath, please.",
+         "A single for Bath, I want."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Clerk",
+       "That's twelve pounds. Platform 2."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thank you. What time does it leave?",
+         "Thank you. What time it leaves?",
+         "Thank you. At what time leaves?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

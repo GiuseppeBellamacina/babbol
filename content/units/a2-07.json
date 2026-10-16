@@ -1,0 +1,1520 @@
+{
+ "id": "a2-07",
+ "level": "A2",
+ "position": 7,
+ "title": "Salute e corpo",
+ "sub": "Modali can, must, have to, should - dal medico e in farmacia",
+ "grammar": "Modali: can/could, must/have to/don't have to, should",
+ "topic": "Salute e corpo",
+ "situation": "Dal medico e in farmacia",
+ "lessons": [
+  {
+   "id": "a2-07-grammar",
+   "kind": "grammar",
+   "title": "Can, must, have to, should",
+   "intro": "I verbi modali servono per dire che cosa puoi, devi o dovresti fare. Gli italiani li sbagliano soprattutto in due punti: aggiungono «to» dove non va e confondono «mustn't» con «don't have to».",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Can e could: capacità, permesso, richieste",
+     "body": "**Can** si usa per:\n- **capacità**: She can speak three languages.\n- **permesso**: Can I open the window?\n- **richieste**: Can you help me, please?\n\n**Could** è il passato di can (capacità) ed è anche più educato per le richieste:\n- When I was little, I could run very fast.\n- **Could** you tell me the time, please? (più cortese di Can you...)\n\nI modali sono **sempre seguiti dal verbo base, senza «to»** e non prendono mai -s: she can swim, non «she cans swim» né «she can to swim».\nLa negazione è **can't / cannot** e **couldn't**. Le domande si fanno invertendo: Can you...? Could she...? (senza do/does).",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "I / you / he / she / we / they",
+       "can swim",
+       "can't swim",
+       "Can you swim?"
+      ],
+      [
+       "passato",
+       "could swim",
+       "couldn't swim",
+       "Could you swim?"
+      ]
+     ],
+     "ex": [
+      [
+       "I can't come tonight: I have a fever.",
+       "Non posso venire stasera: ho la febbre."
+      ],
+      [
+       "Could I speak to the doctor, please?",
+       "Potrei parlare con il dottore, per favore?"
+      ],
+      [
+       "He couldn't sleep last night.",
+       "Non riusciva a dormire la notte scorsa."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Must e have to: obbligo",
+     "body": "Per dire che è **necessario** fare qualcosa si usano **must** e **have to**.\n- **Have to**: obbligo che viene da regole, orari, situazioni esterne. I have to see the dentist at nine.\n- **Must**: obbligo sentito da chi parla, o avvisi e regole scritte. You must wash your hands. / Visitors must sign in.\n\n**Have to** si comporta come un verbo normale: **has to** con he/she/it, e negativa e domanda con **do / does**: Do you have to wear a uniform? She doesn't have to...\n**Must** non cambia mai e non ha il passato: per il passato si usa **had to** (I had to wait two hours).\n\nIn molti casi sono quasi intercambiabili; se hai dubbi, **have to** è sempre sicuro.",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa (non è necessario)",
+       "Domanda"
+      ],
+      [
+       "I / you / we / they",
+       "have to go",
+       "don't have to go",
+       "Do you have to go?"
+      ],
+      [
+       "he / she / it",
+       "has to go",
+       "doesn't have to go",
+       "Does she have to go?"
+      ],
+      [
+       "passato",
+       "had to go",
+       "didn't have to go",
+       "Did you have to go?"
+      ]
+     ],
+     "ex": [
+      [
+       "I have to take this medicine twice a day.",
+       "Devo prendere questa medicina due volte al giorno."
+      ],
+      [
+       "Does he have to stay in bed?",
+       "Deve stare a letto?"
+      ],
+      [
+       "We had to wait for an hour.",
+       "Abbiamo dovuto aspettare un'ora."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Don't have to o mustn't? Attenzione",
+     "body": "Qui gli italiani sbagliano più spesso, perché in italiano «non devi» può voler dire due cose diverse. In inglese sono diverse:\n- **don't have to** = **non è necessario** (puoi farlo, ma non sei obbligato). You don't have to pay: it's free.\n- **mustn't** = **è vietato / non farlo mai**. You mustn't smoke here.\n\nConfronta:\n- You **don't have to** take the tablets. (se non vuoi, non importa)\n- You **mustn't** take more than two tablets. (è pericoloso)\n\nLa negativa di **have to** richiede sempre do/does: «You haven't to go» e «You don't must go» sono sbagliati.\nPer dire che una cosa è **vietata** puoi usare anche **can't**: You can't park here.",
+     "ex": [
+      [
+       "You don't have to book: just come along.",
+       "Non devi prenotare: vieni e basta."
+      ],
+      [
+       "You mustn't drive after taking this medicine.",
+       "Non devi guidare dopo aver preso questa medicina."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Should: consigli",
+     "body": "**Should** si usa per dare o chiedere un **consiglio** o dire che qualcosa è una buona idea. È meno forte di must.\n- You **should** rest for a few days.\n- You **shouldn't** work when you're ill.\n- **Should** I call the doctor?\n\nCome gli altri modali: nessuna -s, nessun «to», negativa **shouldn't**.\nPer chiedere un consiglio: **What should I do?** / **Do you think I should...?**\nEcco i tre livelli a confronto:\n- You **should** stay at home. (consiglio)\n- You **have to** stay at home. (regola o necessità)\n- You **mustn't** go out. (divieto)\n\nAttenzione: per i consigli gli italiani usano spesso «you must», che in inglese suona troppo forte, quasi un ordine. Con un amico malato dì «You should rest».",
+     "ex": [
+      [
+       "You should drink lots of water.",
+       "Dovresti bere molta acqua."
+      ],
+      [
+       "I think you should see a doctor.",
+       "Penso che dovresti andare dal medico."
+      ],
+      [
+       "What should I do?",
+       "Che cosa dovrei fare?"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "You look terrible. You ___ see a doctor.",
+     "opts": [
+      "should",
+      "are should",
+      "should to"
+     ],
+     "a": 0,
+     "it": "Hai una brutta cera. Dovresti andare dal medico.",
+     "why": "Consiglio: should + verbo base, senza «to» e senza «are»."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ run very fast when I was a child.",
+     "opts": [
+      "could",
+      "can",
+      "must"
+     ],
+     "a": 0,
+     "it": "Da bambino correvo molto veloce.",
+     "why": "Capacità nel passato: could. «Can» è presente."
+    },
+    {
+     "t": "gap",
+     "s": "In the UK you ___ drive on the left.",
+     "opts": [
+      "have to",
+      "must to",
+      "has to"
+     ],
+     "a": 0,
+     "it": "Nel Regno Unito si deve guidare a sinistra.",
+     "why": "Have to con you. «Must to» è sbagliato: must non vuole «to»; «has to» è solo per he/she/it."
+    },
+    {
+     "t": "gap",
+     "s": "You ___ pay to see a GP on the NHS: it's free.",
+     "opts": [
+      "don't have to",
+      "mustn't",
+      "haven't to"
+     ],
+     "a": 0,
+     "it": "Non devi pagare per vedere un medico di base con il servizio sanitario: è gratis.",
+     "why": "Non è necessario: don't have to. «Mustn't» direbbe che è vietato pagare, e «haven't to» non esiste."
+    },
+    {
+     "t": "gap",
+     "s": "You ___ take more than eight tablets a day. It's dangerous.",
+     "opts": [
+      "mustn't",
+      "don't have to",
+      "shouldn't to"
+     ],
+     "a": 0,
+     "it": "Non devi prendere più di otto compresse al giorno. È pericoloso.",
+     "why": "Divieto per sicurezza: mustn't. «Don't have to» vorrebbe dire «non è obbligatorio»."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Could you open the window, please?",
+      "Do you could open the window, please?",
+      "Could you to open the window, please?"
+     ],
+     "a": 0,
+     "why": "Could si inverte con il soggetto, senza do, e vuole il verbo base senza «to»."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase significa «Non è necessario prenotare»?",
+     "opts": [
+      "You don't have to book.",
+      "You mustn't book.",
+      "You haven't to book."
+     ],
+     "a": 0,
+     "why": "«Non è necessario» = don't have to. Mustn't = è vietato."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Posso farti una domanda?",
+     "answers": [
+      "Can I ask you a question",
+      "Can I ask a question",
+      "Could I ask you a question",
+      "Could I ask a question",
+      "May I ask you a question",
+      "May I ask a question"
+     ],
+     "why": "Per chiedere il permesso: can / could I + verbo base. «Ask a question», mai «make a question»."
+    },
+    {
+     "t": "type",
+     "q": "Completa con un modale per un CONSIGLIO",
+     "s": "You look very tired. You ___ go to bed early tonight.",
+     "answers": [
+      "should",
+      "ought to"
+     ],
+     "why": "Un consiglio si dà con should."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "She ___ (not / have to) work tomorrow. It's Sunday.",
+     "answers": [
+      "doesn't have to",
+      "does not have to"
+     ],
+     "why": "Terza persona negativa: doesn't have to. Non è necessario perché è domenica."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Domani devo andare dal dentista.",
+     "answers": [
+      "I have to go to the dentist tomorrow",
+      "Tomorrow I have to go to the dentist",
+      "I must go to the dentist tomorrow",
+      "Tomorrow I must go to the dentist",
+      "I have to go to the dentist's tomorrow",
+      "I have got to go to the dentist tomorrow",
+      "I've got to go to the dentist tomorrow",
+      "I have to see the dentist tomorrow",
+      "Tomorrow I have to see the dentist"
+     ],
+     "why": "Obbligo dovuto a un appuntamento: have to + verbo base. «Dal dentista» = to the dentist (o dentist's)."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Non puoi fumare qui.",
+     "answers": [
+      "You can't smoke here",
+      "You cannot smoke here",
+      "You mustn't smoke here",
+      "You must not smoke here",
+      "You're not allowed to smoke here",
+      "You are not allowed to smoke here"
+     ],
+     "why": "Divieto: can't o mustn't. Mai «don't have to», che significa «non sei obbligato»."
+    },
+    {
+     "t": "fix",
+     "s": "You should to see a doctor.",
+     "answers": [
+      "You should see a doctor"
+     ],
+     "why": "Dopo should il verbo è base, senza «to»."
+    },
+    {
+     "t": "fix",
+     "s": "You don't must smoke in the hospital.",
+     "answers": [
+      "You mustn't smoke in the hospital",
+      "You must not smoke in the hospital",
+      "You can't smoke in the hospital",
+      "You cannot smoke in the hospital"
+     ],
+     "why": "Must non usa do/don't: la negativa è mustn't (o must not). Qui serve il divieto."
+    },
+    {
+     "t": "transform",
+     "s1": "It isn't necessary for you to come back tomorrow.",
+     "key": "HAVE",
+     "s2": "You ___ back tomorrow.",
+     "answers": [
+      "don't have to come",
+      "do not have to come"
+     ],
+     "why": "Non è necessario = don't have to."
+    },
+    {
+     "t": "transform",
+     "s1": "I advise you to rest for a few days.",
+     "key": "SHOULD",
+     "s2": "You ___ for a few days.",
+     "answers": [
+      "should rest"
+     ],
+     "why": "Consiglio: should + verbo base."
+    },
+    {
+     "t": "order",
+     "it": "Non devi aspettare fuori.",
+     "en": "You don't have to wait outside",
+     "extra": [
+      "must",
+      "doesn't"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Dovrei chiamare l'ambulanza?",
+     "en": "Should I call an ambulance",
+     "extra": [
+      "do",
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-07-vocab",
+   "kind": "vocab",
+   "title": "Il lessico della salute",
+   "intro": "Sintomi, medicine e studi medici: le parole per spiegare come stai e capire che cosa ti dicono il medico e il farmacista.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-07-w01",
+     "en": "headache",
+     "it": "mal di testa",
+     "ipa": "ˈhedeɪk",
+     "pos": "n",
+     "ex": [
+      "I've got a terrible headache.",
+      "Ho un terribile mal di testa."
+     ],
+     "note": "Con i dolori si usa «have a...»: have a headache, a stomach ache, a toothache."
+    },
+    {
+     "id": "a2-07-w02",
+     "en": "sore throat",
+     "it": "mal di gola",
+     "ipa": "sɔː θrəʊt",
+     "pos": "n",
+     "ex": [
+      "I have a sore throat and a cough.",
+      "Ho mal di gola e la tosse."
+     ]
+    },
+    {
+     "id": "a2-07-w03",
+     "en": "cough",
+     "it": "tosse; tossire",
+     "ipa": "kɒf",
+     "pos": "n",
+     "ex": [
+      "He has a bad cough at night.",
+      "Di notte ha una brutta tosse."
+     ],
+     "note": "Si pronuncia /kɒf/, non «cow»."
+    },
+    {
+     "id": "a2-07-w04",
+     "en": "fever",
+     "it": "febbre",
+     "ipa": "ˈfiːvə",
+     "pos": "n",
+     "ex": [
+      "She has a high fever.",
+      "Ha la febbre alta."
+     ],
+     "note": "Si dice anche «temperature»: I have a temperature."
+    },
+    {
+     "id": "a2-07-w05",
+     "en": "stomach ache",
+     "it": "mal di pancia",
+     "ipa": "ˈstʌmək eɪk",
+     "pos": "n",
+     "ex": [
+      "I had a stomach ache after the party.",
+      "Ho avuto mal di pancia dopo la festa."
+     ]
+    },
+    {
+     "id": "a2-07-w06",
+     "en": "symptom",
+     "it": "sintomo",
+     "ipa": "ˈsɪmptəm",
+     "pos": "n",
+     "ex": [
+      "What are your symptoms?",
+      "Quali sono i tuoi sintomi?"
+     ]
+    },
+    {
+     "id": "a2-07-w07",
+     "en": "prescription",
+     "it": "ricetta medica",
+     "ipa": "prɪˈskrɪpʃn",
+     "pos": "n",
+     "ex": [
+      "You need a prescription for this medicine.",
+      "Serve la ricetta per questa medicina."
+     ],
+     "note": "Falso amico: «receipt» è lo scontrino, non la ricetta."
+    },
+    {
+     "id": "a2-07-w08",
+     "en": "pharmacy",
+     "it": "farmacia",
+     "ipa": "ˈfɑːməsi",
+     "pos": "n",
+     "ex": [
+      "The pharmacy closes at six.",
+      "La farmacia chiude alle sei."
+     ],
+     "note": "Si usa anche «chemist's»: I'm going to the chemist's."
+    },
+    {
+     "id": "a2-07-w09",
+     "en": "appointment",
+     "it": "appuntamento (dal medico)",
+     "ipa": "əˈpɔɪntmənt",
+     "pos": "n",
+     "ex": [
+      "I have an appointment with the dentist at ten.",
+      "Ho un appuntamento dal dentista alle dieci."
+     ],
+     "note": "Con medici e uffici si dice «appointment», non «date»."
+    },
+    {
+     "id": "a2-07-w10",
+     "en": "medicine",
+     "it": "medicina, farmaco",
+     "ipa": "ˈmedsn",
+     "pos": "n",
+     "ex": [
+      "Take this medicine after meals.",
+      "Prendi questa medicina dopo i pasti."
+     ],
+     "note": "Non numerabile: «some medicine». Si pronuncia in due sillabe."
+    },
+    {
+     "id": "a2-07-w11",
+     "en": "get better",
+     "it": "stare meglio, guarire",
+     "ipa": "get ˈbetə",
+     "pos": "phr",
+     "ex": [
+      "I hope you get better soon.",
+      "Spero che tu guarisca presto."
+     ]
+    },
+    {
+     "id": "a2-07-w12",
+     "en": "take it easy",
+     "it": "prendersela con calma, riposarsi",
+     "ipa": "teɪk ɪt ˈiːzi",
+     "pos": "phr",
+     "ex": [
+      "Take it easy for a few days.",
+      "Prenditela con calma per qualche giorno."
+     ]
+    },
+    {
+     "id": "a2-07-w13",
+     "en": "thermometer",
+     "it": "termometro",
+     "ipa": "θəˈmɒmɪtə",
+     "pos": "n",
+     "ex": [
+      "Use the thermometer to check your temperature.",
+      "Usa il termometro per controllare la temperatura."
+     ],
+     "emoji": "🌡️"
+    },
+    {
+     "id": "a2-07-w14",
+     "en": "tablet",
+     "it": "compressa, pastiglia",
+     "ipa": "ˈtæblət",
+     "pos": "n",
+     "ex": [
+      "Take two tablets with water.",
+      "Prendi due compresse con l'acqua."
+     ],
+     "note": "Anche «pill». «Tablet» è pure il tablet elettronico.",
+     "emoji": "💊"
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "make an appointment",
+       "fissare un appuntamento"
+      ],
+      [
+       "take your temperature",
+       "misurarsi la febbre"
+      ],
+      [
+       "have a sore throat",
+       "avere mal di gola"
+      ],
+      [
+       "get a prescription",
+       "ottenere una ricetta"
+      ],
+      [
+       "feel better",
+       "sentirsi meglio"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "You need a ___ from your doctor to buy this medicine.",
+     "opts": [
+      "prescription",
+      "receipt",
+      "recipe"
+     ],
+     "a": 0,
+     "why": "La ricetta medica è «prescription». «Receipt» è lo scontrino, «recipe» la ricetta di cucina."
+    },
+    {
+     "t": "gap",
+     "s": "I'd like to make an ___ with Dr Green, please.",
+     "opts": [
+      "appointment",
+      "date",
+      "meeting"
+     ],
+     "a": 0,
+     "why": "Per un medico si dice «appointment». «Date» è un appuntamento romantico o la data del calendario."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "I think I have a high ___ : my head is hot and I feel cold.",
+     "answers": [
+      "fever",
+      "temperature"
+     ],
+     "sub": "Penso di avere la febbre: ho la testa calda e sento freddo."
+    },
+    {
+     "t": "wordform",
+     "s": "Smoking is very bad for your ___ .",
+     "root": "HEALTHY",
+     "answers": [
+      "health"
+     ],
+     "why": "Serve il nome: healthy -> health."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «Take it easy»?",
+     "opts": [
+      "Riposati, non esagerare.",
+      "Prendilo facilmente.",
+      "Prendi la facile."
+     ],
+     "a": 0,
+     "why": "È un'espressione fissa: stai tranquillo, non affaticarti."
+    }
+   ]
+  },
+  {
+   "id": "a2-07-reading",
+   "kind": "reading",
+   "title": "Tre giorni a letto",
+   "intro": "Leggi il post di una ragazza che si è ammalata. Fai attenzione ai consigli che riceve: contengono molti modali.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Three days in bed",
+     "genre": "blog",
+     "text": "Hi, I'm Hannah. Last Tuesday I woke up with a terrible sore throat and a headache. By lunchtime I had a fever too, so I called my GP's surgery. The receptionist was kind, but the first free appointment was on Thursday! She told me to ring back at eight o'clock the next morning for an emergency slot, because some patients can't wait.\n\nIn the meantime, I went to the pharmacy near my flat. The pharmacist asked me a lot of questions about my symptoms and checked my temperature with a thermometer. She said I didn't have to see a doctor yet. \"You should drink lots of water, rest and take paracetamol,\" she told me. \"But you must see a doctor if the fever lasts more than three days.\" She also explained that I mustn't give the medicine to my little nephew, because the dose is only for adults.\n\nI stayed in bed for three days. My friend Tom brought me soup and a pile of magazines. I couldn't taste anything, but I was very happy to see him. On Friday I felt a bit better and I could finally eat some toast.\n\nThe best advice? Don't go to work when you are ill. You don't have to be a hero: your colleagues don't want your cold!",
+     "qs": [
+      {
+       "q": "When did Hannah first feel ill?",
+       "opts": [
+        "On Sunday",
+        "On Tuesday",
+        "On Thursday"
+       ],
+       "a": 1,
+       "why": "«Last Tuesday I woke up with a terrible sore throat»."
+      },
+      {
+       "q": "Why did Hannah go to the pharmacy?",
+       "opts": [
+        "The GP couldn't see her for two days.",
+        "She needed to buy a thermometer.",
+        "The receptionist sent her there."
+       ],
+       "a": 0,
+       "why": "L'appuntamento libero era giovedì: nel frattempo («in the meantime») è andata in farmacia."
+      },
+      {
+       "q": "What did the pharmacist say about seeing a doctor?",
+       "opts": [
+        "She had to go at once.",
+        "She didn't need to go yet.",
+        "She should go on Thursday."
+       ],
+       "a": 1,
+       "why": "«She said I didn't have to see a doctor yet»."
+      },
+      {
+       "q": "The medicine is safe for children.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "«I mustn't give the medicine to my little nephew, because the dose is only for adults»."
+      },
+      {
+       "q": "Hannah stayed in bed for ___ days.",
+       "answers": [
+        "three",
+        "3"
+       ]
+      },
+      {
+       "q": "What did Tom bring Hannah?",
+       "opts": [
+        "Soup and magazines",
+        "Medicine and fruit",
+        "Flowers and a card"
+       ],
+       "a": 0,
+       "why": "«My friend Tom brought me soup and a pile of magazines»."
+      },
+      {
+       "q": "Hannah went back to work on Friday.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 2,
+       "why": "Dice solo che venerdì stava un po' meglio e ha mangiato del pane tostato: non dice se è tornata al lavoro."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «in the meantime» significa:",
+     "opts": [
+      "nel frattempo",
+      "alla fine",
+      "in media"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I couldn't ___ anything, so the soup had no flavour.",
+     "opts": [
+      "taste",
+      "try",
+      "test"
+     ],
+     "a": 0,
+     "why": "Sentire il sapore = «taste»."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola, come nel testo",
+     "s": "I woke up ___ a terrible sore throat.",
+     "answers": [
+      "with"
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «ring back» significa:",
+     "opts": [
+      "richiamare",
+      "suonare di nuovo",
+      "tornare indietro"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "a2-07-listening",
+   "kind": "listening",
+   "title": "Dal medico",
+   "intro": "Un paziente va dal medico di base. Ascolta la visita e concentrati sui consigli e sui divieti. Il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "At the GP's surgery",
+     "it": "Ascolta la visita e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Doctor",
+       "Come in, Mr Rossi, and sit down. What seems to be the problem?"
+      ],
+      [
+       "Marco",
+       "My stomach hurts and I feel sick. It started on Sunday."
+      ],
+      [
+       "Doctor",
+       "Do you have a temperature?"
+      ],
+      [
+       "Marco",
+       "Yes, thirty-eight. I took it this morning."
+      ],
+      [
+       "Doctor",
+       "Were you sick yesterday?"
+      ],
+      [
+       "Marco",
+       "Twice. And today I can't eat anything."
+      ],
+      [
+       "Doctor",
+       "I see. Let me check. Does it hurt here?"
+      ],
+      [
+       "Marco",
+       "Ouch! Yes, a bit."
+      ],
+      [
+       "Doctor",
+       "Well, it doesn't look serious. It's probably a stomach bug. You should drink lots of water and rest. And you mustn't eat heavy food for a day or two."
+      ],
+      [
+       "Marco",
+       "Do I have to take any medicine?"
+      ],
+      [
+       "Doctor",
+       "No, you don't have to. But if the pain gets worse, you must come back. And if it's an emergency, call 999 or 112."
+      ],
+      [
+       "Marco",
+       "Thank you. Can I go to work tomorrow?"
+      ],
+      [
+       "Doctor",
+       "I think you should stay at home until Wednesday. I'll write you a note for your employer."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What is Marco's problem?",
+       "opts": [
+        "A headache",
+        "A stomach ache",
+        "A sore throat"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Marco's temperature is ___ degrees.",
+       "answers": [
+        "38",
+        "thirty-eight",
+        "thirty eight"
+       ]
+      },
+      {
+       "q": "What does the doctor say about medicine?",
+       "opts": [
+        "Marco must take it twice a day.",
+        "Marco doesn't have to take any.",
+        "Marco should buy it at the pharmacy."
+       ],
+       "a": 1
+      },
+      {
+       "q": "What shouldn't Marco eat?",
+       "opts": [
+        "Heavy food",
+        "Fruit",
+        "Any bread"
+       ],
+       "a": 0
+      },
+      {
+       "q": "When must Marco go back to the doctor?",
+       "opts": [
+        "If the pain gets worse",
+        "On Monday morning",
+        "Tomorrow"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How long should Marco stay at home?",
+       "opts": [
+        "Until Tuesday",
+        "Until Wednesday",
+        "Until Friday"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Which number can you call in an emergency in the UK? (the doctor gives two)",
+       "answers": [
+        "999",
+        "112"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "You should drink lots of water and rest.",
+     "it": "Dovresti bere molta acqua e riposare."
+    },
+    {
+     "t": "dictation",
+     "en": "You mustn't eat heavy food for a day or two.",
+     "it": "Non devi mangiare cibi pesanti per un giorno o due."
+    },
+    {
+     "t": "speak",
+     "en": "I have a headache and a sore throat.",
+     "it": "Ho mal di testa e mal di gola."
+    }
+   ]
+  },
+  {
+   "id": "a2-07-situation",
+   "kind": "situation",
+   "title": "Dal medico e in farmacia",
+   "intro": "Fissare una visita, descrivere i sintomi, capire le istruzioni del medico, chiedere una medicina in farmacia. Poche frasi sicure fanno la differenza quando non stai bene.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Dal medico: sintomi e visita",
+     "body": "Per fissare una visita:\n- **I'd like to make an appointment, please.** = Vorrei fissare un appuntamento.\n- **Is there anything earlier?** = C'è qualcosa prima?\n\nPer descrivere come stai:\n- **I have a headache / a cough / a temperature.**\n- **My throat hurts.** / **My back hurts.** (il verbo è hurt, non «make pain»)\n- **I feel sick / dizzy / very tired.**\n- **It started two days ago.** = È iniziato due giorni fa.\n\nIl medico può dire: **What seems to be the problem?** (Qual è il problema?), **How long have you had it?**, **Are you allergic to anything?**\n\nIn caso di vera emergenza nel Regno Unito e in Europa si chiama il **999** (Regno Unito) o il **112** (valido in tutta Europa).",
+     "ex": [
+      [
+       "I'd like to make an appointment for tomorrow.",
+       "Vorrei un appuntamento per domani."
+      ],
+      [
+       "My back hurts when I sit for a long time.",
+       "Mi fa male la schiena quando sto seduto a lungo."
+      ],
+      [
+       "Are you allergic to anything?",
+       "È allergico a qualcosa?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "In farmacia",
+     "body": "- **Do you have anything for a cough?** = Avete qualcosa per la tosse?\n- **Can I have something for a headache, please?**\n- **How often should I take it?** = Quante volte devo prenderlo?\n- **Twice a day, after meals.** = Due volte al giorno, dopo i pasti.\n- **Do I need a prescription?** = Serve la ricetta?\n- **Are there any side effects?** = Ci sono effetti collaterali?\n\nIl farmacista spesso dà istruzioni con i modali: **You shouldn't take it on an empty stomach. You mustn't drive after taking it.** Ora le riconosci subito.",
+     "ex": [
+      [
+       "Do you have anything for a sore throat?",
+       "Avete qualcosa per il mal di gola?"
+      ],
+      [
+       "You shouldn't take it on an empty stomach.",
+       "Non dovresti prenderlo a stomaco vuoto."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Alla reception del medico",
+     "it": "Scegli la battuta più naturale per te (Tu).",
+     "lines": [
+      [
+       "Receptionist",
+       "Good morning, Riverside Surgery. How can I help?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Hello. I'd like to make an appointment, please.",
+         "Hello. I want a date with the doctor.",
+         "Hello. I make an appointment to the doctor."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Receptionist",
+       "Of course. What's the problem?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I've got a bad cough and a temperature.",
+         "I have a bad cough and a fever since two days.",
+         "I am a bad cough and temperature."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Receptionist",
+       "I can offer you three o'clock this afternoon."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Three o'clock is fine. Thank you.",
+         "Three o'clock is okay me. Thanks you.",
+         "Three o'clock it's good for me. Thank."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "In inglese «have a fever since two days» è un errore tipico: per un periodo che arriva fino a oggi serve il present perfect («I've had... for two days»), che trovi nell'unità 6. Qui la scelta più semplice è «I've got»."
+    },
+    {
+     "t": "dialog",
+     "title": "In farmacia",
+     "lines": [
+      [
+       "Pharmacist",
+       "Hello. What can I get for you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Do you have anything for a sore throat?",
+         "Have you something for my throat pain?",
+         "I search a medicine for the throat."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Pharmacist",
+       "Yes, these tablets are very good. You should take one every four hours."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Do I need a prescription?",
+         "Must I have the receipt?",
+         "Is it with the recipe?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Pharmacist",
+       "No, you don't have to. But you mustn't take more than six in a day."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "OK, I understand. How much is it?",
+         "OK, I understand. How much it costs?",
+         "OK, I am understanding. How is much?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "What seems to be the problem?",
+       "Qual è il problema?"
+      ],
+      [
+       "It started two days ago.",
+       "È iniziato due giorni fa."
+      ],
+      [
+       "Do I need a prescription?",
+       "Serve la ricetta?"
+      ],
+      [
+       "Twice a day, after meals.",
+       "Due volte al giorno, dopo i pasti."
+      ],
+      [
+       "Are there any side effects?",
+       "Ci sono effetti collaterali?"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Quante volte devo prenderlo?",
+     "en": "How often should I take it",
+     "extra": [
+      "do",
+      "to"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I'd like to make an appointment, please.",
+     "it": "Vorrei fissare un appuntamento, per favore."
+    },
+    {
+     "t": "speak",
+     "en": "Do you have anything for a cough?",
+     "it": "Avete qualcosa per la tosse?"
+    },
+    {
+     "t": "speak",
+     "en": "My throat hurts and I feel very tired.",
+     "it": "Mi fa male la gola e mi sento molto stanco."
+    },
+    {
+     "t": "speakTask",
+     "q": "You are at the doctor's. Explain your problem.",
+     "it": "Sei dal medico. Spiega che cosa non va: quale sintomo hai, da quando, e chiedi che cosa devi fare (almeno 4 frasi).",
+     "hints": [
+      "I have a...",
+      "It started...",
+      "I feel...",
+      "What should I do?"
+     ],
+     "min": 30,
+     "model": "Good morning, doctor. I have a bad headache and a cough. It started three days ago. I feel very tired and I can't sleep at night. I don't have a temperature. What should I do?"
+    }
+   ]
+  },
+  {
+   "id": "a2-07-production",
+   "kind": "production",
+   "title": "Consigli a un amico malato",
+   "intro": "Un amico non sta bene e ti scrive. Gli rispondi con un breve messaggio di consigli, poi lo ripeti a voce. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come dare consigli in modo gentile",
+     "body": "- **Mostra partecipazione**: Sorry to hear you're ill. / Poor you! / I hope you get better soon.\n- **Consiglia**: You should... / You shouldn't... / Why don't you...? / Remember to...\n- **Spiega il motivo** con **because** e **so**: You should rest because your body needs time.\n- **Offri aiuto**: Can I do anything? / I can bring you some soup.\n- **Chiudi**: Get well soon! / Take care!\n\nCon un amico **should** è perfetto. «You must» è troppo forte: usalo solo per cose davvero importanti.",
+     "ex": [
+      [
+       "Sorry to hear you're ill. Why don't you stay in bed?",
+       "Mi dispiace che tu stia male. Perché non resti a letto?"
+      ],
+      [
+       "I can bring you some medicine after work.",
+       "Posso portarti una medicina dopo il lavoro."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "You ___ go out in the cold with a fever.",
+     "opts": [
+      "shouldn't",
+      "don't should",
+      "can't to"
+     ],
+     "a": 0,
+     "why": "Consiglio negativo: shouldn't. «Don't should» non esiste: i modali non vogliono do/don't."
+    },
+    {
+     "t": "gap",
+     "s": "Poor you! I hope you ___ soon.",
+     "opts": [
+      "get better",
+      "get good",
+      "become better"
+     ],
+     "a": 0,
+     "why": "Si dice «get better» per guarire."
+    },
+    {
+     "t": "fix",
+     "s": "Why you don't stay in bed today?",
+     "answers": [
+      "Why don't you stay in bed today"
+     ],
+     "why": "La struttura è Why don't you + verbo base: l'ausiliare viene prima del soggetto."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Dovresti riposare e bere molta acqua.",
+     "answers": [
+      "You should rest and drink lots of water",
+      "You should rest and drink a lot of water",
+      "You should rest and drink plenty of water",
+      "You should drink lots of water and rest",
+      "You should drink a lot of water and rest"
+     ],
+     "why": "Consiglio: should + due verbi base collegati da and. «Lots of» o «a lot of» con un nome non numerabile."
+    },
+    {
+     "t": "write",
+     "q": "Your friend Ben is ill with a bad cold and a cough. He wrote to you. Write a message to Ben. Say you are sorry, give him two or three pieces of advice with reasons, and offer to help.",
+     "it": "Scrivi un messaggio a Ben, che ha un forte raffreddore e la tosse: digli che ti dispiace, dagli due o tre consigli con il motivo e offri il tuo aiuto.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho mostrato partecipazione all'inizio",
+      "Ho usato should o shouldn't almeno due volte",
+      "Ho usato don't have to o have to correttamente (almeno una volta)",
+      "Ho dato il motivo con because o so",
+      "Ho offerto aiuto e chiuso con una formula amichevole"
+     ],
+     "useful": [
+      "Hi Ben,",
+      "Sorry to hear you're ill.",
+      "You should...",
+      "You shouldn't...",
+      "because",
+      "so",
+      "Can I do anything?",
+      "Get well soon!"
+     ],
+     "model": "Hi Ben,\n\nSorry to hear you're ill! You should stay in bed today because your body needs rest. You shouldn't go to work, so call your manager. You don't have to explain too much: just say you have a cold. Drink lots of hot tea and water too.\n\nCan I do anything? I can bring you some soup this evening.\n\nGet well soon!\nLuca"
+    },
+    {
+     "t": "speakTask",
+     "q": "A friend has a headache and feels tired. Give advice.",
+     "it": "Un amico ha mal di testa e si sente stanco. Dagli almeno tre consigli.",
+     "hints": [
+      "You should...",
+      "You shouldn't...",
+      "Why don't you...?"
+     ],
+     "min": 30,
+     "model": "Poor you! You should go home and rest. You shouldn't look at your phone or your laptop because that makes headaches worse. Why don't you drink some water and sleep for an hour? I hope you get better soon."
+    },
+    {
+     "t": "speakTask",
+     "q": "What do you have to do and not have to do in your daily life?",
+     "it": "Parla di che cosa devi fare e di che cosa non sei obbligato a fare nella tua vita (lavoro, casa, studio).",
+     "hints": [
+      "I have to...",
+      "I don't have to...",
+      "I mustn't... (a work rule)"
+     ],
+     "min": 30,
+     "model": "I have to get up at seven because I start work at eight. I don't have to cook on weekdays because my mother cooks for us. At work I have to wear a badge and I mustn't use my phone with customers. I don't have to work on Saturdays, which is great."
+    }
+   ]
+  },
+  {
+   "id": "a2-07-test",
+   "kind": "test",
+   "title": "Test dell'unità 7",
+   "intro": "Verifica senza aiuti: modali, lessico della salute, lettura e ascolto. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "She ___ speak four languages. She's amazing.",
+     "opts": [
+      "can",
+      "cans",
+      "can to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "When I was ten, I ___ swim, but now I can.",
+     "opts": [
+      "couldn't",
+      "can't",
+      "mustn't"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We ___ wear a uniform at my school. It was a rule.",
+     "opts": [
+      "had to",
+      "must",
+      "have to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Tomorrow is a holiday, so you ___ come to work.",
+     "opts": [
+      "don't have to",
+      "mustn't",
+      "haven't to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "You ___ use your phone in the exam room. It's against the rules.",
+     "opts": [
+      "mustn't",
+      "don't have to",
+      "shouldn't to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I've got a terrible cough. What ___ I do?",
+     "opts": [
+      "should",
+      "must to",
+      "should to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I need to see a doctor. Can I make an ___ for today?",
+     "opts": [
+      "appointment",
+      "date",
+      "meeting"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'm going to the ___ to buy some tablets for my headache.",
+     "opts": [
+      "pharmacy",
+      "pharmacia",
+      "farmacy"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Does she have to work on Sundays?",
+      "Has she to work on Sundays?",
+      "Does she must work on Sundays?"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Could I use your phone, please?",
+      "Do I could use your phone, please?",
+      "Could I to use your phone, please?"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase significa «È vietato mangiare qui»?",
+     "opts": [
+      "You mustn't eat here.",
+      "You don't have to eat here.",
+      "You haven't to eat here."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "He ___ (not / have to) pay. It's free for students.",
+     "answers": [
+      "doesn't have to",
+      "does not have to"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Dovresti prenderti un giorno libero.",
+     "answers": [
+      "You should take a day off",
+      "You should take a day off work",
+      "You should have a day off",
+      "You should take the day off"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Ho mal di gola e la tosse.",
+     "answers": [
+      "I have a sore throat and a cough",
+      "I've got a sore throat and a cough",
+      "I have got a sore throat and a cough",
+      "I have a cough and a sore throat",
+      "I've got a cough and a sore throat"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "You must to take this medicine twice a day.",
+     "answers": [
+      "You must take this medicine twice a day",
+      "You have to take this medicine twice a day"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "She doesn't can come to the party.",
+     "answers": [
+      "She can't come to the party",
+      "She cannot come to the party"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "It's not necessary for me to book a table.",
+     "key": "HAVE",
+     "s2": "I ___ a table.",
+     "answers": [
+      "don't have to book",
+      "do not have to book"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "Don't worry, it's a very mild ___ .",
+     "root": "ILL",
+     "answers": [
+      "illness"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Non devi guidare dopo aver preso questa medicina.",
+     "en": "You mustn't drive after taking this medicine",
+     "extra": [
+      "don't",
+      "to"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa il messaggio",
+     "mode": "mc",
+     "text": "Hi Sara,\n\nSorry to hear you have a {1}. You {2} stay at home today and rest. You {3} go to work: I'll tell the boss. But you {4} drink lots of water, and you {5} see a doctor if you still have a fever on Friday.\n\nGet well soon!\nAnna",
+     "gaps": [
+      {
+       "opts": [
+        "cold",
+        "colde",
+        "cough's",
+        "coughing"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "should",
+        "are should",
+        "should to",
+        "shoulds"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "don't have to",
+        "mustn't to",
+        "haven't to",
+        "don't must"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "should",
+        "have",
+        "are",
+        "do"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "must",
+        "must to",
+        "musts",
+        "do must"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "At the pharmacy",
+     "it": "Ascolta la conversazione in farmacia.",
+     "lines": [
+      [
+       "Pharmacist",
+       "Hello, can I help you? Ah, you need something for a headache. Yes, these tablets are fine. You should take one with water, twice a day, after meals. You mustn't take more than four tablets in one day. You don't need a prescription, but if the headache lasts more than three days, you should see a doctor."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "How often should the customer take the tablets?",
+       "opts": [
+        "Once a day",
+        "Twice a day",
+        "Four times a day"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What is the maximum number of tablets in one day?",
+       "opts": [
+        "Two",
+        "Four",
+        "Six"
+       ],
+       "a": 1
+      },
+      {
+       "q": "When should the customer see a doctor?",
+       "opts": [
+        "If the headache lasts more than three days",
+        "Tomorrow morning",
+        "If he needs a prescription"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Dal dottore",
+     "lines": [
+      [
+       "Doctor",
+       "What seems to be the problem?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I've got a sore throat and a cough.",
+         "I have a pain at the throat since two days.",
+         "I am sore throat and cough."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Doctor",
+       "I see. You should drink hot drinks and rest."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Do I have to take any medicine?",
+         "Must I to take medicines?",
+         "Have I to take medicine?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

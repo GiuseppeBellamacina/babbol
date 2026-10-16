@@ -1,0 +1,1190 @@
+{
+  "id": "exam-b1",
+  "level": "B1",
+  "title": "Simulazione B1 Preliminary",
+  "intro": "Simulazione ispirata al formato Cambridge B1 Preliminary. Contiene quattro prove: Reading (6 parti, circa 45 minuti: avvisi e messaggi, abbinamento, articolo con domande, testo con frasi mancanti e due completamenti), Writing (2 testi da scrivere, circa 45 minuti: un'email e una storia), Listening (4 parti, circa 30 minuti, ogni audio si ascolta al massimo 2 volte) e Speaking (4 prove a voce, circa 12 minuti). Il tempo totale è di circa due ore e mezza: ogni parte indica la sua durata consigliata. Lavora senza dizionario e senza traduttore. Il risultato è indicativo: serve a capire a che punto sei, non è un voto ufficiale.",
+  "parts": [
+    {
+      "id": "r1",
+      "title": "Reading - Part 1",
+      "skill": "reading",
+      "minutes": 8,
+      "it": "Leggi ogni avviso, messaggio o email e scegli la risposta giusta.",
+      "steps": [
+        {
+          "t": "mc",
+          "q": "What does the notice say?",
+          "text": "CITY LIBRARY\nBooks must be returned by the date stamped inside the cover. Late returns cost 20p a day. You can renew your loan online or by phone, up to three times.",
+          "opts": [
+            "You can extend a loan without visiting the library.",
+            "Books can only be borrowed for twenty days.",
+            "You must pay 20p to renew a book."
+          ],
+          "a": 0,
+          "why": "«You can renew online or by phone»: si può prolungare il prestito senza andare in biblioteca. Le 20p sono la multa per ogni giorno di ritardo, non il costo del rinnovo."
+        },
+        {
+          "t": "mc",
+          "q": "What does Ali want Jo to do?",
+          "text": "Hi Jo, the plumber can't come until Thursday now, so I've asked Mrs Lee next door to let him in. Could you leave a spare key with her before you go to work? Thanks, Ali",
+          "opts": [
+            "Wait at home for the plumber",
+            "Give a key to the neighbour",
+            "Ask Mrs Lee to call the plumber"
+          ],
+          "a": 1,
+          "why": "Ali ha già chiesto alla vicina di far entrare l'idraulico: a Jo chiede solo di lasciarle una chiave di scorta."
+        },
+        {
+          "t": "mc",
+          "q": "Why has the manager sent this email?",
+          "text": "Team, the printer on the second floor is out of order. Please use the one in reception until the engineer comes on Monday. Try not to send large documents there, as it is very slow.",
+          "opts": [
+            "To report that a printer has been replaced",
+            "To tell staff where they can print for now",
+            "To ask staff to print fewer documents"
+          ],
+          "a": 1,
+          "why": "La stampante del secondo piano è guasta: per ora si usa quella della reception. L'invito a non mandare file grandi è solo un consiglio secondario."
+        },
+        {
+          "t": "mc",
+          "q": "What can members of Greenfield Gym do from 3 to 9 June?",
+          "text": "GREENFIELD GYM\nBecause of repairs, the swimming pool will be closed from 3 to 9 June. Members can swim free of charge at Parkside Leisure Centre by showing their membership card.",
+          "opts": [
+            "Use the gym at a lower price",
+            "Swim at another centre without paying",
+            "Get their money back for the week"
+          ],
+          "a": 1,
+          "why": "«Swim free of charge at Parkside Leisure Centre» = nuotare gratis in un altro centro. Non si parla di sconti né di rimborsi."
+        },
+        {
+          "t": "mc",
+          "q": "What is Meg asking Sam to do?",
+          "text": "Running late, sorry! My train was cancelled so I'm getting the next one, which arrives at 6.40. Order me a coffee if you get there first. I'll pay you back. Meg",
+          "opts": [
+            "Wait for her outside the station",
+            "Buy her a drink",
+            "Change the time of their meeting"
+          ],
+          "a": 1,
+          "why": "«Order me a coffee... I'll pay you back»: Meg chiede a Sam di ordinarle un caffè e lo rimborserà."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Reading - Part 2",
+      "skill": "reading",
+      "minutes": 8,
+      "it": "Leggi le otto descrizioni dei corsi (A-H) e le cinque persone. Per ogni persona scegli il corso più adatto: ce n'è uno solo.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "Courses in the evening and at weekends",
+          "genre": "brochure",
+          "text": "**A - Evening Pottery**\nSix Tuesday evenings in a friendly studio. Learn to make bowls and cups with your own hands, then take them home. All materials are included and we work in groups of six, so everyone gets plenty of help. Complete beginners welcome.\n\n**B - Spanish on the Go**\nA flexible course for busy people. You study through an app for about twenty minutes whenever you like, and once a week you chat online with a tutor. Ideal if your work takes you away from home a lot.\n\n**C - Writers' Circle**\nWe meet on the first Thursday of every month in a cafe in the town centre. Members read their short stories or poems aloud and everyone gives friendly feedback. Free, and no experience necessary.\n\n**D - Guitar for Adults**\nThursday evenings, ten weeks, groups of ten. You need to bring your own guitar. You will play your first song in the first lesson, and by the end of the course you will be able to perform in front of the group.\n\n**E - Mountain Skills Weekend**\nTwo days in the Lake District with qualified guides. You will learn how to read a map, use a compass and stay safe in bad weather. For people who already walk regularly and want to try higher mountains. Boots and rucksacks can be hired.\n\n**F - First Aid Day**\nOne Saturday, 9.00 to 17.00. You will practise how to help someone who is choking, burned or unconscious. At the end you receive a certificate recognised by schools, nurseries and sports clubs.\n\n**G - Photo Walks**\nOn Sunday mornings a professional photographer leads a walk through the old town. Bring a camera or just a phone. The course is for people who already take pictures and want to get better at choosing what to show and how to arrange it.\n\n**H - Family Kitchen**\nSaturday afternoons for parents and children aged 7 to 12. You cook a three-course meal together and then eat it at a long table with the other families.",
+          "qs": [
+            {
+              "q": "Rosa would like to make something she can take home. She does not want to buy any equipment and she prefers a small group.",
+              "opts": [
+                "A (Evening Pottery)",
+                "B (Spanish on the Go)",
+                "C (Writers' Circle)",
+                "D (Guitar for Adults)",
+                "E (Mountain Skills Weekend)",
+                "F (First Aid Day)",
+                "G (Photo Walks)",
+                "H (Family Kitchen)"
+              ],
+              "a": 0,
+              "why": "A: ceramiche da portare a casa, materiali inclusi, gruppi di sei."
+            },
+            {
+              "q": "Dan is often abroad for weeks at a time. He needs a course he can follow whenever he has some free time.",
+              "opts": [
+                "A (Evening Pottery)",
+                "B (Spanish on the Go)",
+                "C (Writers' Circle)",
+                "D (Guitar for Adults)",
+                "E (Mountain Skills Weekend)",
+                "F (First Aid Day)",
+                "G (Photo Walks)",
+                "H (Family Kitchen)"
+              ],
+              "a": 1,
+              "why": "B: studio flessibile con app, adatto a chi viaggia molto per lavoro."
+            },
+            {
+              "q": "Mina has been hill walking for years. She wants to learn how to find her way safely in higher mountains.",
+              "opts": [
+                "A (Evening Pottery)",
+                "B (Spanish on the Go)",
+                "C (Writers' Circle)",
+                "D (Guitar for Adults)",
+                "E (Mountain Skills Weekend)",
+                "F (First Aid Day)",
+                "G (Photo Walks)",
+                "H (Family Kitchen)"
+              ],
+              "a": 4,
+              "why": "E: uso di mappa e bussola, per chi già cammina e vuole salire più in alto."
+            },
+            {
+              "q": "Tom has just started a job at a nursery. His employer wants him to have a qualification, but he can only spare one day.",
+              "opts": [
+                "A (Evening Pottery)",
+                "B (Spanish on the Go)",
+                "C (Writers' Circle)",
+                "D (Guitar for Adults)",
+                "E (Mountain Skills Weekend)",
+                "F (First Aid Day)",
+                "G (Photo Walks)",
+                "H (Family Kitchen)"
+              ],
+              "a": 5,
+              "why": "F: un solo sabato, certificato riconosciuto da asili e scuole."
+            },
+            {
+              "q": "Lena enjoys taking photos on her phone. She wants to improve the way she arranges her pictures, preferably outdoors at the weekend.",
+              "opts": [
+                "A (Evening Pottery)",
+                "B (Spanish on the Go)",
+                "C (Writers' Circle)",
+                "D (Guitar for Adults)",
+                "E (Mountain Skills Weekend)",
+                "F (First Aid Day)",
+                "G (Photo Walks)",
+                "H (Family Kitchen)"
+              ],
+              "a": 6,
+              "why": "G: passeggiata fotografica la domenica mattina, anche solo col telefono, per migliorare la composizione."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "Reading - Part 3",
+      "skill": "reading",
+      "minutes": 9,
+      "it": "Leggi il blog e rispondi alle cinque domande. Per ogni domanda scegli A, B, C o D.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "The shop that belongs to the village",
+          "genre": "blog",
+          "text": "When the only shop in our village closed last spring, nobody was really surprised. Mr Hobbs had run it for thirty-one years, he was nearly seventy, and none of his children wanted to take it over. What did surprise people was what happened next.\n\nAt a meeting in the church hall, a retired teacher called Ruth Adams stood up and said that a village without a shop is just a collection of houses. Several people laughed, but she was serious. Her idea was that the villagers should buy the shop together and run it themselves. By the end of the evening, forty-two families had promised to put in money, some of them as little as fifty pounds.\n\nIt took eight months to raise enough. We held a quiz night, a bike ride and a very bad talent show, and we also borrowed some money from a charity that helps country communities. Then we had to find someone to manage the place. Nobody wanted to spend their whole life behind a counter, so we agreed that about sixty volunteers would take turns, with one paid manager, Priya, who had worked in a supermarket in Leeds.\n\nThe shop reopened in January, and I would love to say that everything went smoothly. It didn't. In the first month we ran out of milk three times, and the card machine refused to work on the busiest Saturday. Some customers also complained that prices were higher than in the supermarket in town, which is true, and which we can't change much because we buy in small quantities.\n\nEven so, the shop is now busy every day. People who used to drive to town for everything now pop in for a loaf of bread and stay for twenty minutes to chat. Older residents, especially, tell us the shop is the best thing to happen to the village in years. I don't know if it will survive in the long term, but I do know that I have met more of my neighbours in the last year than in the previous ten.\n\nIf your own village is losing its shop, my advice is to talk to your neighbours before you do anything else. You might be surprised too.",
+          "qs": [
+            {
+              "q": "Why did the village shop close?",
+              "opts": [
+                "A new supermarket had opened in the town.",
+                "Mr Hobbs was getting old and nobody wanted to continue his work.",
+                "Mr Hobbs wanted to move to be near his children.",
+                "The shop was losing money after thirty-one years."
+              ],
+              "a": 1,
+              "why": "Paragrafo 1: Mr Hobbs aveva quasi settant'anni e nessun figlio voleva rilevare il negozio."
+            },
+            {
+              "q": "How did the villagers get the money they needed?",
+              "opts": [
+                "Entirely from a charity",
+                "Only from families who gave large amounts",
+                "Partly from local events and partly from a loan",
+                "By selling shares to people in the town"
+              ],
+              "a": 2,
+              "why": "Paragrafo 3: quiz, giro in bici, spettacolo e un prestito da un'associazione."
+            },
+            {
+              "q": "What went wrong in the first month after the reopening?",
+              "opts": [
+                "Some goods ran out and the card machine broke down.",
+                "The volunteers did not turn up for work.",
+                "The manager left her job.",
+                "Customers stopped coming because of the prices."
+              ],
+              "a": 0,
+              "why": "Paragrafo 4: latte finito tre volte e il POS fuori uso."
+            },
+            {
+              "q": "How does the writer feel about the future of the shop?",
+              "opts": [
+                "Certain that it will make a profit",
+                "Worried that it will close soon",
+                "Hopeful, but not sure it will last",
+                "Angry with people who criticise it"
+              ],
+              "a": 2,
+              "why": "«I don't know if it will survive in the long term» ma il tono è positivo."
+            },
+            {
+              "q": "What is the writer's main purpose in the last paragraph?",
+              "opts": [
+                "To advise readers who face the same problem",
+                "To complain about the lack of help from the council",
+                "To thank the people who worked on the project",
+                "To ask readers for money"
+              ],
+              "a": 0,
+              "why": "«If your own village is losing its shop, my advice is...»"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Reading - Part 4",
+      "skill": "reading",
+      "minutes": 8,
+      "it": "Cinque frasi sono state tolte dal testo. Per ogni spazio [1]-[5] scegli la frase giusta tra le otto (A-H): tre non servono.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "My balcony garden",
+          "genre": "blog",
+          "text": "Last spring I decided to grow my own vegetables. [1] My balcony faces south and I had a few old boxes, so I thought: why not try?\n\nI started with tomatoes, lettuce and herbs, because a neighbour told me they were the easiest. [2] I watered them every morning and checked for insects every evening. For the first three weeks nothing seemed to happen, and I almost gave up.\n\nThen one morning I noticed tiny green leaves in every box. [3] I was ridiculously proud, and I sent photos to all my friends. A few weeks later, however, something went wrong. [4] It turned out that I had been giving them too much water, which is a common mistake for beginners.\n\nI asked for advice in an online group, and a retired farmer in Scotland answered me within an hour. He explained how often to water each plant and how to move the boxes when the weather was very hot. I followed his advice, and slowly the plants recovered.\n\nBy August I was picking tomatoes every day. [5] I now give the extra ones to my neighbours and in return they lend me tools and share their own tips. Next year I want to try carrots, and maybe even strawberries.",
+          "qs": [
+            {
+              "q": "Which sentence fits gap 1?",
+              "opts": [
+                "It sounds ambitious, because I live in a small flat in the middle of the city.",
+                "I have since learned that carrots are much harder to grow than tomatoes.",
+                "I bought the seeds and some good soil at a garden centre and planted everything in early April.",
+                "The shop where I bought the seeds closed down a year later.",
+                "I had actually done it: I had made something grow.",
+                "My brother, on the other hand, has always hated gardening.",
+                "The leaves of the tomato plants turned yellow and some of them started to fall off.",
+                "They tasted much better than anything I had ever bought in a supermarket, and there were far too many for one person."
+              ],
+              "a": 0,
+              "why": "Introduce la difficoltà (una casa piccola in città); la frase dopo parla del balcone."
+            },
+            {
+              "q": "Which sentence fits gap 2?",
+              "opts": [
+                "It sounds ambitious, because I live in a small flat in the middle of the city.",
+                "I have since learned that carrots are much harder to grow than tomatoes.",
+                "I bought the seeds and some good soil at a garden centre and planted everything in early April.",
+                "The shop where I bought the seeds closed down a year later.",
+                "I had actually done it: I had made something grow.",
+                "My brother, on the other hand, has always hated gardening.",
+                "The leaves of the tomato plants turned yellow and some of them started to fall off.",
+                "They tasted much better than anything I had ever bought in a supermarket, and there were far too many for one person."
+              ],
+              "a": 2,
+              "why": "Dopo aver scelto le piante, le semina; poi «I watered them» si riferisce a ciò che è stato piantato."
+            },
+            {
+              "q": "Which sentence fits gap 3?",
+              "opts": [
+                "It sounds ambitious, because I live in a small flat in the middle of the city.",
+                "I have since learned that carrots are much harder to grow than tomatoes.",
+                "I bought the seeds and some good soil at a garden centre and planted everything in early April.",
+                "The shop where I bought the seeds closed down a year later.",
+                "I had actually done it: I had made something grow.",
+                "My brother, on the other hand, has always hated gardening.",
+                "The leaves of the tomato plants turned yellow and some of them started to fall off.",
+                "They tasted much better than anything I had ever bought in a supermarket, and there were far too many for one person."
+              ],
+              "a": 4,
+              "why": "«I was ridiculously proud» è la reazione a «I had actually done it»."
+            },
+            {
+              "q": "Which sentence fits gap 4?",
+              "opts": [
+                "It sounds ambitious, because I live in a small flat in the middle of the city.",
+                "I have since learned that carrots are much harder to grow than tomatoes.",
+                "I bought the seeds and some good soil at a garden centre and planted everything in early April.",
+                "The shop where I bought the seeds closed down a year later.",
+                "I had actually done it: I had made something grow.",
+                "My brother, on the other hand, has always hated gardening.",
+                "The leaves of the tomato plants turned yellow and some of them started to fall off.",
+                "They tasted much better than anything I had ever bought in a supermarket, and there were far too many for one person."
+              ],
+              "a": 6,
+              "why": "Il problema (foglie gialle) precede «It turned out that I had been giving them too much water»."
+            },
+            {
+              "q": "Which sentence fits gap 5?",
+              "opts": [
+                "It sounds ambitious, because I live in a small flat in the middle of the city.",
+                "I have since learned that carrots are much harder to grow than tomatoes.",
+                "I bought the seeds and some good soil at a garden centre and planted everything in early April.",
+                "The shop where I bought the seeds closed down a year later.",
+                "I had actually done it: I had made something grow.",
+                "My brother, on the other hand, has always hated gardening.",
+                "The leaves of the tomato plants turned yellow and some of them started to fall off.",
+                "They tasted much better than anything I had ever bought in a supermarket, and there were far too many for one person."
+              ],
+              "a": 7,
+              "why": "«Far too many» spiega «the extra ones» della frase successiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "Reading - Part 5",
+      "skill": "use",
+      "minutes": 7,
+      "it": "Leggi il testo e scegli la parola giusta (A-D) per ogni spazio.",
+      "steps": [
+        {
+          "t": "cloze",
+          "title": "A new city",
+          "mode": "mc",
+          "text": "Moving to a new city can be exciting, but it is not always easy. When I arrived in Manchester last year I didn't know anybody, so I decided to {1} a local running club. At first I found it hard to {2} up with the others. {3}, I was determined not to give up, so I kept going. After a few weeks I had {4} a few friends, and we started meeting for coffee after every session. I am really {5} to the club for helping me settle in. {6} I still miss my family in Italy, I now feel that Manchester is my home.",
+          "gaps": [
+            {
+              "opts": [
+                "join",
+                "enter",
+                "go",
+                "take"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "keep",
+                "go",
+                "hold",
+                "put"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "However",
+                "Although",
+                "Despite",
+                "Because"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "made",
+                "done",
+                "taken",
+                "kept"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "grateful",
+                "proud",
+                "pleased",
+                "happy"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "Although",
+                "Despite",
+                "However",
+                "Unless"
+              ],
+              "a": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r6",
+      "title": "Reading - Part 6",
+      "skill": "use",
+      "minutes": 6,
+      "it": "Completa il testo con UNA parola per ogni spazio.",
+      "steps": [
+        {
+          "t": "cloze",
+          "title": "Summers by the sea",
+          "mode": "open",
+          "text": "I {1} born in a small village near the sea, where my grandparents still live. Every summer my parents sent me to stay with them, and I {2} to spend hours on the beach. My grandfather taught me how to fish. I remember the first time I caught something: it was so small that he told me to throw it back, but I was very proud {3} it anyway. These days I live in a big city and I rarely have time {4} go fishing. If I {5} more free time, I would visit my grandfather's village more often. I am thinking {6} taking a week off in the autumn.",
+          "gaps": [
+            {
+              "answers": [
+                "was"
+              ]
+            },
+            {
+              "answers": [
+                "used"
+              ]
+            },
+            {
+              "answers": [
+                "of"
+              ]
+            },
+            {
+              "answers": [
+                "to"
+              ]
+            },
+            {
+              "answers": [
+                "had"
+              ]
+            },
+            {
+              "answers": [
+                "about",
+                "of"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w1",
+      "title": "Writing - Part 1",
+      "skill": "writing",
+      "minutes": 22,
+      "it": "Rispondi all'email del tuo amico trattando tutti e tre i punti (100-120 parole).",
+      "steps": [
+        {
+          "t": "write",
+          "q": "You have received an email from your English friend Chris.\n\n\"I've just started a new job and I'm looking for a way to relax in the evenings. I'm thinking of joining a gym or taking up a hobby. What do you think I should do? Tell me what you enjoy doing in your free time, too!\"\n\nWrite an email to Chris. In your email:\n- say whether you think a gym or a hobby is better, and why\n- describe a hobby you enjoy\n- invite Chris to try it with you on Saturday.",
+          "it": "Scrivi un'email a Chris (100-120 parole). Di' se secondo te è meglio la palestra o un hobby e perché, descrivi un hobby che pratichi e invitalo a provarlo con te sabato.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Contenuto: ho trattato tutti e tre i punti (palestra o hobby, il mio hobby, l'invito per sabato)",
+            "Comunicazione: tono amichevole e registro informale, con saluto iniziale e chiusura",
+            "Organizzazione: paragrafi chiari e connettivi (because, also, so, why don't you...)",
+            "Lingua: verbi corretti (present simple, present perfect), varietà di vocaboli, ortografia controllata",
+            "Ho rispettato il numero di parole (100-120)"
+          ],
+          "useful": [
+            "Thanks for your email.",
+            "Personally, I think...",
+            "I've recently started...",
+            "Why don't you come along...?",
+            "Let me know if you're free!"
+          ],
+          "model": "Hi Chris,\n\nThanks for your email, and congratulations on the new job! You must be busy, so it's a good idea to relax in the evenings.\n\nPersonally, I think a hobby is better than a gym, because you can learn something new and meet people at the same time. A gym can be quite boring after a long day at work.\n\nI've recently started playing tennis at a club near my house and I really enjoy it. It isn't expensive and the other members are very friendly. Why don't you come along with me this Saturday morning? You can borrow one of my rackets.\n\nLet me know if you're free!\n\nBest wishes,\nMarco"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "title": "Writing - Part 2",
+      "skill": "writing",
+      "minutes": 23,
+      "it": "Scrivi una storia che cominci con la frase data (100-120 parole).",
+      "steps": [
+        {
+          "t": "write",
+          "q": "Your English teacher has asked you to write a story for the school magazine. Your story must begin with this sentence:\n\n\"When Lucy opened the door, she could not believe what she saw.\"\n\nWrite your story.",
+          "it": "Scrivi una storia (100-120 parole) che inizi esattamente con la frase indicata. Usa i tempi del passato e connettivi per raccontare gli eventi in ordine.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Contenuto: la storia comincia con la frase data e ha un finale chiaro",
+            "Comunicazione: il racconto è interessante e il lettore capisce cosa succede",
+            "Organizzazione: eventi in ordine con connettivi (then, suddenly, after that, in the end)",
+            "Lingua: past simple, past continuous e past perfect usati correttamente; aggettivi e vocaboli vari",
+            "Ho rispettato il numero di parole (100-120)"
+          ],
+          "useful": [
+            "Suddenly,...",
+            "She had never seen...",
+            "At first,... but then...",
+            "In the end,..."
+          ],
+          "model": "When Lucy opened the door, she could not believe what she saw. Her brother Tom was standing on the doorstep with a huge suitcase and a big smile. He was supposed to be in Australia for another six months.\n\"Surprise!\" he shouted. \"I've come home for your birthday.\"\nLucy was so happy that she started to cry. She hadn't seen him for almost a year, and she had missed him terribly. They hugged for a long time. Then she made some tea and Tom told her about his adventures in Sydney.\nLater that evening, their parents came home. When they saw Tom, they dropped their bags. It was the best birthday present Lucy had ever received."
+        }
+      ]
+    },
+    {
+      "id": "l1",
+      "title": "Listening - Part 1",
+      "skill": "listening",
+      "minutes": 8,
+      "it": "Ascolta sette brevi estratti. Per ogni domanda scegli la risposta giusta (A, B o C).",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Before the trip",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Woman",
+              "Have you got the tickets?"
+            ],
+            [
+              "Man",
+              "Yes, they're in my jacket. Passport too."
+            ],
+            [
+              "Woman",
+              "And the charger? You always forget it."
+            ],
+            [
+              "Man",
+              "Oh no. It's still plugged in next to the bed. Never mind, I'll buy another one at the airport."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What has the man forgotten?",
+              "opts": [
+                "His passport",
+                "His tickets",
+                "His charger"
+              ],
+              "a": 2
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from Zoe",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            [
+              "Zoe",
+              "Hi Dan, it's Zoe. About tonight. The film's sold out, so I've booked for tomorrow at the same time instead. I hope that's OK. Call me if it isn't. Bye!"
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What has Zoe done?",
+              "opts": [
+                "Cancelled the plan with Dan",
+                "Bought tickets for tomorrow",
+                "Chosen a different film"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The weather forecast",
+          "it": "Ascolta la previsione.",
+          "lines": [
+            [
+              "Presenter",
+              "And now the weekend weather. Saturday will be warm and sunny everywhere. Sunday starts dry but cloudy, with rain spreading from the west by the afternoon. Monday will be bright again, though a bit cooler."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What will the weather be like on Sunday?",
+              "opts": [
+                "Sunny all day",
+                "Dry at first, then rain",
+                "Raining from the morning"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "In a shop",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Customer",
+              "Hello. I bought this jacket last week, and I'd like to change it."
+            ],
+            [
+              "Assistant",
+              "Of course. Is it the wrong size?"
+            ],
+            [
+              "Customer",
+              "No, the size is fine, and I love the colour. But the zip is broken. Look, it keeps coming open."
+            ],
+            [
+              "Assistant",
+              "I'm sorry about that. I'll get you a new one from the back."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What is wrong with the jacket?",
+              "opts": [
+                "It is too small.",
+                "The zip does not work.",
+                "It is the wrong colour."
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The meeting",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Clara",
+              "Is the meeting still at ten?"
+            ],
+            [
+              "Paul",
+              "No, it's been put back. It's at a quarter past eleven now. Oh, wait. No, sorry. Half past eleven. The quarter past was yesterday's email."
+            ],
+            [
+              "Clara",
+              "Right, so I've got time to finish this report first."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What time is the meeting now?",
+              "opts": [
+                "10.00",
+                "11.15",
+                "11.30"
+              ],
+              "a": 2
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "At the hotel",
+          "it": "Ascolta la telefonata.",
+          "lines": [
+            [
+              "Guest",
+              "Hello, it's room 308. Could you book me a taxi for tomorrow morning? My flight is at nine, so I need to leave at six."
+            ],
+            [
+              "Receptionist",
+              "Certainly, sir. To the airport?"
+            ],
+            [
+              "Guest",
+              "That's right. Thank you."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What does the guest ask the receptionist to do?",
+              "opts": [
+                "Change his room",
+                "Arrange transport to the airport",
+                "Wake him up at nine"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The new flat",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            [
+              "Woman",
+              "So, the new flat. It's further from work than I wanted, and the kitchen is tiny. But when I saw the view of the park from the bedroom window, I just said yes. It's wonderful, especially in the morning."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What does the woman like most about her flat?",
+              "opts": [
+                "The kitchen",
+                "The view",
+                "The distance from work"
+              ],
+              "a": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "title": "Listening - Part 2",
+      "skill": "listening",
+      "minutes": 6,
+      "it": "Ascolta sei brevi conversazioni. Per ogni domanda scegli la risposta giusta (A, B o C).",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "The new boss",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Anna",
+              "What's your new boss like, Mark?"
+            ],
+            [
+              "Mark",
+              "Well, she's quite strict. She expects everything on time. But I have to say, she's fair, and she always says thank you."
+            ],
+            [
+              "Anna",
+              "That sounds better than my last one."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What does Mark think of his new boss?",
+              "opts": [
+                "She is strict but fair.",
+                "She is too demanding.",
+                "She is not very organised."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Planning the holiday",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Woman",
+              "I'd still prefer the beach, but I suppose a city could be fun."
+            ],
+            [
+              "Man",
+              "I'll tell you what, let's go to a city that's near the sea. Then we both get what we want."
+            ],
+            [
+              "Woman",
+              "Hmm, I'm still not sure about that. But what about the dates? Mid-August is so expensive."
+            ],
+            [
+              "Man",
+              "Agreed. Let's go in September, it's cheaper and less crowded."
+            ],
+            [
+              "Woman",
+              "OK, September it is."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What do they agree about?",
+              "opts": [
+                "Where to go",
+                "When to go",
+                "How to travel"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "After the exam",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Friend",
+              "How did the exam go?"
+            ],
+            [
+              "Girl",
+              "Most of it was fine. But the last essay, I know I got it wrong. I keep thinking about it. I couldn't sleep last night."
+            ],
+            [
+              "Friend",
+              "Oh, don't worry. You always think the worst."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "How does the girl feel about the exam?",
+              "opts": [
+                "Relieved that it's over",
+                "Worried about one part",
+                "Angry with the teacher"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Working from home",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Woman",
+              "Do you like working from home?"
+            ],
+            [
+              "Man",
+              "Yes, mostly. I save two hours' travelling every day, and I get more done. But I miss chatting with people at the coffee machine."
+            ],
+            [
+              "Woman",
+              "I know what you mean."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What does the man say about working from home?",
+              "opts": [
+                "He prefers it to the office, but misses his colleagues.",
+                "He finds it difficult to concentrate.",
+                "He wants to go back to the office full time."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The gym",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Girl",
+              "Why don't you join the gym with me?"
+            ],
+            [
+              "Boy",
+              "It's too expensive. Forty pounds a month? No way."
+            ],
+            [
+              "Girl",
+              "Actually, students pay half. And the first month is free."
+            ],
+            [
+              "Boy",
+              "Really? Well, in that case, maybe I will."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Why does the boy change his mind?",
+              "opts": [
+                "He is told about a cheaper price.",
+                "He wants to spend more time with her.",
+                "He has a lot of free time now."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "After the film",
+          "it": "Ascolta il dialogo.",
+          "lines": [
+            [
+              "Man",
+              "The music was fantastic."
+            ],
+            [
+              "Woman",
+              "Absolutely. And the acting too. But the ending, I thought it was silly."
+            ],
+            [
+              "Man",
+              "Silly? I thought it was clever! It made me think."
+            ],
+            [
+              "Woman",
+              "Well, we'll have to agree to disagree."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What do they disagree about?",
+              "opts": [
+                "The music",
+                "The acting",
+                "The ending"
+              ],
+              "a": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "title": "Listening - Part 3",
+      "skill": "listening",
+      "minutes": 8,
+      "it": "Ascolta l'annuncio alla radio e completa le sei frasi con una parola o un numero.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Family Fun Day",
+          "it": "Ascolta l'annuncio.",
+          "lines": [
+            [
+              "Presenter",
+              "Good morning, everyone, and welcome to Radio Millbrook's community news. Now, some exciting news for anyone who loves being outside. This year's Millbrook Family Fun Day will take place on Saturday the twenty-second of June. That's the twenty-second. The event will be held in the park next to the lake, and not at the sports centre as in previous years, because the sports centre is being repaired. The fun starts at ten in the morning and goes on until four in the afternoon. There will be lots of activities: a football tournament for teenagers, a treasure hunt for younger children, and a cooking competition for adults, where you can win a prize of a hundred pounds. Entry to the park is free, but if you want to take part in the treasure hunt, you need to pay three pounds for each child. If you would like to enter the cooking competition, you should contact the organiser, Karen Whitfield. That's W-H-I-T-F-I-E-L-D. You can email her at the address on our website. Please do so before the tenth of June, because places are limited. Now, a little advice. Parking near the park is very difficult, so the council is providing a free bus from the town centre, leaving every twenty minutes from the station. And please remember to bring a picnic blanket, as there are no tables, but there will be a stall selling hot drinks and sandwiches. If it rains, don't worry: a big tent will be put up near the entrance. So come along and enjoy a great day out. Now, back to the music."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "The Family Fun Day is on Saturday ___ June.",
+              "answers": [
+                "22",
+                "22nd",
+                "twenty-second",
+                "twenty second",
+                "the 22nd",
+                "the twenty-second",
+                "the 22",
+                "the twenty second"
+              ]
+            },
+            {
+              "q": "The event takes place in the park next to the ___ .",
+              "answers": [
+                "lake"
+              ]
+            },
+            {
+              "q": "The winner of the cooking competition gets ___ pounds.",
+              "answers": [
+                "100",
+                "a hundred",
+                "one hundred",
+                "£100",
+                "a 100",
+                "hundred"
+              ]
+            },
+            {
+              "q": "The treasure hunt costs ___ pounds for each child.",
+              "answers": [
+                "3",
+                "three",
+                "£3"
+              ]
+            },
+            {
+              "q": "The surname of the organiser is ___ .",
+              "answers": [
+                "Whitfield"
+              ]
+            },
+            {
+              "q": "Visitors should bring a picnic ___ .",
+              "answers": [
+                "blanket"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "title": "Listening - Part 4",
+      "skill": "listening",
+      "minutes": 8,
+      "it": "Ascolta l'intervista a Jake. Per ogni domanda scegli la risposta giusta (A, B o C).",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Around Europe by bike",
+          "it": "Ascolta l'intervista.",
+          "lines": [
+            [
+              "Interviewer",
+              "Today I'm talking to Jake Morris, who has just come back from a six-month cycling trip around Europe. Jake, welcome."
+            ],
+            [
+              "Jake",
+              "Thanks for having me."
+            ],
+            [
+              "Interviewer",
+              "So, why cycle? Why not take the train, like most people?"
+            ],
+            [
+              "Jake",
+              "Well, I'd actually planned to go by train. But a friend of mine did a short cycling holiday in France and talked about it non-stop, and I thought, I want some of that. When you're on a train, you see places through a window. On a bike you smell the bread from the bakery and hear the church bells. It's a completely different experience."
+            ],
+            [
+              "Interviewer",
+              "Were you very fit before you left?"
+            ],
+            [
+              "Jake",
+              "Not at all! I'd never cycled more than ten kilometres. The first week was awful. But after a month I was riding eighty kilometres a day without thinking about it. The hardest part wasn't the hills, it was the wind. In Denmark it blew against me for four days."
+            ],
+            [
+              "Interviewer",
+              "And where did you sleep?"
+            ],
+            [
+              "Jake",
+              "I'd taken a tent, and I thought I'd camp every night. In fact, I only did that about half the time. Often people invited me to stay with them. One evening in Slovenia, an old man saw me pushing my bike up a hill, and he gave me dinner and a bed. We couldn't speak each other's language, but we got on fine."
+            ],
+            [
+              "Interviewer",
+              "Did anything go wrong?"
+            ],
+            [
+              "Jake",
+              "Oh, plenty. I had eleven punctures, and I lost my phone in Germany. But the worst thing happened in Italy, when I realised I'd left my passport at a campsite two hundred kilometres behind me. Luckily, the owner posted it to the next town."
+            ],
+            [
+              "Interviewer",
+              "Would you do it again?"
+            ],
+            [
+              "Jake",
+              "Definitely. I'm planning another trip next year, and this time I'm taking my sister with me. She doesn't know yet! But I think she'll love it, once she gets past the first week."
+            ],
+            [
+              "Interviewer",
+              "And what advice would you give to someone who wants to try?"
+            ],
+            [
+              "Jake",
+              "Pack less than you think. I started with twenty-five kilos and ended with fourteen. You really don't need three pairs of shoes."
+            ],
+            [
+              "Interviewer",
+              "Jake, thank you very much."
+            ],
+            [
+              "Jake",
+              "My pleasure."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What gave Jake the idea of travelling by bike?",
+              "opts": [
+                "A friend's enthusiasm about a cycling holiday",
+                "A wish to get fit",
+                "The high price of train tickets"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What was the most difficult thing during the trip?",
+              "opts": [
+                "The hills",
+                "The wind",
+                "The heat"
+              ],
+              "a": 1
+            },
+            {
+              "q": "How often did Jake camp?",
+              "opts": [
+                "Every night",
+                "About half of the nights",
+                "Hardly ever"
+              ],
+              "a": 1
+            },
+            {
+              "q": "What happened to Jake in Slovenia?",
+              "opts": [
+                "He lost his bike.",
+                "A stranger gave him food and a bed.",
+                "He got lost in the mountains."
+              ],
+              "a": 1
+            },
+            {
+              "q": "What was the worst problem Jake had?",
+              "opts": [
+                "He lost his phone.",
+                "He had eleven punctures.",
+                "He left his passport behind."
+              ],
+              "a": 2
+            },
+            {
+              "q": "What advice does Jake give?",
+              "opts": [
+                "Travel with a friend.",
+                "Take as little as possible.",
+                "Train for a month before leaving."
+              ],
+              "a": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s",
+      "title": "Speaking",
+      "skill": "speaking",
+      "minutes": 12,
+      "it": "Rispondi a voce a ognuna delle quattro prove, come in un colloquio con l'esaminatore. Parla con frasi complete e confronta poi la tua risposta con il modello.",
+      "steps": [
+        {
+          "t": "speakTask",
+          "q": "Part 1. Where are you from? What do you like about living there? Tell me about something you did last weekend, and about a plan you have for next summer.",
+          "it": "Colloquio personale: di' da dove vieni, che cosa ti piace del posto in cui vivi, racconta il tuo ultimo fine settimana e un progetto per la prossima estate (almeno 6 frasi).",
+          "hints": [
+            "I'm from... and I live in...",
+            "What I like most is...",
+            "Last weekend I...",
+            "Next summer I'm going to..."
+          ],
+          "min": 40,
+          "model": "I'm from Padua, but I live in Milan now. What I like most about Milan is that there is always something to do, and I can get everywhere by metro. Last weekend I went to a friend's wedding in the mountains. It was a lovely day, and we danced until midnight. Next summer I'm going to spend two weeks in Portugal with my cousin. We want to visit Lisbon and then drive along the coast."
+        },
+        {
+          "t": "speakTask",
+          "q": "Part 2. Describe the photograph.",
+          "it": "Immagina questa foto: in un grande parco, in una giornata di sole, una famiglia con tre generazioni è seduta su una coperta a quadri sotto un albero. Una nonna con i capelli bianchi versa del tè da un thermos. Un padre sta tagliando un'anguria, mentre due bambini ridono e giocano con un cane marrone accanto a loro. Sulla coperta ci sono panini, frutta e una torta. Sullo sfondo altre persone corrono e vanno in bicicletta, e c'è un laghetto con delle anatre. Descrivi la foto (dove sono, che cosa fanno, come si sentono) e di' perché secondo te hanno scelto di passare il tempo così (almeno 6 frasi).",
+          "hints": [
+            "In the photo I can see...",
+            "In the background...",
+            "They look...",
+            "I think they chose this because..."
+          ],
+          "min": 40,
+          "model": "In the photo I can see a family having a picnic in a big park. It's a sunny day. They are sitting on a blanket under a tree. The grandmother is pouring some tea, and the father is cutting a watermelon. Two children are laughing and playing with a brown dog. In the background there are people running and cycling, and there is a small lake with some ducks. They all look happy and relaxed. I think they chose a picnic because it's cheap, and everybody can be together outside, which is nice when the weather is good."
+        },
+        {
+          "t": "speakTask",
+          "q": "Part 3. A town has some money to spend on one project. The choices are: a new sports centre, a bigger library, a free concert hall for young musicians, or a cycle path from the town to the sea. Talk about the advantages and disadvantages of each, and decide which is the best idea.",
+          "it": "Discussione collaborativa: parla delle quattro possibilità (centro sportivo, biblioteca, sala concerti, pista ciclabile), di' pregi e difetti di ciascuna e arriva a una raccomandazione motivata (almeno 7 frasi).",
+          "hints": [
+            "One advantage of... is...",
+            "On the other hand, ...",
+            "It would be useful for...",
+            "In my opinion, the best idea is... because..."
+          ],
+          "min": 50,
+          "model": "A new sports centre would be good for young people, but it is expensive to run. A bigger library is useful for students, though not everybody likes reading. A concert hall for young musicians is a great idea for the town's culture, but only a small group would use it. A cycle path would be good for everyone: families, tourists and people who go to work by bike. Also, it would help the environment, and it would be cheaper than a building. On the other hand, it might not be used in winter. In my opinion, the cycle path is the best idea, because so many different people could enjoy it."
+        },
+        {
+          "t": "speakTask",
+          "q": "Part 4. Do you think it is important for families to spend free time together? Do you prefer to spend your free time outdoors or at home? Why?",
+          "it": "Domande di approfondimento: di' se secondo te è importante che le famiglie passino il tempo libero insieme e se preferisci stare all'aperto o a casa, con almeno due motivi per ciascuna risposta (almeno 6 frasi).",
+          "hints": [
+            "I think it's important because...",
+            "For example, ...",
+            "Personally, I prefer... because...",
+            "However, sometimes..."
+          ],
+          "min": 40,
+          "model": "Yes, I think it's very important, because people are busy during the week and they hardly see each other. When families spend time together, children and parents talk more and understand each other better. For example, my parents and I always cook together on Sundays. Personally, I prefer to be outdoors, because I work in an office all day and I need fresh air. However, in winter I often stay at home with a book or a film, and that's nice too."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1475 @@
+{
+ "id": "b2-06",
+ "level": "B2",
+ "position": 6,
+ "title": "Media, pubblicità e reclami",
+ "sub": "Reporting verbs - fake news e reclamo formale",
+ "grammar": "Reporting verbs e loro costruzioni (suggest, deny, admit, accuse, insist...)",
+ "topic": "Media, pubblicità, fake news",
+ "situation": "Reclamo formale al telefono e per email",
+ "lessons": [
+  {
+   "id": "b2-06-grammar",
+   "kind": "grammar",
+   "title": "Reporting verbs e loro costruzioni",
+   "intro": "Al B2 non basta «he said that». Verbi come deny, admit, accuse, insist, suggest, warn e persuade riassumono in un solo verbo ciò che una persona ha detto o fatto, ma ognuno vuole una costruzione precisa. Ed è lì che gli italiani sbagliano di più.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Le cinque costruzioni dei reporting verbs",
+     "body": "Il verbo scelto decide che cosa viene dopo:\n- **+ that-clause**: admit, claim, complain, explain, insist, point out, suggest, announce, deny: She **insisted that** the figures were correct.\n- **+ -ing**: admit, deny, suggest, recommend, regret, mention, propose: He **denied taking** the money. / She **suggested meeting** earlier.\n- **+ to-infinitive**: agree, offer, promise, refuse, threaten, claim, demand: They **refused to refund** the ticket.\n- **+ oggetto + to-infinitive**: advise, warn, remind, persuade, urge, invite, encourage, order, tell: He **advised me to wait**. / She **warned us not to** click the link.\n- **+ oggetto + preposizione + -ing**: accuse sb **of**, blame sb **for**, criticise sb **for**, congratulate sb **on**, thank sb **for**, warn sb **against**: They **accused him of lying**.\n\nCon alcuni verbi si possono usare più costruzioni (admit, claim, deny, suggest): She **admitted making** a mistake / **admitted that** she had made a mistake.\n\nLa negazione va davanti al to o all'-ing: **not to** go, **not** going.",
+     "ex": [
+      [
+       "The minister denied leaking the documents to the press.",
+       "Il ministro ha negato di aver fatto trapelare i documenti alla stampa."
+      ],
+      [
+       "My lawyer advised me not to sign anything.",
+       "Il mio avvocato mi ha consigliato di non firmare nulla."
+      ],
+      [
+       "They accused the company of misleading its customers.",
+       "Hanno accusato l'azienda di aver ingannato i clienti."
+      ]
+     ],
+     "table": [
+      [
+       "Costruzione",
+       "Verbi",
+       "Esempio"
+      ],
+      [
+       "+ that",
+       "admit, claim, insist, point out",
+       "He claimed that he was ill."
+      ],
+      [
+       "+ -ing",
+       "deny, admit, suggest, regret",
+       "She denied lying."
+      ],
+      [
+       "+ to-inf",
+       "agree, refuse, promise, offer",
+       "He promised to call."
+      ],
+      [
+       "+ obj + to-inf",
+       "advise, warn, remind, persuade",
+       "She reminded me to pay."
+      ],
+      [
+       "+ obj + prep + -ing",
+       "accuse of, blame for, thank for",
+       "He blamed me for the delay."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Errori tipici degli italiani",
+     "body": "- **say / suggest / explain / describe + me**: in inglese non si dice «She suggested me to go», «He explained me the problem», «Say me the truth».\n  - Corretto: She suggested **that I go** / suggested **going**; He explained **the problem to me**; **Tell** me the truth.\n- **suggest** non vuole mai il to-infinito: «He suggested to wait» -> He suggested **waiting** / **that we wait**.\n- **deny / admit** + to-infinito: «He denied to have taken it» -> He denied **having taken** it / **taking** it.\n- **insist** è seguito da **on** + -ing (insist on paying), oppure da that: She insisted that he stay.\n- **apologise for** (non «of» né «to» + verbo): I apologise **for being** late.\n- **accuse of** (non «to»): They accused him **of** cheating.\n\nDopo **suggest / insist / demand / recommend** in inglese britannico si usa spesso **should** o la forma base (congiuntivo): She suggested that he **(should) see** a doctor.",
+     "ex": [
+      [
+       "She suggested that I check the facts first.",
+       "Ha suggerito che io controllassi prima i fatti."
+      ],
+      [
+       "He explained the problem to me.",
+       "Mi ha spiegato il problema."
+      ],
+      [
+       "I apologise for being late.",
+       "Mi scuso per il ritardo."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Forme passive e verbi del discorso indiretto",
+     "body": "Nei **testi giornalistici** si usano molto le forme passive impersonali:\n- It **is said / believed / reported / thought** that + frase: It is believed that the fire started in the kitchen.\n- Soggetto + **is said / believed / alleged to** + infinito: The fire **is believed to have started** in the kitchen. (infinito passato per un fatto anteriore)\n- **is reported to be** (stato presente) / **to have been** (stato passato): The minister is reported to be ill.\n\nRicorda il **backshift** (ma non obbligatorio se il fatto è ancora vero): \"I will resign\" -> She said she **would** resign. / He announced that he **was** leaving. Nel discorso indiretto cambiano anche pronomi e riferimenti di tempo (today -> that day, tomorrow -> the next day).",
+     "ex": [
+      [
+       "The singer is said to have refused the offer.",
+       "Si dice che la cantante abbia rifiutato l'offerta."
+      ],
+      [
+       "It is alleged that the company ignored several warnings.",
+       "Si sostiene che l'azienda abbia ignorato diversi avvertimenti."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Scegliere il verbo giusto: atteggiamento e tono",
+     "body": "Il verbo comunica anche **che cosa pensa chi riporta**:\n- **say, tell, state, announce**: neutri o ufficiali.\n- **claim, allege**: si prendono le distanze: «He claims he was at home» (ma forse non è vero).\n- **point out, remind, explain**: informazioni date come vere.\n- **admit, confess**: ammissione di qualcosa di negativo.\n- **boast, complain, grumble**: tono emotivo.\n- **insist, maintain**: si ribadisce con forza.\n\nIn un testo B2 evita di ripetere said: un verbo preciso mostra un vocabolario più ricco (criterio Cambridge «language»).",
+     "ex": [
+      [
+       "She maintained that she had never seen the document.",
+       "Sosteneva di non aver mai visto il documento."
+      ],
+      [
+       "He boasted that he had won every award.",
+       "Si vantava di aver vinto tutti i premi."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The minister denied ___ the documents to the press.",
+     "opts": [
+      "leaking",
+      "to leak",
+      "for leaking"
+     ],
+     "a": 0,
+     "why": "Deny è seguito da -ing (o da that), mai da to + infinito."
+    },
+    {
+     "t": "gap",
+     "s": "She accused her manager ___ credit for her idea.",
+     "opts": [
+      "of taking",
+      "to take",
+      "for taking"
+     ],
+     "a": 0,
+     "why": "Accuse sb of + -ing."
+    },
+    {
+     "t": "gap",
+     "s": "The company has agreed ___ all customers affected by the fault.",
+     "opts": [
+      "to compensate",
+      "compensating",
+      "that compensate"
+     ],
+     "a": 0,
+     "why": "Agree vuole to + infinito."
+    },
+    {
+     "t": "gap",
+     "s": "My lawyer advised me ___ anything until he arrived.",
+     "opts": [
+      "not to sign",
+      "not signing",
+      "to sign not"
+     ],
+     "a": 0,
+     "why": "Advise sb + (not) to + infinito."
+    },
+    {
+     "t": "gap",
+     "s": "She insisted ___ paying for the meal.",
+     "opts": [
+      "on",
+      "in",
+      "about"
+     ],
+     "a": 0,
+     "why": "Insist on + -ing."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "She suggested that we should check the facts first.",
+      "She suggested us to check the facts first.",
+      "She suggested to check us the facts first."
+     ],
+     "a": 0,
+     "why": "Suggest non vuole oggetto + to-infinito: si usa that + soggetto (+ should) oppure -ing."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase riporta correttamente «I didn't do it»?",
+     "opts": [
+      "He denied doing it.",
+      "He refused doing it.",
+      "He denied to do it."
+     ],
+     "a": 0,
+     "why": "Deny + -ing. Refuse vuole to + infinito e ha un altro significato (rifiutare)."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "The council apologised ___ the delay in collecting the rubbish.",
+     "answers": [
+      "for"
+     ],
+     "why": "Apologise for + nome o -ing."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "She warned us ___ to trust the website: it was a hoax.",
+     "answers": [
+      "not"
+     ],
+     "why": "Warn sb not to + infinito."
+    },
+    {
+     "t": "type",
+     "q": "Completa con 2 parole (publish)",
+     "s": "The newspaper promised ___ a correction on Monday.",
+     "answers": [
+      "to publish"
+     ],
+     "why": "Promise + to + infinito."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She suggested me to read the report again.",
+     "answers": [
+      "She suggested that I read the report again",
+      "She suggested I read the report again",
+      "She suggested that I should read the report again",
+      "She suggested I should read the report again",
+      "She suggested reading the report again"
+     ],
+     "why": "Suggest non si usa con oggetto + to-infinito: that + soggetto o -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "He explained me why the order was late.",
+     "answers": [
+      "He explained to me why the order was late",
+      "He explained why the order was late"
+     ],
+     "why": "Explain vuole to prima della persona: explain sth to sb."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The shop denied to have received the complaint.",
+     "answers": [
+      "The shop denied having received the complaint",
+      "The shop denied receiving the complaint",
+      "The shop denied that it had received the complaint"
+     ],
+     "why": "Deny + -ing (o that), non to + infinito."
+    },
+    {
+     "t": "transform",
+     "s1": "\"I didn't send the message,\" he said.",
+     "key": "DENIED",
+     "s2": "He ___ the message.",
+     "answers": [
+      "denied sending",
+      "denied having sent"
+     ],
+     "why": "Deny + -ing / having + participio per un fatto anteriore."
+    },
+    {
+     "t": "transform",
+     "s1": "\"You really should see a doctor,\" Tom said to me.",
+     "key": "ADVISED",
+     "s2": "Tom ___ a doctor.",
+     "answers": [
+      "advised me to see"
+     ],
+     "why": "Advise sb to + infinito."
+    },
+    {
+     "t": "transform",
+     "s1": "\"I'm sorry I forgot your birthday,\" she said.",
+     "key": "APOLOGISED",
+     "s2": "She ___ my birthday.",
+     "answers": [
+      "apologised for forgetting",
+      "apologised for having forgotten"
+     ],
+     "why": "Apologise for + -ing."
+    },
+    {
+     "t": "transform",
+     "s1": "\"Let's meet outside the station,\" said Ben.",
+     "key": "SUGGESTED",
+     "s2": "Ben ___ outside the station.",
+     "answers": [
+      "suggested meeting",
+      "suggested we meet",
+      "suggested that we meet",
+      "suggested we should meet",
+      "suggested that we should meet"
+     ],
+     "why": "Suggest + -ing oppure that + soggetto (+ should)."
+    },
+    {
+     "t": "order",
+     "it": "Ha accusato l'azienda di aver ingannato i clienti.",
+     "en": "She accused the company of misleading customers",
+     "extra": [
+      "to",
+      "for"
+     ],
+     "why": "Accuse sb of + -ing."
+    }
+   ]
+  },
+  {
+   "id": "b2-06-vocab",
+   "kind": "vocab",
+   "title": "Media, pubblicità e fake news",
+   "intro": "Parole per parlare di informazione, pubblicità e notizie false. Servono per leggere gli articoli, scrivere una recensione e fare un reclamo ben argomentato.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "b2-06-w01",
+     "en": "clickbait",
+     "it": "titolo-esca (per ottenere clic)",
+     "ipa": "ˈklɪkbeɪt",
+     "pos": "n",
+     "ex": [
+      "The headline was pure clickbait: the article said nothing new.",
+      "Il titolo era pura esca per i clic: l'articolo non diceva nulla di nuovo."
+     ],
+     "note": "Non numerabile."
+    },
+    {
+     "id": "b2-06-w02",
+     "en": "misinformation",
+     "it": "informazioni false o scorrette",
+     "ipa": "ˌmɪsɪnfəˈmeɪʃn",
+     "pos": "n",
+     "ex": [
+      "Misinformation spread quickly during the election.",
+      "Le informazioni false si sono diffuse in fretta durante le elezioni."
+     ],
+     "note": "Non numerabile. Disinformation = falsità diffuse di proposito."
+    },
+    {
+     "id": "b2-06-w03",
+     "en": "fact-check",
+     "it": "verificare i fatti",
+     "ipa": "ˈfækt tʃek",
+     "pos": "v",
+     "ex": [
+      "We always fact-check our stories before we publish them.",
+      "Verifichiamo sempre i fatti prima di pubblicare le notizie."
+     ],
+     "note": "Anche nome: a fact-check; chi lo fa è a fact-checker."
+    },
+    {
+     "id": "b2-06-w04",
+     "en": "tabloid",
+     "it": "giornale popolare, scandalistico",
+     "ipa": "ˈtæblɔɪd",
+     "pos": "n",
+     "ex": [
+      "The tabloids ran the story on their front pages for a week.",
+      "I tabloid hanno tenuto la notizia in prima pagina per una settimana."
+     ],
+     "note": "Non è «tabloid» in senso tecnico di formato: indica lo stile sensazionalistico."
+    },
+    {
+     "id": "b2-06-w05",
+     "en": "hoax",
+     "it": "bufala",
+     "ipa": "həʊks",
+     "pos": "n",
+     "ex": [
+      "The photograph turned out to be an elaborate hoax.",
+      "La fotografia si è rivelata una bufala molto elaborata."
+     ]
+    },
+    {
+     "id": "b2-06-w06",
+     "en": "endorse",
+     "it": "fare da testimonial, sostenere",
+     "ipa": "ɪnˈdɔːs",
+     "pos": "v",
+     "ex": [
+      "The footballer endorses a well-known brand of trainers.",
+      "Il calciatore fa da testimonial a una nota marca di scarpe sportive."
+     ],
+     "note": "Nome: endorsement."
+    },
+    {
+     "id": "b2-06-w07",
+     "en": "retract",
+     "it": "ritrattare, ritirare (una notizia)",
+     "ipa": "rɪˈtrækt",
+     "pos": "v",
+     "ex": [
+      "The paper had to retract the story and publish an apology.",
+      "Il giornale ha dovuto ritrattare la notizia e pubblicare delle scuse."
+     ]
+    },
+    {
+     "id": "b2-06-w08",
+     "en": "slogan",
+     "it": "slogan",
+     "ipa": "ˈsləʊɡən",
+     "pos": "n",
+     "ex": [
+      "Their slogan is short, rhythmic and easy to remember.",
+      "Il loro slogan è breve, ritmico e facile da ricordare."
+     ]
+    },
+    {
+     "id": "b2-06-w09",
+     "en": "target audience",
+     "it": "pubblico di riferimento",
+     "ipa": "ˈtɑːɡɪt ˈɔːdiəns",
+     "pos": "n",
+     "ex": [
+      "The campaign was aimed at a target audience of young parents.",
+      "La campagna era rivolta a un pubblico di giovani genitori."
+     ]
+    },
+    {
+     "id": "b2-06-w10",
+     "en": "go viral",
+     "it": "diventare virale",
+     "ipa": "ɡəʊ ˈvaɪrəl",
+     "pos": "phr",
+     "ex": [
+      "The video went viral within a few hours.",
+      "Il video è diventato virale in poche ore."
+     ]
+    },
+    {
+     "id": "b2-06-w11",
+     "en": "gullible",
+     "it": "credulone, ingenuo",
+     "ipa": "ˈɡʌləbl",
+     "pos": "adj",
+     "ex": [
+      "Only the most gullible readers believed the story.",
+      "Solo i lettori più creduloni hanno creduto alla storia."
+     ],
+     "note": "Ha tono negativo: non è un complimento."
+    },
+    {
+     "id": "b2-06-w12",
+     "en": "biased",
+     "it": "di parte, parziale",
+     "ipa": "ˈbaɪəst",
+     "pos": "adj",
+     "ex": [
+      "The report seemed biased in favour of the government.",
+      "Il rapporto sembrava di parte a favore del governo."
+     ],
+     "note": "Si dice biased towards / against / in favour of."
+    },
+    {
+     "id": "b2-06-w13",
+     "en": "outlet",
+     "it": "testata, organo di informazione",
+     "ipa": "ˈaʊtlet",
+     "pos": "n",
+     "ex": [
+      "Several news outlets repeated the claim without checking it.",
+      "Diverse testate hanno ripetuto l'affermazione senza verificarla."
+     ],
+     "note": "Qui significa «mezzo di informazione», non «sbocco»."
+    },
+    {
+     "id": "b2-06-w14",
+     "en": "sponsored",
+     "it": "sponsorizzato, a pagamento",
+     "ipa": "ˈspɒnsəd",
+     "pos": "adj",
+     "ex": [
+      "The post was sponsored, but nobody had said so.",
+      "Il post era sponsorizzato, ma nessuno l'aveva detto."
+     ],
+     "note": "Collocazione: sponsored content / post."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "go viral",
+       "diventare virale"
+      ],
+      [
+       "retract a story",
+       "ritrattare una notizia"
+      ],
+      [
+       "fact-check a claim",
+       "verificare un'affermazione"
+      ],
+      [
+       "endorse a product",
+       "fare da testimonial a un prodotto"
+      ],
+      [
+       "target audience",
+       "pubblico di riferimento"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The newspaper was forced to ___ the story after the facts were checked.",
+     "opts": [
+      "retract",
+      "recall",
+      "reject"
+     ],
+     "a": 0,
+     "why": "Retract = ritrattare ufficialmente una notizia."
+    },
+    {
+     "t": "gap",
+     "s": "The advert's ___ is easy to remember: just four words.",
+     "opts": [
+      "slogan",
+      "outlet",
+      "hoax"
+     ],
+     "a": 0,
+     "why": "Slogan = frase breve e memorabile di una campagna."
+    },
+    {
+     "t": "wordform",
+     "s": "The report was clearly ___ in favour of one political party.",
+     "root": "BIAS",
+     "answers": [
+      "biased"
+     ],
+     "why": "Aggettivo: bias -> biased."
+    },
+    {
+     "t": "wordform",
+     "s": "Journalists must protect their ___ by checking every source.",
+     "root": "CREDIBLE",
+     "answers": [
+      "credibility"
+     ],
+     "why": "Nome: credible -> credibility."
+    },
+    {
+     "t": "mc",
+     "q": "«Clickbait» è un titolo che:",
+     "opts": [
+      "esagera o stuzzica per spingere a cliccare",
+      "spiega l'articolo in modo obiettivo",
+      "annuncia una rettifica"
+     ],
+     "a": 0,
+     "why": "Clickbait = esca per i clic."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola (go)",
+     "s": "The video ___ viral within hours of being posted online.",
+     "answers": [
+      "went"
+     ],
+     "why": "Go viral: al passato went viral."
+    }
+   ]
+  },
+  {
+   "id": "b2-06-reading",
+   "kind": "reading",
+   "title": "Fake news e titoli esca",
+   "intro": "Un articolo su come le notizie false si diffondono e su chi ne è responsabile. Osserva quanti reporting verbs usa l'autore (suggest, admit, deny, argue, criticise, order, advise).",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "The shark on the motorway",
+     "genre": "magazine article",
+     "text": "Last March, a photograph of a shark swimming along a flooded motorway was shared more than two million times. It was, of course, a fake: the image had been assembled from two unrelated pictures and had first appeared, years earlier, as a joke on a small forum. Nevertheless, several news websites reproduced it, and one regional broadcaster even mentioned it in its evening bulletin before apologising the following morning.\n\nStories like this are no longer rare. Researchers at a media institute who examined five thousand viral posts discovered that false stories spread roughly six times faster than accurate ones. The explanation, they suggest, is not that people are stupid. It is that invented stories are designed to provoke strong emotions, and strong emotions make us click first and think later. A headline promising a scandal will always travel further than one reporting a budget meeting.\n\nNewspapers themselves are not blameless. Competing for attention with free content, many outlets have adopted what critics call clickbait: headlines that exaggerate or tease in order to attract readers. The editor of one popular website recently admitted that his team routinely rewrites headlines to make them more irresistible, although he denied that this ever involved publishing false information. \"We exaggerate the packaging,\" he said, \"not the product.\" Media analysts are unconvinced. They argue that a misleading headline, read by thousands of people who never open the article, is in effect a false statement.\n\nAdvertising has similar problems. A recent campaign for an energy drink claimed to be scientifically proven to improve concentration. The advertising regulator criticised the company for relying on a single study of twelve students and ordered it to withdraw the slogan. Influencers, too, have come under pressure. Several have been accused of endorsing products they had never used, without telling their followers that they were being paid. Since new rules were introduced, they are obliged to state clearly when a post is sponsored.\n\nSo what can ordinary readers do? Fact-checking organisations recommend checking the source before sharing anything, looking for the same story in several places, and being especially suspicious of content that makes you angry. They also advise readers to distinguish between a headline and the evidence that is supposed to support it. Some schools have begun teaching these habits to children as young as ten, and early results are encouraging: pupils who took part in a six-week programme were twice as likely to identify a fake image.\n\nPerhaps the most important change, however, would be a cultural one. At present, sharing a story takes one second; correcting a mistake takes days, and the correction is seldom read by anyone who saw the original. Until we start treating the share button with the same care that we give to our spoken words, the shark will keep swimming down the motorway.",
+     "qs": [
+      {
+       "q": "What does the writer say about the shark photograph?",
+       "opts": [
+        "It was made from two different pictures, but some media used it.",
+        "It was a genuine photo from an earlier flood.",
+        "It was created by a news website to attract readers."
+       ],
+       "a": 0,
+       "why": "«assembled from two unrelated pictures... several news websites reproduced it»"
+      },
+      {
+       "q": "According to researchers, why do false stories spread so fast?",
+       "opts": [
+        "They are designed to trigger strong emotions.",
+        "People are not intelligent enough to spot them.",
+        "They are more interesting than accurate news."
+       ],
+       "a": 0,
+       "why": "«designed to provoke strong emotions»; i ricercatori dicono che non è questione di stupidità."
+      },
+      {
+       "q": "False stories spread roughly ___ times faster than accurate ones.",
+       "answers": [
+        "six",
+        "6"
+       ]
+      },
+      {
+       "q": "What does the website editor deny?",
+       "opts": [
+        "That the website ever publishes false information",
+        "That headlines are rewritten",
+        "That headlines are exaggerated"
+       ],
+       "a": 0,
+       "why": "«he denied that this ever involved publishing false information»"
+      },
+      {
+       "q": "What do media analysts think about misleading headlines?",
+       "opts": [
+        "They can be as harmful as a false statement.",
+        "They are acceptable if the article is accurate.",
+        "They are easy to recognise."
+       ],
+       "a": 0,
+       "why": "«is in effect a false statement»"
+      },
+      {
+       "q": "Why was the energy drink company criticised?",
+       "opts": [
+        "Its claim was based on one small study.",
+        "Its product was not safe.",
+        "It paid influencers without telling them."
+       ],
+       "a": 0,
+       "why": "«relying on a single study of twelve students»"
+      },
+      {
+       "q": "What are influencers now required to do?",
+       "opts": [
+        "Say when a post is paid for",
+        "Test every product",
+        "Publish their earnings"
+       ],
+       "a": 0,
+       "why": "«obliged to state clearly when a post is sponsored»"
+      },
+      {
+       "q": "What is the writer's main conclusion?",
+       "opts": [
+        "We should be as careful with sharing as with speaking.",
+        "Schools should ban social media.",
+        "Newspapers should stop publishing headlines."
+       ],
+       "a": 0,
+       "why": "Ultimo paragrafo: trattare il tasto condividi con la stessa cura delle parole."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "«Newspapers themselves are not blameless» significa che i giornali:",
+     "opts": [
+      "hanno anche loro delle responsabilità",
+      "sono vittime delle notizie false",
+      "non sono mai stati accusati di nulla"
+     ],
+     "a": 0,
+     "why": "Blameless = senza colpa; con la negazione, «non sono esenti da colpe»."
+    },
+    {
+     "t": "gap",
+     "s": "Several influencers have come ___ pressure to reveal who is paying them.",
+     "opts": [
+      "under",
+      "below",
+      "beneath"
+     ],
+     "a": 0,
+     "why": "Come under pressure = essere sottoposti a pressioni (collocazione)."
+    },
+    {
+     "t": "wordform",
+     "s": "A deliberately ___ headline can easily mislead readers.",
+     "root": "EXAGGERATE",
+     "answers": [
+      "exaggerated"
+     ],
+     "why": "Participio con funzione di aggettivo: exaggerated."
+    },
+    {
+     "t": "mc",
+     "q": "«In effect» nel testo significa:",
+     "opts": [
+      "in pratica, di fatto",
+      "di conseguenza",
+      "per fortuna"
+     ],
+     "a": 0,
+     "why": "In effect = in pratica, nella realtà."
+    }
+   ]
+  },
+  {
+   "id": "b2-06-listening",
+   "kind": "listening",
+   "title": "Un reclamo al telefono",
+   "intro": "Una cliente telefona al servizio clienti per un ordine danneggiato. Ascolta come si espone un reclamo formale e come risponde l'operatore.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A formal complaint",
+     "it": "Ascolta la telefonata. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Daniel",
+       "Good morning, Brightside Electrics, you are speaking to Daniel. How can I help?"
+      ],
+      [
+       "Laura",
+       "Good morning. My name is Laura Bennett, and I am calling to make a formal complaint about an order, number 40718."
+      ],
+      [
+       "Daniel",
+       "I am sorry to hear that, Ms Bennett. Could you tell me what happened?"
+      ],
+      [
+       "Laura",
+       "I ordered a washing machine on the third of May. You promised delivery within five working days. It arrived on the nineteenth, and when the delivery men unpacked it, there was a large dent in the side."
+      ],
+      [
+       "Daniel",
+       "I do apologise. Did the drivers note the damage on the delivery form?"
+      ],
+      [
+       "Laura",
+       "No. They insisted that the dent had been there when it left the warehouse, and that it was not their responsibility, but they refused to take it back."
+      ],
+      [
+       "Daniel",
+       "I see. And have you contacted us about this before?"
+      ],
+      [
+       "Laura",
+       "Yes. I rang last Tuesday and spoke to a colleague of yours. He admitted that the machine was damaged and said someone would call me back within two days. Nobody did. I then emailed on Friday, and I still have not had a reply."
+      ],
+      [
+       "Daniel",
+       "That is not the standard we aim for. May I ask what outcome you would like?"
+      ],
+      [
+       "Laura",
+       "I would like a full refund, including the delivery charge, which was forty-five pounds. Alternatively, a replacement delivered by the end of next week, but I am no longer sure I trust the company."
+      ],
+      [
+       "Daniel",
+       "Understandably. Let me check the system. I can see your email, and you are right, it has not been answered. I am going to pass this to a senior manager, who will contact you within twenty-four hours. If you have not heard by Thursday at noon, please ring this number again and quote the reference."
+      ],
+      [
+       "Laura",
+       "And what is the reference?"
+      ],
+      [
+       "Daniel",
+       "It is C, W, seven, two, three. I will also email you to confirm everything we have discussed."
+      ],
+      [
+       "Laura",
+       "Thank you. I would also like you to know that if this is not settled, I am going to take it to the consumer ombudsman."
+      ],
+      [
+       "Daniel",
+       "I understand, Ms Bennett, and I can only apologise again."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What is wrong with the washing machine?",
+       "opts": [
+        "It has a large dent.",
+        "It does not switch on.",
+        "It is the wrong model."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What went wrong with the delivery date?",
+       "opts": [
+        "The machine arrived later than promised.",
+        "The machine never arrived.",
+        "The delivery men came on the wrong day."
+       ],
+       "a": 0
+      },
+      {
+       "q": "How did the delivery men react?",
+       "opts": [
+        "They said the damage was not their responsibility and would not take the machine back.",
+        "They offered to repair it.",
+        "They noted the damage on the form."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did the colleague promise on the phone?",
+       "opts": [
+        "That someone would call her back within two days",
+        "That she would receive a refund",
+        "That a replacement would be sent"
+       ],
+       "a": 0
+      },
+      {
+       "q": "The delivery charge was ___ pounds.",
+       "answers": [
+        "forty-five",
+        "forty five",
+        "45",
+        "£45"
+       ]
+      },
+      {
+       "q": "What will happen next?",
+       "opts": [
+        "A senior manager will contact her within twenty-four hours.",
+        "She will receive a refund today.",
+        "The delivery men will return tomorrow."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does Ms Bennett say she will do if the problem is not solved?",
+       "opts": [
+        "Take it to the consumer ombudsman",
+        "Post a review online",
+        "Cancel her contract"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "They insisted that the dent had been there when it left the warehouse.",
+     "it": "Hanno insistito che l'ammaccatura c'era già quando è uscita dal magazzino."
+    },
+    {
+     "t": "dictation",
+     "en": "He admitted that the machine was damaged.",
+     "it": "Ha ammesso che la macchina era danneggiata."
+    },
+    {
+     "t": "speak",
+     "en": "I am calling to make a formal complaint about an order.",
+     "it": "Chiamo per presentare un reclamo formale riguardo a un ordine."
+    }
+   ]
+  },
+  {
+   "id": "b2-06-situation",
+   "kind": "situation",
+   "title": "Reclamo formale al telefono e per email",
+   "intro": "Esporre il problema, dire che cosa ti aspetti e restare fermo senza essere maleducato. Le frasi giuste fanno la differenza tra essere ascoltati e essere liquidati.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Il reclamo al telefono",
+     "body": "- **Presentarsi**: I'm calling about order number... / I'd like to make a formal complaint about...\n- **Spiegare**: The problem is that... / When it arrived, it was... / I was told that...\n- **Riferire ciò che è stato detto**: He promised to call me back, but nobody did. / They insisted that it wasn't their fault.\n- **Chiedere una soluzione**: I would like a full refund. / I expect the matter to be resolved by...\n- **Restare fermi ma cortesi**: I appreciate your help, but that isn't acceptable. / I'm afraid that doesn't solve the problem.\n- **Minacciare con garbo**: If it isn't resolved, I will have to take it further.\n\nTono: calmo, preciso (date, numeri d'ordine), mai insulti. Chiedi sempre un **riferimento** e il nome dell'operatore.",
+     "ex": [
+      [
+       "I would like to make a formal complaint about an order.",
+       "Vorrei presentare un reclamo formale riguardo a un ordine."
+      ],
+      [
+       "I was told that someone would call me back within two days.",
+       "Mi era stato detto che qualcuno mi avrebbe richiamato entro due giorni."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Il reclamo scritto",
+     "body": "- **Apertura**: I am writing to complain about... / I am writing to express my dissatisfaction with...\n- **Fatti**: On 3 May I ordered... The goods arrived on... but...\n- **Richiesta**: I would be grateful if you could refund... / I expect a full refund within 14 days.\n- **Chiusura**: I look forward to hearing from you. Yours sincerely / Yours faithfully.\n\nRegistro formale: niente contrazioni, niente slang. Usa i **reporting verbs** per i fatti: Your representative **assured** me that..., **promised to**..., **refused to**...\n\nErrore tipico: «I want that you refund me»: in inglese si dice **I would like you to refund me** / **I would be grateful if you could**.",
+     "ex": [
+      [
+       "I am writing to express my dissatisfaction with the service I received.",
+       "Le scrivo per esprimere la mia insoddisfazione per il servizio ricevuto."
+      ],
+      [
+       "I would be grateful if you could refund the full amount.",
+       "Le sarei grato se potesse rimborsare l'intero importo."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Reclamo per un hotel",
+     "it": "Sei al telefono con la direzione di un hotel. Scegli le risposte più adatte (Tu).",
+     "lines": [
+      [
+       "Manager",
+       "Good evening, Riverside Hotel, Mark Davies speaking."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Good evening. I would like to make a complaint about the room I was given last night.",
+         "Good evening. I want that you change me the room.",
+         "Good evening. Your hotel is the worst I have ever seen."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Manager",
+       "I am sorry to hear that. What was the problem?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "The receptionist assured me that the room had a view of the river, but it faces the car park, and the air conditioning did not work.",
+         "The receptionist has said me that the room has a view of the river, but it looks to the car park.",
+         "Well, everything was bad, really."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Manager",
+       "I do apologise. What would you like us to do?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I would like a partial refund, and I would appreciate it if you could confirm that in writing.",
+         "I want to have back the half of the money immediately.",
+         "I don't know, you decide."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Il rimborso viene rifiutato",
+     "it": "L'operatore rifiuta il rimborso. Scegli le risposte migliori (Tu).",
+     "lines": [
+      [
+       "Agent",
+       "Unfortunately, our policy doesn't allow refunds after thirty days."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I understand that, but I contacted you within a week, and your colleague promised to look into it.",
+         "I understand that, but your colleague has promised to look at it me.",
+         "Your policy is stupid and I will never buy from you again."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Agent",
+       "I see. I can offer you a voucher instead."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm afraid a voucher doesn't solve the problem. I would like to speak to a manager, please.",
+         "I'm afraid a voucher it doesn't solve the problem. I want a manager now.",
+         "Fine, whatever. Give me the voucher."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Agent",
+       "Certainly. I'll pass you to my manager."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thank you. Could I also have the reference number for this complaint?",
+         "Thank you. Can you say me the reference number?",
+         "Thanks. I will remember everything you said."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "I am writing to express my dissatisfaction with...",
+       "Le scrivo per esprimere la mia insoddisfazione per..."
+      ],
+      [
+       "I would be grateful if you could...",
+       "Le sarei grato se potesse..."
+      ],
+      [
+       "I expect the matter to be resolved.",
+       "Mi aspetto che la questione sia risolta."
+      ],
+      [
+       "He refused to take it back.",
+       "Si è rifiutato di riprenderlo."
+      ],
+      [
+       "I would like to speak to a manager.",
+       "Vorrei parlare con un responsabile."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Mi hanno assicurato che avrebbero richiamato entro due giorni.",
+     "en": "They assured me that they would call back within two days",
+     "extra": [
+      "said",
+      "calling"
+     ],
+     "why": "Assure sb that + frase al condizionale (backshift di will)."
+    },
+    {
+     "t": "speak",
+     "en": "I would like to make a formal complaint about an order.",
+     "it": "Vorrei presentare un reclamo formale riguardo a un ordine."
+    },
+    {
+     "t": "speak",
+     "en": "I was told that someone would call me back within two days.",
+     "it": "Mi era stato detto che qualcuno mi avrebbe richiamato entro due giorni."
+    },
+    {
+     "t": "speak",
+     "en": "I would like to speak to a manager, please.",
+     "it": "Vorrei parlare con un responsabile, per favore."
+    },
+    {
+     "t": "speakTask",
+     "q": "Imagine that a hotel room or a product did not match what was promised. Make a complaint by phone.",
+     "it": "Telefona per fare un reclamo (almeno 6 frasi): presentati, descrivi il problema con almeno due reporting verbs, chiedi una soluzione.",
+     "hints": [
+      "I'm calling about...",
+      "They promised / assured me that...",
+      "The problem is that...",
+      "I would like..."
+     ],
+     "min": 60,
+     "model": "Good morning. I am calling to make a formal complaint about a laptop I bought from your website on the second of June. The salesman assured me that it came with a two-year guarantee, but the receipt says only twelve months. When I rang your helpline, a colleague of yours denied that the guarantee had ever been mentioned, and he refused to put anything in writing. I would like you to check the original advertisement and confirm the correct terms. If that is not possible, I would like a full refund. I look forward to hearing from you within the next two days."
+    }
+   ]
+  },
+  {
+   "id": "b2-06-production",
+   "kind": "production",
+   "title": "La recensione (B2 First Part 2)",
+   "intro": "Scrivere una recensione efficace: opinione chiara, descrizione, punti forti e deboli, raccomandazione. Poi parla di pubblicità e informazione.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come si scrive una recensione",
+     "body": "Struttura in 4 parti (una per paragrafo):\n1. **Titolo e apertura**: presenta ciò che recensisci e dai subito la tua idea generale: Last month I watched..., which I would recommend to anyone who...\n2. **Descrizione**: di che cosa tratta, chi è il protagonista, come si sviluppa: The film follows... / The author sets out to show that...\n3. **Valutazione**: punti forti e punti deboli: Its greatest strength is... / However, the second half is less convincing. / On the downside, ...\n4. **Raccomandazione**: Despite..., it is well worth watching. / I would not recommend it to anyone who...\n\nLessico utile: gripping, thought-provoking, well-paced, predictable, overrated, a must-see. Usa i **reporting verbs** per riferire le tesi: The director **claims / argues / insists** that...\n\nCriteri Cambridge: **contenuto** (rispondi a tutti i punti della traccia), **comunicazione** (tono adatto ai lettori, opinione chiara), **organizzazione** (paragrafi e connettivi: However, In addition, Despite this), **lingua** (varietà di lessico e strutture, pochi errori).",
+     "ex": [
+      [
+       "Its greatest strength is the way it mixes interviews with striking graphics.",
+       "Il suo punto di forza è il modo in cui mescola interviste e grafica efficace."
+      ],
+      [
+       "The director insists that social media companies could stop misinformation tomorrow.",
+       "La regista sostiene con forza che i social media potrebbero fermare la disinformazione domani."
+      ]
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è adatta alla conclusione di una recensione?",
+     "opts": [
+      "Despite its weaknesses, it is well worth watching.",
+      "Finally I want to say goodbye to everybody.",
+      "That is all I know about the film."
+     ],
+     "a": 0,
+     "why": "La conclusione dà una raccomandazione motivata, con un connettivo di contrasto."
+    },
+    {
+     "t": "transform",
+     "s1": "The director says that the film is based on a true story.",
+     "key": "CLAIMS",
+     "s2": "The director ___ based on a true story.",
+     "answers": [
+      "claims the film is",
+      "claims that the film is"
+     ],
+     "why": "Claim + that-clause; the key word deve restare invariata."
+    },
+    {
+     "t": "wordform",
+     "s": "The plot is rather ___ : you can guess the ending after ten minutes.",
+     "root": "PREDICT",
+     "answers": [
+      "predictable"
+     ],
+     "why": "Aggettivo: predict -> predictable."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The film is thought to be made in Iceland in 2018.",
+     "answers": [
+      "The film is thought to have been made in Iceland in 2018",
+      "It is thought that the film was made in Iceland in 2018"
+     ],
+     "why": "Per un fatto passato si usa l'infinito passato: to have been made."
+    },
+    {
+     "t": "write",
+     "q": "You have recently watched a documentary about social media and misinformation. Your English-language magazine has asked readers to send in reviews. Write your review. Say what the documentary is about, what you liked and disliked, and whether you would recommend it.",
+     "it": "Scrivi una recensione (140-190 parole) con titolo, descrizione, punti forti e deboli e raccomandazione. Usa almeno due reporting verbs (claim, argue, insist, admit...) e lessico dell'unità.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho detto di che cosa parla il documentario, che cosa mi è piaciuto, che cosa no e se lo raccomando",
+      "Comunicazione: ho dato un'opinione chiara con un tono adatto ai lettori di una rivista",
+      "Organizzazione: ho scritto un titolo e paragrafi distinti, con connettivi (However, In addition, Despite...)",
+      "Lingua: ho usato almeno due reporting verbs con la costruzione corretta",
+      "Lingua: ho usato lessico vario (misinformation, hoax, biased, gripping...) evitando ripetizioni",
+      "Ho controllato spelling UK e punteggiatura"
+     ],
+     "useful": [
+      "Last month I watched..., which I would recommend to anyone who...",
+      "The film follows...",
+      "Its greatest strength is...",
+      "However, the second half is less convincing.",
+      "The director insists / claims that...",
+      "On the downside, ...",
+      "Despite these weaknesses, ...",
+      "It is well worth watching."
+     ],
+     "model": "The Truth Machine: a documentary worth watching\n\nLast month I watched The Truth Machine, a ninety-minute documentary about how false stories spread online, and I would recommend it to anyone who has ever shared a headline without reading the article.\n\nThe film follows a young fact-checker, Lena Ortiz, who traces a hoax about a poisoned water supply back to its source: a bored teenager with a free weekend. Lena admits that she was shocked, and the film does not pretend that the problem is simple. Its greatest strength is the way it mixes interviews with striking graphics, which makes complicated data easy to follow.\n\nHowever, the second half is less convincing. The director insists that social media companies could stop misinformation tomorrow, yet she offers little evidence for this claim. In addition, the music is sometimes so dramatic that it feels manipulative, which is ironic in a film about honesty.\n\nDespite these weaknesses, the documentary is informative and entertaining. It will make you think twice before you press the share button."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe an advertisement or a campaign that you remember. Why was it effective?",
+     "it": "Descrivi una pubblicità o una campagna che ricordi (almeno 6 frasi): pubblico, slogan, perché funziona.",
+     "hints": [
+      "The advert was aimed at...",
+      "Its slogan was...",
+      "It claimed that...",
+      "I think it worked because..."
+     ],
+     "min": 60,
+     "model": "I remember an advert for a mineral water brand. It was aimed at young people who do a lot of sport, and its slogan was only three words long, which made it easy to remember. The advert claimed that the water came from a mountain spring, and it showed a runner drinking it at the top of a hill. I think it worked because the images were beautiful and the message was simple. Personally, I was a little sceptical about the claim, but I still bought the water for a while."
+    },
+    {
+     "t": "speakTask",
+     "q": "How do you check whether a piece of news is true? Have you ever been fooled by fake news?",
+     "it": "Racconta come verifichi le notizie ed eventualmente un caso in cui sei stato ingannato (almeno 6 frasi).",
+     "hints": [
+      "Before I share something, I...",
+      "I once read that...",
+      "It turned out to be a hoax.",
+      "Now I always..."
+     ],
+     "min": 60,
+     "model": "Before I share something, I usually look for the same story on at least two different websites. I also check who has published it, because some outlets are clearly biased. I once read that a famous actor had died, and I immediately sent the news to my friends. It turned out to be a hoax, and I felt rather foolish. Now I always read the whole article, and I never trust a headline that makes me angry."
+    }
+   ]
+  },
+  {
+   "id": "b2-06-test",
+   "kind": "test",
+   "title": "Test dell'unità 6 (B2)",
+   "intro": "Verifica senza aiuti: reporting verbs, lessico dei media, reclamo formale, un cloze e un ascolto.",
+   "minutes": 20,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "The minister denied ___ the documents to the press.",
+     "opts": [
+      "leaking",
+      "to leak",
+      "for leaking"
+     ],
+     "a": 0,
+     "why": "Deny + -ing."
+    },
+    {
+     "t": "gap",
+     "s": "They accused the company ___ misleading its customers.",
+     "opts": [
+      "of",
+      "for",
+      "to"
+     ],
+     "a": 0,
+     "why": "Accuse sb of + -ing."
+    },
+    {
+     "t": "gap",
+     "s": "The airline refused ___ the passengers for the delay.",
+     "opts": [
+      "to compensate",
+      "compensating",
+      "that compensate"
+     ],
+     "a": 0,
+     "why": "Refuse + to + infinito."
+    },
+    {
+     "t": "gap",
+     "s": "Our teacher reminded us ___ our passports to the exam.",
+     "opts": [
+      "to bring",
+      "bringing",
+      "for bringing"
+     ],
+     "a": 0,
+     "why": "Remind sb to + infinito: ricordare a qualcuno di fare qualcosa. («that we bring» non è naturale qui)."
+    },
+    {
+     "t": "gap",
+     "s": "She insisted ___ speaking to the manager.",
+     "opts": [
+      "on",
+      "in",
+      "for"
+     ],
+     "a": 0,
+     "why": "Insist on + -ing."
+    },
+    {
+     "t": "gap",
+     "s": "The newspaper had to ___ its story after the mistake was discovered.",
+     "opts": [
+      "retract",
+      "recall",
+      "reject"
+     ],
+     "a": 0,
+     "why": "Retract = ritrattare."
+    },
+    {
+     "t": "gap",
+     "s": "The advertising regulator criticised the company ___ using a misleading slogan.",
+     "opts": [
+      "for",
+      "of",
+      "about"
+     ],
+     "a": 0,
+     "why": "Criticise sb for + -ing."
+    },
+    {
+     "t": "wordform",
+     "s": "The report was so ___ that nobody trusted it.",
+     "root": "BIAS",
+     "answers": [
+      "biased"
+     ],
+     "why": "Aggettivo: bias -> biased."
+    },
+    {
+     "t": "wordform",
+     "s": "The journalist's ___ was damaged after the false story.",
+     "root": "CREDIBLE",
+     "answers": [
+      "credibility"
+     ],
+     "why": "Nome: credible -> credibility."
+    },
+    {
+     "t": "cloze",
+     "title": "Completa la risposta con una parola per spazio",
+     "mode": "open",
+     "text": "Dear Mr Hill,\n\nThank you for your email. I apologise {1} the delay in replying. You accuse us {2} ignoring your first message, and I admit that we should have answered sooner. However, I must point {3} that our records show we replied on 3 May. The manager has agreed {4} refund the full amount, and she has asked me {5} tell you that a cheque will be sent within a week.\n\nYours sincerely,\nPaula Grey",
+     "gaps": [
+      {
+       "answers": [
+        "for"
+       ]
+      },
+      {
+       "answers": [
+        "of"
+       ]
+      },
+      {
+       "answers": [
+        "out"
+       ]
+      },
+      {
+       "answers": [
+        "to"
+       ]
+      },
+      {
+       "answers": [
+        "to"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "\"You must not touch the cables,\" the technician said to us.",
+     "key": "WARNED",
+     "s2": "The technician ___ the cables.",
+     "answers": [
+      "warned us not to touch"
+     ],
+     "why": "Warn sb not to + infinito."
+    },
+    {
+     "t": "transform",
+     "s1": "\"It wasn't me who broke the vase,\" said Tom.",
+     "key": "DENIED",
+     "s2": "Tom ___ the vase.",
+     "answers": [
+      "denied breaking",
+      "denied having broken"
+     ],
+     "why": "Deny + -ing / having + participio."
+    },
+    {
+     "t": "transform",
+     "s1": "\"I'll definitely pay by Friday,\" he said.",
+     "key": "PROMISED",
+     "s2": "He ___ by Friday.",
+     "answers": [
+      "promised to pay",
+      "promised he would pay",
+      "promised that he would pay",
+      "promised he'd pay",
+      "promised that he'd pay"
+     ],
+     "why": "Promise + to + infinito (o that + would)."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She insisted to pay for the dinner.",
+     "answers": [
+      "She insisted on paying for the dinner",
+      "She insisted that she would pay for the dinner",
+      "She insisted she would pay for the dinner",
+      "She insisted that she should pay for the dinner"
+     ],
+     "why": "Insist on + -ing (o that + frase)."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "He suggested me a better hotel.",
+     "answers": [
+      "He suggested a better hotel",
+      "He suggested a better hotel to me",
+      "He suggested to me a better hotel"
+     ],
+     "why": "Suggest non ammette la persona subito dopo il verbo: suggest sth to sb."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase indica che chi riporta prende le distanze da ciò che dice un altro?",
+     "opts": [
+      "He claims he was at home.",
+      "He points out he was at home.",
+      "He reminds us he was at home."
+     ],
+     "a": 0,
+     "why": "Claim segnala dubbio; point out e remind presentano un fatto come vero."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è adatta a un reclamo formale scritto?",
+     "opts": [
+      "I am writing to express my dissatisfaction with the service I received.",
+      "I want to tell you that your service is rubbish.",
+      "I wanna complain about your awful service."
+     ],
+     "a": 0,
+     "why": "Registro formale e tono controllato."
+    },
+    {
+     "t": "mc",
+     "q": "«A hoax» è:",
+     "opts": [
+      "una bufala",
+      "una rettifica",
+      "uno slogan"
+     ],
+     "a": 0,
+     "why": "Hoax = notizia o scherzo inventato per ingannare."
+    },
+    {
+     "t": "order",
+     "it": "Ci ha consigliato di non fidarci del sito.",
+     "en": "She advised us not to trust the website",
+     "extra": [
+      "trusting",
+      "that"
+     ],
+     "why": "Advise sb not to + infinito."
+    },
+    {
+     "t": "listen",
+     "title": "A message from customer service",
+     "it": "Ascolta il messaggio.",
+     "lines": [
+      [
+       "Agent",
+       "Good afternoon, Ms Bennett. This is Daniel from Brightside Electrics. I am calling to say that our manager has agreed to refund the full price of the washing machine, including the delivery charge. You will receive the money within five working days. I would also like to apologise again for the delay in dealing with your complaint. If you have any questions, please quote the reference, C W seven two three, when you call us."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What has the manager agreed to do?",
+       "opts": [
+        "Refund the full price and delivery charge",
+        "Send a replacement machine",
+        "Offer a discount voucher"
+       ],
+       "a": 0
+      },
+      {
+       "q": "When will the money arrive?",
+       "opts": [
+        "Within five working days",
+        "Within twenty-four hours",
+        "By Thursday noon"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What should she quote if she calls?",
+       "opts": [
+        "The reference",
+        "Her order date",
+        "The name of the driver"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1636 @@
+{
+ "id": "b2-02",
+ "level": "B2",
+ "position": 2,
+ "title": "Decisioni e rimpianti",
+ "sub": "Third e mixed conditionals, wish - scusarsi e il saggio",
+ "grammar": "Third e mixed conditionals, wish / if only / I'd rather",
+ "topic": "Decisioni e rimpianti",
+ "situation": "Scusarsi e risolvere un conflitto sul lavoro",
+ "lessons": [
+  {
+   "id": "b2-02-grammar",
+   "kind": "grammar",
+   "title": "Se avessi saputo... vorrei tanto che...",
+   "intro": "Rimpianti, scelte mancate, rimproveri e desideri irrealizzabili: in italiano usiamo il congiuntivo, in inglese serve la scelta giusta tra past perfect, would have e wish. Qui impari a non dire mai «If I would have known».",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Third conditional: un passato diverso",
+     "body": "Serve a immaginare come sarebbero andate le cose se il passato fosse stato diverso: rimpianto, critica, sollievo.\n- **If + past perfect, would / could / might + have + participio**\n- If I had left earlier, I would have caught the train.\n\nCon **could have** indichi una possibilità (avrei potuto), con **might have** una probabilità incerta (forse avrei).\nForme più formali: **Had I known, I would have called you.** (inversione al posto di if) e **But for / If it hadn't been for + nome**: But for your help, we would have failed.\n\n**Errore tipico degli italiani**: «se avessi saputo» tradotto con «If I would have known». Nella frase con if, in questo tipo di periodo, would non compare mai: **If I had known**.",
+     "table": [
+      [
+       "",
+       "If-clause",
+       "Main clause"
+      ],
+      [
+       "Affermativa",
+       "had + participio",
+       "would have + participio"
+      ],
+      [
+       "Negativa",
+       "hadn't + participio",
+       "wouldn't have + participio"
+      ],
+      [
+       "Forma inversa",
+       "Had I known...",
+       "I would have called."
+      ]
+     ],
+     "ex": [
+      [
+       "If she had read the email, she wouldn't have missed the deadline.",
+       "Se avesse letto l'email, non avrebbe perso la scadenza."
+      ],
+      [
+       "Had I known about the strike, I would have driven.",
+       "Se avessi saputo dello sciopero, sarei andato in macchina."
+      ],
+      [
+       "If it hadn't been for the map, we might have got lost.",
+       "Senza la mappa, forse ci saremmo persi."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Mixed conditionals: passato e presente insieme",
+     "body": "Le due parti della frase possono riferirsi a tempi diversi. Chiediti sempre: **quando** vale questa parte?\n- **Passato -> presente**: If + past perfect, would + verbo base. Una scelta passata che ha conseguenze oggi.\n  If I had taken that job, I would be living in Dublin now.\n- **Presente (o carattere stabile) -> passato**: If + past simple, would have + participio.\n  If she weren't so shy, she would have asked for the promotion.\n\nParole spia: **now, today, still, these days** indicano il presente; **last year, yesterday, in 2019** indicano il passato. Con il verbo be, dopo if si usa spesso **were** per tutte le persone (If I were you...); in conversazione anche was.",
+     "ex": [
+      [
+       "If we had saved more, we would own a bigger flat now.",
+       "Se avessimo risparmiato di più, ora avremmo un appartamento più grande."
+      ],
+      [
+       "If he weren't so careless, he wouldn't have lost the keys again.",
+       "Se non fosse così sbadato, non avrebbe perso di nuovo le chiavi."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Wish e if only",
+     "body": "**Wish** (e il più enfatico **If only**) esprime rimpianto o insoddisfazione. Il verbo fa un passo indietro nel tempo, come nelle ipotesi:",
+     "table": [
+      [
+       "Che cosa",
+       "Struttura",
+       "Esempio"
+      ],
+      [
+       "Situazione presente",
+       "wish + past simple (were)",
+       "I wish I were taller."
+      ],
+      [
+       "Rimpianto sul passato",
+       "wish + past perfect",
+       "I wish I hadn't said that."
+      ],
+      [
+       "Irritazione, cambiamento voluto in altri",
+       "wish + would",
+       "I wish you would listen."
+      ],
+      [
+       "Capacità desiderata",
+       "wish + could",
+       "I wish I could swim."
+      ]
+     ],
+     "ex": [
+      [
+       "I wish I had more free time.",
+       "Vorrei avere più tempo libero."
+      ],
+      [
+       "If only I had listened to you!",
+       "Se solo ti avessi ascoltato!"
+      ],
+      [
+       "I wish my neighbours would turn the music down.",
+       "Vorrei che i vicini abbassassero la musica."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "I'd rather e it's time",
+     "body": "- **I'd rather + verbo base**: preferenza tua. I'd rather stay in tonight.\n- **I'd rather + soggetto + past simple**: preferenza su ciò che fa **un'altra persona** adesso o in futuro. I'd rather you didn't smoke here.\n- **I'd rather + soggetto + past perfect**: preferenza sul passato. I'd rather you had told me.\n- **It's (high) time + soggetto + past simple**: è ora che... It's time you made up your mind.\n\n**Errori tipici**: «I'd rather you don't smoke» (presente al posto del past simple), «I wish I can» (serve could) e «I wish you will stop» (serve would). Dopo wish e I'd rather il verbo è sempre al passato, anche se il significato è presente.",
+     "ex": [
+      [
+       "I'd rather you called me tomorrow.",
+       "Preferirei che mi chiamassi domani."
+      ],
+      [
+       "It's time we left.",
+       "È ora di andare."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "If she ___ the email earlier, she wouldn't have missed the deadline.",
+     "opts": [
+      "had read",
+      "would have read",
+      "has read"
+     ],
+     "a": 0,
+     "it": "Se avesse letto l'email prima, non avrebbe perso la scadenza.",
+     "why": "If-clause del third conditional: past perfect (had read)."
+    },
+    {
+     "t": "gap",
+     "s": "If I ___ so tired, I'd go out with you tonight.",
+     "opts": [
+      "weren't",
+      "hadn't been",
+      "wouldn't be"
+     ],
+     "a": 0,
+     "it": "Se non fossi così stanco, uscirei con te stasera.",
+     "why": "Presente irreale: past simple (were) dopo if; would non va dopo if."
+    },
+    {
+     "t": "gap",
+     "s": "I wish I ___ more time to study last year.",
+     "opts": [
+      "had had",
+      "would have",
+      "have"
+     ],
+     "a": 0,
+     "why": "Rimpianto sul passato: wish + past perfect (had had)."
+    },
+    {
+     "t": "gap",
+     "s": "I wish I ___ speak Japanese: it would help me so much in my job.",
+     "opts": [
+      "could",
+      "would",
+      "can"
+     ],
+     "a": 0,
+     "why": "Wish + could per una capacità che non hai. «Would» non si usa per sé stessi e «can» non si usa dopo wish."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "If I had known about the delay, I would have taken the earlier train.",
+      "If I would have known about the delay, I would have taken the earlier train.",
+      "If I knew about the delay, I would have taken the earlier train."
+     ],
+     "a": 0,
+     "why": "Third conditional: had known + would have taken. Il would dopo if è l'errore classico di chi pensa in italiano."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I wish you would stop tapping your pen.",
+      "I wish you will stop tapping your pen.",
+      "I wish you stopped to tap your pen."
+     ],
+     "a": 0,
+     "why": "Per l'irritazione verso un'abitudine altrui: wish + would + verbo base."
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "If you ___ (tell) me you were coming, I would have cooked something special.",
+     "answers": [
+      "had told",
+      "'d told",
+      "had only told",
+      "had just told"
+     ],
+     "why": "Third conditional: if + past perfect."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Se avessi studiato di più, avrei superato l'esame.",
+     "answers": [
+      "If I had studied more, I would have passed the exam",
+      "If I had studied more, I would have passed my exam",
+      "If I had studied more, I would have passed the test",
+      "If I had studied more, I'd have passed the exam",
+      "If I had studied more, I'd have passed my exam",
+      "If I had studied more, I'd have passed the test",
+      "If I had studied more, I would've passed the exam",
+      "If I had studied more, I would've passed my exam",
+      "If I had studied more, I would've passed the test",
+      "If I had studied harder, I would have passed the exam",
+      "If I had studied harder, I would have passed my exam",
+      "If I had studied harder, I would have passed the test",
+      "If I had studied harder, I'd have passed the exam",
+      "If I had studied harder, I'd have passed my exam",
+      "If I had studied harder, I'd have passed the test",
+      "If I had studied harder, I would've passed the exam",
+      "If I had studied harder, I would've passed my exam",
+      "If I had studied harder, I would've passed the test",
+      "If I had studied more I would have passed the exam",
+      "If I had studied more I would have passed my exam",
+      "If I had studied more I would have passed the test",
+      "If I had studied more I'd have passed the exam",
+      "If I had studied more I'd have passed my exam",
+      "If I had studied more I'd have passed the test",
+      "If I had studied more I would've passed the exam",
+      "If I had studied more I would've passed my exam",
+      "If I had studied more I would've passed the test",
+      "If I had studied harder I would have passed the exam",
+      "If I had studied harder I would have passed my exam",
+      "If I had studied harder I would have passed the test",
+      "If I had studied harder I'd have passed the exam",
+      "If I had studied harder I'd have passed my exam",
+      "If I had studied harder I'd have passed the test",
+      "If I had studied harder I would've passed the exam",
+      "If I had studied harder I would've passed my exam",
+      "If I had studied harder I would've passed the test",
+      "If I'd studied more, I would have passed the exam",
+      "If I'd studied more, I would have passed my exam",
+      "If I'd studied more, I would have passed the test",
+      "If I'd studied more, I'd have passed the exam",
+      "If I'd studied more, I'd have passed my exam",
+      "If I'd studied more, I'd have passed the test",
+      "If I'd studied more, I would've passed the exam",
+      "If I'd studied more, I would've passed my exam",
+      "If I'd studied more, I would've passed the test",
+      "If I'd studied harder, I would have passed the exam",
+      "If I'd studied harder, I would have passed my exam",
+      "If I'd studied harder, I would have passed the test",
+      "If I'd studied harder, I'd have passed the exam",
+      "If I'd studied harder, I'd have passed my exam",
+      "If I'd studied harder, I'd have passed the test",
+      "If I'd studied harder, I would've passed the exam",
+      "If I'd studied harder, I would've passed my exam",
+      "If I'd studied harder, I would've passed the test",
+      "If I'd studied more I would have passed the exam",
+      "If I'd studied more I would have passed my exam",
+      "If I'd studied more I would have passed the test",
+      "If I'd studied more I'd have passed the exam",
+      "If I'd studied more I'd have passed my exam",
+      "If I'd studied more I'd have passed the test",
+      "If I'd studied more I would've passed the exam",
+      "If I'd studied more I would've passed my exam",
+      "If I'd studied more I would've passed the test",
+      "If I'd studied harder I would have passed the exam",
+      "If I'd studied harder I would have passed my exam",
+      "If I'd studied harder I would have passed the test",
+      "If I'd studied harder I'd have passed the exam",
+      "If I'd studied harder I'd have passed my exam",
+      "If I'd studied harder I'd have passed the test",
+      "If I'd studied harder I would've passed the exam",
+      "If I'd studied harder I would've passed my exam",
+      "If I'd studied harder I would've passed the test",
+      "Had I studied more, I would have passed the exam",
+      "Had I studied harder, I would have passed the exam"
+     ],
+     "why": "If + past perfect, would have + participio. Studiare di più = study more / harder."
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "I wish I ___ (not / say) that in front of the whole team.",
+     "answers": [
+      "hadn't said",
+      "had not said"
+     ],
+     "why": "Rimpianto sul passato: wish + past perfect negativo."
+    },
+    {
+     "t": "transform",
+     "s1": "I regret not taking the job in Dublin.",
+     "key": "WISH",
+     "s2": "I ___ the job in Dublin.",
+     "answers": [
+      "wish I had taken",
+      "wish I'd taken"
+     ],
+     "why": "Rimpianto sul passato: wish + past perfect."
+    },
+    {
+     "t": "transform",
+     "s1": "Please don't play music so loudly.",
+     "key": "RATHER",
+     "s2": "I'd ___ music so loudly.",
+     "answers": [
+      "rather you didn't play",
+      "rather you did not play"
+     ],
+     "why": "I'd rather + soggetto + past simple per chiedere a un altro di non fare qualcosa."
+    },
+    {
+     "t": "transform",
+     "s1": "If I had known about the problem, I would have called you.",
+     "key": "HAD",
+     "s2": "___ about the problem, I would have called you.",
+     "answers": [
+      "Had I known"
+     ],
+     "why": "Inversione formale: Had + soggetto + participio, senza if."
+    },
+    {
+     "t": "transform",
+     "s1": "We only lost because Jo was injured.",
+     "key": "FOR",
+     "s2": "___ Jo's injury, we would have won.",
+     "answers": [
+      "But for",
+      "If it hadn't been for",
+      "If it had not been for"
+     ],
+     "why": "But for / If it hadn't been for + nome introducono una condizione irreale nel passato."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "If I would have known, I would have told you.",
+     "answers": [
+      "If I had known, I would have told you",
+      "If I had known, I'd have told you",
+      "If I had known, I would've told you",
+      "If I'd known, I would have told you",
+      "If I'd known, I'd have told you",
+      "If I'd known, I would've told you"
+     ],
+     "why": "Nel third conditional la if-clause vuole il past perfect, non would have."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I wish I can speak French fluently.",
+     "answers": [
+      "I wish I could speak French fluently"
+     ],
+     "why": "Dopo wish il verbo va al passato: could, non can."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "I'd rather you don't tell anyone about this.",
+     "answers": [
+      "I'd rather you didn't tell anyone about this",
+      "I would rather you didn't tell anyone about this",
+      "I'd rather you did not tell anyone about this",
+      "I would rather you did not tell anyone about this"
+     ],
+     "why": "Dopo I'd rather + soggetto serve il past simple (didn't), anche se parli del presente."
+    },
+    {
+     "t": "order",
+     "it": "Se non avessimo perso il treno, saremmo arrivati prima.",
+     "en": "If we hadn't missed the train we would have arrived earlier",
+     "extra": [
+      "didn't",
+      "had"
+     ],
+     "alts": [
+      "We would have arrived earlier if we hadn't missed the train"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Preferirei che mi dicessi la verità.",
+     "en": "I would rather you told me the truth",
+     "extra": [
+      "telling",
+      "say"
+     ],
+     "alts": [
+      "I'd rather you told me the truth"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2-02-vocab",
+   "kind": "vocab",
+   "title": "Decisioni e rimpianti",
+   "intro": "Il lessico per descrivere come si decide (e come ci si pente): espressioni fisse e collocazioni tipiche del B2, utili sia nel parlato sia nel saggio.",
+   "minutes": 20,
+   "words": [
+    {
+     "id": "b2-02-w01",
+     "en": "weigh up",
+     "it": "valutare, soppesare",
+     "ipa": "ˌweɪ ˈʌp",
+     "pos": "pv",
+     "ex": [
+      "You should weigh up the options before you sign anything.",
+      "Dovresti valutare le alternative prima di firmare qualsiasi cosa."
+     ],
+     "note": "Si usa spesso con options, pros and cons, risks."
+    },
+    {
+     "id": "b2-02-w02",
+     "en": "make up your mind",
+     "it": "decidersi",
+     "ipa": "ˌmeɪk ʌp jɔː ˈmaɪnd",
+     "pos": "phr",
+     "ex": [
+      "I can't make up my mind between the two flats.",
+      "Non riesco a decidermi tra i due appartamenti."
+     ]
+    },
+    {
+     "id": "b2-02-w03",
+     "en": "jump to conclusions",
+     "it": "trarre conclusioni affrettate",
+     "ipa": "ˌdʒʌmp tə kənˈkluːʒnz",
+     "pos": "phr",
+     "ex": [
+      "Don't jump to conclusions: she may have a good reason.",
+      "Non trarre conclusioni affrettate: potrebbe avere una buona ragione."
+     ]
+    },
+    {
+     "id": "b2-02-w04",
+     "en": "in hindsight",
+     "it": "con il senno di poi",
+     "ipa": "ɪn ˈhaɪndsaɪt",
+     "pos": "phr",
+     "ex": [
+      "In hindsight, we should have asked for a second opinion.",
+      "Con il senno di poi, avremmo dovuto chiedere un secondo parere."
+     ]
+    },
+    {
+     "id": "b2-02-w05",
+     "en": "have second thoughts",
+     "it": "avere dei ripensamenti",
+     "ipa": "hæv ˌsekənd ˈθɔːts",
+     "pos": "phr",
+     "ex": [
+      "She started having second thoughts the night before the wedding.",
+      "Ha iniziato ad avere dei ripensamenti la sera prima del matrimonio."
+     ]
+    },
+    {
+     "id": "b2-02-w06",
+     "en": "take the plunge",
+     "it": "fare il grande passo",
+     "ipa": "teɪk ðə ˈplʌndʒ",
+     "pos": "phr",
+     "ex": [
+      "After years of renting, they finally took the plunge and bought a house.",
+      "Dopo anni in affitto, hanno finalmente fatto il grande passo e comprato casa."
+     ]
+    },
+    {
+     "id": "b2-02-w07",
+     "en": "play it safe",
+     "it": "non rischiare, andare sul sicuro",
+     "ipa": "ˌpleɪ ɪt ˈseɪf",
+     "pos": "phr",
+     "ex": [
+      "I would rather play it safe than lose my savings.",
+      "Preferisco non rischiare piuttosto che perdere i miei risparmi."
+     ]
+    },
+    {
+     "id": "b2-02-w08",
+     "en": "pros and cons",
+     "it": "pro e contro",
+     "ipa": "ˌprəʊz ən ˈkɒnz",
+     "pos": "phr",
+     "ex": [
+      "We listed the pros and cons of moving abroad.",
+      "Abbiamo elencato i pro e i contro del trasferirsi all'estero."
+     ],
+     "note": "Si dice sempre in questo ordine."
+    },
+    {
+     "id": "b2-02-w09",
+     "en": "reluctant",
+     "it": "riluttante",
+     "ipa": "rɪˈlʌktənt",
+     "pos": "adj",
+     "ex": [
+      "He was reluctant to admit that he had made a mistake.",
+      "Era riluttante ad ammettere di aver sbagliato."
+     ],
+     "note": "Costruzione: be reluctant to + verbo."
+    },
+    {
+     "id": "b2-02-w10",
+     "en": "remorse",
+     "it": "rimorso",
+     "ipa": "rɪˈmɔːs",
+     "pos": "n",
+     "ex": [
+      "The driver showed no remorse after the accident.",
+      "L'autista non mostrò alcun rimorso dopo l'incidente."
+     ],
+     "note": "Più forte di «regret»; non numerabile."
+    },
+    {
+     "id": "b2-02-w11",
+     "en": "take the blame",
+     "it": "assumersi la colpa",
+     "ipa": "teɪk ðə ˈbleɪm",
+     "pos": "phr",
+     "ex": [
+      "The manager took the blame for the failed launch.",
+      "Il responsabile si è assunto la colpa del lancio fallito."
+     ],
+     "note": "Anche: put the blame on somebody = dare la colpa a qualcuno."
+    },
+    {
+     "id": "b2-02-w12",
+     "en": "dilemma",
+     "it": "dilemma",
+     "ipa": "dɪˈlemə",
+     "pos": "n",
+     "ex": [
+      "I'm in a real dilemma: both offers are tempting.",
+      "Sono in un vero dilemma: entrambe le offerte sono allettanti."
+     ],
+     "note": "Si dice «face a dilemma» o «be in a dilemma»."
+    },
+    {
+     "id": "b2-02-w13",
+     "en": "indecisive",
+     "it": "indeciso (di carattere)",
+     "ipa": "ˌɪndɪˈsaɪsɪv",
+     "pos": "adj",
+     "ex": [
+      "Our indecisive boss changes the plan every week.",
+      "Il nostro capo indeciso cambia piano ogni settimana."
+     ],
+     "note": "Descrive il carattere; per una scelta ancora aperta si dice undecided."
+    },
+    {
+     "id": "b2-02-w14",
+     "en": "burn your bridges",
+     "it": "tagliarsi i ponti alle spalle",
+     "ipa": "ˌbɜːn jɔː ˈbrɪdʒɪz",
+     "pos": "phr",
+     "ex": [
+      "Be polite when you resign: you don't want to burn your bridges.",
+      "Sii cortese quando ti dimetti: non vuoi tagliarti i ponti alle spalle."
+     ]
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "weigh up the options",
+       "valutare le alternative"
+      ],
+      [
+       "face a dilemma",
+       "trovarsi davanti a un dilemma"
+      ],
+      [
+       "feel genuine remorse",
+       "provare sincero rimorso"
+      ],
+      [
+       "take the plunge",
+       "fare il grande passo"
+      ],
+      [
+       "list the pros and cons",
+       "elencare i pro e i contro"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Don't ___ conclusions: we haven't heard her side of the story yet.",
+     "opts": [
+      "jump to",
+      "jump at",
+      "fall into"
+     ],
+     "a": 0,
+     "why": "L'espressione fissa è jump to conclusions. «Jump at» si usa con chance e opportunity."
+    },
+    {
+     "t": "gap",
+     "s": "She was ___ to accept the offer, because it meant leaving her family.",
+     "opts": [
+      "reluctant",
+      "reluctantly",
+      "reluctance"
+     ],
+     "a": 0,
+     "why": "Dopo be serve un aggettivo: be reluctant to + verbo."
+    },
+    {
+     "t": "gap",
+     "s": "I was about to sign the contract when I started having second ___ .",
+     "opts": [
+      "thoughts",
+      "ideas",
+      "minds"
+     ],
+     "a": 0,
+     "why": "L'espressione fissa è have second thoughts (ripensamenti)."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Choosing a university is a real ___ : my heart says Rome, but my wallet says Padua.",
+     "answers": [
+      "dilemma"
+     ],
+     "why": "Dilemma: scelta difficile tra due opzioni."
+    },
+    {
+     "t": "wordform",
+     "s": "His ___ cost us the contract: he simply couldn't choose a supplier.",
+     "root": "DECIDE",
+     "answers": [
+      "indecision"
+     ],
+     "why": "Serve un nome negativo: decide -> indecision."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «take the plunge»?",
+     "opts": [
+      "Fare finalmente un passo importante dopo aver esitato",
+      "Tuffarsi in piscina",
+      "Pentirsi di una scelta importante"
+     ],
+     "a": 0,
+     "why": "È un'espressione figurata: si decide dopo tanti dubbi."
+    }
+   ]
+  },
+  {
+   "id": "b2-02-reading",
+   "kind": "reading",
+   "title": "Le strade che non abbiamo preso",
+   "intro": "Un articolo d'opinione sul perché i rimpianti più duraturi riguardano ciò che non abbiamo fatto. Leggi prima per capire l'argomentazione, poi rispondi alle domande: nel B2 First le risposte sbagliate sono spesso plausibili.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Why we regret the roads not taken",
+     "genre": "opinion article",
+     "text": "Ask anyone over forty what they would change about their life and the answer rarely involves money. It usually involves a door they did not open: the language course they abandoned, the job in another city they turned down, the conversation they never had. Psychologists call this counterfactual thinking, and it is one of the most human habits we have. We replay the past, change one detail, and imagine how things might have turned out. If only I had applied, we say. If I had spoken up, everything would be different now.\n\nResearch suggests that the pain of regret is not spread evenly. In the short term, we tend to regret things we did, such as a rude email or a hasty purchase. In the long term, however, the regrets that linger are almost always about things we failed to do. A mistake can be explained, apologised for and eventually turned into an anecdote. A missed opportunity, by contrast, leaves behind an open question that nothing can ever answer.\n\nModern life has made the problem worse. A generation ago, choosing a phone meant looking at three models; today there are hundreds, and each comes with reviews, ratings and a forum of strangers eager to tell you that you have picked the wrong one. The psychologist Barry Schwartz argued that an abundance of options does not make us freer but more anxious. The more alternatives we weigh up, the higher our expectations become, and the more likely we are to feel that whatever we chose is not quite good enough. He distinguished between maximisers, who need to find the very best option, and satisficers, who are happy with one that meets their needs. Unsurprisingly, the satisficers tend to be more content, even if the maximisers sometimes earn a little more.\n\nThis does not mean that we should stop thinking before we act. Nobody envies the man who takes the plunge without checking the small print. But there is a difference between careful consideration and endless hesitation. Those who put off a decision until they have all the information usually discover that the information never arrives, and that not choosing is itself a choice, one that somebody else is often happy to make for us.\n\nSo how can we live with fewer regrets? The advice that therapists give is surprisingly practical. First, set a deadline: a decision with a time limit is easier to make than one that can wait for ever. Second, decide which two or three criteria really matter to you, and ignore the rest. Third, imagine yourself at eighty looking back, and ask which choice that older person would be glad you made. Finally, once the decision is taken, stop auditing it. Few people who spend their evenings wondering whether they chose the wrong flat are enjoying the one they live in.\n\nRegret, in the end, is not a sign that we have lived badly. It is a sign that we care, that we can imagine better versions of our lives and hold ourselves to them. The trick is to treat it as information rather than a punishment: a note to our future selves that says, next time, be a little braver.",
+     "qs": [
+      {
+       "q": "What does the writer say about what people over forty typically regret?",
+       "opts": [
+        "Financial decisions that went wrong",
+        "Opportunities they did not take",
+        "Arguments with family members",
+        "Jobs that they accepted too quickly"
+       ],
+       "a": 1,
+       "why": "«It usually involves a door they did not open»: occasioni non colte, non denaro."
+      },
+      {
+       "q": "What difference between short-term and long-term regrets is described?",
+       "opts": [
+        "Short-term regrets are stronger than long-term ones.",
+        "Long-term regrets mostly concern actions we took.",
+        "Short-term regrets concern what we did, long-term ones what we failed to do.",
+        "Both kinds disappear as time passes."
+       ],
+       "a": 2,
+       "why": "Secondo paragrafo: nel breve termine ci pentiamo di ciò che abbiamo fatto, nel lungo di ciò che non abbiamo fatto."
+      },
+      {
+       "q": "Why does the writer say a missed opportunity is harder to live with than a mistake?",
+       "opts": [
+        "It always costs more money.",
+        "Other people never forgive it.",
+        "It cannot be turned into a funny story.",
+        "It leaves a question that can never be answered."
+       ],
+       "a": 3,
+       "why": "«leaves behind an open question that nothing can ever answer»."
+      },
+      {
+       "q": "According to Barry Schwartz, why can having too many options be a problem?",
+       "opts": [
+        "Our expectations rise, so we are less satisfied.",
+        "We spend too much money on reviews.",
+        "We stop trusting strangers.",
+        "We make choices that are too cautious."
+       ],
+       "a": 0,
+       "why": "«The more alternatives we weigh up, the higher our expectations become»."
+      },
+      {
+       "q": "What does the writer mean by «not choosing is itself a choice»?",
+       "opts": [
+        "Refusing to decide is the safest option.",
+        "Delaying a decision may let someone else decide for us.",
+        "Careful people never make mistakes.",
+        "Information always arrives in the end."
+       ],
+       "a": 1,
+       "why": "«one that somebody else is often happy to make for us»."
+      },
+      {
+       "q": "Which piece of advice is NOT mentioned in the article?",
+       "opts": [
+        "Give yourself a time limit.",
+        "Ask several friends what they would do.",
+        "Concentrate on a few important criteria.",
+        "Imagine how you will feel when you are old."
+       ],
+       "a": 1,
+       "why": "Gli altri tre consigli compaiono nel quinto paragrafo; chiedere agli amici non è citato."
+      },
+      {
+       "q": "What is the writer's attitude to regret in the final paragraph?",
+       "opts": [
+        "It is a sign of a badly lived life.",
+        "It is useful information about what matters to us.",
+        "It should be ignored completely.",
+        "It is a punishment we deserve."
+       ],
+       "a": 1,
+       "why": "«treat it as information rather than a punishment»."
+      },
+      {
+       "q": "Satisficers are happy with an option that meets their ___ .",
+       "answers": [
+        "needs"
+       ],
+       "why": "«satisficers, who are happy with one that meets their needs»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «the regrets that linger» sono i rimpianti che:",
+     "opts": [
+      "restano a lungo",
+      "arrivano all'improvviso",
+      "si risolvono presto",
+      "colpiscono i giovani"
+     ],
+     "a": 0,
+     "why": "Linger = indugiare, persistere."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola (phrasal verb del testo)",
+     "s": "He tends to ___ off difficult decisions until the very last minute.",
+     "answers": [
+      "put"
+     ],
+     "why": "Put off = rimandare."
+    },
+    {
+     "t": "gap",
+     "s": "Before you sign, always read the ___ print.",
+     "opts": [
+      "small",
+      "little",
+      "short"
+     ],
+     "a": 0,
+     "why": "L'espressione fissa è «the small print» (le clausole scritte in piccolo)."
+    }
+   ]
+  },
+  {
+   "id": "b2-02-listening",
+   "kind": "listening",
+   "title": "Dalla banca al forno",
+   "intro": "Un'intervista radiofonica a un uomo che ha cambiato vita a trentotto anni. Ascolta senza leggere: le risposte sono tutte nei dettagli, non nelle prime parole che senti.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A career change",
+     "it": "Ascolta l'intervista. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Helen",
+       "Today I'm joined by Marco Bellini, who spent twelve years in banking before opening a bakery in Leeds. Marco, welcome."
+      ],
+      [
+       "Marco",
+       "Thanks, Helen. Good to be here."
+      ],
+      [
+       "Helen",
+       "Most people dream about quitting, but few actually do it. What finally made you take the plunge?"
+      ],
+      [
+       "Marco",
+       "Well, honestly, it wasn't one big moment. I was thirty-eight, I had a good salary, and I was miserable on Sunday evenings. Then my father got ill, and I spent a few weeks helping in his little shop. I realised I hadn't felt so useful in years."
+      ],
+      [
+       "Helen",
+       "Did you have second thoughts?"
+      ],
+      [
+       "Marco",
+       "Constantly! I made a spreadsheet of pros and cons, and the cons won by a mile. Rent, no regular income, my wife's worries... If I had gone by the spreadsheet, I would still be sitting in that office now."
+      ],
+      [
+       "Helen",
+       "So what changed your mind?"
+      ],
+      [
+       "Marco",
+       "My wife, actually. She said, I'd rather you tried and failed than spent twenty years wondering. That sentence did it. I handed in my notice the next morning."
+      ],
+      [
+       "Helen",
+       "And was it all worth it?"
+      ],
+      [
+       "Marco",
+       "Mostly, yes. The first year was brutal. I got up at four every day, and I burnt more loaves than I sold. I wish I had learnt some basic business skills before I started, because I made some expensive mistakes with suppliers. Had I done a short course, I could have saved about five thousand pounds."
+      ],
+      [
+       "Helen",
+       "But no regrets about leaving the bank?"
+      ],
+      [
+       "Marco",
+       "Not one. My only regret is that I didn't do it five years earlier. If I had started at thirty-three, the bakery would be twice the size by now. Still, I try not to dwell on it."
+      ],
+      [
+       "Helen",
+       "What would you say to listeners in the same position?"
+      ],
+      [
+       "Marco",
+       "Don't wait for the perfect moment, because it doesn't exist. Talk to people who've done it, put aside six months of savings, and give yourself a deadline. If you still haven't decided by then, the answer is probably no."
+      ],
+      [
+       "Helen",
+       "Marco Bellini, thank you very much."
+      ],
+      [
+       "Marco",
+       "My pleasure."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Marco worked in banking for ___ years.",
+       "answers": [
+        "12",
+        "twelve"
+       ]
+      },
+      {
+       "q": "What first made Marco think about a change?",
+       "opts": [
+        "He lost his job at the bank.",
+        "He enjoyed helping in his father's shop.",
+        "His wife suggested a new career.",
+        "He inherited some money."
+       ],
+       "a": 1,
+       "why": "Ha capito di non sentirsi così utile da anni mentre aiutava nel negozio del padre."
+      },
+      {
+       "q": "What did Marco's spreadsheet show?",
+       "opts": [
+        "The advantages were greater.",
+        "The disadvantages were greater.",
+        "The risks were small.",
+        "He would earn more money."
+       ],
+       "a": 1,
+       "why": "«the cons won by a mile»."
+      },
+      {
+       "q": "What persuaded him to resign?",
+       "opts": [
+        "A comment from his wife",
+        "A talk with his father",
+        "A business course",
+        "A fall in his salary"
+       ],
+       "a": 0,
+       "why": "La frase della moglie: «I'd rather you tried and failed...»."
+      },
+      {
+       "q": "What mistake does he mention from the first year?",
+       "opts": [
+        "Hiring too many people",
+        "Choosing the wrong town",
+        "Mistakes with suppliers",
+        "Getting up too early"
+       ],
+       "a": 2,
+       "why": "Errori costosi con i fornitori, dovuti alla mancanza di competenze di base."
+      },
+      {
+       "q": "What is Marco's only regret?",
+       "opts": [
+        "Leaving the bank",
+        "Not starting earlier",
+        "Not taking a course",
+        "Moving to Leeds"
+       ],
+       "a": 1,
+       "why": "«My only regret is that I didn't do it five years earlier»."
+      },
+      {
+       "q": "What advice does he give to the listeners?",
+       "opts": [
+        "Wait until the time is right.",
+        "Ask a bank for a loan.",
+        "Save money and set a time limit for deciding.",
+        "Never listen to friends."
+       ],
+       "a": 2,
+       "why": "«put aside six months of savings, and give yourself a deadline»."
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "If I had gone by the spreadsheet, I would still be sitting in that office now.",
+     "it": "Se mi fossi fidato del foglio di calcolo, sarei ancora seduto in quell'ufficio."
+    },
+    {
+     "t": "dictation",
+     "en": "I wish I had learnt some basic business skills before I started.",
+     "it": "Vorrei aver imparato qualche competenza di base prima di iniziare."
+    },
+    {
+     "t": "speak",
+     "en": "I'd rather you tried and failed than spent twenty years wondering.",
+     "it": "Preferirei che tu provassi e fallissi piuttosto che passare vent'anni a chiederti come sarebbe andata."
+    }
+   ]
+  },
+  {
+   "id": "b2-02-situation",
+   "kind": "situation",
+   "title": "Scusarsi sul lavoro",
+   "intro": "Hai sbagliato, o un collega è arrabbiato con te. Come chiedi scusa in modo professionale, senza scuse patetiche e senza sembrare freddo, e come si trova un accordo.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Scusarsi in modo professionale",
+     "body": "Un buon «sorry» da lavoro ha tre parti: **riconosci l'errore**, **ti assumi la responsabilità**, **proponi una soluzione**.\n- **I owe you an apology.** (più formale di I'm sorry)\n- **I should have checked with you first.** (should have = rimprovero a sé stessi)\n- **I take full responsibility for...**\n- **I'm sorry for any inconvenience this may have caused.** (lettere, clienti)\n- **Let me make it up to you.** = Lascia che rimedi.\n\nEvita le scuse che scaricano la colpa («It wasn't really my fault...») e il troppo «very very sorry»: un'unica scusa chiara vale di più. Dopo **sorry for** serve un nome o un verbo in -ing: I'm sorry for the delay / for being late.",
+     "ex": [
+      [
+       "I owe you an apology: I should have credited your work.",
+       "Ti devo delle scuse: avrei dovuto citare il tuo lavoro."
+      ],
+      [
+       "I take full responsibility for the delay.",
+       "Mi assumo la piena responsabilità del ritardo."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Risolvere il conflitto e accettare le scuse",
+     "body": "Per trovare un accordo senza alzare i toni:\n- **I see where you're coming from, but...** = Capisco il tuo punto di vista, ma...\n- **Let's see how we can put this right.** = Vediamo come sistemare la cosa.\n- **What if we...?** / **Would it help if I...?** = E se...? / Servirebbe se io...?\n- **I'd rather we sorted this out now.** = Preferirei chiarirci adesso.\n\nPer accettare le scuse: **Thanks for saying that, I appreciate it.** / **Don't worry about it.** / **Let's put it behind us.** = Lasciamoci tutto alle spalle.",
+     "ex": [
+      [
+       "Would it help if I sent you the file today?",
+       "Ti servirebbe se ti mandassi il file oggi?"
+      ],
+      [
+       "Thanks for saying that, I really appreciate it.",
+       "Grazie per averlo detto, lo apprezzo davvero."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Credit for the data",
+     "it": "Scegli la risposta più professionale per te (Tu).",
+     "lines": [
+      [
+       "Priya",
+       "Can we talk? I wasn't happy that my figures were in your presentation without my name on them."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "You're right, and I owe you an apology. I should have credited you.",
+         "It's not a big deal: everybody uses everyone's data here.",
+         "I'm sorry you feel like that, but I did nothing wrong."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Priya",
+       "Thanks. It's just that I spent weeks on that analysis."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I know, and I'm really sorry. Would it help if I told the director it was your work?",
+         "I know, but if you had sent them earlier, I would have used your name.",
+         "I'd rather we forgot about it, to be honest."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Priya",
+       "That would mean a lot. Thank you for being so straightforward."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "No problem. From now on I'll check with you first.",
+         "No problem. It was only a small mistake anyway.",
+         "Don't mention it. Next time just ask me."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "Chiedi scusa senza scaricare la colpa e proponi un rimedio concreto: è il modello da seguire."
+    },
+    {
+     "t": "dialog",
+     "title": "A missed deadline",
+     "lines": [
+      [
+       "Mr Hall",
+       "I was expecting the client report yesterday. What happened?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm very sorry. I underestimated how long the data would take, and I should have warned you earlier.",
+         "It wasn't really my fault: the data arrived too late.",
+         "Sorry, but nobody told me it was so urgent."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Mr Hall",
+       "This is the second time this quarter. I need to know I can rely on you."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I understand, and I take full responsibility. I can have it on your desk by noon tomorrow if that works.",
+         "I would have finished it if I hadn't had so many other things to do.",
+         "I'll try, but I can't promise anything."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Mr Hall",
+       "Noon is fine. And next time, tell me as soon as you see a problem."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Absolutely. From now on I'll flag any delay at once.",
+         "Okay, but then you should give me less work.",
+         "I would tell you if I could remember."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "I owe you an apology.",
+       "Ti devo delle scuse."
+      ],
+      [
+       "I take full responsibility.",
+       "Mi assumo piena responsabilità."
+      ],
+      [
+       "Let's put this right.",
+       "Sistemiamo la cosa."
+      ],
+      [
+       "I see where you're coming from.",
+       "Capisco il tuo punto di vista."
+      ],
+      [
+       "Let me make it up to you.",
+       "Lascia che rimedi."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Avrei dovuto avvisarti prima.",
+     "en": "I should have warned you earlier",
+     "extra": [
+      "warn",
+      "had"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I owe you an apology. I should have checked with you first.",
+     "it": "Ti devo delle scuse. Avrei dovuto chiedere prima a te."
+    },
+    {
+     "t": "speak",
+     "en": "I take full responsibility for the mistake.",
+     "it": "Mi assumo la piena responsabilità dell'errore."
+    },
+    {
+     "t": "speak",
+     "en": "Let's see how we can put this right.",
+     "it": "Vediamo come possiamo sistemare la cosa."
+    },
+    {
+     "t": "speakTask",
+     "q": "You changed a shared document without telling a colleague, and she is upset. Apologise and suggest a solution.",
+     "it": "Chiedi scusa alla collega: riconosci l'errore, assumiti la responsabilità, proponi come rimediare (almeno 4 frasi).",
+     "hints": [
+      "I owe you an apology...",
+      "I should have...",
+      "Would it help if I...?",
+      "From now on I'll..."
+     ],
+     "min": 40,
+     "model": "I owe you an apology. I should have told you before I changed the document, and I take full responsibility for the confusion. I can restore the old version right now, and then we could go through the changes together. Would that help? From now on I'll always check with you first."
+    }
+   ]
+  },
+  {
+   "id": "b2-02-production",
+   "kind": "production",
+   "title": "Il saggio: vantaggi e svantaggi",
+   "intro": "Scriverai un saggio in stile B2 First sul cambiare carriera. Prima gli strumenti: struttura, connettivi e qualche esercizio di preparazione. Poi parlerai delle tue scelte.",
+   "minutes": 30,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Il saggio B2 First (essay)",
+     "body": "Il saggio dell'esame ha **due idee date** (le note) e **una tua idea**: devi trattarle tutte e tre e spiegare perché. Registro neutro o formale, niente contrazioni.\n- **Introduzione**: presenta l'argomento in una o due frasi, senza copiare la domanda.\n- **Due paragrafi centrali**: un'idea ciascuno, con motivazioni ed esempi.\n- **Tua idea**: aggiungila in un paragrafo o dentro uno dei due.\n- **Conclusione**: la tua opinione, con un connettivo (In conclusion, All things considered).\n\nConnettivi utili: **Firstly / Moreover / In addition** (aggiungere), **However / On the other hand / Although** (contrasto), **As a result / Consequently** (conseguenza). I criteri dei giudici sono: contenuto, comunicazione (registro adatto), organizzazione, lingua (varietà e correttezza).",
+     "ex": [
+      [
+       "One clear advantage is personal satisfaction.",
+       "Un chiaro vantaggio è la soddisfazione personale."
+      ],
+      [
+       "On the other hand, financial security is a serious concern.",
+       "D'altra parte, la sicurezza economica è una preoccupazione seria."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Changing career can be rewarding. ___ , it involves a real financial risk.",
+     "opts": [
+      "However",
+      "Moreover",
+      "Therefore"
+     ],
+     "a": 0,
+     "why": "Serve un connettivo di contrasto: However. Moreover aggiunge, therefore indica conseguenza."
+    },
+    {
+     "t": "gap",
+     "s": "Many adults retrain successfully. ___ , employers value their experience.",
+     "opts": [
+      "Moreover",
+      "Nevertheless",
+      "Whereas"
+     ],
+     "a": 0,
+     "why": "Qui si aggiunge un altro vantaggio: Moreover."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "To sum ___ , changing career later in life is a risk worth taking for some people.",
+     "answers": [
+      "up"
+     ],
+     "why": "To sum up = in sintesi (conclusione)."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "In my opinion changing job it is not always a good idea.",
+     "answers": [
+      "In my opinion changing job is not always a good idea",
+      "In my opinion, changing job is not always a good idea",
+      "In my opinion changing jobs is not always a good idea",
+      "In my opinion, changing jobs is not always a good idea"
+     ],
+     "why": "In inglese il soggetto non si ripete: «changing job» è già il soggetto, quindi niente «it»."
+    },
+    {
+     "t": "write",
+     "q": "Your class has been discussing career changes. Write an essay for your teacher giving your opinion on the following statement: Changing career later in life is a good idea. Write about: 1. financial security 2. personal satisfaction 3. (your own idea).",
+     "it": "Scrivi un saggio (140-190 parole) per il tuo insegnante: tratta le due note date e aggiungi una tua idea. Registro neutro, tre o quattro paragrafi, una conclusione con la tua opinione.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho trattato entrambe le note e ho aggiunto una mia idea, spiegando i motivi",
+      "Comunicazione: registro neutro o formale, niente contrazioni, opinione chiara",
+      "Organizzazione: introduzione, paragrafi separati, conclusione, connettivi (However, Moreover, In conclusion)",
+      "Lingua: ho usato strutture varie, ad esempio un conditional o un wish, e ho ricontrollato gli errori",
+      "Ho rispettato il numero di parole (140-190)"
+     ],
+     "useful": [
+      "Nowadays, many people...",
+      "One clear advantage is...",
+      "On the other hand, ...",
+      "Moreover, ...",
+      "Another point to consider is...",
+      "In conclusion, I believe that...",
+      "If people planned carefully, they would..."
+     ],
+     "model": "Nowadays, many people decide to change career in their thirties or forties. Although this can be a risky step, it may also bring important benefits.\n\nOne clear advantage is personal satisfaction. People who spend years in a job they dislike often feel frustrated, and a new career can give them a real sense of purpose. Moreover, adults bring valuable experience from their previous work, which employers sometimes appreciate.\n\nOn the other hand, financial security is a serious concern. A new career usually means starting at a lower salary, which is difficult for anyone with a mortgage or a family to support. In addition, retraining takes time and energy that not everybody has.\n\nAnother point to consider is the effect on family life. A change of career may mean longer hours at first, so the whole family should be involved in the decision.\n\nIn conclusion, although changing career later in life is not without risks, I believe it is worth it for those who plan carefully and save enough money first."
+    },
+    {
+     "t": "speakTask",
+     "q": "Talk about an important decision you made. Do you have any regrets?",
+     "it": "Racconta una decisione importante della tua vita e dì se hai qualche rimpianto: usa almeno un third conditional e un wish.",
+     "hints": [
+      "The most important decision I made was...",
+      "If I hadn't..., I would...",
+      "I wish I had...",
+      "On the whole, I think..."
+     ],
+     "min": 40,
+     "model": "The most important decision I made was moving to Milan for work. If I hadn't taken that job, I wouldn't have met my husband. It was frightening at first, and I had second thoughts several times. Sometimes I wish I had learnt English earlier, because it would have made my first year much easier. On the whole, though, I don't regret anything."
+    },
+    {
+     "t": "speakTask",
+     "q": "Is it better to play it safe or to take risks? Give reasons.",
+     "it": "Dì se è meglio non rischiare o rischiare, con motivi ed esempi (almeno 4 frasi).",
+     "hints": [
+      "In my view...",
+      "On the one hand...",
+      "On the other hand...",
+      "If you never take risks, you..."
+     ],
+     "min": 40,
+     "model": "In my view, it depends on what you stand to lose. On the one hand, playing it safe protects you from serious financial trouble. On the other hand, if you never take risks, you may spend your life wondering what could have happened. I would rather take a calculated risk than live with regret, but I would weigh up the pros and cons very carefully first."
+    }
+   ]
+  },
+  {
+   "id": "b2-02-test",
+   "kind": "test",
+   "title": "Test dell'unità 2",
+   "intro": "Verifica finale: conditionals, wish, lessico delle decisioni, lettura e ascolto. Nessun aiuto durante la prova.",
+   "minutes": 25,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "If the airline ___ us earlier, we wouldn't have wasted the whole morning at the airport.",
+     "opts": [
+      "had informed",
+      "would have informed",
+      "informed"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "If I had listened to my accountant, I ___ in debt now.",
+     "opts": [
+      "wouldn't be",
+      "wouldn't have been",
+      "won't be"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I wish you ___ stop leaving dirty cups in the sink.",
+     "opts": [
+      "would",
+      "will",
+      "did"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'd rather you ___ me about the changes last week.",
+     "opts": [
+      "had told",
+      "told",
+      "would tell"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "If I'd known it was your birthday, I'd have bought you a present.",
+      "If I would have known it was your birthday, I would have bought you a present.",
+      "If I knew it was your birthday, I'd have bought you a present."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Our manager is so ___ that every meeting ends without a decision.",
+     "opts": [
+      "indecisive",
+      "reluctant",
+      "remorseful",
+      "hasty"
+     ],
+     "a": 0,
+     "why": "Indecisive descrive chi non riesce mai a decidere."
+    },
+    {
+     "t": "mc",
+     "q": "___ , we should have booked the hotel earlier.",
+     "opts": [
+      "In hindsight",
+      "In advance",
+      "In case",
+      "In turn"
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "If she ___ (not / be) so stubborn, we would have resolved this weeks ago.",
+     "answers": [
+      "weren't",
+      "were not",
+      "wasn't",
+      "was not",
+      "hadn't been",
+      "had not been"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Metti il verbo tra parentesi alla forma giusta",
+     "s": "I wish I ___ (take) your advice last year.",
+     "answers": [
+      "had taken",
+      "'d taken"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Se non avessi perso il volo, ora sarei a Roma.",
+     "answers": [
+      "If I hadn't missed my flight, I would be in Rome now",
+      "If I hadn't missed my flight, I'd be in Rome now",
+      "If I hadn't missed my flight, I would be in Rome by now",
+      "If I hadn't missed my flight, I'd be in Rome by now",
+      "If I hadn't missed the flight, I would be in Rome now",
+      "If I hadn't missed the flight, I'd be in Rome now",
+      "If I hadn't missed the flight, I would be in Rome by now",
+      "If I hadn't missed the flight, I'd be in Rome by now",
+      "If I had not missed my flight, I would be in Rome now",
+      "If I had not missed my flight, I'd be in Rome now",
+      "If I had not missed my flight, I would be in Rome by now",
+      "If I had not missed my flight, I'd be in Rome by now",
+      "If I had not missed the flight, I would be in Rome now",
+      "If I had not missed the flight, I'd be in Rome now",
+      "If I had not missed the flight, I would be in Rome by now",
+      "If I had not missed the flight, I'd be in Rome by now"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I'm sorry I didn't apologise to Laura.",
+     "key": "WISH",
+     "s2": "I ___ apologised to Laura.",
+     "answers": [
+      "wish I had",
+      "wish I'd"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I'd prefer you not to mention the mistake to the client.",
+     "key": "RATHER",
+     "s2": "I'd ___ mention the mistake to the client.",
+     "answers": [
+      "rather you didn't",
+      "rather you did not"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "We got lost because the signs were so poor.",
+     "key": "BEEN",
+     "s2": "If the signs ___ so poor, we wouldn't have got lost.",
+     "answers": [
+      "hadn't been",
+      "had not been"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I'm not a doctor because I didn't pass the entrance exam.",
+     "key": "HAD",
+     "s2": "If I ___ the entrance exam, I would be a doctor.",
+     "answers": [
+      "had passed"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "If I would have more time, I would learn Russian.",
+     "answers": [
+      "If I had more time, I would learn Russian",
+      "If I had more time I'd learn Russian",
+      "If I had more time, I'd learn Russian"
+     ]
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "She wishes she didn't buy that car last year.",
+     "answers": [
+      "She wishes she hadn't bought that car last year",
+      "She wishes she had not bought that car last year"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "Judging by his face, he was deeply ___ about the whole affair.",
+     "root": "REMORSE",
+     "answers": [
+      "remorseful"
+     ],
+     "why": "Aggettivo: remorse -> remorseful."
+    },
+    {
+     "t": "wordform",
+     "s": "She agreed, but only ___ .",
+     "root": "RELUCTANT",
+     "answers": [
+      "reluctantly"
+     ],
+     "why": "Serve un avverbio che modifica il verbo agreed."
+    },
+    {
+     "t": "cloze",
+     "title": "An apology email",
+     "mode": "open",
+     "text": "Dear Mr Evans,\n\nI am writing to apologise for the mix-up over your booking. If I {1} checked the diary properly, I would not have promised you a room that was already taken. I wish I had noticed the error earlier, {2} would have allowed us to find you an alternative. As things stand, we have arranged a room at a nearby hotel, and I would rather you {3} nothing for it. {4} it not been for my colleague's quick thinking, you would have had nowhere to stay at all. Please accept my sincere apologies, and I hope you {5} give us another chance.\n\nYours sincerely,\nHannah Lowe",
+     "gaps": [
+      {
+       "answers": [
+        "had",
+        "'d"
+       ]
+      },
+      {
+       "answers": [
+        "which"
+       ]
+      },
+      {
+       "answers": [
+        "paid"
+       ]
+      },
+      {
+       "answers": [
+        "Had"
+       ]
+      },
+      {
+       "answers": [
+        "will",
+        "can",
+        "would",
+        "could"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A voicemail apology",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Daniel",
+       "Hi Sofia, it's Daniel. I'm calling about this morning's meeting. I'm really sorry I didn't turn up. I completely forgot to put it in my diary, which is no excuse. I should have checked my emails last night. I've spoken to Mr Reid and he's happy to move it to Thursday at two. Would that suit you? If not, I'd rather we found another time than rush it. Let me know, and thanks for being so understanding."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "Why did Daniel miss the meeting?",
+       "opts": [
+        "He was ill.",
+        "He forgot to note it down.",
+        "The train was late.",
+        "He had the wrong date."
+       ],
+       "a": 1
+      },
+      {
+       "q": "What has Daniel arranged with Mr Reid?",
+       "opts": [
+        "A new time on Thursday",
+        "A call on Friday",
+        "A meeting next week",
+        "A cancellation"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does he suggest if the new time doesn't suit Sofia?",
+       "opts": [
+        "Cancelling the project",
+        "Finding another time",
+        "Meeting without Mr Reid",
+        "Sending an email"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Apologising to a client",
+     "lines": [
+      [
+       "Client",
+       "We were told the order would arrive on Monday. It's Wednesday."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm very sorry for the delay. I take full responsibility, and I'll make sure it reaches you tomorrow.",
+         "It's not our fault: the courier was late.",
+         "Sorry, but you should have called earlier."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Client",
+       "This is the second time it has happened."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I understand your frustration. Would it help if we offered you a discount on your next order?",
+         "Well, that's life, I'm afraid.",
+         "I would be happier if you didn't complain."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Se avessi saputo, ti avrei chiamato.",
+     "en": "If I had known I would have called you",
+     "extra": [
+      "knew",
+      "will"
+     ],
+     "alts": [
+      "I would have called you if I had known"
+     ]
+    }
+   ]
+  }
+ ]
+}

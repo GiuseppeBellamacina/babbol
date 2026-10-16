@@ -1,0 +1,569 @@
+{
+ "id": "res-falsefriends",
+ "kind": "falsefriends",
+ "title": "Falsi amici",
+ "intro": "Parole inglesi che sembrano italiane ma significano altro: impara che cosa vogliono dire davvero e come esprimere il significato che cercavi.",
+ "items": [
+  {
+   "en": "actually",
+   "ipa": "ˈæktʃuəli",
+   "trap": "attualmente",
+   "real": "in realtà",
+   "fix": "currently",
+   "ex": [
+    "Actually, I am not Italian.",
+    "In realtà non sono italiano."
+   ]
+  },
+  {
+   "en": "eventually",
+   "ipa": "ɪˈventʃuəli",
+   "trap": "eventualmente",
+   "real": "alla fine",
+   "fix": "possibly",
+   "ex": [
+    "Eventually, he found a job.",
+    "Alla fine ha trovato un lavoro."
+   ]
+  },
+  {
+   "en": "sympathetic",
+   "ipa": "ˌsɪmpəˈθetɪk",
+   "trap": "simpatico",
+   "real": "comprensivo",
+   "fix": "nice / friendly",
+   "ex": [
+    "She is very sympathetic.",
+    "Lei è molto comprensiva."
+   ]
+  },
+  {
+   "en": "library",
+   "ipa": "ˈlaɪbrəri",
+   "trap": "libreria (negozio)",
+   "real": "biblioteca",
+   "fix": "bookshop",
+   "ex": [
+    "I study in the library.",
+    "Studio in biblioteca."
+   ]
+  },
+  {
+   "en": "parents",
+   "ipa": "ˈpeərənts",
+   "trap": "parenti",
+   "real": "genitori",
+   "fix": "relatives",
+   "ex": [
+    "My parents live in Rome.",
+    "I miei genitori vivono a Roma."
+   ]
+  },
+  {
+   "en": "argument",
+   "ipa": "ˈɑːɡjumənt",
+   "trap": "argomento",
+   "real": "litigio, discussione",
+   "fix": "topic",
+   "ex": [
+    "They had an argument.",
+    "Hanno avuto un litigio."
+   ]
+  },
+  {
+   "en": "pretend",
+   "ipa": "prɪˈtend",
+   "trap": "pretendere",
+   "real": "fingere",
+   "fix": "demand",
+   "ex": [
+    "He pretends to sleep.",
+    "Finge di dormire."
+   ]
+  },
+  {
+   "en": "attend",
+   "ipa": "əˈtend",
+   "trap": "attendere",
+   "real": "partecipare, frequentare",
+   "fix": "wait",
+   "ex": [
+    "I attend an English course.",
+    "Frequento un corso d'inglese."
+   ]
+  },
+  {
+   "en": "fabric",
+   "ipa": "ˈfæbrɪk",
+   "trap": "fabbrica",
+   "real": "tessuto",
+   "fix": "factory",
+   "ex": [
+    "This fabric is soft.",
+    "Questo tessuto è morbido."
+   ]
+  },
+  {
+   "en": "factory",
+   "ipa": "ˈfæktri",
+   "trap": "fattoria",
+   "real": "fabbrica",
+   "fix": "farm",
+   "ex": [
+    "He works in a factory.",
+    "Lavora in una fabbrica."
+   ]
+  },
+  {
+   "en": "rude",
+   "ipa": "ruːd",
+   "trap": "rude (rozzo, ma anche ruvido)",
+   "real": "maleducato",
+   "fix": "rough",
+   "ex": [
+    "Don't be rude!",
+    "Non essere maleducato!"
+   ]
+  },
+  {
+   "en": "sensible",
+   "ipa": "ˈsensəbl",
+   "trap": "sensibile",
+   "real": "ragionevole",
+   "fix": "sensitive",
+   "ex": [
+    "She is a sensible person.",
+    "È una persona ragionevole."
+   ]
+  },
+  {
+   "en": "lecture",
+   "ipa": "ˈlektʃə",
+   "trap": "lettura",
+   "real": "lezione universitaria",
+   "fix": "reading",
+   "ex": [
+    "The lecture starts at ten.",
+    "La lezione inizia alle dieci."
+   ]
+  },
+  {
+   "en": "camera",
+   "ipa": "ˈkæmrə",
+   "trap": "camera (stanza)",
+   "real": "macchina fotografica",
+   "fix": "room",
+   "ex": [
+    "I have a new camera.",
+    "Ho una nuova macchina fotografica."
+   ]
+  },
+  {
+   "en": "preservative",
+   "ipa": "prɪˈzɜːvətɪv",
+   "trap": "preservativo",
+   "real": "conservante",
+   "fix": "condom",
+   "ex": [
+    "No preservatives added.",
+    "Senza conservanti."
+   ]
+  },
+  {
+   "en": "romance",
+   "ipa": "rəʊˈmæns",
+   "trap": "romanzo",
+   "real": "storia d'amore",
+   "fix": "novel",
+   "ex": [
+    "It is a love romance.",
+    "È una storia d'amore."
+   ]
+  },
+  {
+   "en": "costume",
+   "ipa": "ˈkɒstjuːm",
+   "trap": "costume (da bagno)",
+   "real": "travestimento, abito di scena",
+   "fix": "swimsuit",
+   "ex": [
+    "She wears a costume for the party.",
+    "Indossa un costume per la festa."
+   ]
+  },
+  {
+   "en": "morbid",
+   "ipa": "ˈmɔːbɪd",
+   "trap": "morbido",
+   "real": "macabro, morboso",
+   "fix": "soft",
+   "ex": [
+    "He has a morbid interest in crime.",
+    "Ha un interesse morboso per i crimini."
+   ]
+  },
+  {
+   "en": "educated",
+   "ipa": "ˈedʒukeɪtɪd",
+   "trap": "educato (cortese)",
+   "real": "istruito, colto",
+   "fix": "polite",
+   "ex": [
+    "He is a very educated man.",
+    "È un uomo molto colto."
+   ]
+  },
+  {
+   "en": "resume",
+   "ipa": "rɪˈzjuːm",
+   "trap": "riassumere",
+   "real": "riprendere, ricominciare",
+   "fix": "summarise",
+   "ex": [
+    "The class will resume at two.",
+    "La lezione riprenderà alle due."
+   ]
+  },
+  {
+   "en": "comprehensive",
+   "ipa": "ˌkɒmprɪˈhensɪv",
+   "trap": "comprensivo (che capisce)",
+   "real": "completo, esauriente",
+   "fix": "understanding / sympathetic",
+   "ex": [
+    "The guide gives a comprehensive overview of the city.",
+    "La guida offre una panoramica completa della città."
+   ]
+  },
+  {
+   "en": "confront",
+   "ipa": "kənˈfrʌnt",
+   "trap": "confrontare (paragonare)",
+   "real": "affrontare, mettere di fronte",
+   "fix": "compare",
+   "ex": [
+    "She decided to confront her boss about the schedule.",
+    "Ha deciso di affrontare il capo riguardo agli orari."
+   ]
+  },
+  {
+   "en": "assist",
+   "ipa": "əˈsɪst",
+   "trap": "assistere (a un evento)",
+   "real": "aiutare",
+   "fix": "attend / be present at",
+   "ex": [
+    "Two nurses assisted the doctor during the operation.",
+    "Due infermiere hanno aiutato il dottore durante l'operazione."
+   ]
+  },
+  {
+   "en": "realise",
+   "ipa": "ˈrɪəlaɪz",
+   "trap": "realizzare (portare a termine)",
+   "real": "rendersi conto",
+   "fix": "achieve / carry out",
+   "ex": [
+    "I suddenly realised I had left my passport at home.",
+    "Mi sono reso conto all'improvviso di aver lasciato il passaporto a casa."
+   ]
+  },
+  {
+   "en": "advertisement",
+   "ipa": "ədˈvɜːtɪsmənt",
+   "trap": "avvertimento",
+   "real": "pubblicità, annuncio",
+   "fix": "warning",
+   "ex": [
+    "I saw an advertisement for a flat on the website.",
+    "Ho visto un annuncio per un appartamento sul sito."
+   ]
+  },
+  {
+   "en": "agenda",
+   "ipa": "əˈdʒendə",
+   "trap": "agenda (diario)",
+   "real": "ordine del giorno",
+   "fix": "diary / planner",
+   "ex": [
+    "The first item on the agenda is the budget.",
+    "Il primo punto all'ordine del giorno è il bilancio."
+   ]
+  },
+  {
+   "en": "chef",
+   "ipa": "ʃef",
+   "trap": "capo",
+   "real": "cuoco professionista",
+   "fix": "boss / head",
+   "ex": [
+    "The chef came out to greet the guests.",
+    "Lo chef è uscito a salutare gli ospiti."
+   ]
+  },
+  {
+   "en": "college",
+   "ipa": "ˈkɒlɪdʒ",
+   "trap": "collegio",
+   "real": "istituto di studi superiori, università",
+   "fix": "boarding school",
+   "ex": [
+    "My sister goes to college in Manchester.",
+    "Mia sorella frequenta il college a Manchester."
+   ]
+  },
+  {
+   "en": "consistent",
+   "ipa": "kənˈsɪstənt",
+   "trap": "consistente (sostanzioso)",
+   "real": "coerente, costante",
+   "fix": "substantial",
+   "ex": [
+    "His results have been consistent all year.",
+    "I suoi risultati sono stati costanti per tutto l'anno."
+   ]
+  },
+  {
+   "en": "contest",
+   "ipa": "ˈkɒntest",
+   "trap": "contesto",
+   "real": "gara, concorso",
+   "fix": "context",
+   "ex": [
+    "She won a poetry contest at school.",
+    "Ha vinto un concorso di poesia a scuola."
+   ]
+  },
+  {
+   "en": "crude",
+   "ipa": "kruːd",
+   "trap": "crudo (non cotto)",
+   "real": "rozzo, volgare; greggio",
+   "fix": "raw",
+   "ex": [
+    "He made a crude joke at dinner.",
+    "Ha fatto una battuta volgare a cena."
+   ]
+  },
+  {
+   "en": "deception",
+   "ipa": "dɪˈsepʃn",
+   "trap": "delusione",
+   "real": "inganno",
+   "fix": "disappointment",
+   "ex": [
+    "The deception was discovered a week later.",
+    "L'inganno è stato scoperto una settimana dopo."
+   ]
+  },
+  {
+   "en": "disgrace",
+   "ipa": "dɪsˈɡreɪs",
+   "trap": "disgrazia",
+   "real": "vergogna, disonore",
+   "fix": "misfortune",
+   "ex": [
+    "His behaviour was a disgrace to the club.",
+    "Il suo comportamento è stato una vergogna per il circolo."
+   ]
+  },
+  {
+   "en": "fame",
+   "ipa": "feɪm",
+   "trap": "fame",
+   "real": "fama, celebrità",
+   "fix": "hunger",
+   "ex": [
+    "She achieved fame with her first album.",
+    "Ha raggiunto la fama con il suo primo album."
+   ]
+  },
+  {
+   "en": "genial",
+   "ipa": "ˈdʒiːniəl",
+   "trap": "geniale",
+   "real": "cordiale, socievole",
+   "fix": "brilliant / ingenious",
+   "ex": [
+    "Our host was a genial man who made us feel at home.",
+    "Il nostro ospite era un uomo cordiale che ci ha fatti sentire a casa."
+   ]
+  },
+  {
+   "en": "large",
+   "ipa": "lɑːdʒ",
+   "trap": "largo",
+   "real": "grande",
+   "fix": "wide",
+   "ex": [
+    "They live in a large house near the park.",
+    "Vivono in una grande casa vicino al parco."
+   ]
+  },
+  {
+   "en": "magazine",
+   "ipa": "ˌmæɡəˈziːn",
+   "trap": "magazzino",
+   "real": "rivista",
+   "fix": "warehouse / storeroom",
+   "ex": [
+    "I bought a magazine for the train.",
+    "Ho comprato una rivista per il treno."
+   ]
+  },
+  {
+   "en": "miserable",
+   "ipa": "ˈmɪzrəbl",
+   "trap": "miserabile (povero)",
+   "real": "infelice, giù di morale",
+   "fix": "poor / destitute",
+   "ex": [
+    "I felt miserable after the argument.",
+    "Mi sono sentito infelice dopo la discussione."
+   ]
+  },
+  {
+   "en": "notice",
+   "ipa": "ˈnəʊtɪs",
+   "trap": "notizia",
+   "real": "accorgersi; avviso",
+   "fix": "news",
+   "ex": [
+    "Did you notice the new sign on the door?",
+    "Hai notato il nuovo cartello sulla porta?"
+   ]
+  },
+  {
+   "en": "novel",
+   "ipa": "ˈnɒvl",
+   "trap": "novella (racconto breve)",
+   "real": "romanzo",
+   "fix": "short story",
+   "ex": [
+    "I'm reading a long novel set in Victorian London.",
+    "Sto leggendo un lungo romanzo ambientato nella Londra vittoriana."
+   ]
+  },
+  {
+   "en": "petrol",
+   "ipa": "ˈpetrəl",
+   "trap": "petrolio",
+   "real": "benzina",
+   "fix": "oil",
+   "ex": [
+    "We stopped to buy petrol on the motorway.",
+    "Ci siamo fermati a fare benzina in autostrada."
+   ]
+  },
+  {
+   "en": "retire",
+   "ipa": "rɪˈtaɪə",
+   "trap": "ritirare (un pacco, un denaro)",
+   "real": "andare in pensione",
+   "fix": "collect / withdraw",
+   "ex": [
+    "My father retired at sixty-five.",
+    "Mio padre è andato in pensione a sessantacinque anni."
+   ]
+  },
+  {
+   "en": "stranger",
+   "ipa": "ˈstreɪndʒə",
+   "trap": "più strano (strano)",
+   "real": "sconosciuto, estraneo",
+   "fix": "strange / odd",
+   "ex": [
+    "Never accept a lift from a stranger.",
+    "Non accettare mai un passaggio da uno sconosciuto."
+   ]
+  },
+  {
+   "en": "terrific",
+   "ipa": "təˈrɪfɪk",
+   "trap": "terrificante",
+   "real": "fantastico, ottimo",
+   "fix": "terrifying",
+   "ex": [
+    "We had a terrific time at the festival.",
+    "Ci siamo divertiti moltissimo al festival."
+   ]
+  },
+  {
+   "en": "vest",
+   "ipa": "vest",
+   "trap": "vestito",
+   "real": "canottiera (UK); gilet (USA)",
+   "fix": "dress / clothes",
+   "ex": [
+    "He wore a vest under his shirt.",
+    "Portava una canottiera sotto la camicia."
+   ]
+  },
+  {
+   "en": "injury",
+   "ipa": "ˈɪndʒəri",
+   "trap": "ingiuria (offesa)",
+   "real": "infortunio, ferita",
+   "fix": "insult",
+   "ex": [
+    "He missed the match because of a knee injury.",
+    "Ha saltato la partita per un infortunio al ginocchio."
+   ]
+  },
+  {
+   "en": "editor",
+   "ipa": "ˈedɪtə",
+   "trap": "editore (casa editrice)",
+   "real": "redattore, direttore di giornale",
+   "fix": "publisher",
+   "ex": [
+    "The editor rejected the article.",
+    "Il direttore ha rifiutato l'articolo."
+   ]
+  },
+  {
+   "en": "physician",
+   "ipa": "fɪˈzɪʃn",
+   "trap": "fisico (scienziato)",
+   "real": "medico",
+   "fix": "physicist",
+   "ex": [
+    "She is a physician at the local hospital.",
+    "È medico presso l'ospedale locale."
+   ]
+  },
+  {
+   "en": "audience",
+   "ipa": "ˈɔːdiəns",
+   "trap": "udienza (in tribunale)",
+   "real": "pubblico, spettatori",
+   "fix": "hearing",
+   "ex": [
+    "The audience clapped for five minutes.",
+    "Il pubblico ha applaudito per cinque minuti."
+   ]
+  },
+  {
+   "en": "firm",
+   "ipa": "fɜːm",
+   "trap": "firma",
+   "real": "azienda, studio; fermo, saldo",
+   "fix": "signature",
+   "ex": [
+    "She works for a law firm in Leeds.",
+    "Lavora per uno studio legale a Leeds."
+   ]
+  },
+  {
+   "en": "conductor",
+   "ipa": "kənˈdʌktə",
+   "trap": "conduttore (tv)",
+   "real": "direttore d'orchestra; bigliettaio",
+   "fix": "presenter",
+   "ex": [
+    "The conductor raised his baton and the music began.",
+    "Il direttore ha alzato la bacchetta e la musica è iniziata."
+   ]
+  }
+ ]
+}

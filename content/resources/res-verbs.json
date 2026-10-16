@@ -1,0 +1,1318 @@
+{
+ "id": "res-verbs",
+ "kind": "verbs",
+ "title": "Verbi irregolari",
+ "intro": "I verbi irregolari più utili da A2 a B2, con le tre forme e un esempio.",
+ "items": [
+  {
+   "base": "arise",
+   "past": "arose",
+   "pp": "arisen",
+   "it": "sorgere, presentarsi",
+   "ex": [
+    "A problem has arisen with your booking.",
+    "È sorto un problema con la tua prenotazione."
+   ]
+  },
+  {
+   "base": "be",
+   "past": "was / were",
+   "pp": "been",
+   "it": "essere",
+   "ex": [
+    "I was tired yesterday.",
+    "Ieri ero stanco."
+   ]
+  },
+  {
+   "base": "bear",
+   "past": "bore",
+   "pp": "borne / born",
+   "it": "sopportare; partorire",
+   "ex": [
+    "I couldn't bear the noise any longer.",
+    "Non sopportavo più quel rumore."
+   ]
+  },
+  {
+   "base": "beat",
+   "past": "beat",
+   "pp": "beaten",
+   "it": "battere, sconfiggere",
+   "ex": [
+    "Our team beat them three goals to one.",
+    "La nostra squadra li ha battuti per tre a uno."
+   ]
+  },
+  {
+   "base": "become",
+   "past": "became",
+   "pp": "become",
+   "it": "diventare",
+   "ex": [
+    "She became a doctor in 2015.",
+    "È diventata medico nel 2015."
+   ]
+  },
+  {
+   "base": "begin",
+   "past": "began",
+   "pp": "begun",
+   "it": "iniziare",
+   "ex": [
+    "The film has just begun.",
+    "Il film è appena iniziato."
+   ]
+  },
+  {
+   "base": "bend",
+   "past": "bent",
+   "pp": "bent",
+   "it": "piegare, curvare",
+   "ex": [
+    "He bent down to tie his shoe.",
+    "Si è chinato ad allacciarsi la scarpa."
+   ]
+  },
+  {
+   "base": "bet",
+   "past": "bet",
+   "pp": "bet",
+   "it": "scommettere",
+   "ex": [
+    "I bet you ten pounds he's late.",
+    "Scommetto dieci sterline che è in ritardo."
+   ]
+  },
+  {
+   "base": "bite",
+   "past": "bit",
+   "pp": "bitten",
+   "it": "mordere",
+   "ex": [
+    "The dog bit the postman.",
+    "Il cane ha morso il postino."
+   ]
+  },
+  {
+   "base": "bleed",
+   "past": "bled",
+   "pp": "bled",
+   "it": "sanguinare",
+   "ex": [
+    "His knee bled after the fall.",
+    "Gli sanguinava il ginocchio dopo la caduta."
+   ]
+  },
+  {
+   "base": "blow",
+   "past": "blew",
+   "pp": "blown",
+   "it": "soffiare",
+   "ex": [
+    "The wind blew my hat off.",
+    "Il vento mi ha portato via il cappello."
+   ]
+  },
+  {
+   "base": "break",
+   "past": "broke",
+   "pp": "broken",
+   "it": "rompere",
+   "ex": [
+    "Someone has broken the window.",
+    "Qualcuno ha rotto la finestra."
+   ]
+  },
+  {
+   "base": "bring",
+   "past": "brought",
+   "pp": "brought",
+   "it": "portare (verso chi parla)",
+   "ex": [
+    "She brought a cake to the party.",
+    "Ha portato una torta alla festa."
+   ]
+  },
+  {
+   "base": "broadcast",
+   "past": "broadcast",
+   "pp": "broadcast",
+   "it": "trasmettere",
+   "ex": [
+    "The match was broadcast live.",
+    "La partita è stata trasmessa in diretta."
+   ]
+  },
+  {
+   "base": "build",
+   "past": "built",
+   "pp": "built",
+   "it": "costruire",
+   "ex": [
+    "They built the bridge in 1990.",
+    "Hanno costruito il ponte nel 1990."
+   ]
+  },
+  {
+   "base": "burn",
+   "past": "burnt / burned",
+   "pp": "burnt / burned",
+   "it": "bruciare",
+   "ex": [
+    "I burnt the toast again.",
+    "Ho bruciato di nuovo il pane tostato."
+   ]
+  },
+  {
+   "base": "burst",
+   "past": "burst",
+   "pp": "burst",
+   "it": "scoppiare",
+   "ex": [
+    "The pipe burst during the night.",
+    "Il tubo è scoppiato durante la notte."
+   ]
+  },
+  {
+   "base": "buy",
+   "past": "bought",
+   "pp": "bought",
+   "it": "comprare",
+   "ex": [
+    "She bought a bag.",
+    "Ha comprato una borsa."
+   ]
+  },
+  {
+   "base": "catch",
+   "past": "caught",
+   "pp": "caught",
+   "it": "prendere, afferrare",
+   "ex": [
+    "He caught the ball with one hand.",
+    "Ha afferrato la palla con una mano."
+   ]
+  },
+  {
+   "base": "choose",
+   "past": "chose",
+   "pp": "chosen",
+   "it": "scegliere",
+   "ex": [
+    "We have chosen a name for the baby.",
+    "Abbiamo scelto un nome per il bambino."
+   ]
+  },
+  {
+   "base": "cling",
+   "past": "clung",
+   "pp": "clung",
+   "it": "aggrapparsi",
+   "ex": [
+    "The child clung to his mother's hand.",
+    "Il bambino si aggrappava alla mano della madre."
+   ]
+  },
+  {
+   "base": "come",
+   "past": "came",
+   "pp": "come",
+   "it": "venire",
+   "ex": [
+    "He came late.",
+    "È venuto tardi."
+   ]
+  },
+  {
+   "base": "cost",
+   "past": "cost",
+   "pp": "cost",
+   "it": "costare",
+   "ex": [
+    "The repairs cost me a fortune.",
+    "Le riparazioni mi sono costate una fortuna."
+   ]
+  },
+  {
+   "base": "creep",
+   "past": "crept",
+   "pp": "crept",
+   "it": "strisciare, muoversi di soppiatto",
+   "ex": [
+    "She crept into the room without a sound.",
+    "È entrata nella stanza senza fare rumore."
+   ]
+  },
+  {
+   "base": "cut",
+   "past": "cut",
+   "pp": "cut",
+   "it": "tagliare",
+   "ex": [
+    "He cut his finger with a knife.",
+    "Si è tagliato il dito con un coltello."
+   ]
+  },
+  {
+   "base": "deal",
+   "past": "dealt",
+   "pp": "dealt",
+   "it": "trattare, occuparsi",
+   "ex": [
+    "She dealt with the complaint quickly.",
+    "Si è occupata del reclamo in fretta."
+   ]
+  },
+  {
+   "base": "dig",
+   "past": "dug",
+   "pp": "dug",
+   "it": "scavare",
+   "ex": [
+    "They dug a hole in the garden.",
+    "Hanno scavato una buca in giardino."
+   ]
+  },
+  {
+   "base": "do",
+   "past": "did",
+   "pp": "done",
+   "it": "fare",
+   "ex": [
+    "He did his homework.",
+    "Ha fatto i compiti."
+   ]
+  },
+  {
+   "base": "draw",
+   "past": "drew",
+   "pp": "drawn",
+   "it": "disegnare; tirare",
+   "ex": [
+    "The children drew a picture of the sea.",
+    "I bambini hanno disegnato il mare."
+   ]
+  },
+  {
+   "base": "dream",
+   "past": "dreamt / dreamed",
+   "pp": "dreamt / dreamed",
+   "it": "sognare",
+   "ex": [
+    "I dreamt about my old school last night.",
+    "Stanotte ho sognato la mia vecchia scuola."
+   ]
+  },
+  {
+   "base": "drink",
+   "past": "drank",
+   "pp": "drunk",
+   "it": "bere",
+   "ex": [
+    "I drank some water.",
+    "Ho bevuto dell'acqua."
+   ]
+  },
+  {
+   "base": "drive",
+   "past": "drove",
+   "pp": "driven",
+   "it": "guidare",
+   "ex": [
+    "He drove all the way to Milan.",
+    "Ha guidato fino a Milano."
+   ]
+  },
+  {
+   "base": "eat",
+   "past": "ate",
+   "pp": "eaten",
+   "it": "mangiare",
+   "ex": [
+    "They ate pizza.",
+    "Hanno mangiato la pizza."
+   ]
+  },
+  {
+   "base": "fall",
+   "past": "fell",
+   "pp": "fallen",
+   "it": "cadere",
+   "ex": [
+    "The vase fell off the shelf.",
+    "Il vaso è caduto dalla mensola."
+   ]
+  },
+  {
+   "base": "feed",
+   "past": "fed",
+   "pp": "fed",
+   "it": "dare da mangiare",
+   "ex": [
+    "She fed the cat before leaving.",
+    "Ha dato da mangiare al gatto prima di uscire."
+   ]
+  },
+  {
+   "base": "feel",
+   "past": "felt",
+   "pp": "felt",
+   "it": "sentire, sentirsi",
+   "ex": [
+    "I felt a lot better after a nap.",
+    "Mi sono sentito molto meglio dopo un pisolino."
+   ]
+  },
+  {
+   "base": "fight",
+   "past": "fought",
+   "pp": "fought",
+   "it": "combattere, litigare",
+   "ex": [
+    "The two brothers fought all the time.",
+    "I due fratelli litigavano di continuo."
+   ]
+  },
+  {
+   "base": "find",
+   "past": "found",
+   "pp": "found",
+   "it": "trovare",
+   "ex": [
+    "I have found my keys at last.",
+    "Ho finalmente trovato le chiavi."
+   ]
+  },
+  {
+   "base": "flee",
+   "past": "fled",
+   "pp": "fled",
+   "it": "fuggire",
+   "ex": [
+    "Thousands of people fled the flood.",
+    "Migliaia di persone sono fuggite dall'alluvione."
+   ]
+  },
+  {
+   "base": "fly",
+   "past": "flew",
+   "pp": "flown",
+   "it": "volare",
+   "ex": [
+    "We flew to Dublin on Friday.",
+    "Venerdì siamo volati a Dublino."
+   ]
+  },
+  {
+   "base": "forbid",
+   "past": "forbade",
+   "pp": "forbidden",
+   "it": "proibire",
+   "ex": [
+    "The doctor has forbidden him to smoke.",
+    "Il medico gli ha proibito di fumare."
+   ]
+  },
+  {
+   "base": "forget",
+   "past": "forgot",
+   "pp": "forgotten",
+   "it": "dimenticare",
+   "ex": [
+    "I forgot your birthday, I'm so sorry.",
+    "Ho dimenticato il tuo compleanno, scusami."
+   ]
+  },
+  {
+   "base": "forgive",
+   "past": "forgave",
+   "pp": "forgiven",
+   "it": "perdonare",
+   "ex": [
+    "She has never forgiven him for lying.",
+    "Non lo ha mai perdonato per aver mentito."
+   ]
+  },
+  {
+   "base": "freeze",
+   "past": "froze",
+   "pp": "frozen",
+   "it": "congelare, gelare",
+   "ex": [
+    "The lake froze last January.",
+    "Il lago si è ghiacciato lo scorso gennaio."
+   ]
+  },
+  {
+   "base": "get",
+   "past": "got",
+   "pp": "got",
+   "it": "ottenere, diventare",
+   "ex": [
+    "I got a new phone.",
+    "Ho ottenuto un nuovo telefono."
+   ]
+  },
+  {
+   "base": "give",
+   "past": "gave",
+   "pp": "given",
+   "it": "dare",
+   "ex": [
+    "He gave me a gift.",
+    "Mi ha dato un regalo."
+   ]
+  },
+  {
+   "base": "go",
+   "past": "went",
+   "pp": "gone",
+   "it": "andare",
+   "ex": [
+    "We went to Rome.",
+    "Siamo andati a Roma."
+   ]
+  },
+  {
+   "base": "grind",
+   "past": "ground",
+   "pp": "ground",
+   "it": "macinare",
+   "ex": [
+    "He ground the coffee beans by hand.",
+    "Ha macinato il caffè a mano."
+   ]
+  },
+  {
+   "base": "grow",
+   "past": "grew",
+   "pp": "grown",
+   "it": "crescere, coltivare",
+   "ex": [
+    "Tomatoes grew well in this soil.",
+    "I pomodori sono cresciuti bene in questo terreno."
+   ]
+  },
+  {
+   "base": "hang",
+   "past": "hung",
+   "pp": "hung",
+   "it": "appendere",
+   "ex": [
+    "She hung her coat on the hook.",
+    "Ha appeso il cappotto all'attaccapanni."
+   ]
+  },
+  {
+   "base": "have",
+   "past": "had",
+   "pp": "had",
+   "it": "avere",
+   "ex": [
+    "She had a dog.",
+    "Lei aveva un cane."
+   ]
+  },
+  {
+   "base": "hear",
+   "past": "heard",
+   "pp": "heard",
+   "it": "sentire (con le orecchie)",
+   "ex": [
+    "I heard a strange noise upstairs.",
+    "Ho sentito uno strano rumore di sopra."
+   ]
+  },
+  {
+   "base": "hide",
+   "past": "hid",
+   "pp": "hidden",
+   "it": "nascondere",
+   "ex": [
+    "The children hid behind the sofa.",
+    "I bambini si sono nascosti dietro il divano."
+   ]
+  },
+  {
+   "base": "hit",
+   "past": "hit",
+   "pp": "hit",
+   "it": "colpire",
+   "ex": [
+    "The ball hit him on the head.",
+    "La palla lo ha colpito in testa."
+   ]
+  },
+  {
+   "base": "hold",
+   "past": "held",
+   "pp": "held",
+   "it": "tenere",
+   "ex": [
+    "She held the baby in her arms.",
+    "Teneva il bambino in braccio."
+   ]
+  },
+  {
+   "base": "hurt",
+   "past": "hurt",
+   "pp": "hurt",
+   "it": "far male, ferire",
+   "ex": [
+    "I hurt my back lifting a box.",
+    "Mi sono fatto male alla schiena sollevando una scatola."
+   ]
+  },
+  {
+   "base": "keep",
+   "past": "kept",
+   "pp": "kept",
+   "it": "tenere, conservare",
+   "ex": [
+    "He has kept all her letters.",
+    "Ha conservato tutte le sue lettere."
+   ]
+  },
+  {
+   "base": "kneel",
+   "past": "knelt",
+   "pp": "knelt",
+   "it": "inginocchiarsi",
+   "ex": [
+    "She knelt down to look under the bed.",
+    "Si è inginocchiata per guardare sotto il letto."
+   ]
+  },
+  {
+   "base": "know",
+   "past": "knew",
+   "pp": "known",
+   "it": "sapere, conoscere",
+   "ex": [
+    "I knew the answer.",
+    "Conoscevo la risposta."
+   ]
+  },
+  {
+   "base": "lay",
+   "past": "laid",
+   "pp": "laid",
+   "it": "posare, apparecchiare",
+   "ex": [
+    "He laid the documents on the desk.",
+    "Ha posato i documenti sulla scrivania."
+   ]
+  },
+  {
+   "base": "lead",
+   "past": "led",
+   "pp": "led",
+   "it": "guidare, condurre",
+   "ex": [
+    "The guide led us through the old town.",
+    "La guida ci ha condotti attraverso il centro storico."
+   ]
+  },
+  {
+   "base": "lean",
+   "past": "leant / leaned",
+   "pp": "leant / leaned",
+   "it": "appoggiarsi, inclinarsi",
+   "ex": [
+    "He leant against the wall and waited.",
+    "Si è appoggiato al muro e ha aspettato."
+   ]
+  },
+  {
+   "base": "learn",
+   "past": "learnt / learned",
+   "pp": "learnt / learned",
+   "it": "imparare",
+   "ex": [
+    "I learnt to swim when I was six.",
+    "Ho imparato a nuotare a sei anni."
+   ]
+  },
+  {
+   "base": "leave",
+   "past": "left",
+   "pp": "left",
+   "it": "partire, lasciare",
+   "ex": [
+    "She left her umbrella on the bus.",
+    "Ha lasciato l'ombrello sull'autobus."
+   ]
+  },
+  {
+   "base": "lend",
+   "past": "lent",
+   "pp": "lent",
+   "it": "prestare",
+   "ex": [
+    "Could you lend me your charger?",
+    "Mi presteresti il tuo caricabatterie?"
+   ]
+  },
+  {
+   "base": "let",
+   "past": "let",
+   "pp": "let",
+   "it": "lasciare, permettere",
+   "ex": [
+    "My parents never let me stay out late.",
+    "I miei genitori non mi hanno mai lasciato tornare tardi."
+   ]
+  },
+  {
+   "base": "lie",
+   "past": "lay",
+   "pp": "lain",
+   "it": "stare sdraiato",
+   "ex": [
+    "He lay on the sofa all afternoon.",
+    "È stato sdraiato sul divano tutto il pomeriggio."
+   ]
+  },
+  {
+   "base": "light",
+   "past": "lit",
+   "pp": "lit",
+   "it": "accendere",
+   "ex": [
+    "She lit a candle and sat down.",
+    "Ha acceso una candela e si è seduta."
+   ]
+  },
+  {
+   "base": "lose",
+   "past": "lost",
+   "pp": "lost",
+   "it": "perdere",
+   "ex": [
+    "I have lost my wallet again.",
+    "Ho perso di nuovo il portafoglio."
+   ]
+  },
+  {
+   "base": "make",
+   "past": "made",
+   "pp": "made",
+   "it": "fare, creare",
+   "ex": [
+    "She made a cake.",
+    "Ha fatto una torta."
+   ]
+  },
+  {
+   "base": "mean",
+   "past": "meant",
+   "pp": "meant",
+   "it": "significare, voler dire",
+   "ex": [
+    "I'm sorry, I meant to call you.",
+    "Scusa, volevo chiamarti."
+   ]
+  },
+  {
+   "base": "meet",
+   "past": "met",
+   "pp": "met",
+   "it": "incontrare, conoscere",
+   "ex": [
+    "We met at university.",
+    "Ci siamo conosciuti all'università."
+   ]
+  },
+  {
+   "base": "mistake",
+   "past": "mistook",
+   "pp": "mistaken",
+   "it": "scambiare, fraintendere",
+   "ex": [
+    "I mistook him for his brother.",
+    "L'ho scambiato per suo fratello."
+   ]
+  },
+  {
+   "base": "overcome",
+   "past": "overcame",
+   "pp": "overcome",
+   "it": "superare",
+   "ex": [
+    "She has overcome a lot of difficulties.",
+    "Ha superato molte difficoltà."
+   ]
+  },
+  {
+   "base": "pay",
+   "past": "paid",
+   "pp": "paid",
+   "it": "pagare",
+   "ex": [
+    "I paid by card at the till.",
+    "Ho pagato con la carta alla cassa."
+   ]
+  },
+  {
+   "base": "put",
+   "past": "put",
+   "pp": "put",
+   "it": "mettere",
+   "ex": [
+    "She put the keys on the table.",
+    "Ha messo le chiavi sul tavolo."
+   ]
+  },
+  {
+   "base": "quit",
+   "past": "quit",
+   "pp": "quit",
+   "it": "smettere, lasciare (un lavoro)",
+   "ex": [
+    "He quit his job last month.",
+    "Ha lasciato il lavoro il mese scorso."
+   ]
+  },
+  {
+   "base": "read",
+   "past": "read",
+   "pp": "read",
+   "it": "leggere",
+   "ex": [
+    "I read a book.",
+    "Ho letto un libro."
+   ]
+  },
+  {
+   "base": "ride",
+   "past": "rode",
+   "pp": "ridden",
+   "it": "andare (in bici, a cavallo)",
+   "ex": [
+    "I rode my bike to work this morning.",
+    "Stamattina sono andato al lavoro in bicicletta."
+   ]
+  },
+  {
+   "base": "ring",
+   "past": "rang",
+   "pp": "rung",
+   "it": "suonare, telefonare",
+   "ex": [
+    "The phone rang twice and stopped.",
+    "Il telefono ha squillato due volte e ha smesso."
+   ]
+  },
+  {
+   "base": "rise",
+   "past": "rose",
+   "pp": "risen",
+   "it": "alzarsi, salire",
+   "ex": [
+    "Prices have risen sharply this year.",
+    "Quest'anno i prezzi sono saliti molto."
+   ]
+  },
+  {
+   "base": "run",
+   "past": "ran",
+   "pp": "run",
+   "it": "correre",
+   "ex": [
+    "She ran five kilometres before breakfast.",
+    "Ha corso cinque chilometri prima di colazione."
+   ]
+  },
+  {
+   "base": "say",
+   "past": "said",
+   "pp": "said",
+   "it": "dire",
+   "ex": [
+    "She said hello.",
+    "Ha detto ciao."
+   ]
+  },
+  {
+   "base": "see",
+   "past": "saw",
+   "pp": "seen",
+   "it": "vedere",
+   "ex": [
+    "I saw a film.",
+    "Ho visto un film."
+   ]
+  },
+  {
+   "base": "seek",
+   "past": "sought",
+   "pp": "sought",
+   "it": "cercare, ricercare",
+   "ex": [
+    "They sought advice from a lawyer.",
+    "Hanno chiesto consiglio a un avvocato."
+   ]
+  },
+  {
+   "base": "sell",
+   "past": "sold",
+   "pp": "sold",
+   "it": "vendere",
+   "ex": [
+    "He sold his old car for two thousand pounds.",
+    "Ha venduto la sua vecchia auto per duemila sterline."
+   ]
+  },
+  {
+   "base": "send",
+   "past": "sent",
+   "pp": "sent",
+   "it": "mandare",
+   "ex": [
+    "I sent you an email this morning.",
+    "Ti ho mandato un'email stamattina."
+   ]
+  },
+  {
+   "base": "set",
+   "past": "set",
+   "pp": "set",
+   "it": "impostare, fissare",
+   "ex": [
+    "They set a date for the wedding.",
+    "Hanno fissato la data del matrimonio."
+   ]
+  },
+  {
+   "base": "sew",
+   "past": "sewed",
+   "pp": "sewn / sewed",
+   "it": "cucire",
+   "ex": [
+    "She sewed a button on my shirt.",
+    "Mi ha cucito un bottone sulla camicia."
+   ]
+  },
+  {
+   "base": "shake",
+   "past": "shook",
+   "pp": "shaken",
+   "it": "scuotere, tremare",
+   "ex": [
+    "His hands shook with cold.",
+    "Le sue mani tremavano per il freddo."
+   ]
+  },
+  {
+   "base": "shine",
+   "past": "shone",
+   "pp": "shone",
+   "it": "brillare",
+   "ex": [
+    "The sun shone all day.",
+    "Il sole ha brillato tutto il giorno."
+   ]
+  },
+  {
+   "base": "shoot",
+   "past": "shot",
+   "pp": "shot",
+   "it": "sparare; girare (un film)",
+   "ex": [
+    "They shot the film in Scotland.",
+    "Hanno girato il film in Scozia."
+   ]
+  },
+  {
+   "base": "show",
+   "past": "showed",
+   "pp": "shown",
+   "it": "mostrare",
+   "ex": [
+    "She showed me her holiday photos.",
+    "Mi ha mostrato le foto delle vacanze."
+   ]
+  },
+  {
+   "base": "shrink",
+   "past": "shrank",
+   "pp": "shrunk",
+   "it": "restringersi",
+   "ex": [
+    "My jumper shrank in the wash.",
+    "Il mio maglione si è ristretto in lavatrice."
+   ]
+  },
+  {
+   "base": "shut",
+   "past": "shut",
+   "pp": "shut",
+   "it": "chiudere",
+   "ex": [
+    "He shut the door quietly.",
+    "Ha chiuso la porta senza far rumore."
+   ]
+  },
+  {
+   "base": "sing",
+   "past": "sang",
+   "pp": "sung",
+   "it": "cantare",
+   "ex": [
+    "She sang at her sister's wedding.",
+    "Ha cantato al matrimonio di sua sorella."
+   ]
+  },
+  {
+   "base": "sink",
+   "past": "sank",
+   "pp": "sunk",
+   "it": "affondare",
+   "ex": [
+    "The boat sank in a few minutes.",
+    "La barca è affondata in pochi minuti."
+   ]
+  },
+  {
+   "base": "sit",
+   "past": "sat",
+   "pp": "sat",
+   "it": "sedersi, stare seduto",
+   "ex": [
+    "We sat in the garden all evening.",
+    "Siamo stati seduti in giardino tutta la sera."
+   ]
+  },
+  {
+   "base": "sleep",
+   "past": "slept",
+   "pp": "slept",
+   "it": "dormire",
+   "ex": [
+    "The baby slept well.",
+    "Il bambino ha dormito bene."
+   ]
+  },
+  {
+   "base": "slide",
+   "past": "slid",
+   "pp": "slid",
+   "it": "scivolare",
+   "ex": [
+    "The book slid off the table.",
+    "Il libro è scivolato giù dal tavolo."
+   ]
+  },
+  {
+   "base": "smell",
+   "past": "smelt / smelled",
+   "pp": "smelt / smelled",
+   "it": "odorare, sentire odore",
+   "ex": [
+    "The kitchen smelt of garlic.",
+    "La cucina sapeva di aglio."
+   ]
+  },
+  {
+   "base": "speak",
+   "past": "spoke",
+   "pp": "spoken",
+   "it": "parlare",
+   "ex": [
+    "We spoke English.",
+    "Abbiamo parlato inglese."
+   ]
+  },
+  {
+   "base": "spell",
+   "past": "spelt / spelled",
+   "pp": "spelt / spelled",
+   "it": "dire lettera per lettera",
+   "ex": [
+    "He spelt his surname for the receptionist.",
+    "Ha sillabato il cognome alla receptionist."
+   ]
+  },
+  {
+   "base": "spend",
+   "past": "spent",
+   "pp": "spent",
+   "it": "spendere, trascorrere",
+   "ex": [
+    "We spent a week in Cornwall.",
+    "Abbiamo trascorso una settimana in Cornovaglia."
+   ]
+  },
+  {
+   "base": "spill",
+   "past": "spilt / spilled",
+   "pp": "spilt / spilled",
+   "it": "versare, rovesciare",
+   "ex": [
+    "I spilt coffee on my laptop.",
+    "Ho rovesciato il caffè sul portatile."
+   ]
+  },
+  {
+   "base": "split",
+   "past": "split",
+   "pp": "split",
+   "it": "dividere, spaccare",
+   "ex": [
+    "We split the bill between the four of us.",
+    "Abbiamo diviso il conto in quattro."
+   ]
+  },
+  {
+   "base": "spoil",
+   "past": "spoilt / spoiled",
+   "pp": "spoilt / spoiled",
+   "it": "rovinare, viziare",
+   "ex": [
+    "The rain spoilt our picnic.",
+    "La pioggia ci ha rovinato il picnic."
+   ]
+  },
+  {
+   "base": "spread",
+   "past": "spread",
+   "pp": "spread",
+   "it": "diffondere, spalmare",
+   "ex": [
+    "The news spread quickly through the village.",
+    "La notizia si è diffusa in fretta nel paese."
+   ]
+  },
+  {
+   "base": "stand",
+   "past": "stood",
+   "pp": "stood",
+   "it": "stare in piedi; sopportare",
+   "ex": [
+    "I stood in the queue for an hour.",
+    "Sono rimasto in coda per un'ora."
+   ]
+  },
+  {
+   "base": "steal",
+   "past": "stole",
+   "pp": "stolen",
+   "it": "rubare",
+   "ex": [
+    "Someone has stolen my bike.",
+    "Qualcuno mi ha rubato la bicicletta."
+   ]
+  },
+  {
+   "base": "stick",
+   "past": "stuck",
+   "pp": "stuck",
+   "it": "attaccare, incollare",
+   "ex": [
+    "She stuck a note on the fridge.",
+    "Ha attaccato un biglietto sul frigo."
+   ]
+  },
+  {
+   "base": "sting",
+   "past": "stung",
+   "pp": "stung",
+   "it": "pungere",
+   "ex": [
+    "A wasp stung him on the arm.",
+    "Una vespa lo ha punto sul braccio."
+   ]
+  },
+  {
+   "base": "strike",
+   "past": "struck",
+   "pp": "struck",
+   "it": "colpire; scioperare",
+   "ex": [
+    "The clock struck midnight.",
+    "L'orologio ha battuto la mezzanotte."
+   ]
+  },
+  {
+   "base": "swear",
+   "past": "swore",
+   "pp": "sworn",
+   "it": "giurare; imprecare",
+   "ex": [
+    "He swore he had never seen her.",
+    "Ha giurato di non averla mai vista."
+   ]
+  },
+  {
+   "base": "sweep",
+   "past": "swept",
+   "pp": "swept",
+   "it": "spazzare",
+   "ex": [
+    "She swept the kitchen floor.",
+    "Ha spazzato il pavimento della cucina."
+   ]
+  },
+  {
+   "base": "swim",
+   "past": "swam",
+   "pp": "swum",
+   "it": "nuotare",
+   "ex": [
+    "We swam in the lake every morning.",
+    "Nuotavamo nel lago ogni mattina."
+   ]
+  },
+  {
+   "base": "swing",
+   "past": "swung",
+   "pp": "swung",
+   "it": "oscillare, dondolare",
+   "ex": [
+    "The gate swung open in the wind.",
+    "Il cancello si è spalancato con il vento."
+   ]
+  },
+  {
+   "base": "take",
+   "past": "took",
+   "pp": "taken",
+   "it": "prendere",
+   "ex": [
+    "I took the bus.",
+    "Ho preso l'autobus."
+   ]
+  },
+  {
+   "base": "tear",
+   "past": "tore",
+   "pp": "torn",
+   "it": "strappare",
+   "ex": [
+    "I tore my jeans on a fence.",
+    "Mi sono strappato i jeans su una recinzione."
+   ]
+  },
+  {
+   "base": "tell",
+   "past": "told",
+   "pp": "told",
+   "it": "dire, raccontare",
+   "ex": [
+    "He told me a funny story.",
+    "Mi ha raccontato una storia divertente."
+   ]
+  },
+  {
+   "base": "think",
+   "past": "thought",
+   "pp": "thought",
+   "it": "pensare",
+   "ex": [
+    "I thought about you.",
+    "Ho pensato a te."
+   ]
+  },
+  {
+   "base": "throw",
+   "past": "threw",
+   "pp": "thrown",
+   "it": "lanciare, buttare",
+   "ex": [
+    "She threw the ball to the dog.",
+    "Ha lanciato la palla al cane."
+   ]
+  },
+  {
+   "base": "understand",
+   "past": "understood",
+   "pp": "understood",
+   "it": "capire",
+   "ex": [
+    "I didn't understand the question.",
+    "Non ho capito la domanda."
+   ]
+  },
+  {
+   "base": "undo",
+   "past": "undid",
+   "pp": "undone",
+   "it": "disfare, annullare",
+   "ex": [
+    "He undid his tie and sat down.",
+    "Si è slacciato la cravatta e si è seduto."
+   ]
+  },
+  {
+   "base": "upset",
+   "past": "upset",
+   "pp": "upset",
+   "it": "turbare, sconvolgere",
+   "ex": [
+    "The news upset everyone.",
+    "La notizia ha turbato tutti."
+   ]
+  },
+  {
+   "base": "wake",
+   "past": "woke",
+   "pp": "woken",
+   "it": "svegliare, svegliarsi",
+   "ex": [
+    "The noise woke the baby.",
+    "Il rumore ha svegliato il bambino."
+   ]
+  },
+  {
+   "base": "wear",
+   "past": "wore",
+   "pp": "worn",
+   "it": "indossare",
+   "ex": [
+    "She wore a red dress to the party.",
+    "Alla festa indossava un vestito rosso."
+   ]
+  },
+  {
+   "base": "weep",
+   "past": "wept",
+   "pp": "wept",
+   "it": "piangere",
+   "ex": [
+    "She wept when she heard the news.",
+    "Ha pianto quando ha saputo la notizia."
+   ]
+  },
+  {
+   "base": "win",
+   "past": "won",
+   "pp": "won",
+   "it": "vincere",
+   "ex": [
+    "Our team has won the cup.",
+    "La nostra squadra ha vinto la coppa."
+   ]
+  },
+  {
+   "base": "withdraw",
+   "past": "withdrew",
+   "pp": "withdrawn",
+   "it": "ritirare, prelevare",
+   "ex": [
+    "I withdrew fifty pounds from the cash machine.",
+    "Ho prelevato cinquanta sterline al bancomat."
+   ]
+  },
+  {
+   "base": "write",
+   "past": "wrote",
+   "pp": "written",
+   "it": "scrivere",
+   "ex": [
+    "He wrote a letter.",
+    "Ha scritto una lettera."
+   ]
+  }
+ ]
+}

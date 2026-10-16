@@ -1,0 +1,1574 @@
+{
+ "id": "a2-03",
+ "level": "A2",
+ "position": 3,
+ "title": "Cibo e ristorante",
+ "sub": "Numerabili e non numerabili - ordinare e chiedere il conto",
+ "grammar": "Countable/uncountable, some/any/much/many/a lot of/a few/a little, articoli base",
+ "topic": "Cibo e spesa",
+ "situation": "Ordinare al ristorante e al bar, chiedere il conto",
+ "lessons": [
+  {
+   "id": "a2-03-grammar",
+   "kind": "grammar",
+   "title": "Quanto? Quanti?",
+   "intro": "In italiano «informazioni», «consigli» e «capelli» si contano. In inglese no, e viceversa. Qui impari a distinguere ciò che si conta da ciò che non si conta, e a scegliere some, any, much, many senza esitare.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Numerabili e non numerabili",
+     "body": "I nomi **numerabili** si possono contare: hanno il plurale e vogliono **a / an** al singolare.\n- an egg, two eggs; a tomato, six tomatoes\n\nI nomi **non numerabili** non si contano: **niente plurale e niente a / an**. Sono liquidi, materiali, masse e idee astratte.\n- milk, water, bread, cheese, sugar, rice, money, time, advice, information\n\nPer contarli si usa un'unità: **a glass of** water, **a slice of** bread, **a piece of** cheese, **a bottle of** milk, **a piece of** advice.\n\n**Errori tipici degli italiani**: «informations», «advices», «a bread», «two breads». Il pane (bread), le informazioni (information) e i consigli (advice) sono non numerabili: **some bread**, **some information**, **some advice**.",
+     "table": [
+      [
+       "Numerabili",
+       "Non numerabili"
+      ],
+      [
+       "an apple / three apples",
+       "some rice"
+      ],
+      [
+       "a sandwich / two sandwiches",
+       "some bread"
+      ],
+      [
+       "a bottle / two bottles",
+       "some water"
+      ],
+      [
+       "a suggestion",
+       "some advice"
+      ]
+     ],
+     "ex": [
+      [
+       "Can I have some bread, please?",
+       "Posso avere del pane, per favore?"
+      ],
+      [
+       "She gave me a piece of advice.",
+       "Mi ha dato un consiglio."
+      ],
+      [
+       "I need some information about the menu.",
+       "Mi servono delle informazioni sul menu."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Some e any",
+     "body": "**Some** e **any** significano «un po' di, dei, delle». Valgono sia con i numerabili plurali (some eggs) sia con i non numerabili (some milk).\n- **some**: frasi affermative: We have some cheese.\n- **any**: frasi negative e domande: We don't have any cheese. / Do we have any cheese?\n\n**Eccezione importante**: nelle **offerte e richieste** si usa some anche in domanda, perché ci aspettiamo un sì: Would you like **some** tea? Can I have **some** water?",
+     "table": [
+      [
+       "",
+       "Numerabile plurale",
+       "Non numerabile"
+      ],
+      [
+       "Affermativa",
+       "I've got some apples.",
+       "I've got some rice."
+      ],
+      [
+       "Negativa",
+       "I haven't got any apples.",
+       "I haven't got any rice."
+      ],
+      [
+       "Domanda",
+       "Have you got any apples?",
+       "Have you got any rice?"
+      ],
+      [
+       "Offerta",
+       "Would you like some apples?",
+       "Would you like some rice?"
+      ]
+     ],
+     "ex": [
+      [
+       "There aren't any tomatoes left.",
+       "Non sono rimasti pomodori."
+      ],
+      [
+       "Would you like some more soup?",
+       "Vuoi ancora un po' di zuppa?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Much, many, a lot of",
+     "body": "Per dire «molto» bisogna guardare il nome:\n- **many** + numerabile plurale: many people, many eggs\n- **much** + non numerabile: much time, much sugar\n- **a lot of** (o **lots of**) va bene con entrambi\n\n**Much** e **many** si usano soprattutto in frasi **negative e domande**. Nelle affermative è più naturale **a lot of**: «I eat a lot of fruit», non «I eat much fruit».\n\nPer chiedere la quantità: **How much** + non numerabile? **How many** + plurale?\n- How much milk do you need?\n- How many eggs do you need?\n\n**Errore tipico**: «How much people?». «People» è plurale e numerabile: How **many** people?",
+     "ex": [
+      [
+       "We don't have much time.",
+       "Non abbiamo molto tempo."
+      ],
+      [
+       "How many sandwiches do you want?",
+       "Quanti panini vuoi?"
+      ],
+      [
+       "She drinks a lot of tea.",
+       "Beve molto tè."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "A few e a little",
+     "body": "Per dire «un po'» o «pochi»:\n- **a few** + numerabile plurale: a few apples (alcune, qualche)\n- **a little** + non numerabile: a little milk (un po' di)\n\nSenza **a** il significato cambia e diventa negativo: **few / little** = «pochi / poco, quasi niente».\n- I have **a few** friends here. (qualche amico: va bene)\n- I have **few** friends here. (pochi: mi dispiace)\n- We've got **a little** time. (un po': ce la facciamo)\n- We've got **little** time. (quasi niente: siamo in ritardo)\n\nNella lingua di tutti i giorni si dice spesso **not much / not many** al posto di little / few.",
+     "table": [
+      [
+       "",
+       "Con numerabili plurali",
+       "Con non numerabili"
+      ],
+      [
+       "alcuni, un po'",
+       "a few eggs",
+       "a little milk"
+      ],
+      [
+       "molti / molto",
+       "many eggs",
+       "much milk"
+      ],
+      [
+       "molti / molto (affermativa)",
+       "a lot of eggs",
+       "a lot of milk"
+      ]
+     ],
+     "ex": [
+      [
+       "Add a little salt, not too much.",
+       "Aggiungi un po' di sale, non troppo."
+      ],
+      [
+       "I'd like a few olives, please.",
+       "Vorrei qualche oliva, per favore."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Gli articoli: a, an, the, niente",
+     "body": "- **a / an**: un nome numerabile singolare, **prima volta** che ne parli. **An** davanti a suono vocalico: an egg, an apple, an hour.\n- **the**: qualcosa di **già noto o unico**: I had a pizza. **The** pizza was huge.\n- **niente articolo**: plurali e non numerabili usati **in generale**: I like pasta. Dogs are friendly.\n\n**Errore tipico degli italiani**: in italiano diciamo «la vita è bella», «il pane fa bene», «gli italiani amano il caffè». In inglese, quando parli in generale, **niente the**: **Life** is beautiful. **Bread** is good for you. **Italians** love coffee.",
+     "ex": [
+      [
+       "We had a lovely meal. The dessert was fantastic.",
+       "Abbiamo fatto un ottimo pasto. Il dolce era fantastico."
+      ],
+      [
+       "Money doesn't make you happy.",
+       "Il denaro non fa la felicità."
+      ],
+      [
+       "I have an egg and an apple for breakfast.",
+       "A colazione mangio un uovo e una mela."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "We need ___ milk for the cake.",
+     "opts": [
+      "some",
+      "a",
+      "many"
+     ],
+     "a": 0,
+     "it": "Ci serve del latte per la torta.",
+     "why": "«Milk» è non numerabile: niente «a» e niente «many». Affermativa: some."
+    },
+    {
+     "t": "gap",
+     "s": "There aren't ___ eggs left.",
+     "opts": [
+      "any",
+      "some",
+      "a"
+     ],
+     "a": 0,
+     "it": "Non sono rimaste uova.",
+     "why": "Frase negativa con un plurale: any."
+    },
+    {
+     "t": "gap",
+     "s": "I had ___ egg and ___ apple for breakfast.",
+     "opts": [
+      "an / an",
+      "a / an",
+      "an / a"
+     ],
+     "a": 0,
+     "it": "A colazione ho mangiato un uovo e una mela.",
+     "why": "Egg e apple iniziano con un suono vocalico: an."
+    },
+    {
+     "t": "gap",
+     "s": "How ___ sugar do you take in your tea?",
+     "opts": [
+      "much",
+      "many",
+      "few"
+     ],
+     "a": 0,
+     "it": "Quanto zucchero prendi nel tè?",
+     "why": "Lo zucchero è non numerabile: how much."
+    },
+    {
+     "t": "gap",
+     "s": "How ___ people are coming to dinner?",
+     "opts": [
+      "many",
+      "much",
+      "a little"
+     ],
+     "a": 0,
+     "it": "Quante persone vengono a cena?",
+     "why": "«People» è un plurale numerabile: how many."
+    },
+    {
+     "t": "gap",
+     "s": "We had a lovely meal. ___ pasta was perfect.",
+     "opts": [
+      "The",
+      "A",
+      "Some"
+     ],
+     "a": 0,
+     "it": "Abbiamo mangiato benissimo. La pasta era perfetta.",
+     "why": "Si parla della pasta di quel pasto, già nota: the."
+    },
+    {
+     "t": "gap",
+     "s": "There are only ___ biscuits left, so please don't eat them all.",
+     "opts": [
+      "a few",
+      "a little",
+      "much"
+     ],
+     "a": 0,
+     "it": "Sono rimasti solo pochi biscotti, quindi non mangiateli tutti.",
+     "why": "Biscuits è plurale numerabile: a few (a little e much vogliono i non numerabili)."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I need some advice about the menu.",
+      "I need an advice about the menu.",
+      "I need some advices about the menu."
+     ],
+     "a": 0,
+     "why": "«Advice» è non numerabile: niente a/an e niente plurale. Per contarlo: a piece of advice."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Italian food is famous all over the world.",
+      "The Italian food is famous all over the world.",
+      "An Italian food is famous all over the world."
+     ],
+     "a": 0,
+     "why": "Parlando in generale con un non numerabile non si usa l'articolo."
+    },
+    {
+     "t": "type",
+     "q": "Completa con much o many",
+     "s": "We haven't got ___ bread.",
+     "answers": [
+      "much"
+     ],
+     "why": "Bread è non numerabile: much."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Vorrei delle informazioni sul menu.",
+     "answers": [
+      "I'd like some information about the menu",
+      "I would like some information about the menu",
+      "I'd like some information on the menu",
+      "I would like some information on the menu",
+      "I need some information about the menu",
+      "Could I have some information about the menu"
+     ],
+     "why": "«Information» è non numerabile: some information, mai «informations»."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Non c'è molto pane.",
+     "answers": [
+      "There isn't much bread",
+      "There is not much bread",
+      "There's not much bread",
+      "There isn't a lot of bread",
+      "There is not a lot of bread",
+      "We haven't got much bread",
+      "We don't have much bread",
+      "I haven't got much bread",
+      "I don't have much bread",
+      "We haven't got a lot of bread",
+      "We don't have a lot of bread"
+     ],
+     "why": "Frase negativa con un non numerabile: much (o a lot of)."
+    },
+    {
+     "t": "fix",
+     "s": "She gave me some good advices.",
+     "answers": [
+      "She gave me some good advice",
+      "She gave me good advice"
+     ],
+     "why": "«Advice» non ha plurale."
+    },
+    {
+     "t": "fix",
+     "s": "The life is beautiful in this village.",
+     "answers": [
+      "Life is beautiful in this village"
+     ],
+     "why": "Parlando di «la vita» in generale, in inglese niente the."
+    },
+    {
+     "t": "fix",
+     "s": "Can I have a bread, please?",
+     "answers": [
+      "Can I have some bread, please",
+      "Can I have some bread please",
+      "Can I have a piece of bread, please",
+      "Can I have a slice of bread, please",
+      "Can I have a loaf of bread, please",
+      "Can I have bread, please"
+     ],
+     "why": "«Bread» è non numerabile: some bread, oppure un'unità (a slice / a loaf of bread)."
+    },
+    {
+     "t": "transform",
+     "s1": "There isn't any sugar left.",
+     "key": "NO",
+     "s2": "There is ___ left.",
+     "answers": [
+      "no sugar"
+     ],
+     "why": "not any = no: There is no sugar left."
+    },
+    {
+     "t": "order",
+     "it": "Quanto latte ti serve per la ricetta?",
+     "en": "How much milk do you need for the recipe",
+     "extra": [
+      "many",
+      "does"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-03-vocab",
+   "kind": "vocab",
+   "title": "Cibo e spesa",
+   "intro": "Le parole per fare la spesa e per mangiare fuori: cibi di base, le portate di un pasto e quello che ti serve per pagare. Alcune sono non numerabili: guarda le note.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-03-w01",
+     "en": "bread",
+     "it": "pane",
+     "ipa": "bred",
+     "pos": "n",
+     "ex": [
+      "I buy fresh bread every morning.",
+      "Compro pane fresco ogni mattina."
+     ],
+     "note": "Non numerabile: mai «a bread» o «breads». Un pezzo: a slice of bread; la pagnotta: a loaf.",
+     "emoji": "🍞"
+    },
+    {
+     "id": "a2-03-w02",
+     "en": "cheese",
+     "it": "formaggio",
+     "ipa": "tʃiːz",
+     "pos": "n",
+     "ex": [
+      "Would you like some cheese with your pasta?",
+      "Vuoi del formaggio con la pasta?"
+     ],
+     "note": "Non numerabile: a piece of cheese.",
+     "emoji": "🧀"
+    },
+    {
+     "id": "a2-03-w03",
+     "en": "egg",
+     "it": "uovo",
+     "ipa": "eɡ",
+     "pos": "n",
+     "ex": [
+      "I'll have two eggs and some toast.",
+      "Prendo due uova e del pane tostato."
+     ],
+     "note": "Numerabile: an egg, six eggs.",
+     "emoji": "🥚"
+    },
+    {
+     "id": "a2-03-w04",
+     "en": "milk",
+     "it": "latte",
+     "ipa": "mɪlk",
+     "pos": "n",
+     "ex": [
+      "There's no milk in the fridge.",
+      "Non c'è latte in frigo."
+     ],
+     "note": "Non numerabile: a carton / a bottle of milk.",
+     "emoji": "🥛"
+    },
+    {
+     "id": "a2-03-w05",
+     "en": "vegetables",
+     "it": "verdure",
+     "ipa": "ˈvedʒtəbəlz",
+     "pos": "n",
+     "ex": [
+      "We eat a lot of vegetables in summer.",
+      "In estate mangiamo molta verdura."
+     ],
+     "note": "Numerabile e di solito plurale: one vegetable, many vegetables. Si pronuncia in 3 sillabe."
+    },
+    {
+     "id": "a2-03-w06",
+     "en": "groceries",
+     "it": "spesa (alimentari)",
+     "ipa": "ˈɡrəʊsəriz",
+     "pos": "n",
+     "ex": [
+      "I'm carrying the groceries upstairs.",
+      "Porto su la spesa."
+     ],
+     "note": "Sempre plurale: the groceries. «Fare la spesa» = do the shopping / buy groceries."
+    },
+    {
+     "id": "a2-03-w07",
+     "en": "shopping basket",
+     "it": "cestino della spesa",
+     "ipa": "ˈʃɒpɪŋ ˌbɑːskɪt",
+     "pos": "n",
+     "ex": [
+      "I only need a few things, so I'll take a basket.",
+      "Mi servono poche cose, quindi prendo un cestino."
+     ],
+     "emoji": "🧺"
+    },
+    {
+     "id": "a2-03-w08",
+     "en": "fresh",
+     "it": "fresco",
+     "ipa": "freʃ",
+     "pos": "adj",
+     "ex": [
+      "The fish is fresh from this morning.",
+      "Il pesce è fresco di stamattina."
+     ],
+     "note": "Per il cibo: fresco, non surgelato o vecchio. Per il clima si usa «cool» o «cold»."
+    },
+    {
+     "id": "a2-03-w09",
+     "en": "starter",
+     "it": "antipasto, primo piatto",
+     "ipa": "ˈstɑːtə",
+     "pos": "n",
+     "ex": [
+      "I'll have the soup as a starter.",
+      "Come antipasto prendo la zuppa."
+     ],
+     "note": "È la prima portata, quella prima del piatto principale."
+    },
+    {
+     "id": "a2-03-w10",
+     "en": "main course",
+     "it": "piatto principale",
+     "ipa": "ˌmeɪn ˈkɔːs",
+     "pos": "n",
+     "ex": [
+      "For the main course, I'd like the chicken.",
+      "Come piatto principale vorrei il pollo."
+     ]
+    },
+    {
+     "id": "a2-03-w11",
+     "en": "dessert",
+     "it": "dolce, dessert",
+     "ipa": "dɪˈzɜːt",
+     "pos": "n",
+     "ex": [
+      "Shall we share a dessert?",
+      "Dividiamo un dolce?"
+     ],
+     "note": "Attenzione: «desert» (deserto) ha una sola s ed è un'altra parola."
+    },
+    {
+     "id": "a2-03-w12",
+     "en": "menu",
+     "it": "carta, lista dei piatti",
+     "ipa": "ˈmenjuː",
+     "pos": "n",
+     "ex": [
+      "Could we see the menu, please?",
+      "Possiamo vedere il menu, per favore?"
+     ],
+     "note": "È la carta con tutti i piatti. Il menu a prezzo fisso è «set menu»."
+    },
+    {
+     "id": "a2-03-w13",
+     "en": "bill",
+     "it": "conto",
+     "ipa": "bɪl",
+     "pos": "n",
+     "ex": [
+      "Could we have the bill, please?",
+      "Possiamo avere il conto, per favore?"
+     ],
+     "note": "In inglese americano si dice «check». Il conto di casa (luce, gas) è anch'esso «bill»."
+    },
+    {
+     "id": "a2-03-w14",
+     "en": "tip",
+     "it": "mancia",
+     "ipa": "tɪp",
+     "pos": "n",
+     "ex": [
+      "We left a ten per cent tip.",
+      "Abbiamo lasciato il dieci per cento di mancia."
+     ],
+     "note": "In Gran Bretagna il servizio è spesso già incluso nel conto: controlla «service charge»."
+    },
+    {
+     "id": "a2-03-w15",
+     "en": "receipt",
+     "it": "scontrino, ricevuta",
+     "ipa": "rɪˈsiːt",
+     "pos": "n",
+     "ex": [
+      "Keep the receipt in case you want to return it.",
+      "Tieni lo scontrino nel caso tu voglia restituirlo."
+     ],
+     "note": "La «p» non si pronuncia."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "book a table",
+       "prenotare un tavolo"
+      ],
+      [
+       "ask for the bill",
+       "chiedere il conto"
+      ],
+      [
+       "leave a tip",
+       "lasciare la mancia"
+      ],
+      [
+       "do the shopping",
+       "fare la spesa"
+      ],
+      [
+       "pay by card",
+       "pagare con la carta"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Excuse me, could we have the ___ , please? We'd like to pay.",
+     "opts": [
+      "bill",
+      "receipt",
+      "menu"
+     ],
+     "a": 0,
+     "why": "Per chiedere il conto al ristorante si dice «the bill». Il «receipt» è lo scontrino che ti danno dopo aver pagato."
+    },
+    {
+     "t": "gap",
+     "s": "The service wasn't included, so we left a ten per cent ___ .",
+     "opts": [
+      "tip",
+      "bill",
+      "starter"
+     ],
+     "a": 0,
+     "why": "La mancia è «tip»."
+    },
+    {
+     "t": "gap",
+     "s": "There are no ___ in the fridge. Can you buy some carrots and onions?",
+     "opts": [
+      "vegetables",
+      "desserts",
+      "receipts"
+     ],
+     "a": 0,
+     "why": "Carote e cipolle sono verdure: vegetables."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "I'll have the soup as a ___ and the fish as a main course.",
+     "answers": [
+      "starter",
+      "appetiser",
+      "appetizer"
+     ],
+     "sub": "Prendo la zuppa come antipasto e il pesce come piatto principale."
+    },
+    {
+     "t": "wordform",
+     "s": "The soup was really ___ . I'd like the recipe.",
+     "root": "TASTE",
+     "answers": [
+      "tasty"
+     ],
+     "why": "Serve un aggettivo: taste -> tasty (saporito, gustoso)."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «Is service included?»",
+     "opts": [
+      "Il servizio è compreso nel conto?",
+      "Il servizio è molto lento?",
+      "Il cameriere può servire?"
+     ],
+     "a": 0,
+     "why": "«Service» al ristorante è la percentuale per il servizio, spesso già nel conto."
+    }
+   ]
+  },
+  {
+   "id": "a2-03-reading",
+   "kind": "reading",
+   "title": "La spesa al mercato",
+   "intro": "Leggi il post di una ragazza italiana che vive a Manchester e ha cambiato il suo modo di fare la spesa. Cerca i numeri e le quantità: sono le informazioni che servono nelle domande.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "My Saturday market",
+     "genre": "blog",
+     "text": "I moved to Manchester in March, and the biggest surprise was food shopping. At home in Parma I buy bread every morning, a little cheese from the same shop and fresh vegetables twice a week. Here, at first, I did one big shop every Sunday at the supermarket. It was quick, but I always bought too much and I threw away a lot of food.\n\nLast month I changed my routine. Now I go to the Saturday market near my flat. There aren't many stalls, only about ten, but everything is fresh and the sellers are friendly. I buy a few vegetables, some eggs from a local farm and a loaf of bread. I don't buy much meat because it is expensive, so we eat fish once a week instead.\n\nI spend about 25 pounds a week, which is less than before. I also use a small basket, not a trolley, so I can't buy too much!\n\nThe only problem is the weather. There isn't any shelter at the market, and last Saturday it rained for two hours. Still, I met a lovely woman who sells honey, and she gave me some advice about the best bakery in town. I'm going there tomorrow.",
+     "qs": [
+      {
+       "q": "How often did the writer do a big shop at first?",
+       "opts": [
+        "Every Sunday",
+        "Every Saturday",
+        "Twice a week"
+       ],
+       "a": 0,
+       "why": "«I did one big shop every Sunday at the supermarket»."
+      },
+      {
+       "q": "What was wrong with the big shop?",
+       "opts": [
+        "It took too long.",
+        "She bought too much and wasted food.",
+        "The supermarket was too far."
+       ],
+       "a": 1,
+       "why": "«I always bought too much and I threw away a lot of food»."
+      },
+      {
+       "q": "How many stalls are there at the market?",
+       "opts": [
+        "About ten",
+        "About twenty",
+        "Only two"
+       ],
+       "a": 0,
+       "why": "«There aren't many stalls, only about ten»."
+      },
+      {
+       "q": "She buys a lot of meat.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "«I don't buy much meat because it is expensive»."
+      },
+      {
+       "q": "She spends about ___ pounds a week.",
+       "answers": [
+        "25",
+        "twenty-five",
+        "twenty five"
+       ]
+      },
+      {
+       "q": "What is the problem with the market?",
+       "opts": [
+        "The prices are high.",
+        "There is no protection from the rain.",
+        "It closes early."
+       ],
+       "a": 1,
+       "why": "«There isn't any shelter at the market»: nessun riparo."
+      },
+      {
+       "q": "The honey seller lives in the writer's building.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 2,
+       "why": "Il testo dice solo che vende miele e che le ha dato un consiglio."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «a loaf of bread» è:",
+     "opts": [
+      "una pagnotta",
+      "una fetta di pane",
+      "un panino"
+     ],
+     "a": 0,
+     "why": "Loaf = pagnotta intera; una fetta è «a slice»."
+    },
+    {
+     "t": "gap",
+     "s": "I always cook too much and then I ___ a lot of food.",
+     "opts": [
+      "throw away",
+      "give up",
+      "put on"
+     ],
+     "a": 0,
+     "why": "«Throw away» = buttare via."
+    },
+    {
+     "t": "type",
+     "q": "Trova nel testo la parola che significa «riparo»",
+     "text": "There isn't any ___ at the market.",
+     "answers": [
+      "shelter"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Completa con much o many",
+     "s": "She doesn't buy ___ meat.",
+     "answers": [
+      "much"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-03-listening",
+   "kind": "listening",
+   "title": "Al bar all'ora di pranzo",
+   "intro": "Una cliente ordina in un bar inglese e poi chiede il conto. Ascolta senza leggere: il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Lunch at the corner café",
+     "it": "Ascolta il dialogo e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Ben",
+       "Hi there. Are you ready to order?"
+      ],
+      [
+       "Maria",
+       "Yes, please. Could I have a cheese sandwich and a tea with a little milk?"
+      ],
+      [
+       "Ben",
+       "Of course. Would you like any salad with that?"
+      ],
+      [
+       "Maria",
+       "No, thanks. Actually, is there any soup today?"
+      ],
+      [
+       "Ben",
+       "Yes, we have tomato soup. It's very popular."
+      ],
+      [
+       "Maria",
+       "Lovely. I'll have the soup instead of the sandwich, then."
+      ],
+      [
+       "Ben",
+       "Soup and a tea. Would you like some bread with the soup?"
+      ],
+      [
+       "Maria",
+       "Yes, please. Just a couple of slices."
+      ],
+      [
+       "Ben",
+       "No problem. It'll be about five minutes."
+      ],
+      [
+       "Maria",
+       "Thank you. Oh, and could I have the bill with it? I'm in a hurry."
+      ],
+      [
+       "Ben",
+       "Sure. That's six pounds eighty altogether."
+      ],
+      [
+       "Maria",
+       "Can I pay by card?"
+      ],
+      [
+       "Ben",
+       "Of course. Service isn't included, but there's no need to leave a tip."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What does Maria order first?",
+       "opts": [
+        "A cheese sandwich and a tea",
+        "Soup and bread",
+        "A salad and a tea"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Why does she change her order?",
+       "opts": [
+        "The sandwich is too expensive.",
+        "She hears there is soup.",
+        "The café has no cheese."
+       ],
+       "a": 1
+      },
+      {
+       "q": "How much milk does she want in her tea?",
+       "opts": [
+        "A little",
+        "A lot",
+        "None"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does she want with the soup?",
+       "opts": [
+        "Some bread",
+        "Some salad",
+        "Some cheese"
+       ],
+       "a": 0
+      },
+      {
+       "q": "The total is ___ pounds.",
+       "answers": [
+        "6.80",
+        "6.8",
+        "six eighty",
+        "six pounds eighty",
+        "six pounds 80"
+       ]
+      },
+      {
+       "q": "How does Maria pay?",
+       "opts": [
+        "By card",
+        "In cash",
+        "She doesn't pay"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "There isn't much milk left, but there are a few eggs.",
+     "it": "Non è rimasto molto latte, ma ci sono alcune uova."
+    },
+    {
+     "t": "dictation",
+     "en": "Could we have the bill, please?",
+     "it": "Possiamo avere il conto, per favore?"
+    },
+    {
+     "t": "speak",
+     "en": "Could I have a tea with a little milk, please?",
+     "it": "Potrei avere un tè con un po' di latte, per favore?"
+    }
+   ]
+  },
+  {
+   "id": "a2-03-situation",
+   "kind": "situation",
+   "title": "Al ristorante e al bar",
+   "intro": "Prenotare, ordinare, fare domande sul menu e chiedere il conto. Frasi gentili e naturali, senza tradurre dall'italiano.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Ordinare",
+     "body": "- **Could I have...? / Can I have...?** = Potrei avere...? (il modo più comune)\n- **I'll have the soup.** = Prendo la zuppa. (decisione immediata)\n- **I'd like a table for two.** = Vorrei un tavolo per due.\n- **What do you recommend?** = Cosa consiglia?\n- **Does it have any nuts in it?** = Contiene noci? (allergie)\n- **Is there any meat in it?** = C'è della carne?\n\n**Errore tipico**: «I want a coffee» suona brusco, e «I take a coffee» è un calco dall'italiano. Usa **I'd like** o **Could I have**.\nAggiungi sempre **please**.",
+     "ex": [
+      [
+       "Could I have the chicken, please?",
+       "Potrei avere il pollo, per favore?"
+      ],
+      [
+       "I'd like a table for two, please.",
+       "Vorrei un tavolo per due, per favore."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Chiedere il conto e pagare",
+     "body": "- **Could we have the bill, please?** = Possiamo avere il conto?\n- **Is service included?** = Il servizio è incluso?\n- **Can I pay by card?** = Posso pagare con la carta?\n- **Could we pay separately?** = Possiamo pagare separatamente?\n- **Keep the change.** = Tenga il resto.\n\nIn Gran Bretagna una mancia del 10-12% è normale se il servizio non è incluso. Se vedi **service charge** sul conto, è già compreso.",
+     "ex": [
+      [
+       "Could we pay separately?",
+       "Possiamo pagare separatamente?"
+      ],
+      [
+       "Keep the change.",
+       "Tenga il resto."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al ristorante",
+     "it": "Scegli la battuta più naturale per te (Tu).",
+     "lines": [
+      [
+       "Waiter",
+       "Good evening. Do you have a reservation?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, a table for two under the name Rossi.",
+         "Yes, I have booked a table of two for Rossi.",
+         "Yes, a table to two with my name Rossi."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Waiter",
+       "Perfect, follow me. Here's the menu. Would you like something to drink?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Could we have some water, please?",
+         "We want a water, please.",
+         "We take some waters, please."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Waiter",
+       "Of course. Are you ready to order?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'll have the soup, and then the fish, please.",
+         "I take the soup and after the fish.",
+         "I want soup and fish, please."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Il conto",
+     "lines": [
+      [
+       "Tu",
+       {
+        "opts": [
+         "Excuse me, could we have the bill, please?",
+         "Excuse me, we want the account.",
+         "Excuse me, give us the bill."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Waiter",
+       "Certainly. Here you are. That's thirty-eight pounds."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Is service included?",
+         "Is the service include?",
+         "It is included the service?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Waiter",
+       "No, it isn't. It's up to you."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Can I pay by card? And please keep the change.",
+         "I can pay with card? Keep the rest.",
+         "I pay by card? Keep you the change."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "«The account» è un falso amico: il conto di un ristorante è «the bill»."
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Could I have the menu?",
+       "Potrei avere il menu?"
+      ],
+      [
+       "What do you recommend?",
+       "Cosa consiglia?"
+      ],
+      [
+       "Is service included?",
+       "Il servizio è incluso?"
+      ],
+      [
+       "Could we pay separately?",
+       "Possiamo pagare separatamente?"
+      ],
+      [
+       "Keep the change.",
+       "Tenga il resto."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Potremmo avere il menu, per favore?",
+     "en": "Could we have the menu please",
+     "extra": [
+      "any",
+      "to"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "I'd like a table for two, please.",
+     "it": "Vorrei un tavolo per due, per favore."
+    },
+    {
+     "t": "speak",
+     "en": "Does it have any nuts in it?",
+     "it": "Contiene noci?"
+    },
+    {
+     "t": "speak",
+     "en": "Could we have the bill, please?",
+     "it": "Possiamo avere il conto, per favore?"
+    },
+    {
+     "t": "speakTask",
+     "q": "You are in a restaurant. Order a meal and ask for the bill.",
+     "it": "Sei al ristorante: ordina antipasto, piatto principale e da bere, fai una domanda sul menu e chiedi il conto (almeno 4 frasi).",
+     "hints": [
+      "I'd like... / Could I have...?",
+      "Is there any... in it?",
+      "Could we have the bill, please?",
+      "Can I pay by card?"
+     ],
+     "min": 30,
+     "model": "Good evening. Could I have the soup as a starter, please? And then I'll have the fish. Is there any garlic in it? Oh, good. And a glass of water, please. ... Thank you, that was delicious. Could we have the bill, please? Can I pay by card?"
+    }
+   ]
+  },
+  {
+   "id": "a2-03-production",
+   "kind": "production",
+   "title": "Scrivere una recensione",
+   "intro": "Scriverai una breve recensione di un locale e parlerai di un pasto che ricordi. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come è fatta una recensione breve",
+     "body": "- **Apertura**: dove sei andato e quando. We went to... last Saturday.\n- **Cibo**: cosa hai mangiato e com'era. The pasta was delicious / a bit salty.\n- **Servizio e ambiente**: The waiters were friendly. It was noisy.\n- **Prezzo**: It's not cheap, but it's good value for money.\n- **Conclusione**: la tua opinione e un consiglio. I'd definitely recommend it. / I wouldn't go back.\n\nUsa i connettivi **and, but, because, so, although** e aggettivi precisi: tasty, fresh, crowded, friendly, expensive.\nAttenzione agli articoli: **The food** (di quel locale) was great. In generale: **Food** is expensive in London.",
+     "ex": [
+      [
+       "The pasta was delicious, but the portions were small.",
+       "La pasta era deliziosa, ma le porzioni erano piccole."
+      ],
+      [
+       "It isn't cheap, but it's good value for money.",
+       "Non è economico, ma ha un buon rapporto qualità-prezzo."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "The food was excellent, ___ the service was very slow.",
+     "opts": [
+      "but",
+      "so",
+      "because"
+     ],
+     "a": 0,
+     "why": "Contrasto tra due idee: but."
+    },
+    {
+     "t": "gap",
+     "s": "There were ___ people in the café, so we waited a long time for a table.",
+     "opts": [
+      "a lot of",
+      "much",
+      "a little"
+     ],
+     "a": 0,
+     "why": "People è plurale numerabile e la frase è affermativa: a lot of (much e a little non vanno)."
+    },
+    {
+     "t": "fix",
+     "s": "The restaurant was nice, but the foods were expensive.",
+     "answers": [
+      "The restaurant was nice, but the food was expensive"
+     ],
+     "why": "Quando parli del cibo in generale, «food» è non numerabile: niente plurale."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Consiglio questo ristorante.",
+     "answers": [
+      "I recommend this restaurant",
+      "I'd recommend this restaurant",
+      "I would recommend this restaurant",
+      "I can recommend this restaurant",
+      "I highly recommend this restaurant"
+     ],
+     "why": "«Recommend» si usa senza «to»: recommend + oggetto."
+    },
+    {
+     "t": "write",
+     "q": "Write a short review of a café or restaurant you know. Say what you ate, what the food, the service and the prices were like, and whether you recommend it.",
+     "it": "Scrivi una breve recensione di un bar o ristorante che conosci: cosa hai mangiato, com'erano cibo, servizio e prezzi, e se lo consigli.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho detto dove sono stato e che cosa ho mangiato",
+      "Ho usato correttamente some, any, a lot of o a few/a little",
+      "Non ho usato the per parlare in generale",
+      "Ho usato almeno due connettivi (and, but, because, so)",
+      "Ho dato un consiglio finale"
+     ],
+     "useful": [
+      "We went to... last Saturday.",
+      "The food was...",
+      "The waiters were...",
+      "There were a lot of...",
+      "It's good value for money.",
+      "I'd definitely recommend it."
+     ],
+     "model": "We went to a small Italian restaurant near my office last Friday. The pasta was fresh and delicious, but the portions were a bit small. We had a few olives as a starter, and the dessert was fantastic. The waiters were friendly, although there were a lot of people and we waited twenty minutes for the bill. It isn't cheap, but I'd definitely recommend it."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe the best meal you have ever had.",
+     "it": "Racconta il pasto più buono che tu abbia mai fatto: dove, con chi, cosa avete mangiato.",
+     "hints": [
+      "It was in... with...",
+      "We had...",
+      "The food was...",
+      "I'd like to go back because..."
+     ],
+     "min": 40,
+     "model": "The best meal I ever had was at my grandmother's house in Puglia. We ate a lot of vegetables from her garden, some fresh bread and a little cheese. Then she made fresh pasta with tomatoes. The food was simple, but everything was delicious, and there were fifteen people at the table. I'd love to go back."
+    },
+    {
+     "t": "speakTask",
+     "q": "What is there in your fridge at the moment?",
+     "it": "Dì che cosa c'è e che cosa non c'è nel tuo frigorifero in questo momento (usa some, any, a lot of, a few, a little).",
+     "hints": [
+      "There is some...",
+      "There are a few...",
+      "There isn't any...",
+      "I need to buy..."
+     ],
+     "min": 30,
+     "model": "In my fridge there is some milk and a little cheese. There are a few eggs and a lot of vegetables, because I went to the market yesterday. There isn't any fruit, and there isn't much butter. I need to buy some apples and a loaf of bread."
+    }
+   ]
+  },
+  {
+   "id": "a2-03-test",
+   "kind": "test",
+   "title": "Test dell'unità 3",
+   "intro": "Verifica senza aiuti: grammatica, lessico, lettura e ascolto dell'unità. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "Could I have ___ water, please?",
+     "opts": [
+      "some",
+      "a few",
+      "many"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We haven't got ___ tomatoes.",
+     "opts": [
+      "any",
+      "some",
+      "much"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "How ___ money do you spend on food every week?",
+     "opts": [
+      "much",
+      "many",
+      "few"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She eats ___ vegetables every day, at least five portions.",
+     "opts": [
+      "a lot of",
+      "a little",
+      "much"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We had ___ lovely meal at ___ Italian restaurant near the cinema.",
+     "opts": [
+      "a / an",
+      "an / a",
+      "the / an"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The waiter brought the starters, but we're still waiting for the ___ .",
+     "opts": [
+      "main course",
+      "menu",
+      "tip"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Could I see the ___ , please? I'm not sure what to order.",
+     "opts": [
+      "menu",
+      "receipt",
+      "groceries"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The service wasn't included, so we left a ___ .",
+     "opts": [
+      "tip",
+      "bill",
+      "starter"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "Breakfast is the most important meal of the day.",
+      "The breakfast is the most important meal of the day.",
+      "A breakfast is the most important meal of the day."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "She gave me some useful information.",
+      "She gave me some useful informations.",
+      "She gave me an useful information."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Completa con much o many",
+     "s": "There are too ___ people in this café.",
+     "answers": [
+      "many"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Quante uova abbiamo?",
+     "answers": [
+      "How many eggs have we got",
+      "How many eggs do we have",
+      "How many eggs are there",
+      "How many eggs have we got left",
+      "How many eggs do we have left"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Vorrei un po' di formaggio, per favore.",
+     "answers": [
+      "I'd like a little cheese, please",
+      "I would like a little cheese, please",
+      "Could I have a little cheese, please",
+      "Can I have a little cheese, please",
+      "I'd like some cheese, please",
+      "I would like some cheese, please",
+      "Could I have some cheese, please",
+      "Can I have some cheese, please",
+      "I'd like a little cheese",
+      "I'd like some cheese"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "I need an information about the menu.",
+     "answers": [
+      "I need some information about the menu",
+      "I need information about the menu",
+      "I need a bit of information about the menu",
+      "I need a piece of information about the menu"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "How much people are in the café?",
+     "answers": [
+      "How many people are in the café",
+      "How many people are in the cafe"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "The money doesn't make you happy.",
+     "answers": [
+      "Money doesn't make you happy",
+      "Money does not make you happy"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "The pasta was really ___ . I want the recipe.",
+     "root": "TASTE",
+     "answers": [
+      "tasty"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "There isn't any bread left.",
+     "key": "NO",
+     "s2": "There is ___ left.",
+     "answers": [
+      "no bread"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Possiamo avere il conto, per favore?",
+     "en": "Could we have the bill please",
+     "extra": [
+      "tip",
+      "to"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa la recensione",
+     "mode": "mc",
+     "text": "We went to a new café on Saturday. There {1} a lot of people, but we found a table. My friend had {2} egg sandwich and I had soup. The soup was tasty, but there wasn't {3} bread, only {4} slices. We paid by card and left a {5}.",
+     "gaps": [
+      {
+       "opts": [
+        "were",
+        "was",
+        "is",
+        "be"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "an",
+        "a",
+        "some",
+        "many"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "much",
+        "many",
+        "a few",
+        "few"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "a few",
+        "a little",
+        "much",
+        "a lot"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "tip",
+        "bill",
+        "menu",
+        "starter"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A message from the supermarket",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Tom",
+       "Hi Anna, it's Tom. I'm at the supermarket. We need some milk and a few eggs, so I'm getting those. There isn't any bread at home, so I'll buy a loaf. Do we need any cheese? We have a little, but not much, so I'll get some. I'll see you at six. Bye."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What does Tom say they need?",
+       "opts": [
+        "Milk and eggs",
+        "Cheese and butter",
+        "Vegetables and fruit"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How much bread is there at home?",
+       "opts": [
+        "None",
+        "A little",
+        "A lot"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Why does Tom buy cheese?",
+       "opts": [
+        "There isn't much at home.",
+        "It is cheaper today.",
+        "Anna asked for it."
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al bar",
+     "lines": [
+      [
+       "Waiter",
+       "Hi, what can I get you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Could I have a coffee with a little milk, please?",
+         "I take a coffee with little of milk, please.",
+         "I want a coffee with some milks."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Waiter",
+       "Anything to eat?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, I'd like a piece of cake, please.",
+         "Yes, I'd like a cake piece of, please.",
+         "Yes, I take one cake pieces."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

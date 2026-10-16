@@ -1,0 +1,1472 @@
+{
+  "id": "b1-03",
+  "level": "B1",
+  "position": 3,
+  "title": "Ieri e oggi",
+  "sub": "Used to, would e be used to - com'era la vita prima",
+  "grammar": "Used to / would per abitudini passate, be used to e get used to + -ing",
+  "topic": "Infanzia, scuola e cambiamenti",
+  "situation": "Parlare con il padrone di casa: affitto e guasti",
+  "lessons": [
+    {
+      "id": "b1-03-grammar",
+      "kind": "grammar",
+      "title": "Used to, would, be used to",
+      "intro": "In italiano usiamo l'imperfetto per tutto: «giocavo», «ero abituato». In inglese servono tre strutture diverse, e gli italiani le confondono di continuo. Qui impari quando usare ciascuna.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Used to: abitudini e stati che non esistono più",
+          "body": "**Used to + verbo base** descrive qualcosa di **vero in passato ma non più oggi**: un'abitudine ripetuta o uno stato.\n- I **used to play** football every day. (ora non più)\n- We **used to live** in Naples. (ora abitiamo altrove)\n\nNegativa e domanda: **didn't use to** / **Did you use to...?** Con did la -d sparisce, perché il passato è già nell'ausiliare.\n\nNon si usa per fatti passati unici o con una durata precisa: «I lived in Rome for five years» (non «I used to live for five years»).\n\n**Errori tipici**: «I used to going», «I didn't used to like it», «I use to play».",
+          "table": [
+            [
+              "",
+              "Forma",
+              "Esempio"
+            ],
+            [
+              "Affermativa",
+              "used to + base",
+              "She used to have long hair."
+            ],
+            [
+              "Negativa",
+              "didn't use to + base",
+              "We didn't use to have a car."
+            ],
+            [
+              "Domanda",
+              "Did + soggetto + use to + base?",
+              "Did you use to walk to school?"
+            ]
+          ],
+          "ex": [
+            [
+              "I used to be afraid of dogs.",
+              "Ero spaventato dai cani (adesso no)."
+            ],
+            [
+              "Did you use to read comics as a child?",
+              "Da piccolo leggevi i fumetti?"
+            ],
+            [
+              "My parents didn't use to let me stay out late.",
+              "I miei genitori non mi lasciavano rientrare tardi."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Would: solo per azioni ripetute",
+          "body": "**Would + verbo base** si usa per le **azioni ripetute** del passato, quando il contesto (spesso un'espressione di tempo) è già chiaro:\n- Every summer we **would go** to my grandparents' farm.\n- On Sundays my father **would make** pancakes.\n\nMa **non** si usa per gli **stati** (be, have, like, know, live, believe): «I would be shy» è sbagliato; si dice **I used to be shy**.\n\nSi inizia di solito con **used to** per fissare il periodo, poi si continua con **would** per i dettagli:\n«We **used to** spend every summer at the lake. We **would** get up early and swim before breakfast.»",
+          "ex": [
+            [
+              "When I was little, I would spend hours drawing.",
+              "Da piccolo passavo ore a disegnare."
+            ],
+            [
+              "I used to have a dog. He would wait for me at the gate every afternoon.",
+              "Avevo un cane. Mi aspettava al cancello ogni pomeriggio."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Be used to e get used to: essere abituati / abituarsi",
+          "body": "Qui **to è una preposizione**, quindi dopo ci va un **nome o la forma in -ing**, mai il verbo base.\n- **be used to + -ing**: essere abituato. I'**m used to getting up** early.\n- **get used to + -ing**: abituarsi (il processo). It took me a month to **get used to working** nights.\n- Passato: I **wasn't used to** the cold. / In the end, I **got used to** it.\n\nNon confonderle con **used to + base** (abitudine passata): «I used to live in London» ma «I'm used to living in London».\n\n**Errori tipici**: «I'm not used to wake up early», «I get used to drive on the left» (manca l'-ing).",
+          "table": [
+            [
+              "Struttura",
+              "Dopo",
+              "Significato"
+            ],
+            [
+              "used to",
+              "verbo base",
+              "abitudine passata (ora no)"
+            ],
+            [
+              "be used to",
+              "-ing / nome",
+              "essere abituato"
+            ],
+            [
+              "get used to",
+              "-ing / nome",
+              "abituarsi"
+            ]
+          ],
+          "ex": [
+            [
+              "I'm not used to this weather.",
+              "Non sono abituato a questo clima."
+            ],
+            [
+              "She's slowly getting used to living alone.",
+              "Si sta pian piano abituando a vivere da sola."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Quale scegliere? Un riassunto",
+          "body": "- Una **serie di momenti**, un periodo concluso, ora non più vero: **used to**.\n- Un'azione ripetuta con dettagli narrativi: **would** (mai con stati).\n- Un fatto isolato o con durata esatta: **past simple** (I lived there for ten years).\n- «Sono abituato» o «mi sto abituando»: **be / get used to + -ing**.\n\nSe vuoi dire che qualcosa è ancora vero oggi usa il **present simple**: «I live in Turin», non «I used to live in Turin».",
+          "ex": [
+            [
+              "I used to smoke, but I stopped five years ago.",
+              "Fumavo, ma ho smesso cinque anni fa."
+            ],
+            [
+              "I've lived here for years, so I'm used to the traffic.",
+              "Vivo qui da anni, quindi sono abituato al traffico."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "When I was a child, we ___ to the seaside every August.",
+          "opts": [
+            "used to go",
+            "use to go",
+            "used to going"
+          ],
+          "a": 0,
+          "it": "Da bambini andavamo al mare ogni agosto.",
+          "why": "Abitudine passata: used to + verbo base. «Use to» è per le frasi con did; «used to going» è un errore da -ing."
+        },
+        {
+          "t": "gap",
+          "s": "I didn't ___ like vegetables, but now I eat them every day.",
+          "opts": [
+            "use to",
+            "used to",
+            "using to"
+          ],
+          "a": 0,
+          "why": "Dopo didn't la forma è use to, senza -d."
+        },
+        {
+          "t": "gap",
+          "s": "Did you ___ play outside every afternoon?",
+          "opts": [
+            "use to",
+            "used to",
+            "get used to"
+          ],
+          "a": 0,
+          "why": "Nelle domande con did: use to, senza -d."
+        },
+        {
+          "t": "gap",
+          "s": "My grandfather ___ tell us stories every evening.",
+          "opts": [
+            "would",
+            "was used to",
+            "is used to"
+          ],
+          "a": 0,
+          "why": "Azione ripetuta in passato: would. «Be used to» significa «essere abituato», un altro significato."
+        },
+        {
+          "t": "gap",
+          "s": "I ___ a very shy boy, but I'm much more confident now.",
+          "opts": [
+            "used to be",
+            "would be",
+            "was being"
+          ],
+          "a": 0,
+          "why": "«Be» è un verbo di stato: con gli stati si usa used to, non would."
+        },
+        {
+          "t": "gap",
+          "s": "I'm not used to ___ so early; I'm normally a night owl.",
+          "opts": [
+            "get up",
+            "getting up",
+            "got up"
+          ],
+          "a": 1,
+          "why": "Dopo be used to ci vuole la forma in -ing, perché to è una preposizione."
+        },
+        {
+          "t": "gap",
+          "s": "It took me months to get used to ___ on the left in England.",
+          "opts": [
+            "drive",
+            "driving",
+            "drove"
+          ],
+          "a": 1,
+          "why": "Get used to + -ing."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "We used to live in a flat near the station.",
+            "We would live in a flat near the station.",
+            "We were used to live in a flat near the station."
+          ],
+          "a": 0,
+          "why": "Live è uno stato e qui non c'è azione ripetuta: used to. «Were used to live» è un errore tipico."
+        },
+        {
+          "t": "mc",
+          "q": "Quale frase significa «Ormai sono abituato al rumore»?",
+          "opts": [
+            "I'm used to the noise now.",
+            "I used to the noise now.",
+            "I use to the noise now."
+          ],
+          "a": 0,
+          "why": "«Essere abituato» = be used to + nome o -ing."
+        },
+        {
+          "t": "type",
+          "q": "Usa used to con il verbo tra parentesi",
+          "s": "She ___ (have) long hair, but she cut it last year.",
+          "answers": [
+            "used to have"
+          ],
+          "why": "Stato passato che non è più vero: used to + have."
+        },
+        {
+          "t": "type",
+          "q": "Forma negativa con didn't + il verbo tra parentesi",
+          "s": "We ___ (eat) fast food when I was a kid.",
+          "answers": [
+            "didn't use to eat",
+            "did not use to eat"
+          ],
+          "why": "Negativa: didn't use to + base, senza -d."
+        },
+        {
+          "t": "type",
+          "q": "Completa con le due parole giuste (live)",
+          "s": "At first I wasn't used ___ in a big city.",
+          "answers": [
+            "to living"
+          ],
+          "why": "Be used to + -ing."
+        },
+        {
+          "t": "fix",
+          "s": "I didn't used to like coffee.",
+          "answers": [
+            "I didn't use to like coffee",
+            "I did not use to like coffee"
+          ],
+          "why": "Con did la forma è use to: la -d sparisce."
+        },
+        {
+          "t": "fix",
+          "s": "I'm not used to wake up so early.",
+          "answers": [
+            "I'm not used to waking up so early",
+            "I am not used to waking up so early"
+          ],
+          "why": "Dopo be used to ci vuole -ing."
+        },
+        {
+          "t": "fix",
+          "s": "When I was young, I would be very thin.",
+          "answers": [
+            "When I was young, I used to be very thin",
+            "When I was young, I was very thin"
+          ],
+          "why": "Be è un verbo di stato: non si usa would."
+        },
+        {
+          "t": "transform",
+          "s1": "I played the piano every day when I was a child, but I don't now.",
+          "key": "USED",
+          "s2": "I ___ the piano every day when I was a child.",
+          "answers": [
+            "used to play"
+          ],
+          "why": "Abitudine passata che non c'è più: used to + base."
+        },
+        {
+          "t": "transform",
+          "s1": "Driving on the left is still strange for me.",
+          "key": "USED",
+          "s2": "I'm not ___ on the left.",
+          "answers": [
+            "used to driving"
+          ],
+          "why": "Be used to + -ing."
+        },
+        {
+          "t": "order",
+          "it": "Quando ero piccolo passavamo ogni estate in montagna.",
+          "en": "When I was little we used to spend every summer in the mountains",
+          "extra": [
+            "use",
+            "went"
+          ],
+          "alts": [
+            "We used to spend every summer in the mountains when I was little"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-03-vocab",
+      "kind": "vocab",
+      "title": "Crescere e cambiare",
+      "intro": "Il lessico per raccontare l'infanzia, la famiglia e come sono cambiate le cose. Include phrasal verbs molto usati quando si parla di famiglia e di scuola.",
+      "minutes": 15,
+      "words": [
+        {
+          "id": "b1-03-w01",
+          "en": "childhood",
+          "it": "infanzia",
+          "ipa": "ˈtʃaɪldhʊd",
+          "pos": "n",
+          "ex": [
+            "I had a happy childhood in a small town.",
+            "Ho avuto un'infanzia felice in una piccola città."
+          ]
+        },
+        {
+          "id": "b1-03-w02",
+          "en": "upbringing",
+          "it": "educazione ricevuta in famiglia",
+          "ipa": "ˈʌpbrɪŋɪŋ",
+          "pos": "n",
+          "ex": [
+            "She had a strict upbringing.",
+            "Ha avuto un'educazione severa."
+          ],
+          "note": "Non è l'istruzione scolastica (education) né la buona educazione (manners)."
+        },
+        {
+          "id": "b1-03-w03",
+          "en": "strict",
+          "it": "severo, rigido",
+          "ipa": "strɪkt",
+          "pos": "adj",
+          "ex": [
+            "Our teacher was very strict about homework.",
+            "La nostra insegnante era molto severa sui compiti."
+          ],
+          "note": "«Severe» in inglese è molto più forte: si usa per tempeste o malattie."
+        },
+        {
+          "id": "b1-03-w04",
+          "en": "playground",
+          "it": "cortile di gioco, parco giochi",
+          "ipa": "ˈpleɪɡraʊnd",
+          "pos": "n",
+          "ex": [
+            "We met in the school playground every break.",
+            "Ci trovavamo nel cortile della scuola a ogni intervallo."
+          ]
+        },
+        {
+          "id": "b1-03-w05",
+          "en": "pocket money",
+          "it": "paghetta",
+          "ipa": "ˈpɒkɪt ˈmʌni",
+          "pos": "n",
+          "ex": [
+            "I got five pounds pocket money a week.",
+            "Ricevevo cinque sterline di paghetta a settimana."
+          ],
+          "note": "Non numerabile."
+        },
+        {
+          "id": "b1-03-w06",
+          "en": "grow up",
+          "it": "crescere, diventare adulto",
+          "ipa": "ɡrəʊ ˈʌp",
+          "pos": "pv",
+          "ex": [
+            "I grew up in a village near Siena.",
+            "Sono cresciuto in un paese vicino a Siena."
+          ],
+          "note": "Si riferisce a chi cresce: «crescere» un figlio è bring up."
+        },
+        {
+          "id": "b1-03-w07",
+          "en": "bring up",
+          "it": "crescere, allevare (un figlio)",
+          "ipa": "brɪŋ ˈʌp",
+          "pos": "pv",
+          "ex": [
+            "She was brought up by her grandparents.",
+            "È stata cresciuta dai nonni."
+          ],
+          "note": "Spesso al passivo: be brought up."
+        },
+        {
+          "id": "b1-03-w08",
+          "en": "tell off",
+          "it": "rimproverare",
+          "ipa": "ˌtel ˈɒf",
+          "pos": "pv",
+          "ex": [
+            "My teacher told me off for talking in class.",
+            "L'insegnante mi ha rimproverato perché parlavo in classe."
+          ],
+          "note": "Si dice tell somebody off (for something); spesso al passivo: be told off."
+        },
+        {
+          "id": "b1-03-w09",
+          "en": "look back on",
+          "it": "ripensare a, guardare al passato",
+          "ipa": "lʊk ˈbæk ɒn",
+          "pos": "pv",
+          "ex": [
+            "When I look back on my school years, I smile.",
+            "Quando ripenso agli anni di scuola, sorrido."
+          ]
+        },
+        {
+          "id": "b1-03-w10",
+          "en": "nostalgic",
+          "it": "nostalgico",
+          "ipa": "nɒˈstældʒɪk",
+          "pos": "adj",
+          "ex": [
+            "Old photos make my grandmother nostalgic.",
+            "Le vecchie foto rendono nostalgica mia nonna."
+          ],
+          "note": "Di solito: nostalgic about / for something."
+        },
+        {
+          "id": "b1-03-w11",
+          "en": "old-fashioned",
+          "it": "all'antica, fuori moda",
+          "ipa": "ˌəʊld ˈfæʃnd",
+          "pos": "adj",
+          "ex": [
+            "My grandfather has some old-fashioned ideas.",
+            "Mio nonno ha qualche idea all'antica."
+          ]
+        },
+        {
+          "id": "b1-03-w12",
+          "en": "generation",
+          "it": "generazione",
+          "ipa": "ˌdʒenəˈreɪʃn",
+          "pos": "n",
+          "ex": [
+            "My grandparents' generation didn't travel much.",
+            "La generazione dei miei nonni viaggiava poco."
+          ]
+        },
+        {
+          "id": "b1-03-w13",
+          "en": "habit",
+          "it": "abitudine",
+          "ipa": "ˈhæbɪt",
+          "pos": "n",
+          "ex": [
+            "Biting your nails is a bad habit.",
+            "Mangiarsi le unghie è una cattiva abitudine."
+          ],
+          "note": "Si dice get into the habit of + -ing; «abitudine» come usanza collettiva è custom."
+        },
+        {
+          "id": "b1-03-w14",
+          "en": "lifestyle",
+          "it": "stile di vita",
+          "ipa": "ˈlaɪfstaɪl",
+          "pos": "n",
+          "ex": [
+            "A healthy lifestyle means sleeping well.",
+            "Uno stile di vita sano significa dormire bene."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "grow up",
+              "crescere, diventare adulto"
+            ],
+            [
+              "bring up",
+              "allevare, educare"
+            ],
+            [
+              "tell off",
+              "rimproverare"
+            ],
+            [
+              "look back on",
+              "ripensare a"
+            ],
+            [
+              "get into the habit of",
+              "prendere l'abitudine di"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "The teacher always ___ us off if we forgot our homework.",
+          "opts": [
+            "told",
+            "said",
+            "spoke"
+          ],
+          "a": 0,
+          "why": "Il phrasal verb è tell somebody off (rimproverare); say e speak non formano questa espressione."
+        },
+        {
+          "t": "gap",
+          "s": "My parents were quite ___: we had to be home by nine, even at weekends.",
+          "opts": [
+            "strict",
+            "severe",
+            "serious"
+          ],
+          "a": 0,
+          "why": "Per genitori o insegnanti rigidi si dice strict; severe è molto più forte."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "When I ___ back on my school years, I feel a bit nostalgic.",
+          "answers": [
+            "look"
+          ],
+          "why": "Look back on = ripensare a."
+        },
+        {
+          "t": "wordform",
+          "s": "My grandmother gets very ___ when she sees old photos.",
+          "root": "NOSTALGIA",
+          "answers": [
+            "nostalgic"
+          ],
+          "why": "Serve un aggettivo: nostalgia -> nostalgic."
+        },
+        {
+          "t": "wordform",
+          "s": "Young people today have a different attitude to work from my grandparents' ___ .",
+          "root": "GENERATE",
+          "answers": [
+            "generation"
+          ],
+          "why": "Serve un nome: generate -> generation."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «She was brought up by her aunt»?",
+          "opts": [
+            "È stata cresciuta da sua zia.",
+            "È stata portata su da sua zia.",
+            "Ha cresciuto sua zia."
+          ],
+          "a": 0,
+          "why": "Be brought up = essere cresciuto, allevato da qualcuno."
+        }
+      ]
+    },
+    {
+      "id": "b1-03-reading",
+      "kind": "reading",
+      "title": "Estati senza schermi",
+      "intro": "Un articolo in cui un genitore confronta le sue estati di bambino con quelle delle sue figlie. Fai attenzione a come usa used to e would per il passato.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "read",
+          "title": "Summers without screens",
+          "genre": "article",
+          "text": "When I was a child in the late 1990s, my summers always followed the same pattern. As soon as school finished in June, my cousins and I would spend the whole day outside. We used to meet at the playground behind my grandmother's building at nine o'clock, and we didn't come home until it got dark. Nobody had a mobile phone, so my mother simply used to shout from the balcony when lunch was ready.\n\nOf course, we weren't always angels. We would borrow our neighbours' bicycles without asking, and one summer we built a wooden hut in a field, which collapsed after three days. My grandfather, who was quite strict, used to make us repair everything we broke. At the time I hated it. Now I think it taught me more than any school lesson.\n\nLast month I took my own daughters, aged nine and twelve, to the same playground. It was almost empty. They weren't used to playing outside without a tablet in their hands, and for the first ten minutes they complained that they were bored. Then something changed. A boy arrived with a football, and soon there were six children running around and shouting, just like in my day.\n\nI'm not saying that technology is a problem. My daughters can do things I could never do at their age: they edit videos, they speak to friends in other countries and they learn English from online games. But I would like them to have some of my memories too. So we have made a new rule: every Saturday morning, the phones stay at home and we go to the park.\n\nIt wasn't easy at first. My elder daughter got really angry the first week, but now she has got used to it, and last Saturday she was the one who reminded me to leave my phone on the table. Perhaps every generation looks back on its childhood with a little nostalgia. The important thing is to make sure that the new generation has something to be nostalgic about, too.",
+          "qs": [
+            {
+              "q": "What did the writer's mother do when lunch was ready?",
+              "opts": [
+                "She called from the balcony.",
+                "She phoned the children.",
+                "She went to the playground."
+              ],
+              "a": 0,
+              "why": "«My mother simply used to shout from the balcony when lunch was ready»."
+            },
+            {
+              "q": "What happened to the hut the children built?",
+              "opts": [
+                "It fell down after a few days.",
+                "The grandfather repaired it.",
+                "It stayed in the field for years."
+              ],
+              "a": 0,
+              "why": "«...which collapsed after three days»."
+            },
+            {
+              "q": "How does the writer feel now about the grandfather's rule?",
+              "opts": [
+                "It was useful.",
+                "It was still unfair.",
+                "It was too strict."
+              ],
+              "a": 0,
+              "why": "«At the time I hated it. Now I think it taught me more than any school lesson.»"
+            },
+            {
+              "q": "The playground was crowded when the writer took the daughters there.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "«It was almost empty»."
+            },
+            {
+              "q": "The daughters weren't used to playing outside without a ___ .",
+              "answers": [
+                "tablet"
+              ]
+            },
+            {
+              "q": "Why does the writer mention that the daughters edit videos?",
+              "opts": [
+                "To show that technology has positive sides.",
+                "To complain about their screen time.",
+                "To say that they are cleverer than their parents."
+              ],
+              "a": 0,
+              "why": "«I'm not saying that technology is a problem. My daughters can do things I could never do...»"
+            },
+            {
+              "q": "What is the new family rule?",
+              "opts": [
+                "The phones stay at home on Saturday mornings.",
+                "The girls can't use tablets at all.",
+                "They go to the park every day."
+              ],
+              "a": 0,
+              "why": "«Every Saturday morning, the phones stay at home and we go to the park.»"
+            },
+            {
+              "q": "The younger daughter found the new rule difficult.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 2,
+              "why": "Si parla solo della figlia maggiore (elder daughter)."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «she has got used to it» significa:",
+          "opts": [
+            "si è abituata",
+            "l'ha usato",
+            "era abituata da sempre"
+          ],
+          "a": 0,
+          "why": "Have got used to = essersi abituati."
+        },
+        {
+          "t": "gap",
+          "s": "The wooden hut ___ after only three days.",
+          "opts": [
+            "collapsed",
+            "collected",
+            "cancelled"
+          ],
+          "a": 0,
+          "why": "Collapse = crollare. Collect e cancel hanno altri significati."
+        },
+        {
+          "t": "mc",
+          "q": "«We weren't always angels» significa:",
+          "opts": [
+            "Non eravamo sempre bravi.",
+            "Non eravamo sempre insieme.",
+            "Non avevamo sempre le ali."
+          ],
+          "a": 0
+        }
+      ]
+    },
+    {
+      "id": "b1-03-listening",
+      "kind": "listening",
+      "title": "Un italiano in Scozia",
+      "intro": "Un'intervista radiofonica con un uomo che si è trasferito dall'Italia alla Scozia. Ascolta come racconta le abitudini di prima e quelle di adesso.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Life Stories",
+          "it": "Ascolta l'intervista e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Helen",
+              "Welcome back to Life Stories. Today I'm talking to Marco, who moved from Turin to Scotland ten years ago. Marco, was it difficult at first?"
+            ],
+            [
+              "Marco",
+              "Oh, very. The weather was the first shock. In Turin we used to have long, hot summers, and here it rains almost every day. I just wasn't used to it."
+            ],
+            [
+              "Helen",
+              "And what about the food?"
+            ],
+            [
+              "Marco",
+              "Well, I used to eat dinner at nine o'clock. Here everybody has dinner at six! At the beginning I was starving at five, and then I couldn't sleep because I had eaten so much so late. Now I'm used to it, but I still cook pasta on Sundays, and my neighbours love it."
+            ],
+            [
+              "Helen",
+              "What else was different?"
+            ],
+            [
+              "Marco",
+              "School, actually. My son was seven when we arrived. In Italy he used to have lessons in the morning and then go home for lunch, but in Glasgow he stayed at school until half past three. He hated it for the first month. Then he made friends, and now he says he would never go back."
+            ],
+            [
+              "Helen",
+              "And you? Would you go back?"
+            ],
+            [
+              "Marco",
+              "Honestly, I don't know. I miss my family, of course. We used to meet every Sunday for lunch at my grandmother's, and I miss that tradition. But I've got a good job here, and I've got used to the Scottish accent, which was the hardest thing of all! Now I can understand almost everybody, even the taxi drivers."
+            ],
+            [
+              "Helen",
+              "Thank you, Marco, and good luck."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Where did Marco move from?",
+              "opts": [
+                "Turin",
+                "Glasgow",
+                "Rome"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What was the first thing Marco found difficult?",
+              "opts": [
+                "The weather",
+                "The food",
+                "The language"
+              ],
+              "a": 0
+            },
+            {
+              "q": "At the beginning, Marco was hungry at ___ o'clock.",
+              "answers": [
+                "5",
+                "five"
+              ]
+            },
+            {
+              "q": "How did Marco's son feel about school at first?",
+              "opts": [
+                "He didn't like it.",
+                "He was happy.",
+                "He was afraid of the teachers."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What does Marco miss?",
+              "opts": [
+                "Sunday lunches with his family",
+                "His old job",
+                "Italian schools"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What was the hardest thing for Marco?",
+              "opts": [
+                "The Scottish accent",
+                "The long school day",
+                "The cold weather"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "We used to meet every Sunday for lunch at my grandmother's.",
+          "it": "Ci trovavamo ogni domenica a pranzo da mia nonna."
+        },
+        {
+          "t": "dictation",
+          "en": "It took me a long time to get used to the accent.",
+          "it": "Mi ci è voluto molto tempo per abituarmi all'accento."
+        },
+        {
+          "t": "speak",
+          "en": "I used to live in a small town, but now I'm used to the city.",
+          "it": "Vivevo in una piccola città, ma ora sono abituato alla grande città."
+        }
+      ]
+    },
+    {
+      "id": "b1-03-situation",
+      "kind": "situation",
+      "title": "Dal padrone di casa",
+      "intro": "Il riscaldamento si rompe, l'affitto è in ritardo: come parlare con il landlord in modo chiaro ma educato. In inglese il tono fa la differenza.",
+      "minutes": 15,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Segnalare un guasto",
+          "body": "Il proprietario si chiama **landlord** (o **landlady**), l'inquilino **tenant**. Non esiste «the owner» in questo senso.\n- **I'm calling about** the flat at 12 Park Road.\n- **The heating isn't working** / **The tap is leaking** / **There's a problem with the boiler.**\n- **It's been like that since Monday.**\n- **I've already checked** the thermostat.\n- **Could you send someone to take a look?**\n- **When would be convenient for you?**\n\nSi descrive il problema (cosa non funziona), si dice da quando, e poi si chiede una soluzione con **Could you...?**",
+          "ex": [
+            [
+              "The shower isn't draining properly.",
+              "La doccia non scarica bene."
+            ],
+            [
+              "Could you send someone to take a look?",
+              "Potrebbe mandare qualcuno a dare un'occhiata?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Registro: troppo diretto o giusto?",
+          "body": "Con il padrone di casa meglio un tono cortese, anche se sei arrabbiato.\n- Troppo diretto: «You must fix it today.» / «Pay me now.»\n- Giusto: **Would it be possible to...?** / **I was wondering if you could...** / **I'm afraid that...**\n\nPer chiedere un favore sull'affitto: **Would it be possible to pay the rent a few days late?** Per promettere: **It won't happen again.** Per ringraziare: **I really appreciate it** (non «you are very gentle»: gentle = delicato).",
+          "ex": [
+            [
+              "I was wondering if you could repair the window.",
+              "Mi chiedevo se potesse riparare la finestra."
+            ],
+            [
+              "I'm afraid I won't be home on Thursday morning.",
+              "Temo di non essere a casa giovedì mattina."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Il riscaldamento non funziona",
+          "it": "Scegli la battuta più naturale e cortese (Tu).",
+          "lines": [
+            [
+              "Mr Hughes",
+              "Hello, Hughes speaking."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello, Mr Hughes. This is Elena Rossi from flat 3. I'm calling because the heating isn't working.",
+                  "Hello, Mr Hughes. I'm Elena of flat 3, the heating not works and I want that you fix it today.",
+                  "Hello, Mr Hughes. You must fix the heating immediately, it is your duty."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Mr Hughes",
+              "I'm sorry to hear that. How long has it been like that?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Since Monday. I've already checked the thermostat and the batteries.",
+                  "From Monday. I already check the thermostat.",
+                  "Since Monday. I am checking the thermostat since yesterday."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Mr Hughes",
+              "I'll send an engineer. Would Thursday morning be convenient?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I'm afraid I'll be at work on Thursday morning. Would the afternoon be possible?",
+                  "No, Thursday is impossible, you must come on Friday.",
+                  "Thursday not go well for me, come another day."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "In inglese si propone un'alternativa con «Would ... be possible?»; «since» + momento di inizio si usa con il present perfect, non con il present simple."
+        },
+        {
+          "t": "dialog",
+          "title": "Un po' di ritardo con l'affitto",
+          "lines": [
+            [
+              "Mr Hughes",
+              "Hello Elena, what can I do for you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I wanted to ask if it would be possible to pay this month's rent a few days late.",
+                  "I tell you that this month I pay the rent late, ok?",
+                  "Would be possible that I will pay you the rent after."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Mr Hughes",
+              "That's not something I usually accept. What's the problem?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "My salary will arrive on the 8th instead of the 1st. It won't happen again.",
+                  "My salary come late, it is not my fault, so you accept.",
+                  "I have not money now, you wait."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Mr Hughes",
+              "All right. As long as I get it by the 10th, that's fine."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you very much, I really appreciate it.",
+                  "Thanks, you are very gentle.",
+                  "Thank, I am agree."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "«Gentle» è un falso amico: significa «delicato». Per ringraziare di una cortesia si dice «I really appreciate it»."
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "The heating isn't working.",
+              "Il riscaldamento non funziona."
+            ],
+            [
+              "Could you send someone to take a look?",
+              "Potrebbe mandare qualcuno a dare un'occhiata?"
+            ],
+            [
+              "The rent is due on the first of the month.",
+              "L'affitto va pagato il primo del mese."
+            ],
+            [
+              "I'd like to get my deposit back.",
+              "Vorrei riavere la caparra."
+            ],
+            [
+              "The tap is leaking.",
+              "Il rubinetto perde."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Sarebbe possibile pagare l'affitto con qualche giorno di ritardo?",
+          "en": "Would it be possible to pay the rent a few days late",
+          "extra": [
+            "can",
+            "early"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "Hello, it's Anna from flat 4. The boiler has stopped working.",
+          "it": "Buongiorno, sono Anna dell'appartamento 4. La caldaia ha smesso di funzionare."
+        },
+        {
+          "t": "speak",
+          "en": "Would it be possible to send someone tomorrow morning?",
+          "it": "Sarebbe possibile mandare qualcuno domani mattina?"
+        },
+        {
+          "t": "speak",
+          "en": "I'd like to know when I'll get my deposit back.",
+          "it": "Vorrei sapere quando riavrò la caparra."
+        },
+        {
+          "t": "speakTask",
+          "q": "You phone your landlord because there is a problem in your flat. Explain it and ask for help.",
+          "it": "Telefona al padrone di casa: spiega il problema, da quando c'è, cosa hai già provato e proponi un giorno per la riparazione (almeno 5 frasi, tono cortese).",
+          "hints": [
+            "Hello, it's... from flat...",
+            "The ... isn't working. It's been like that since...",
+            "I've already tried...",
+            "Could you send someone...?",
+            "Would ... be convenient?"
+          ],
+          "min": 40,
+          "model": "Hello, Mrs Brown, it's Luca from flat 6. I'm calling about the washing machine. It isn't working and it's been like that since Tuesday. I've already checked the plug and the filter, but nothing has changed. Could you send someone to take a look? I'm at home on Friday morning, so would that be convenient for you? Thank you, I really appreciate it."
+        }
+      ]
+    },
+    {
+      "id": "b1-03-production",
+      "kind": "production",
+      "title": "Come è cambiata la mia vita",
+      "intro": "Scriverai un breve articolo per una rivista, confrontando com'eri prima e come sei adesso. Prima prepari struttura, connettivi e strutture grammaticali.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come si scrive un articolo",
+          "body": "Un articolo ha **un titolo**, un'introduzione che cattura il lettore e **2-3 paragrafi** con una chiusura personale. Il tono è semi-informale: si possono usare contrazioni e domande.\n\n**Connettivi utili**:\n- passato: **When I was..., Back then, Ten years ago**\n- presente: **These days, Nowadays, Now**\n- contrasto: **However, Although, but**\n- conclusione: **All in all, To sum up**\n\n**Trucco**: apri con used to per fissare il periodo, poi usa would per i dettagli (ma solo con azioni, non stati) e passa al presente con These days.",
+          "ex": [
+            [
+              "Ten years ago I used to get up at seven.",
+              "Dieci anni fa mi alzavo alle sette."
+            ],
+            [
+              "These days I'm used to working from home.",
+              "Oggi sono abituato a lavorare da casa."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I used to be shy. ___, these days I enjoy talking to new people.",
+          "opts": [
+            "However",
+            "Although",
+            "Because"
+          ],
+          "a": 0,
+          "why": "Contrasto tra due frasi: However, con la virgola. Although introduce una subordinata nella stessa frase."
+        },
+        {
+          "t": "gap",
+          "s": "___ I was a teenager, I used to read for hours every evening.",
+          "opts": [
+            "When",
+            "During",
+            "Since"
+          ],
+          "a": 0,
+          "why": "Dopo la congiunzione segue una frase intera: When. During vuole un nome."
+        },
+        {
+          "t": "fix",
+          "s": "Ten years ago I used to living in a village.",
+          "answers": [
+            "Ten years ago I used to live in a village",
+            "Ten years ago I lived in a village"
+          ],
+          "why": "Used to vuole il verbo base, non -ing."
+        },
+        {
+          "t": "transform",
+          "s1": "I don't go to the cinema every week now, but I did in the past.",
+          "key": "USED",
+          "s2": "I ___ to the cinema every week.",
+          "answers": [
+            "used to go"
+          ],
+          "why": "Abitudine passata: used to + base."
+        },
+        {
+          "t": "write",
+          "q": "You see this notice in an English-language magazine: Articles wanted for our series 'How my life has changed'. Write your article. Say what you used to do, what is different now, and which change you like most.",
+          "it": "Scrivi un articolo dal titolo «How my life has changed»: cosa facevi prima, cosa è diverso adesso e quale cambiamento preferisci. Usa un titolo e 2-3 paragrafi.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho messo un titolo e organizzato il testo in paragrafi",
+            "Ho usato almeno due volte used to + verbo base",
+            "Ho usato almeno una volta be used to o get used to + -ing",
+            "Ho usato connettivi come however, these days, although",
+            "Ho detto quale cambiamento preferisco e perché"
+          ],
+          "useful": [
+            "Ten years ago I used to...",
+            "We would...",
+            "These days...",
+            "At first I wasn't used to...",
+            "However, ...",
+            "The best thing is..."
+          ],
+          "model": "How my life has changed\n\nTen years ago I was a student in a small town. I used to get up at seven, walk to school and spend every afternoon playing football with my friends. We didn't have smartphones, so we would simply knock on each other's doors.\n\nThese days everything is different. I live in a big city and I work in an office. At first I wasn't used to the noise and the crowds, but now I love the energy. I don't play football any more, although I sometimes join a team on Sundays.\n\nOf course, I miss my old friends. However, the change has been good for me: I've become more independent, and I'm proud of that."
+        },
+        {
+          "t": "speakTask",
+          "q": "Describe a place you loved as a child.",
+          "it": "Descrivi un posto che amavi da bambino: dov'era, cosa facevi lì, come ti sentivi (almeno 4 frasi con used to o would).",
+          "hints": [
+            "When I was a child, I used to...",
+            "We would...",
+            "I remember...",
+            "These days..."
+          ],
+          "min": 40,
+          "model": "When I was a child, I used to spend every summer at my grandparents' house near the sea. We would get up early and go to the beach before breakfast. In the afternoon my grandfather would tell us stories under the fig tree. I remember the smell of the sea and the sound of the cicadas. These days the house belongs to my uncle, but I still feel nostalgic every time I pass it."
+        },
+        {
+          "t": "speakTask",
+          "q": "Talk about something you had to get used to when you moved or started a new job.",
+          "it": "Parla di qualcosa a cui hai dovuto abituarti dopo un cambiamento (una nuova città, un lavoro, un orario).",
+          "hints": [
+            "When I started..., I wasn't used to...",
+            "It took me ... to get used to...",
+            "Now I'm used to...",
+            "The hardest thing was..."
+          ],
+          "min": 40,
+          "model": "When I started my new job, I wasn't used to getting up at six. It took me about a month to get used to the early start. The hardest thing was the commute, because I used to live five minutes from my old office. Now I'm used to reading on the train, and I actually enjoy the quiet time."
+        }
+      ]
+    },
+    {
+      "id": "b1-03-test",
+      "kind": "test",
+      "title": "Test dell'unità 3",
+      "intro": "Verifica senza aiuti: used to, would, be used to e il lessico dell'infanzia e dei cambiamenti. Le correzioni le vedi alla fine.",
+      "minutes": 20,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "We ___ to my grandparents' house every Sunday when I was little.",
+          "opts": [
+            "used to go",
+            "use to go",
+            "were used to go"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Where did you ___ live before you moved here?",
+          "opts": [
+            "use to",
+            "used to",
+            "get used to"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Our teacher ___ give us a lot of homework on Fridays.",
+          "opts": [
+            "would",
+            "was used to",
+            "is used to"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "I can't get used to ___ on the left side of the road.",
+          "opts": [
+            "driving",
+            "drive",
+            "drove"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "My sister ___ very quiet, but now she never stops talking.",
+          "opts": [
+            "used to be",
+            "would be",
+            "was being"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "I'm not used to ___ so much noise at night.",
+          "opts": [
+            "hearing",
+            "hear",
+            "heard"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "My parents were very ___ and never let us stay out late.",
+          "opts": [
+            "strict",
+            "severe",
+            "serious"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "My teacher ___ me off for arriving late three times.",
+          "opts": [
+            "told",
+            "said",
+            "talked"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I didn't use to like jazz.",
+            "I didn't used to like jazz.",
+            "I not used to like jazz."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Quale frase significa «Mi sto abituando al nuovo orario»?",
+          "opts": [
+            "I'm getting used to the new timetable.",
+            "I'm using to the new timetable.",
+            "I'm used to get the new timetable."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "I grew ___ in a small village near Siena.",
+          "answers": [
+            "up"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Usa used to con il verbo live",
+          "s": "We ___ in a flat above a bakery when I was a child.",
+          "answers": [
+            "used to live"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Non sono abituato a lavorare di notte.",
+          "answers": [
+            "I'm not used to working at night",
+            "I am not used to working at night",
+            "I'm not used to working nights",
+            "I am not used to working nights",
+            "I'm not used to working during the night",
+            "I am not used to working during the night"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "She had a very strict ___ in a small town.",
+          "root": "BRING",
+          "answers": [
+            "upbringing"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "Looking at the old photos made him feel ___ .",
+          "root": "NOSTALGIA",
+          "answers": [
+            "nostalgic"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "She used to going to school by bus.",
+          "answers": [
+            "She used to go to school by bus"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "I'm not used to eat dinner so early.",
+          "answers": [
+            "I'm not used to eating dinner so early",
+            "I am not used to eating dinner so early"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "When I was ten, I would have a bicycle.",
+          "answers": [
+            "When I was ten, I had a bicycle",
+            "When I was ten, I used to have a bicycle"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "I don't play the guitar any more, but I did when I was young.",
+          "key": "USED",
+          "s2": "I ___ the guitar when I was young.",
+          "answers": [
+            "used to play"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "Waking up early is still difficult for me.",
+          "key": "USED",
+          "s2": "I'm not ___ up early.",
+          "answers": [
+            "used to waking"
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Da piccoli andavamo sempre al mare ad agosto.",
+          "en": "We used to go to the seaside every August when I was little",
+          "extra": [
+            "use",
+            "going"
+          ],
+          "alts": [
+            "When I was little we used to go to the seaside every August"
+          ]
+        },
+        {
+          "t": "cloze",
+          "title": "Completa l'email",
+          "mode": "mc",
+          "text": "Hi Anna,\n\nLife in Milan is very different from my childhood. I {1} in a small village where everybody knew each other. We {2} play in the street until late. In Milan I found the noise difficult at first, but after a few months I {3} it. Now I'm so {4} the city that I couldn't live anywhere else!\n\nLove,\nSofia",
+          "gaps": [
+            {
+              "opts": [
+                "grew up",
+                "grown up",
+                "was grew"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "used to",
+                "use to",
+                "were used to"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "got used to",
+                "used to",
+                "was used"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "used to",
+                "used for",
+                "use to"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A voicemail",
+          "it": "Ascolta il messaggio in segreteria.",
+          "lines": [
+            [
+              "Paolo",
+              "Hi Grandma, it's Paolo. Thanks for the photos of the old house. I remember we used to play in the garden every summer, and you would make lemonade for everyone. I'm sorry I can't come on Sunday because I'm working, but I'll call you in the evening. Take care!"
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What did the children do every summer?",
+              "opts": [
+                "Played in the garden",
+                "Went to the beach",
+                "Helped in the kitchen"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Why can't Paolo come on Sunday?",
+              "opts": [
+                "He's working.",
+                "He's ill.",
+                "He's travelling."
+              ],
+              "a": 0
+            },
+            {
+              "q": "When will he call?",
+              "opts": [
+                "In the evening",
+                "On Saturday",
+                "On Sunday morning"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Con il padrone di casa",
+          "lines": [
+            [
+              "Mrs Clark",
+              "Hello, Clark speaking."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello, Mrs Clark. I'm calling because the tap in the kitchen is leaking.",
+                  "Hello, Mrs Clark. The tap of the kitchen it loses and you must come.",
+                  "Hello, Mrs Clark. I want that you repair the tap."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Mrs Clark",
+              "Oh dear. Would tomorrow afternoon be convenient for the plumber?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, that would be fine. Thank you, I really appreciate it.",
+                  "Yes, it goes well. Thanks, you are very gentle.",
+                  "Yes, I am agree. Thank."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8ec5ff"/>
+      <stop offset="1" stop-color="#dff0ff"/>
+    </linearGradient>
+    <linearGradient id="hillFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9fd29a"/>
+      <stop offset="1" stop-color="#7fbf7a"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6cc164"/>
+      <stop offset="1" stop-color="#3f9a45"/>
+    </linearGradient>
+    <radialGradient id="sun" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff6c8"/>
+      <stop offset=".55" stop-color="#ffd84d"/>
+      <stop offset="1" stop-color="#ffd84d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="trunk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7a5a48"/>
+      <stop offset="1" stop-color="#5b4033"/>
+    </linearGradient>
+  </defs>
+
+  <!-- cielo, sole, nuvole -->
+  <rect width="320" height="200" fill="url(#sky)"/>
+  <circle cx="262" cy="38" r="34" fill="url(#sun)"/>
+  <circle cx="262" cy="38" r="13" fill="#ffe27a"/>
+  <g fill="#ffffff" opacity=".9">
+    <ellipse cx="70" cy="34" rx="26" ry="9"/><ellipse cx="88" cy="28" rx="16" ry="10"/><ellipse cx="56" cy="30" rx="12" ry="8"/>
+    <ellipse cx="190" cy="22" rx="20" ry="6"/><ellipse cx="203" cy="18" rx="11" ry="7"/>
+  </g>
+
+  <!-- città lontana -->
+  <g fill="#b7c8d8" opacity=".85">
+    <rect x="18" y="86" width="12" height="26"/><rect x="32" y="78" width="9" height="34"/><rect x="43" y="92" width="14" height="20"/>
+    <rect x="232" y="84" width="10" height="28"/><rect x="244" y="74" width="13" height="38"/><rect x="259" y="90" width="11" height="22"/>
+  </g>
+
+  <!-- colline -->
+  <path d="M0 108 C60 86 110 92 160 104 C210 116 260 90 320 100 V200 H0 Z" fill="url(#hillFar)"/>
+  <path d="M0 130 C70 112 140 118 200 126 C250 132 290 120 320 124 V200 H0 Z" fill="url(#grass)"/>
+
+  <!-- sentiero -->
+  <path d="M232 200 C226 172 246 150 300 134 L320 134 L320 140 C276 152 258 172 262 200 Z" fill="#e8d7b0"/>
+
+  <!-- alberi -->
+  <g>
+    <rect x="38" y="104" width="8" height="34" rx="2" fill="url(#trunk)"/>
+    <circle cx="42" cy="96" r="20" fill="#2f8f46"/><circle cx="30" cy="104" r="13" fill="#3aa155"/><circle cx="54" cy="104" r="13" fill="#3aa155"/>
+    <circle cx="44" cy="88" r="10" fill="#4cb565" opacity=".8"/>
+  </g>
+  <g>
+    <rect x="286" y="96" width="9" height="40" rx="2" fill="url(#trunk)"/>
+    <circle cx="290" cy="86" r="24" fill="#2f8f46"/><circle cx="276" cy="96" r="15" fill="#3aa155"/><circle cx="305" cy="96" r="15" fill="#3aa155"/>
+    <circle cx="293" cy="76" r="11" fill="#4cb565" opacity=".8"/>
+  </g>
+  <g opacity=".9">
+    <rect x="126" y="100" width="5" height="16" fill="#6b4c3b"/>
+    <ellipse cx="128.5" cy="96" rx="11" ry="13" fill="#3b9a52"/>
+  </g>
+
+  <!-- ombra della coperta -->
+  <ellipse cx="128" cy="174" rx="76" ry="10" fill="#2d7a35" opacity=".35"/>
+  <!-- coperta a quadri -->
+  <g transform="translate(58 146) skewX(-18)">
+    <rect x="8" y="0" width="140" height="24" fill="#f4f4f4"/>
+    <g fill="#e5484d" opacity=".85">
+      <rect x="8" y="0" width="140" height="6"/><rect x="8" y="12" width="140" height="6"/>
+      <rect x="8" y="0" width="14" height="24" opacity=".7"/><rect x="36" y="0" width="14" height="24" opacity=".7"/>
+      <rect x="64" y="0" width="14" height="24" opacity=".7"/><rect x="92" y="0" width="14" height="24" opacity=".7"/><rect x="120" y="0" width="14" height="24" opacity=".7"/>
+    </g>
+  </g>
+
+  <!-- cestino -->
+  <g>
+    <path d="M150 138 q12 -14 24 0" stroke="#8d6e63" stroke-width="3" fill="none"/>
+    <path d="M146 138 h32 l-4 18 h-24 z" fill="#c69c6d"/>
+    <path d="M148 144 h28 M149 150 h26" stroke="#a47c55" stroke-width="1.5"/>
+    <circle cx="156" cy="137" r="3.5" fill="#e5484d"/><circle cx="163" cy="136" r="3.5" fill="#f5b400"/>
+  </g>
+
+  <!-- persona 1: seduta, legge -->
+  <g>
+    <path d="M92 158 q-4 -18 8 -26 q12 -6 20 4 l4 22 z" fill="#2b7de9"/>
+    <path d="M118 158 h22 q6 0 6 5 v3 h-30 z" fill="#1f63bf"/>
+    <circle cx="110" cy="122" r="9" fill="#f1c6a3"/>
+    <path d="M101 120 q2 -11 12 -10 q8 1 8 8 q-6 -4 -13 -1 z" fill="#5b4033"/>
+    <rect x="114" y="136" width="14" height="10" rx="1.5" fill="#f5b400" transform="rotate(-12 121 141)"/>
+    <path d="M104 138 q8 4 14 2" stroke="#f1c6a3" stroke-width="4" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- persona 2: in piedi, saluta -->
+  <g>
+    <rect x="196" y="140" width="6" height="26" rx="2" fill="#37474f"/>
+    <rect x="205" y="140" width="6" height="26" rx="2" fill="#37474f"/>
+    <path d="M193 112 q10 -6 21 0 l2 30 h-25 z" fill="#e5484d"/>
+    <path d="M214 116 l12 -16" stroke="#f1c6a3" stroke-width="5" stroke-linecap="round"/>
+    <path d="M194 118 l-6 18" stroke="#f1c6a3" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="204" cy="100" r="9" fill="#e0ac84"/>
+    <path d="M195 99 q1 -12 10 -11 q9 1 8 10 q-3 -5 -9 -5 q-5 0 -9 6 z" fill="#1f2933"/>
+    <ellipse cx="203" cy="167" rx="12" ry="2.5" fill="#2d7a35" opacity=".4"/>
+  </g>
+
+  <!-- cane -->
+  <g>
+    <ellipse cx="248" cy="166" rx="12" ry="2.5" fill="#2d7a35" opacity=".4"/>
+    <ellipse cx="248" cy="156" rx="12" ry="7" fill="#c8915b"/>
+    <rect x="238" y="158" width="3.5" height="8" rx="1.5" fill="#b07c48"/><rect x="254" y="158" width="3.5" height="8" rx="1.5" fill="#b07c48"/>
+    <circle cx="261" cy="149" r="6.5" fill="#c8915b"/>
+    <path d="M258 144 l-3 -5 l5 2 z" fill="#8d5e36"/>
+    <circle cx="263" cy="148" r="1.1" fill="#1f2933"/>
+    <path d="M236 152 q-6 -6 -3 -10" stroke="#c8915b" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- palla -->
+  <circle cx="226" cy="170" r="5" fill="#ffffff"/><path d="M221 170 h10" stroke="#2b7de9" stroke-width="2"/>
+
+  <!-- fiori -->
+  <g>
+    <circle cx="20" cy="176" r="2.2" fill="#ffffff"/><circle cx="28" cy="184" r="2.2" fill="#f5b400"/><circle cx="14" cy="188" r="2.2" fill="#e5484d"/>
+    <circle cx="300" cy="182" r="2.2" fill="#ffffff"/><circle cx="292" cy="190" r="2.2" fill="#f5b400"/>
+  </g>
+</svg>

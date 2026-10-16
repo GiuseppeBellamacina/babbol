@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- gufo di Babbol -->
+  <path d="M14 18 L10 6 L22 13 Z" fill="#1f63bf"/>
+  <path d="M50 18 L54 6 L42 13 Z" fill="#1f63bf"/>
+  <ellipse cx="32" cy="36" rx="22" ry="24" fill="#2b7de9"/>
+  <ellipse cx="32" cy="44" rx="13" ry="13" fill="#e3efff"/>
+  <circle cx="22.5" cy="28" r="9" fill="#ffffff"/>
+  <circle cx="41.5" cy="28" r="9" fill="#ffffff"/>
+  <circle cx="23.5" cy="28.5" r="4.2" fill="#1f2933"/>
+  <circle cx="40.5" cy="28.5" r="4.2" fill="#1f2933"/>
+  <circle cx="25" cy="27" r="1.4" fill="#ffffff"/>
+  <circle cx="42" cy="27" r="1.4" fill="#ffffff"/>
+  <path d="M28.5 35 L32 40.5 L35.5 35 Z" fill="#f5b400"/>
+  <path d="M26 45 q2 2 4 0 M34 45 q2 2 4 0 M30 50 q2 2 4 0" stroke="#2b7de9" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+</svg>

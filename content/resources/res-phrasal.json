@@ -1,0 +1,1439 @@
+{
+ "id": "res-phrasal",
+ "kind": "phrasal",
+ "title": "Phrasal verbs",
+ "intro": "I phrasal verb più frequenti da A2 a B2, ciascuno con un esempio d'uso.",
+ "items": [
+  {
+   "en": "ask out",
+   "it": "invitare a uscire",
+   "ex": [
+    "He finally asked her out for dinner.",
+    "Alla fine l'ha invitata a cena fuori."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "back up",
+   "it": "fare una copia di sicurezza; sostenere",
+   "ex": [
+    "Remember to back up your files before the update.",
+    "Ricordati di fare una copia dei file prima dell'aggiornamento."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "blow up",
+   "it": "esplodere; gonfiare",
+   "ex": [
+    "The old factory blew up in 1998.",
+    "La vecchia fabbrica è esplosa nel 1998."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "break down",
+   "it": "guastarsi; crollare emotivamente",
+   "ex": [
+    "Our car broke down on the motorway.",
+    "La nostra auto si è guastata in autostrada."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "break in",
+   "it": "entrare con la forza",
+   "ex": [
+    "Thieves broke in while we were away.",
+    "I ladri sono entrati mentre eravamo via."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "break up",
+   "it": "rompere una relazione; sciogliersi",
+   "ex": [
+    "They broke up after two years together.",
+    "Si sono lasciati dopo due anni insieme."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "bring about",
+   "it": "causare, provocare",
+   "ex": [
+    "The new law brought about big changes.",
+    "La nuova legge ha provocato grandi cambiamenti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "bring back",
+   "it": "riportare; richiamare alla mente",
+   "ex": [
+    "This song brings back happy memories.",
+    "Questa canzone mi riporta bei ricordi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "bring up",
+   "it": "crescere (un figlio); sollevare un argomento",
+   "ex": [
+    "She brought up three children on her own.",
+    "Ha cresciuto tre figli da sola."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "build up",
+   "it": "accumulare, aumentare",
+   "ex": [
+    "Traffic builds up on Friday afternoons.",
+    "Il traffico aumenta il venerdì pomeriggio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "burn down",
+   "it": "bruciare completamente",
+   "ex": [
+    "The barn burnt down in the storm.",
+    "Il fienile è bruciato completamente durante il temporale."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "call back",
+   "it": "richiamare",
+   "ex": [
+    "I'll call you back in ten minutes.",
+    "Ti richiamo tra dieci minuti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "call off",
+   "it": "annullare",
+   "ex": [
+    "They called off the match because of the snow.",
+    "Hanno annullato la partita a causa della neve."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "calm down",
+   "it": "calmarsi",
+   "ex": [
+    "Calm down and tell me what happened.",
+    "Calmati e dimmi cos'è successo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "carry on",
+   "it": "continuare",
+   "ex": [
+    "Carry on walking until you reach the church.",
+    "Continua a camminare fino alla chiesa."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "carry out",
+   "it": "eseguire, condurre",
+   "ex": [
+    "The scientists carried out several experiments.",
+    "Gli scienziati hanno condotto diversi esperimenti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "catch up",
+   "it": "mettersi in pari",
+   "ex": [
+    "I missed a week, so I need to catch up.",
+    "Ho perso una settimana, quindi devo mettermi in pari."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "check in",
+   "it": "fare il check-in",
+   "ex": [
+    "You must check in two hours before the flight.",
+    "Bisogna fare il check-in due ore prima del volo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "check out",
+   "it": "fare il check-out; dare un'occhiata",
+   "ex": [
+    "We checked out of the hotel at ten.",
+    "Abbiamo lasciato l'hotel alle dieci."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cheer up",
+   "it": "tirarsi su di morale",
+   "ex": [
+    "Cheer up, things will get better.",
+    "Su con la vita, andrà meglio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "clean up",
+   "it": "ripulire",
+   "ex": [
+    "Please clean up your room before dinner.",
+    "Per favore, ripulisci la tua camera prima di cena."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "come across",
+   "it": "imbattersi in",
+   "ex": [
+    "I came across an old photo in a drawer.",
+    "Mi sono imbattuto in una vecchia foto in un cassetto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "come back",
+   "it": "tornare",
+   "ex": [
+    "When are you coming back from Paris?",
+    "Quando torni da Parigi?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "come down with",
+   "it": "ammalarsi di",
+   "ex": [
+    "She came down with flu last week.",
+    "La settimana scorsa si è presa l'influenza."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "come on",
+   "it": "dai, forza",
+   "ex": [
+    "Come on, we'll be late!",
+    "Dai, faremo tardi!"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "come out",
+   "it": "uscire, essere pubblicato",
+   "ex": [
+    "Her new book comes out in May.",
+    "Il suo nuovo libro esce a maggio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "come up with",
+   "it": "escogitare",
+   "ex": [
+    "We need to come up with a better plan.",
+    "Dobbiamo escogitare un piano migliore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "count on",
+   "it": "contare su",
+   "ex": [
+    "You can count on me.",
+    "Puoi contare su di me."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cut down",
+   "it": "ridurre",
+   "ex": [
+    "I'm trying to cut down on sugar.",
+    "Sto cercando di ridurre lo zucchero."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cut off",
+   "it": "tagliare fuori, interrompere",
+   "ex": [
+    "The village was cut off by the floods.",
+    "Il paese è stato isolato dalle inondazioni."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "deal with",
+   "it": "occuparsi di, affrontare",
+   "ex": [
+    "I'll deal with the customers.",
+    "Mi occupo io dei clienti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "dress up",
+   "it": "vestirsi eleganti; travestirsi",
+   "ex": [
+    "We dressed up for the wedding.",
+    "Ci siamo vestiti eleganti per il matrimonio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "drop by",
+   "it": "passare a trovare",
+   "ex": [
+    "Drop by any time you're in town.",
+    "Passa quando vuoi se sei in città."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "drop off",
+   "it": "lasciare (qualcuno o qualcosa); appisolarsi",
+   "ex": [
+    "Can you drop me off at the station?",
+    "Mi lasci alla stazione?"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "drop out",
+   "it": "abbandonare gli studi",
+   "ex": [
+    "He dropped out of university in his second year.",
+    "Ha lasciato l'università al secondo anno."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "eat out",
+   "it": "mangiare fuori",
+   "ex": [
+    "We eat out every Friday.",
+    "Mangiamo fuori ogni venerdì."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "end up",
+   "it": "finire per, ritrovarsi",
+   "ex": [
+    "We got lost and ended up in a small village.",
+    "Ci siamo persi e siamo finiti in un paesino."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "fall apart",
+   "it": "andare in pezzi",
+   "ex": [
+    "My old bag is falling apart.",
+    "La mia vecchia borsa va in pezzi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "fall behind",
+   "it": "rimanere indietro",
+   "ex": [
+    "He fell behind with the rent.",
+    "È rimasto indietro con l'affitto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "fall out",
+   "it": "litigare",
+   "ex": [
+    "The two sisters fell out over money.",
+    "Le due sorelle hanno litigato per questioni di soldi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "fall over",
+   "it": "cadere, inciampare",
+   "ex": [
+    "The child fell over and cried.",
+    "Il bambino è caduto e ha pianto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "fill in",
+   "it": "compilare",
+   "ex": [
+    "Please fill in this form.",
+    "Compili questo modulo, per favore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "fill up",
+   "it": "riempire",
+   "ex": [
+    "We stopped to fill up the tank.",
+    "Ci siamo fermati a fare il pieno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "find out",
+   "it": "scoprire",
+   "ex": [
+    "I found out the truth yesterday.",
+    "Ieri ho scoperto la verità."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "fit in",
+   "it": "integrarsi",
+   "ex": [
+    "She quickly fitted in at her new school.",
+    "Si è integrata in fretta nella nuova scuola."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "get along",
+   "it": "andare d'accordo",
+   "ex": [
+    "I get along well with my colleagues.",
+    "Vado d'accordo con i miei colleghi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "get away",
+   "it": "scappare; andare in vacanza",
+   "ex": [
+    "I'd love to get away for a weekend.",
+    "Mi piacerebbe staccare per un fine settimana."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "get back",
+   "it": "tornare; riavere",
+   "ex": [
+    "We got back at midnight.",
+    "Siamo tornati a mezzanotte."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "get by",
+   "it": "cavarsela",
+   "ex": [
+    "She gets by on a small salary.",
+    "Se la cava con un piccolo stipendio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "get in",
+   "it": "entrare, arrivare",
+   "ex": [
+    "The train gets in at nine.",
+    "Il treno arriva alle nove."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "get off",
+   "it": "scendere (da un mezzo)",
+   "ex": [
+    "Get off at the next stop.",
+    "Scendi alla prossima fermata."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "get on",
+   "it": "salire; andare d'accordo",
+   "ex": [
+    "We got on the bus at the station.",
+    "Siamo saliti sull'autobus alla stazione."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "get over",
+   "it": "superare, riprendersi da",
+   "ex": [
+    "It took her weeks to get over the flu.",
+    "Ci sono volute settimane per riprendersi dall'influenza."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "get through",
+   "it": "riuscire a passare, superare",
+   "ex": [
+    "We got through the winter without any problems.",
+    "Abbiamo superato l'inverno senza problemi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "get up",
+   "it": "alzarsi",
+   "ex": [
+    "I get up at seven every day.",
+    "Mi alzo alle sette ogni giorno."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "give away",
+   "it": "regalare; rivelare",
+   "ex": [
+    "They gave away free samples at the entrance.",
+    "Regalavano campioni gratuiti all'ingresso."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "give back",
+   "it": "restituire",
+   "ex": [
+    "Can you give me my book back?",
+    "Mi restituisci il mio libro?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "give in",
+   "it": "cedere",
+   "ex": [
+    "I gave in and let him have the last biscuit.",
+    "Ho ceduto e gli ho lasciato l'ultimo biscotto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "give up",
+   "it": "arrendersi, smettere",
+   "ex": [
+    "She gave up smoking last year.",
+    "Ha smesso di fumare l'anno scorso."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "go ahead",
+   "it": "procedere, fare pure",
+   "ex": [
+    "Go ahead, I'll wait for you.",
+    "Vai pure, ti aspetto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "go away",
+   "it": "andare via",
+   "ex": [
+    "Go away, I'm busy!",
+    "Vai via, sono occupato!"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "go back",
+   "it": "tornare indietro",
+   "ex": [
+    "I'd like to go back to Edinburgh one day.",
+    "Mi piacerebbe tornare a Edimburgo un giorno."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "go down",
+   "it": "diminuire, scendere",
+   "ex": [
+    "House prices went down last year.",
+    "Il prezzo delle case è sceso l'anno scorso."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "go off",
+   "it": "esplodere; suonare (sveglia); andare a male",
+   "ex": [
+    "My alarm went off at six.",
+    "La sveglia è suonata alle sei."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "go on",
+   "it": "continuare; succedere",
+   "ex": [
+    "What's going on here?",
+    "Che sta succedendo qui?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "go out",
+   "it": "uscire",
+   "ex": [
+    "We go out for a walk every evening.",
+    "Usciamo a fare una passeggiata ogni sera."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "go over",
+   "it": "riesaminare",
+   "ex": [
+    "Let's go over the plan once more.",
+    "Rivediamo ancora una volta il piano."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "go up",
+   "it": "aumentare, salire",
+   "ex": [
+    "Prices have gone up again.",
+    "I prezzi sono di nuovo aumentati."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "grow up",
+   "it": "crescere, diventare adulto",
+   "ex": [
+    "I grew up in a small town.",
+    "Sono cresciuto in una piccola città."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "hand in",
+   "it": "consegnare",
+   "ex": [
+    "Please hand in your essays by Monday.",
+    "Consegnate i vostri temi entro lunedì."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "hand out",
+   "it": "distribuire",
+   "ex": [
+    "The teacher handed out the test papers.",
+    "L'insegnante ha distribuito i compiti in classe."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "hang on",
+   "it": "aspettare un attimo",
+   "ex": [
+    "Hang on, I'll be back in a minute.",
+    "Aspetta un attimo, torno subito."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "hang out",
+   "it": "passare il tempo insieme",
+   "ex": [
+    "We usually hang out at the park.",
+    "Di solito stiamo al parco."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "hang up",
+   "it": "riattaccare il telefono",
+   "ex": [
+    "He hung up before I could answer.",
+    "Ha riattaccato prima che potessi rispondere."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "head for",
+   "it": "dirigersi verso",
+   "ex": [
+    "We headed for the nearest café.",
+    "Ci siamo diretti verso il bar più vicino."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "hold on",
+   "it": "aspettare, tenersi forte",
+   "ex": [
+    "Hold on, I'm just finding my keys.",
+    "Un attimo, sto cercando le chiavi."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "hold up",
+   "it": "ritardare; rapinare",
+   "ex": [
+    "The traffic held us up for an hour.",
+    "Il traffico ci ha fatto ritardare di un'ora."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "keep on",
+   "it": "continuare a fare",
+   "ex": [
+    "She kept on talking all through the film.",
+    "Ha continuato a parlare per tutto il film."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "keep out",
+   "it": "tenere fuori",
+   "ex": [
+    "Keep out of the kitchen while I'm cooking.",
+    "Stai fuori dalla cucina mentre cucino."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "keep up",
+   "it": "tenere il passo",
+   "ex": [
+    "It's hard to keep up with the news.",
+    "È difficile tenersi al passo con le notizie."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "knock down",
+   "it": "abbattere, investire",
+   "ex": [
+    "They knocked down the old cinema.",
+    "Hanno abbattuto il vecchio cinema."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "leave out",
+   "it": "omettere, escludere",
+   "ex": [
+    "You left out the most important detail.",
+    "Hai omesso il dettaglio più importante."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "let down",
+   "it": "deludere",
+   "ex": [
+    "I promised to help, and I won't let you down.",
+    "Ho promesso di aiutare e non ti deluderò."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "let in",
+   "it": "far entrare",
+   "ex": [
+    "She let the cat in.",
+    "Ha fatto entrare il gatto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "light up",
+   "it": "illuminare, illuminarsi",
+   "ex": [
+    "Her face lit up when she saw us.",
+    "Il suo viso si è illuminato quando ci ha visti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "log in",
+   "it": "accedere",
+   "ex": [
+    "Log in with your email and password.",
+    "Accedi con la tua email e la password."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "log out",
+   "it": "uscire dall'account",
+   "ex": [
+    "Don't forget to log out on a shared computer.",
+    "Non dimenticare di uscire dall'account su un computer condiviso."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "look after",
+   "it": "prendersi cura di",
+   "ex": [
+    "She looks after her grandmother.",
+    "Si prende cura di sua nonna."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "look for",
+   "it": "cercare",
+   "ex": [
+    "I'm looking for my glasses.",
+    "Sto cercando i miei occhiali."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "look forward to",
+   "it": "non vedere l'ora di",
+   "ex": [
+    "I'm looking forward to seeing you.",
+    "Non vedo l'ora di vederti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "look into",
+   "it": "indagare su",
+   "ex": [
+    "The police are looking into the case.",
+    "La polizia sta indagando sul caso."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "look out",
+   "it": "stare attento",
+   "ex": [
+    "Look out! There's a car coming!",
+    "Attento! Sta arrivando un'auto!"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "look up",
+   "it": "cercare (in un dizionario)",
+   "ex": [
+    "Look up the word in a dictionary.",
+    "Cerca la parola in un dizionario."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "make out",
+   "it": "distinguere, capire",
+   "ex": [
+    "I couldn't make out what he was saying.",
+    "Non riuscivo a capire cosa dicesse."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "make up",
+   "it": "inventare; truccarsi; fare pace",
+   "ex": [
+    "He made up an excuse for being late.",
+    "Ha inventato una scusa per il ritardo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "make up for",
+   "it": "compensare",
+   "ex": [
+    "He bought flowers to make up for forgetting our anniversary.",
+    "Ha comprato dei fiori per farsi perdonare di aver dimenticato il nostro anniversario."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "mix up",
+   "it": "confondere",
+   "ex": [
+    "I always mix up their names.",
+    "Confondo sempre i loro nomi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "move in",
+   "it": "trasferirsi in una casa",
+   "ex": [
+    "The new neighbours moved in last week.",
+    "I nuovi vicini si sono trasferiti la settimana scorsa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "move on",
+   "it": "andare avanti, passare oltre",
+   "ex": [
+    "It's time to move on to the next topic.",
+    "È ora di passare all'argomento successivo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "move out",
+   "it": "traslocare via",
+   "ex": [
+    "She moved out when she was eighteen.",
+    "È andata via di casa a diciotto anni."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "open up",
+   "it": "aprirsi, confidarsi",
+   "ex": [
+    "He found it hard to open up to anyone.",
+    "Faceva fatica a confidarsi con qualcuno."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "pass away",
+   "it": "morire (eufemismo)",
+   "ex": [
+    "His grandfather passed away last spring.",
+    "Suo nonno è mancato la primavera scorsa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "pass out",
+   "it": "svenire",
+   "ex": [
+    "It was so hot that she nearly passed out.",
+    "Faceva così caldo che stava quasi per svenire."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "pay back",
+   "it": "restituire (denaro)",
+   "ex": [
+    "I'll pay you back on Friday.",
+    "Ti restituisco i soldi venerdì."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "pick up",
+   "it": "raccogliere; andare a prendere",
+   "ex": [
+    "I'll pick you up at the airport.",
+    "Passo a prenderti all'aeroporto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "point out",
+   "it": "far notare",
+   "ex": [
+    "She pointed out that the figures were wrong.",
+    "Ha fatto notare che i dati erano sbagliati."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "put away",
+   "it": "mettere a posto",
+   "ex": [
+    "Put your toys away, please.",
+    "Metti a posto i giocattoli, per favore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "put off",
+   "it": "rimandare",
+   "ex": [
+    "Don't put off your homework until tomorrow.",
+    "Non rimandare i compiti a domani."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "put on",
+   "it": "indossare; accendere; mettere su",
+   "ex": [
+    "Put on your coat; it's cold.",
+    "Mettiti il cappotto: fa freddo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "put out",
+   "it": "spegnere (un fuoco)",
+   "ex": [
+    "The firefighters put out the fire quickly.",
+    "I pompieri hanno spento l'incendio in fretta."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "put up with",
+   "it": "sopportare",
+   "ex": [
+    "I can't put up with this noise any longer.",
+    "Non riesco più a sopportare questo rumore."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "run away",
+   "it": "scappare",
+   "ex": [
+    "The boy ran away from home.",
+    "Il ragazzo è scappato di casa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "run into",
+   "it": "incontrare per caso",
+   "ex": [
+    "I ran into an old friend at the supermarket.",
+    "Ho incontrato per caso un vecchio amico al supermercato."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "run out of",
+   "it": "rimanere senza",
+   "ex": [
+    "We've run out of milk.",
+    "Siamo rimasti senza latte."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "set off",
+   "it": "partire",
+   "ex": [
+    "We set off at dawn.",
+    "Siamo partiti all'alba."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "set up",
+   "it": "fondare, organizzare, installare",
+   "ex": [
+    "They set up a small business together.",
+    "Hanno avviato insieme una piccola attività."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "show off",
+   "it": "mettersi in mostra",
+   "ex": [
+    "He likes to show off his new car.",
+    "Gli piace sfoggiare la sua nuova auto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "show up",
+   "it": "presentarsi",
+   "ex": [
+    "He didn't show up for the meeting.",
+    "Non si è presentato alla riunione."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "shut up",
+   "it": "stare zitto",
+   "ex": [
+    "Shut up and listen!",
+    "Stai zitto e ascolta!"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "sign up",
+   "it": "iscriversi",
+   "ex": [
+    "I signed up for a yoga class.",
+    "Mi sono iscritto a un corso di yoga."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "sit down",
+   "it": "sedersi",
+   "ex": [
+    "Please sit down and wait here.",
+    "Si sieda e aspetti qui, per favore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "slow down",
+   "it": "rallentare",
+   "ex": [
+    "Slow down, you're driving too fast.",
+    "Rallenta, stai guidando troppo veloce."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "speak up",
+   "it": "parlare più forte",
+   "ex": [
+    "Could you speak up? I can't hear you.",
+    "Puoi parlare più forte? Non ti sento."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "stand for",
+   "it": "significare; sopportare",
+   "ex": [
+    "What does NATO stand for?",
+    "Che cosa significa la sigla NATO?"
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "stand out",
+   "it": "spiccare",
+   "ex": [
+    "Her red coat stood out in the crowd.",
+    "Il suo cappotto rosso spiccava tra la folla."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "stand up",
+   "it": "alzarsi in piedi",
+   "ex": [
+    "Everyone stood up when she came in.",
+    "Tutti si sono alzati in piedi quando è entrata."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "stay up",
+   "it": "stare alzato",
+   "ex": [
+    "We stayed up late to watch the match.",
+    "Siamo rimasti alzati fino a tardi per vedere la partita."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "switch off",
+   "it": "spegnere",
+   "ex": [
+    "Switch off the lights when you leave.",
+    "Spegni le luci quando esci."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "switch on",
+   "it": "accendere",
+   "ex": [
+    "Switch on the heating, please.",
+    "Accendi il riscaldamento, per favore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "take after",
+   "it": "assomigliare (a un familiare)",
+   "ex": [
+    "She takes after her mother.",
+    "Assomiglia a sua madre."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "take away",
+   "it": "portare via",
+   "ex": [
+    "Two pizzas to take away, please.",
+    "Due pizze da asporto, per favore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "take back",
+   "it": "riprendere; ritirare ciò che si è detto",
+   "ex": [
+    "I'm sorry, I take it back.",
+    "Mi dispiace, ritiro quello che ho detto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "take in",
+   "it": "capire; ingannare",
+   "ex": [
+    "It took me a while to take in the news.",
+    "Mi ci è voluto un po' per assimilare la notizia."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "take off (a plane)",
+   "it": "decollare",
+   "ex": [
+    "The plane took off ten minutes late.",
+    "L'aereo è decollato con dieci minuti di ritardo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "take off (clothes)",
+   "it": "togliersi (i vestiti)",
+   "ex": [
+    "Take off your shoes at the door.",
+    "Toglietevi le scarpe all'ingresso."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "take on",
+   "it": "assumere; accettare",
+   "ex": [
+    "The company is taking on fifty new workers.",
+    "L'azienda sta assumendo cinquanta nuovi lavoratori."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "take out",
+   "it": "portare fuori; prelevare",
+   "ex": [
+    "Can you take out the rubbish?",
+    "Puoi portare fuori la spazzatura?"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "take over",
+   "it": "prendere il controllo",
+   "ex": [
+    "A bigger firm took over the company.",
+    "Un'azienda più grande ha rilevato la società."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "take up",
+   "it": "iniziare (un'attività)",
+   "ex": [
+    "She took up painting after she retired.",
+    "Ha iniziato a dipingere dopo la pensione."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "talk over",
+   "it": "discutere",
+   "ex": [
+    "Let's talk it over tonight.",
+    "Ne discutiamo stasera con calma."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "tear up",
+   "it": "strappare",
+   "ex": [
+    "He tore up the letter and threw it away.",
+    "Ha strappato la lettera e l'ha buttata."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "tell off",
+   "it": "rimproverare",
+   "ex": [
+    "The teacher told him off for being late.",
+    "L'insegnante lo ha rimproverato perché era in ritardo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "think over",
+   "it": "rifletterci su",
+   "ex": [
+    "Let me think it over and call you tomorrow.",
+    "Fammi pensare e ti chiamo domani."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "throw away",
+   "it": "buttare via",
+   "ex": [
+    "Don't throw away that box; I might need it.",
+    "Non buttare via quella scatola: potrebbe servirmi."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "try on",
+   "it": "provare (un vestito)",
+   "ex": [
+    "Can I try on this jacket?",
+    "Posso provare questa giacca?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "try out",
+   "it": "provare, sperimentare",
+   "ex": [
+    "We're trying out a new recipe tonight.",
+    "Stasera proviamo una nuova ricetta."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "turn down",
+   "it": "rifiutare; abbassare",
+   "ex": [
+    "She turned down the job offer.",
+    "Ha rifiutato l'offerta di lavoro."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "turn off",
+   "it": "spegnere",
+   "ex": [
+    "Turn off the TV, please.",
+    "Spegni la tv, per favore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "turn on",
+   "it": "accendere",
+   "ex": [
+    "Turn on the light; it's dark.",
+    "Accendi la luce: è buio."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "turn out",
+   "it": "rivelarsi, andare a finire",
+   "ex": [
+    "The party turned out to be great fun.",
+    "La festa si è rivelata molto divertente."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "turn up",
+   "it": "presentarsi; alzare",
+   "ex": [
+    "Only ten people turned up.",
+    "Si sono presentate solo dieci persone."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "use up",
+   "it": "esaurire",
+   "ex": [
+    "We've used up all the hot water.",
+    "Abbiamo finito tutta l'acqua calda."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "wake up",
+   "it": "svegliarsi",
+   "ex": [
+    "I woke up at six this morning.",
+    "Stamattina mi sono svegliato alle sei."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "warm up",
+   "it": "riscaldarsi",
+   "ex": [
+    "Warm up before you start running.",
+    "Fai riscaldamento prima di iniziare a correre."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "wash up",
+   "it": "lavare i piatti",
+   "ex": [
+    "I'll wash up while you dry.",
+    "Lavo io i piatti e tu li asciughi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "watch out",
+   "it": "stare attento",
+   "ex": [
+    "Watch out for the ice on the road.",
+    "Fai attenzione al ghiaccio sulla strada."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "wear out",
+   "it": "consumare, sfinire",
+   "ex": [
+    "I've worn out my shoes already.",
+    "Ho già consumato le scarpe."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "work out",
+   "it": "fare esercizio; risolvere; funzionare",
+   "ex": [
+    "I work out three times a week.",
+    "Mi alleno tre volte a settimana."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "write down",
+   "it": "annotare",
+   "ex": [
+    "Write down your phone number, please.",
+    "Scrivi il tuo numero di telefono, per favore."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

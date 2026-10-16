@@ -1,0 +1,1558 @@
+{
+  "id": "b1-01",
+  "level": "B1",
+  "position": 1,
+  "title": "Lavoro e carriera",
+  "sub": "Present perfect simple e continuous - il colloquio di lavoro",
+  "grammar": "Present perfect simple vs continuous, for/since, how long",
+  "topic": "Lavoro e carriera",
+  "situation": "Colloquio di lavoro (domande base)",
+  "lessons": [
+    {
+      "id": "b1-01-grammar",
+      "kind": "grammar",
+      "title": "Da quanto tempo? Present perfect",
+      "intro": "In un colloquio ti chiederanno «da quanto lavori lì?» e «che cosa hai fatto finora?». In italiano usiamo il presente («lavoro lì da tre anni»); in inglese serve il present perfect, semplice o continuous. Qui impari a scegliere con sicurezza.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Present perfect simple: il risultato conta",
+          "body": "Forma: **have / has + participio passato** (worked, written, been).\n\nSi usa per collegare il passato al presente:\n- **un risultato che vediamo adesso**: I've lost my keys. (e non li ho)\n- **esperienze di vita, senza dire quando**: She has worked in three countries.\n- **quantità** (how many / how much): I've sent twelve emails this morning.\n- **situazioni che durano fino a oggi**, soprattutto con verbi di stato: I've known her for years.\n\nNon si usa quando c'è un **tempo finito** (yesterday, last year, in 2019, ago): lì serve il past simple.",
+          "table": [
+            [
+              "",
+              "Affermativa",
+              "Negativa",
+              "Domanda"
+            ],
+            [
+              "I / you / we / they",
+              "have worked",
+              "haven't worked",
+              "Have you worked?"
+            ],
+            [
+              "he / she / it",
+              "has worked",
+              "hasn't worked",
+              "Has she worked?"
+            ]
+          ],
+          "ex": [
+            [
+              "I've applied for three jobs this month.",
+              "Questo mese ho fatto domanda per tre lavori."
+            ],
+            [
+              "He has been a teacher since 2012.",
+              "Fa l'insegnante dal 2012."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Present perfect continuous: l'attività conta",
+          "body": "Forma: **have / has + been + verbo in -ing**.\n\nSi usa quando ti interessa **l'attività** e la sua **durata**, non il risultato:\n- **un'azione iniziata nel passato e ancora in corso**: I've been working here for five years.\n- **un'azione appena finita, con effetti visibili**: Your eyes are red. Have you been crying?\n- **un'azione ripetuta di recente**: She's been going to the gym a lot lately.\n\nÈ la forma naturale con **how long** quando parli di un'attività: How long have you been waiting?\n\n**Verbi di stato** (know, like, have = possedere, be, believe, understand) **non** si usano al continuous: «I've been knowing him for years» è sbagliato -> I've known him for years.",
+          "table": [
+            [
+              "",
+              "Affermativa",
+              "Negativa",
+              "Domanda"
+            ],
+            [
+              "I / you / we / they",
+              "have been working",
+              "haven't been working",
+              "Have you been working?"
+            ],
+            [
+              "he / she / it",
+              "has been working",
+              "hasn't been working",
+              "Has she been working?"
+            ]
+          ],
+          "ex": [
+            [
+              "I've been learning English since I was twelve.",
+              "Studio inglese da quando avevo dodici anni."
+            ],
+            [
+              "It's been raining all day.",
+              "Ha piovuto tutto il giorno."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Simple o continuous? Tre test pratici",
+          "body": "1. **Quantità o durata?** Se dici quanto/quante volte -> simple. Se dici quanto tempo -> spesso continuous.\n- I've written **three reports** today. / I've been writing **since nine**.\n2. **Finito o in corso?** Il simple suggerisce che il lavoro è completo, il continuous che è (forse) ancora in corso.\n- I've painted the kitchen. (è finita) / I've been painting the kitchen. (ci sto ancora lavorando, o ho appena smesso)\n3. **Permanente o temporaneo?** Con live e work le due forme sono quasi uguali: I've lived / I've been living here for ten years. Il continuous dà un senso di situazione più recente o temporanea.\n\nIl continuous non si usa con un **numero preciso di volte o oggetti**: «I've been writing three emails» è sbagliato.",
+          "ex": [
+            [
+              "How many interviews have you had?",
+              "Quanti colloqui hai fatto?"
+            ],
+            [
+              "How long have you been looking for a job?",
+              "Da quanto tempo cerchi lavoro?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "For, since, ago e how long",
+          "body": "- **for** + periodo di tempo: for three years, for a long time, for ages.\n- **since** + momento di inizio: since 2019, since Monday, since I left university (anche con una frase al past simple).\n- **ago** + past simple: I left the company two years ago.\n- **How long...?** chiede la durata: How long have you worked here?\n\n**Errore tipico degli italiani**: «I work here since 2019» o «I'm working here from three years». In inglese, per una situazione che dura fino a oggi, serve il **present perfect**: I've worked here since 2019 / for three years.\n\nAttenzione: se il lavoro è **finito**, si usa il past simple: How long **did** you work there? (non ci lavori più). How long **have** you worked there? (ci lavori ancora).",
+          "table": [
+            [
+              "",
+              "Esempio"
+            ],
+            [
+              "for",
+              "I've been here for two hours."
+            ],
+            [
+              "since",
+              "I've been here since ten o'clock."
+            ],
+            [
+              "ago (past simple)",
+              "I arrived two hours ago."
+            ]
+          ],
+          "ex": [
+            [
+              "She's been a manager since she was thirty.",
+              "È responsabile da quando aveva trent'anni."
+            ],
+            [
+              "How long did you work in Berlin?",
+              "Quanto tempo hai lavorato a Berlino?"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "She ___ for the same company since 2015.",
+          "opts": [
+            "has worked",
+            "is working",
+            "worked"
+          ],
+          "a": 0,
+          "it": "Lavora per la stessa azienda dal 2015.",
+          "why": "Situazione che dura fino a oggi con «since»: present perfect, non il presente come in italiano."
+        },
+        {
+          "t": "gap",
+          "s": "Marco left the company two years ___ .",
+          "opts": [
+            "ago",
+            "before",
+            "since"
+          ],
+          "a": 0,
+          "why": "«Ago» si mette dopo il periodo e vuole il past simple (left)."
+        },
+        {
+          "t": "gap",
+          "s": "My hands are covered in paint. I ___ the kitchen.",
+          "opts": [
+            "have been painting",
+            "paint",
+            "will paint"
+          ],
+          "a": 0,
+          "why": "Azione appena finita con effetti visibili: present perfect continuous."
+        },
+        {
+          "t": "gap",
+          "s": "I ___ three reports today, and I haven't finished the fourth.",
+          "opts": [
+            "have written",
+            "have been writing",
+            "wrote"
+          ],
+          "a": 0,
+          "why": "Con un numero preciso di oggetti si usa il simple: have written."
+        },
+        {
+          "t": "gap",
+          "s": "Come on, I ___ for you since eight o'clock!",
+          "opts": [
+            "have been waiting",
+            "waited",
+            "wait"
+          ],
+          "a": 0,
+          "it": "Dai, ti aspetto dalle otto!",
+          "why": "Azione in corso con «since»: present perfect continuous."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I've known Paul since 2010.",
+            "I'm knowing Paul since 2010.",
+            "I know Paul since 2010."
+          ],
+          "a": 0,
+          "why": "«Know» è un verbo di stato (niente -ing) e con «since» serve il present perfect."
+        },
+        {
+          "t": "mc",
+          "q": "Quale domanda chiede da quanto tempo studi ancora inglese?",
+          "opts": [
+            "How long have you been studying English?",
+            "How long are you studying English?",
+            "How long do you study English?"
+          ],
+          "a": 0,
+          "why": "Durata di un'attività che continua: have you been studying."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "She ___ (work) here since she left university.",
+          "answers": [
+            "has worked",
+            "has been working",
+            "'s worked",
+            "'s been working"
+          ],
+          "why": "Situazione che continua dal passato a oggi, con «since»."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "How long ___ (you / wait) for the bus?",
+          "answers": [
+            "have you been waiting",
+            "have you waited"
+          ],
+          "why": "Domanda sulla durata con how long: present perfect, di solito continuous."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Vivo a Torino da dieci anni.",
+          "answers": [
+            "I've lived in Turin for ten years",
+            "I have lived in Turin for ten years",
+            "I've been living in Turin for ten years",
+            "I have been living in Turin for ten years"
+          ],
+          "why": "In italiano si usa il presente; in inglese il present perfect con «for»."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Da quanto tempo studi inglese?",
+          "answers": [
+            "How long have you been studying English",
+            "How long have you studied English",
+            "How long have you been learning English",
+            "How long have you learnt English",
+            "How long have you learned English"
+          ],
+          "why": "Domanda con how long: present perfect (di solito continuous)."
+        },
+        {
+          "t": "fix",
+          "s": "I am working in this company since 2018.",
+          "answers": [
+            "I have worked in this company since 2018",
+            "I have been working in this company since 2018",
+            "I've worked in this company since 2018",
+            "I've been working in this company since 2018",
+            "I have worked at this company since 2018",
+            "I have been working at this company since 2018",
+            "I've worked at this company since 2018",
+            "I've been working at this company since 2018"
+          ],
+          "why": "Con «since» serve il present perfect, non il present continuous."
+        },
+        {
+          "t": "fix",
+          "s": "She has been knowing him for years.",
+          "answers": [
+            "She has known him for years",
+            "She's known him for years"
+          ],
+          "why": "«Know» è un verbo di stato: non ammette il continuous."
+        },
+        {
+          "t": "fix",
+          "s": "I've been working here since three years.",
+          "answers": [
+            "I've been working here for three years",
+            "I have been working here for three years",
+            "I've worked here for three years",
+            "I have worked here for three years"
+          ],
+          "why": "«Since» vuole un momento preciso (2019, Monday); per un periodo si usa «for»."
+        },
+        {
+          "t": "transform",
+          "s1": "I started working here in 2019.",
+          "key": "SINCE",
+          "s2": "I ___ 2019.",
+          "answers": [
+            "have worked here since",
+            "have been working here since",
+            "'ve worked here since",
+            "'ve been working here since"
+          ],
+          "why": "Inizio nel passato e situazione ancora attuale: present perfect + since."
+        },
+        {
+          "t": "transform",
+          "s1": "It's two years since I last saw Maria.",
+          "key": "SEEN",
+          "s2": "I ___ Maria for two years.",
+          "answers": [
+            "haven't seen",
+            "have not seen"
+          ],
+          "why": "«It's two years since I last saw» = «non vedo da due anni»: haven't seen + for."
+        },
+        {
+          "t": "transform",
+          "s1": "Her phone call started an hour ago and she is still talking.",
+          "key": "BEEN",
+          "s2": "She ___ the phone for an hour.",
+          "answers": [
+            "has been talking on",
+            "'s been talking on",
+            "has been speaking on",
+            "has been on",
+            "'s been on",
+            "has been chatting on",
+            "'s been speaking on"
+          ],
+          "why": "Azione ancora in corso: present perfect continuous (oppure has been on the phone)."
+        },
+        {
+          "t": "order",
+          "it": "Da quanto tempo lavori per questa azienda?",
+          "en": "How long have you been working for this company",
+          "extra": [
+            "do",
+            "since"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-01-vocab",
+      "kind": "vocab",
+      "title": "Lavoro e carriera",
+      "intro": "Il lessico per parlare di candidature, colloqui e crescita professionale. Molte parole formano collocazioni fisse (apply for, cope with): imparale insieme al verbo.",
+      "minutes": 20,
+      "words": [
+        {
+          "id": "b1-01-w01",
+          "en": "career",
+          "it": "carriera",
+          "ipa": "kəˈrɪə",
+          "pos": "n",
+          "ex": [
+            "She has had a successful career in journalism.",
+            "Ha avuto una carriera di successo nel giornalismo."
+          ],
+          "note": "Accento sulla seconda sillaba. Mai «carrier» (che significa «trasportatore, vettore»)."
+        },
+        {
+          "id": "b1-01-w02",
+          "en": "apply for",
+          "it": "fare domanda per, candidarsi a",
+          "ipa": "əˈplaɪ fɔː",
+          "pos": "pv",
+          "ex": [
+            "I'm going to apply for a job at the council.",
+            "Farò domanda per un posto al comune."
+          ],
+          "note": "Il nome è application. Non «apply to a job»."
+        },
+        {
+          "id": "b1-01-w03",
+          "en": "qualification",
+          "it": "titolo, qualifica",
+          "ipa": "ˌkwɒlɪfɪˈkeɪʃn",
+          "pos": "n",
+          "ex": [
+            "You need a teaching qualification for this post.",
+            "Per questo posto serve un titolo di abilitazione all'insegnamento."
+          ],
+          "note": "Si dice have a qualification. Un titolo di studio è degree o diploma."
+        },
+        {
+          "id": "b1-01-w04",
+          "en": "candidate",
+          "it": "candidato",
+          "ipa": "ˈkændɪdət",
+          "pos": "n",
+          "ex": [
+            "We interviewed six candidates yesterday.",
+            "Ieri abbiamo intervistato sei candidati."
+          ]
+        },
+        {
+          "id": "b1-01-w05",
+          "en": "resign",
+          "it": "dimettersi",
+          "ipa": "rɪˈzaɪn",
+          "pos": "v",
+          "ex": [
+            "He resigned after an argument with his boss.",
+            "Si è dimesso dopo una discussione con il capo."
+          ],
+          "note": "Il nome è resignation. Pronuncia con /z/."
+        },
+        {
+          "id": "b1-01-w06",
+          "en": "promotion",
+          "it": "promozione (di carriera)",
+          "ipa": "prəˈməʊʃn",
+          "pos": "n",
+          "ex": [
+            "She got a promotion after only a year.",
+            "Ha ottenuto una promozione dopo solo un anno."
+          ],
+          "note": "Il verbo è be promoted. Non è la promozione commerciale (special offer)."
+        },
+        {
+          "id": "b1-01-w07",
+          "en": "be made redundant",
+          "it": "essere licenziato per esubero",
+          "ipa": "bi meɪd rɪˈdʌndənt",
+          "pos": "phr",
+          "ex": [
+            "About fifty workers were made redundant last year.",
+            "L'anno scorso una cinquantina di lavoratori sono stati licenziati per esubero."
+          ],
+          "note": "«Redundant» NON significa «ridondante» in questo senso. Se ti licenziano per un errore: be sacked / fired."
+        },
+        {
+          "id": "b1-01-w08",
+          "en": "employer",
+          "it": "datore di lavoro",
+          "ipa": "ɪmˈplɔɪə",
+          "pos": "n",
+          "ex": [
+            "My employer pays for my English course.",
+            "Il mio datore di lavoro mi paga il corso di inglese."
+          ]
+        },
+        {
+          "id": "b1-01-w09",
+          "en": "workload",
+          "it": "carico di lavoro",
+          "ipa": "ˈwɜːkləʊd",
+          "pos": "n",
+          "ex": [
+            "My workload has doubled since January.",
+            "Il mio carico di lavoro è raddoppiato da gennaio."
+          ],
+          "note": "Collocazioni: a heavy / light workload."
+        },
+        {
+          "id": "b1-01-w10",
+          "en": "reference",
+          "it": "referenza, lettera di raccomandazione",
+          "ipa": "ˈrefrəns",
+          "pos": "n",
+          "ex": [
+            "Could you give me a reference for my application?",
+            "Potresti scrivermi una referenza per la mia candidatura?"
+          ],
+          "note": "Si dice give / write a reference."
+        },
+        {
+          "id": "b1-01-w11",
+          "en": "cope with",
+          "it": "far fronte a, gestire",
+          "ipa": "kəʊp wɪð",
+          "pos": "pv",
+          "ex": [
+            "How do you cope with so much stress?",
+            "Come fai a gestire così tanto stress?"
+          ]
+        },
+        {
+          "id": "b1-01-w12",
+          "en": "take on",
+          "it": "assumere (un incarico o una persona)",
+          "ipa": "teɪk ˈɒn",
+          "pos": "pv",
+          "ex": [
+            "The company is taking on ten new staff.",
+            "L'azienda sta assumendo dieci nuovi dipendenti."
+          ],
+          "note": "Vale anche per «accettare un compito»: take on extra work."
+        },
+        {
+          "id": "b1-01-w13",
+          "en": "strength",
+          "it": "punto di forza",
+          "ipa": "streŋθ",
+          "pos": "n",
+          "ex": [
+            "My main strength is working in a team.",
+            "Il mio punto di forza principale è lavorare in squadra."
+          ],
+          "note": "Nei colloqui: strengths and weaknesses."
+        },
+        {
+          "id": "b1-01-w14",
+          "en": "rewarding",
+          "it": "gratificante",
+          "ipa": "rɪˈwɔːdɪŋ",
+          "pos": "adj",
+          "ex": [
+            "Teaching can be tiring, but it is very rewarding.",
+            "Insegnare può essere stancante, ma è molto gratificante."
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "apply for a job",
+              "candidarsi a un posto"
+            ],
+            [
+              "hand in your resignation",
+              "presentare le dimissioni"
+            ],
+            [
+              "get a promotion",
+              "ottenere una promozione"
+            ],
+            [
+              "give a reference",
+              "fornire una referenza"
+            ],
+            [
+              "take on extra work",
+              "accollarsi altro lavoro"
+            ],
+            [
+              "a heavy workload",
+              "un carico di lavoro pesante"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "She's very ambitious and wants to build a successful ___ in finance.",
+          "opts": [
+            "career",
+            "carrier",
+            "work"
+          ],
+          "a": 0,
+          "why": "«Career» = percorso professionale; «carrier» è un falso amico (vettore, corriere)."
+        },
+        {
+          "t": "gap",
+          "s": "My job is stressful, but I ___ with it by going for a run every evening.",
+          "opts": [
+            "cope",
+            "carry",
+            "support"
+          ],
+          "a": 0,
+          "why": "«Cope with» = riuscire a gestire una situazione difficile."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "The firm is closing one of its offices, so thirty employees will be made ___ .",
+          "answers": [
+            "redundant"
+          ],
+          "sub": "L'azienda chiude una sede, quindi trenta dipendenti saranno licenziati per esubero."
+        },
+        {
+          "t": "wordform",
+          "s": "After ten years in the same job, she decided to ___ and travel.",
+          "root": "RESIGNATION",
+          "answers": [
+            "resign"
+          ],
+          "why": "Serve il verbo: resignation -> resign."
+        },
+        {
+          "t": "wordform",
+          "s": "You need a professional ___ to work as an accountant.",
+          "root": "QUALIFY",
+          "answers": [
+            "qualification"
+          ],
+          "why": "Serve un nome: qualify -> qualification."
+        },
+        {
+          "t": "mc",
+          "q": "Quale frase è corretta?",
+          "opts": [
+            "I'm applying for the position of sales assistant.",
+            "I'm applying to the position of sales assistant.",
+            "I'm applying the position of sales assistant."
+          ],
+          "a": 0,
+          "why": "Si dice apply for a job / position."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Il mio punto di forza è risolvere i problemi.",
+          "answers": [
+            "My strength is solving problems",
+            "My main strength is solving problems",
+            "My strength is problem solving",
+            "My strength is to solve problems",
+            "My strength is problem-solving",
+            "My main strength is problem solving",
+            "My main strength is problem-solving"
+          ],
+          "why": "Dopo is si usa di solito la forma in -ing."
+        }
+      ]
+    },
+    {
+      "id": "b1-01-reading",
+      "kind": "reading",
+      "title": "Dalla sala al ruolo di responsabile",
+      "intro": "Un articolo racconta la carriera di una donna che ha iniziato lavorando in un ristorante. Nota quante volte compare il present perfect e perché.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "read",
+          "title": "From waitress to events manager",
+          "genre": "articolo",
+          "text": "When Nadia Rahman left school at eighteen, she had no idea what she wanted to do. \"I just knew I didn't want to go to university,\" she says. \"I needed money, so I took the first job I found.\"\n\nThat job was in a busy restaurant in Manchester, and she has never regretted it. She has been working in the hospitality industry for fourteen years now, and in that time she has done almost every job there is: waitress, bar manager, even cook for a short period. \"People think working in a restaurant isn't a real career,\" she says, \"but I've learnt more about people than any course could teach me.\"\n\nHer big break came six years ago, when the owner of the restaurant asked her to organise a large wedding. She had never planned anything like it, but she accepted the challenge. The event went so well that she was offered a position as events coordinator, and she has been organising conferences, parties and weddings ever since. Last spring she was promoted again, and she now manages a team of twelve people.\n\nHas it been easy? Not always. For the last two years she has been studying part-time for a business qualification in the evenings, and she admits that she has often felt exhausted. \"There have been moments when I wanted to give up,\" she says. \"I've missed a lot of social events, and my friends have almost stopped inviting me!\" However, she has just passed her first exams, and she says it has all been worthwhile.\n\nHer advice to young people is simple. \"Don't worry if you haven't decided on your career yet. Take opportunities when they come, say yes to challenges, and be honest about what you can't do. Since I started saying yes, my life has changed completely. I have been given chances I never imagined, and I haven't finished yet. Next year I'd like to open my own events company.\"",
+          "qs": [
+            {
+              "q": "Why did Nadia take her first job?",
+              "opts": [
+                "She needed money.",
+                "She loved cooking.",
+                "She wanted to study hospitality."
+              ],
+              "a": 0,
+              "why": "«I needed money, so I took the first job I found.»"
+            },
+            {
+              "q": "Nadia has worked in hospitality for ___ years.",
+              "answers": [
+                "14",
+                "fourteen"
+              ],
+              "why": "«...for fourteen years now»."
+            },
+            {
+              "q": "What changed her career six years ago?",
+              "opts": [
+                "She organised a big wedding.",
+                "She won a cooking competition.",
+                "She moved to a new restaurant."
+              ],
+              "a": 0,
+              "why": "«...the owner asked her to organise a large wedding... she was offered a position as events coordinator»."
+            },
+            {
+              "q": "Nadia studied business at university.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "Non è andata all'università: studia part-time la sera per una qualifica."
+            },
+            {
+              "q": "Nadia's parents wanted her to go to university.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 2,
+              "why": "Il testo non parla dei genitori."
+            },
+            {
+              "q": "What does Nadia say about her studies?",
+              "opts": [
+                "They have been hard but worthwhile.",
+                "They have been easy.",
+                "They have not helped her career."
+              ],
+              "a": 0,
+              "why": "«...she has often felt exhausted... it has all been worthwhile»."
+            },
+            {
+              "q": "What advice does Nadia give?",
+              "opts": [
+                "Accept challenges and be honest about your limits.",
+                "Decide your career as early as possible.",
+                "Always study before starting work."
+              ],
+              "a": 0,
+              "why": "«Take opportunities... say yes to challenges, and be honest about what you can't do»."
+            },
+            {
+              "q": "Nadia's plan for next year is to open her own ___ .",
+              "answers": [
+                "events company",
+                "company",
+                "events business"
+              ],
+              "why": "«Next year I'd like to open my own events company.»"
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «her big break» significa:",
+          "opts": [
+            "l'occasione che ha cambiato la sua carriera",
+            "una lunga pausa dal lavoro",
+            "un errore importante"
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola del testo",
+          "s": "There were moments when she wanted to give ___ .",
+          "answers": [
+            "up"
+          ],
+          "sub": "Rinunciare, mollare."
+        },
+        {
+          "t": "mc",
+          "q": "«She has often felt exhausted» significa che Nadia:",
+          "opts": [
+            "si è sentita spesso sfinita",
+            "si è sentita spesso annoiata",
+            "ha spesso ricevuto aiuto"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "She was ___ to manager after the conference went so well.",
+          "opts": [
+            "promoted",
+            "advanced",
+            "raised"
+          ],
+          "a": 0,
+          "why": "«Be promoted» = ricevere una promozione di carriera."
+        }
+      ]
+    },
+    {
+      "id": "b1-01-listening",
+      "kind": "listening",
+      "title": "Cambiare carriera a quarant'anni",
+      "intro": "Un'intervista radiofonica con un ex contabile che oggi fa il falegname. Ascolta con attenzione i periodi di tempo: sono la chiave di molte risposte.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "A new career at forty",
+          "it": "Ascolta l'intervista e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Helen",
+              "Welcome back to Work Matters. My guest today is Mark Dolan, who changed careers at forty. Mark, you were an accountant, weren't you?"
+            ],
+            [
+              "Mark",
+              "That's right. I worked for a bank for sixteen years. I was good at it, but I wasn't happy."
+            ],
+            [
+              "Helen",
+              "And now you're a carpenter?"
+            ],
+            [
+              "Mark",
+              "Well, a trainee carpenter, really. I've been learning the job for about eighteen months."
+            ],
+            [
+              "Helen",
+              "How long have you been planning this?"
+            ],
+            [
+              "Mark",
+              "Longer than I'd like to admit. I started dreaming about it five years ago, but I was afraid. I had a mortgage and two children."
+            ],
+            [
+              "Helen",
+              "So what finally changed your mind?"
+            ],
+            [
+              "Mark",
+              "My father, actually. He retired last year, and he told me he had never done the work he really wanted. I didn't want to say the same thing at sixty-five."
+            ],
+            [
+              "Helen",
+              "Has it been difficult?"
+            ],
+            [
+              "Mark",
+              "Financially, yes. I've earned less than half my old salary since I left the bank. And I've made plenty of mistakes. Last month I cut a beautiful table leg an inch too short!"
+            ],
+            [
+              "Helen",
+              "Do you regret it?"
+            ],
+            [
+              "Mark",
+              "Not for a second. I've never felt so tired, and I've never felt so happy. My advice? Talk to people who have already done it, and save some money first."
+            ],
+            [
+              "Helen",
+              "Mark, thank you."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "How long did Mark work at the bank?",
+              "opts": [
+                "Six years",
+                "Sixteen years",
+                "Eighteen years"
+              ],
+              "a": 1
+            },
+            {
+              "q": "How long has Mark been learning carpentry?",
+              "opts": [
+                "About eighteen months",
+                "About five years",
+                "About sixty days"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Why didn't Mark change career earlier?",
+              "opts": [
+                "He had financial responsibilities.",
+                "He didn't like carpentry.",
+                "His father disagreed."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What finally changed his mind?",
+              "opts": [
+                "His father's words",
+                "A job advertisement",
+                "Losing his job"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Since he left the bank, Mark has earned less than ___ of his old salary.",
+              "answers": [
+                "half"
+              ]
+            },
+            {
+              "q": "What mistake did Mark make last month?",
+              "opts": [
+                "He cut a table leg too short.",
+                "He broke an expensive tool.",
+                "He arrived late for work."
+              ],
+              "a": 0
+            },
+            {
+              "q": "What advice does Mark give?",
+              "opts": [
+                "Speak to people who have changed career and save money.",
+                "Change career before forty.",
+                "Never leave a stable job."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "I've been learning the job for about eighteen months.",
+          "it": "Imparo il mestiere da circa diciotto mesi."
+        },
+        {
+          "t": "dictation",
+          "en": "I've earned less than half my old salary since I left the bank.",
+          "it": "Da quando ho lasciato la banca guadagno meno della metà del mio vecchio stipendio."
+        },
+        {
+          "t": "speak",
+          "en": "I haven't decided yet, but I've been thinking about it for months.",
+          "it": "Non ho ancora deciso, ma ci penso da mesi."
+        }
+      ]
+    },
+    {
+      "id": "b1-01-situation",
+      "kind": "situation",
+      "title": "Il colloquio di lavoro",
+      "intro": "Le domande che quasi sempre vengono fatte in un colloquio e come rispondere in modo sicuro ma non arrogante. Impari anche a fare domande all'intervistatore in modo educato.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Le domande tipiche e come rispondere",
+          "body": "Domande che troverai quasi sempre:\n- **Tell me about yourself.** = Mi parli di lei.\n- **Why do you want this job?** / **Why are you leaving your current job?**\n- **What are your strengths and weaknesses?**\n- **How long have you been working in this field?**\n- **Where do you see yourself in five years?**\n\nUna struttura semplice per rispondere: **presente + passato recente + obiettivo**.\n- **I'm currently working as...** (presente)\n- **I've been doing this for... and I've learnt...** (present perfect)\n- **I'd like to... / I'm looking for...** (obiettivo)\n\nPer i punti deboli: non dire «I have no weaknesses». Meglio: **I used to find it hard to delegate, but I've been working on it.**",
+          "ex": [
+            [
+              "I've been working as a nurse for six years.",
+              "Lavoro come infermiera da sei anni."
+            ],
+            [
+              "I'm looking for a new challenge.",
+              "Cerco una nuova sfida."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Tono: educato, non troppo diretto",
+          "body": "In un colloquio il tono conta quanto il contenuto. Confronta:\n- troppo diretto: «How much will you pay me?» -> più educato: **Could you tell me a little about the salary and benefits?**\n- troppo diretto: «I want this job.» -> **I'd be very interested in this position.**\n- troppo vago: «I'm good at everything.» -> **I'd say my main strength is working under pressure.**\n\nAl termine dell'intervista:\n- **Do you have any questions for us?** -> **Yes, could you tell me more about the training?**\n- **Thank you for your time. I look forward to hearing from you.**\n\n**Errore tipico degli italiani**: «I have experience of 3 years» è un calco dall'italiano: si dice **I have three years' experience**. E «I'm available to start immediately» va benissimo.",
+          "ex": [
+            [
+              "Could you tell me a little more about the role?",
+              "Potrebbe dirmi qualcosa di più sul ruolo?"
+            ],
+            [
+              "I'd say my main weakness is that I'm a perfectionist.",
+              "Direi che il mio principale difetto è il perfezionismo."
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Il colloquio",
+          "it": "Scegli la risposta più adatta a un colloquio (Tu).",
+          "lines": [
+            [
+              "Ms Clarke",
+              "Good morning. Please take a seat. So, tell me a little about yourself."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I'm an administrative assistant, and I've been working in the insurance sector for five years. Recently I've been looking for more responsibility.",
+                  "I am working in insurance since five years and I want more responsibility, so I am here.",
+                  "I'm an administrative assistant. I don't have much to say about me."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Ms Clarke",
+              "I see. Why are you leaving your current job?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I've enjoyed my time there, but there isn't much room for progress, and I'd like to develop my skills.",
+                  "My boss is terrible and the salary is too low, so I'm going away.",
+                  "I am leaving because I am boring."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Ms Clarke",
+              "Good. What would you say is your main strength?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I'd say I'm very organised, and I stay calm when the workload gets heavy.",
+                  "I'm better than my colleagues in everything.",
+                  "I am very organised and I have a lot of qualities that you can't imagine."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Nel primo scambio servono present perfect (for / since) per la durata e un tono positivo. Evita critiche al datore di lavoro e frasi esagerate."
+        },
+        {
+          "t": "dialog",
+          "title": "Alla fine del colloquio",
+          "lines": [
+            [
+              "Ms Clarke",
+              "Well, that's all from me. Do you have any questions for us?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, I'd like to know a little more about the training for new staff, if that's possible.",
+                  "Yes. How much money do I get every month?",
+                  "No. I only want to know when I start."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Ms Clarke",
+              "Of course. Everyone has a two-week induction, and then a mentor for six months."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "That sounds excellent. And could you tell me when you expect to make a decision?",
+                  "Good. When do you tell me yes or no?",
+                  "Excellent. Decide quickly, please."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Ms Clarke",
+              "We'll let you know by the end of next week."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you very much for your time. I look forward to hearing from you.",
+                  "Thanks. Call me soon.",
+                  "Thank you. I wait your answer."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "Tell me about yourself.",
+              "Mi parli di lei."
+            ],
+            [
+              "Where do you see yourself in five years?",
+              "Dove si vede tra cinque anni?"
+            ],
+            [
+              "I look forward to hearing from you.",
+              "Spero di avere presto vostre notizie."
+            ],
+            [
+              "Could you tell me more about the role?",
+              "Potrebbe dirmi di più sul ruolo?"
+            ],
+            [
+              "I'd say my main strength is...",
+              "Direi che il mio punto di forza è..."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Lavoro nelle vendite da circa sei anni.",
+          "en": "I have been working in sales for about six years",
+          "extra": [
+            "since",
+            "work"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "I've been working as a nurse for six years.",
+          "it": "Lavoro come infermiera da sei anni."
+        },
+        {
+          "t": "speak",
+          "en": "I'd say my main strength is working under pressure.",
+          "it": "Direi che il mio punto di forza è lavorare sotto pressione."
+        },
+        {
+          "t": "speak",
+          "en": "Could you tell me a little more about the training?",
+          "it": "Potrebbe dirmi qualcosa in più sulla formazione?"
+        },
+        {
+          "t": "speakTask",
+          "q": "Answer the question: Tell me about yourself and your work experience.",
+          "it": "Rispondi come in un colloquio: presente (che cosa fai ora), passato recente (da quanto tempo, che cosa hai imparato), obiettivo (che cosa cerchi). Almeno 6 frasi.",
+          "hints": [
+            "I'm currently working as...",
+            "I've been doing this for... and I've learnt...",
+            "I've worked on...",
+            "I'm looking for..."
+          ],
+          "min": 50,
+          "model": "I'm currently working as a project assistant for a software company in Turin. I've been doing this job for four years, and during that time I've learnt how to manage deadlines and work with clients. I've also been taking an evening course in project management for the last year. I'm very organised and I enjoy working in a team. Now I'm looking for a position with more responsibility, where I can use my skills and keep learning."
+        }
+      ]
+    },
+    {
+      "id": "b1-01-production",
+      "kind": "production",
+      "title": "La lettera di candidatura",
+      "intro": "Scriverai una breve lettera di candidatura formale: il tipo di testo che accompagna un CV. Poi parlerai di te come in un colloquio.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Struttura di una lettera formale",
+          "body": "- **Saluto**: Dear Ms Taylor, / Dear Sir or Madam, (se non conosci il nome)\n- **Motivo**: I am writing to apply for the position of... advertised on...\n- **Esperienza**: I have been working as... for... / I have experience of...\n- **Qualità e motivazione**: I am hard-working, reliable and... / I would like to work for you because...\n- **Chiusura**: I have attached my CV. / I would be happy to attend an interview. / I look forward to hearing from you.\n- **Formula finale**: **Yours sincerely** (se conosci il nome) / **Yours faithfully** (con Sir or Madam), poi nome e cognome.\n\nStile formale: niente contrazioni, niente slang. Frasi complete e cortesi (I would be grateful if..., Thank you for considering my application).",
+          "ex": [
+            [
+              "I am writing to apply for the position of receptionist.",
+              "Scrivo per candidarmi al posto di receptionist."
+            ],
+            [
+              "I look forward to hearing from you.",
+              "Spero di avere presto vostre notizie."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Dear Sir or Madam, ... I look forward to hearing from you. Yours ___ ,",
+          "opts": [
+            "faithfully",
+            "sincerely",
+            "truly yours"
+          ],
+          "a": 0,
+          "why": "Con «Dear Sir or Madam» (nome sconosciuto) si chiude con Yours faithfully."
+        },
+        {
+          "t": "gap",
+          "s": "I have been working as a sales assistant ___ three years.",
+          "opts": [
+            "for",
+            "since",
+            "from"
+          ],
+          "a": 0,
+          "why": "Un periodo di tempo si introduce con «for»."
+        },
+        {
+          "t": "fix",
+          "s": "I want to apply to the job of receptionist that you advertised on your website.",
+          "answers": [
+            "I want to apply for the job of receptionist that you advertised on your website",
+            "I want to apply for the job of receptionist advertised on your website",
+            "I am writing to apply for the job of receptionist that you advertised on your website",
+            "I am writing to apply for the job of receptionist advertised on your website",
+            "I would like to apply for the job of receptionist that you advertised on your website",
+            "I would like to apply for the job of receptionist advertised on your website"
+          ],
+          "why": "Si dice «apply for», non «apply to». (Il resto della frase è già corretto.)"
+        },
+        {
+          "t": "transform",
+          "s1": "I started working at this company in 2020.",
+          "key": "BEEN",
+          "s2": "I ___ at this company since 2020.",
+          "answers": [
+            "have been working",
+            "'ve been working"
+          ],
+          "why": "Nella lettera, la durata si esprime con il present perfect continuous."
+        },
+        {
+          "t": "write",
+          "q": "You have seen this advertisement: 'Sales assistant wanted. Busy sports shop in the city centre. Good English essential. Experience in retail preferred. Apply in writing to Ms Taylor.' Write a letter of application. Say why you are writing, describe your experience, and explain why you would be a good candidate.",
+          "it": "Scrivi una lettera di candidatura formale (100-120 parole) a Ms Taylor: motivo della lettera, la tua esperienza (usa il present perfect con for/since) e perché saresti adatto.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho iniziato con Dear Ms Taylor e chiuso con Yours sincerely",
+            "Ho spiegato perché scrivo (I am writing to apply for...)",
+            "Ho usato il present perfect con for o since per la mia esperienza",
+            "Ho citato almeno due qualità o punti di forza",
+            "Ho usato uno stile formale, senza contrazioni"
+          ],
+          "useful": [
+            "I am writing to apply for...",
+            "I have been working as... for...",
+            "I have experience of...",
+            "I would be grateful if...",
+            "I look forward to hearing from you."
+          ],
+          "model": "Dear Ms Taylor,\n\nI am writing to apply for the position of sales assistant advertised in your shop window.\n\nI have been working as a shop assistant at a sports shop in Verona for three years, and I have dealt with customers every day. I have also trained two new colleagues, so I know how to explain things clearly.\n\nI am hard-working, reliable and good with people. I have studied English since I was twelve, and I have just passed the B1 exam. I would like to develop my career in a larger company.\n\nI have attached my CV and I would be happy to attend an interview at any time.\n\nI look forward to hearing from you.\n\nYours sincerely,\nGiulia Bianchi"
+        },
+        {
+          "t": "speakTask",
+          "q": "Why do you want this job? Why should we choose you?",
+          "it": "Rispondi come in un colloquio: perché vuoi questo lavoro e perché dovrebbero scegliere te (almeno 5 frasi).",
+          "hints": [
+            "I'm very interested in this position because...",
+            "I've been working in... for...",
+            "My main strengths are...",
+            "I'd be a good choice because..."
+          ],
+          "min": 40,
+          "model": "I'm very interested in this position because it would let me use my experience in customer service. I've been working with clients for five years, and I've learnt how to stay calm in difficult situations. My main strengths are communication and organisation. I'd be a good choice because I'm reliable, I learn quickly, and I really enjoy working in a team."
+        },
+        {
+          "t": "speakTask",
+          "q": "Talk about your career so far and your plans.",
+          "it": "Racconta il tuo percorso finora (studi, lavori, da quanto tempo fai qualcosa) e che cosa vorresti fare in futuro.",
+          "hints": [
+            "I studied... and then I started...",
+            "I've been working as... since...",
+            "I've learnt...",
+            "In five years I'd like to..."
+          ],
+          "min": 40,
+          "model": "I studied languages at university, and then I started working as a translator. I've been working freelance for three years, and I've learnt how to manage my own time. Recently I've been learning about marketing because I'd like to move into communications. In five years I'd like to be working for an international company, ideally in a team with people from different countries."
+        }
+      ]
+    },
+    {
+      "id": "b1-01-test",
+      "kind": "test",
+      "title": "Test dell'unità 1",
+      "intro": "Verifica senza aiuti: present perfect, for/since, how long, lessico del lavoro, un testo e un ascolto. Le correzioni le vedi alla fine.",
+      "minutes": 25,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "She ___ in marketing since she graduated.",
+          "opts": [
+            "has worked",
+            "works",
+            "worked"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "How many emails ___ today?",
+          "opts": [
+            "have you sent",
+            "have you been sending",
+            "did you sent"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Come on, I ___ for you since eight o'clock!",
+          "opts": [
+            "have been waiting",
+            "wait",
+            "waited"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Marco left the company two years ___ .",
+          "opts": [
+            "ago",
+            "before",
+            "since"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "I've known Elena ___ we were at school.",
+          "opts": [
+            "since",
+            "for",
+            "from"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I've had this job for two years.",
+            "I'm having this job for two years.",
+            "I have this job since two years."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Quale domanda va bene per chiedere la durata di un lavoro che il candidato fa ancora?",
+          "opts": [
+            "How long have you been working there?",
+            "How long are you working there?",
+            "How long did you work there?"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "In quale frase il lavoro risulta finito?",
+          "opts": [
+            "I've written the report.",
+            "I've been writing the report.",
+            "I was writing the report."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "Julia's eyes are red. She ___ (cry).",
+          "answers": [
+            "has been crying",
+            "'s been crying"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "How long ___ (you / know) your boss?",
+          "answers": [
+            "have you known"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Lavoro per questa azienda dal 2017.",
+          "answers": [
+            "I've worked for this company since 2017",
+            "I have worked for this company since 2017",
+            "I've been working for this company since 2017",
+            "I have been working for this company since 2017",
+            "I've worked at this company since 2017",
+            "I have worked at this company since 2017",
+            "I've been working at this company since 2017",
+            "I have been working at this company since 2017",
+            "I've worked with this company since 2017",
+            "I've been working with this company since 2017"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Quante lettere hai scritto oggi?",
+          "answers": [
+            "How many letters have you written today"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "She is working for this company since 2015.",
+          "answers": [
+            "She has worked for this company since 2015",
+            "She has been working for this company since 2015",
+            "She's worked for this company since 2015",
+            "She's been working for this company since 2015"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "How long do you know your manager?",
+          "answers": [
+            "How long have you known your manager"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "I started this course in September.",
+          "key": "BEEN",
+          "s2": "I ___ this course since September.",
+          "answers": [
+            "have been doing",
+            "'ve been doing",
+            "have been taking",
+            "'ve been taking",
+            "have been attending",
+            "'ve been attending",
+            "have been following",
+            "'ve been following"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "She became a nurse eight years ago.",
+          "key": "FOR",
+          "s2": "She has been a nurse ___ .",
+          "answers": [
+            "for eight years",
+            "for the last eight years",
+            "for the past eight years"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "She isn't ___ for the job: she has no degree.",
+          "root": "QUALIFY",
+          "answers": [
+            "qualified"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "She was offered a ___ after only a year.",
+          "root": "PROMOTE",
+          "answers": [
+            "promotion"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "I'd like to ___ for the job of receptionist.",
+          "opts": [
+            "apply",
+            "propose",
+            "request"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "He couldn't ___ with the pressure, so he left.",
+          "opts": [
+            "cope",
+            "fight",
+            "support"
+          ],
+          "a": 0
+        },
+        {
+          "t": "cloze",
+          "title": "Completa la lettera",
+          "mode": "open",
+          "text": "Dear Mr Hill,\n\nI am writing to apply {1} the position of accounts assistant. I have {2} working as a bookkeeper at Moretti & Co {3} 2018, and I have also dealt {4} several important clients. I finished my degree four years {5} and joined the company straight away.\n\nYours sincerely,\nLaura Neri",
+          "gaps": [
+            {
+              "answers": [
+                "for"
+              ]
+            },
+            {
+              "answers": [
+                "been"
+              ]
+            },
+            {
+              "answers": [
+                "since"
+              ]
+            },
+            {
+              "answers": [
+                "with"
+              ]
+            },
+            {
+              "answers": [
+                "ago"
+              ]
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from a recruiter",
+          "it": "Ascolta il messaggio.",
+          "lines": [
+            [
+              "Karen",
+              "Hello, this is Karen Webb from Brightwell Recruitment. I'm calling about your application for the sales role. We've been reviewing applications since Monday, and we'd like to invite you for an interview next Thursday at half past two. It will last about forty-five minutes. Please bring your passport and a copy of your CV. If you can't come, call me back on 0161 555 0183. Thanks, and I look forward to meeting you."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "When is the interview?",
+              "opts": [
+                "Next Thursday afternoon",
+                "Next Monday morning",
+                "Tomorrow at two"
+              ],
+              "a": 0
+            },
+            {
+              "q": "How long will it last?",
+              "opts": [
+                "About 45 minutes",
+                "About two hours",
+                "About 15 minutes"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What must the candidate bring?",
+              "opts": [
+                "A passport and a CV",
+                "A reference letter",
+                "A certificate"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Alla fine del colloquio",
+          "lines": [
+            [
+              "Mr Hall",
+              "Do you have any questions for us?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, could you tell me a little more about the team I would be working with?",
+                  "Yes. How many money do I earn?",
+                  "No, only tell me when I start."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Mr Hall",
+              "It's a team of six, all very friendly. We'll contact you by Friday."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Thank you for your time. I look forward to hearing from you.",
+                  "Thanks. I wait your call.",
+                  "Thank you. Call me quickly."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

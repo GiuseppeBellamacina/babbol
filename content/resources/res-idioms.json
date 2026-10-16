@@ -1,0 +1,618 @@
+{
+ "id": "res-idioms",
+ "kind": "idioms",
+ "title": "Modi di dire",
+ "intro": "Modi di dire comuni da A2 a B2, con significato reale e traduzione letterale.",
+ "items": [
+  {
+   "en": "Break a leg!",
+   "lit": "Rompiti una gamba!",
+   "it": "In bocca al lupo!",
+   "ex": [
+    "Break a leg tonight!",
+    "In bocca al lupo per stasera!"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Piece of cake",
+   "lit": "Pezzo di torta",
+   "it": "Facilissimo",
+   "ex": [
+    "The test was a piece of cake.",
+    "Il test era facilissimo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "It's raining cats and dogs",
+   "lit": "Piovono gatti e cani",
+   "it": "Piove a dirotto",
+   "ex": [
+    "Take an umbrella: it's raining cats and dogs.",
+    "Prendi l'ombrello: piove a dirotto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Once in a blue moon",
+   "lit": "Una volta in una luna blu",
+   "it": "Molto raramente",
+   "ex": [
+    "I eat fast food once in a blue moon.",
+    "Mangio fast food molto raramente."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Hit the books",
+   "lit": "Colpire i libri",
+   "it": "Mettersi a studiare",
+   "ex": [
+    "I have an exam: I must hit the books.",
+    "Ho un esame: devo mettermi a studiare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Under the weather",
+   "lit": "Sotto il tempo",
+   "it": "Sentirsi poco bene",
+   "ex": [
+    "I feel a bit under the weather.",
+    "Non mi sento molto bene."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Spill the beans",
+   "lit": "Rovesciare i fagioli",
+   "it": "Spifferare un segreto",
+   "ex": [
+    "Don't spill the beans!",
+    "Non spifferare il segreto!"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Cost an arm and a leg",
+   "lit": "Costare un braccio e una gamba",
+   "it": "Costare un occhio della testa",
+   "ex": [
+    "This car costs an arm and a leg.",
+    "Questa macchina costa un occhio della testa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Let the cat out of the bag",
+   "lit": "Far uscire il gatto dalla borsa",
+   "it": "Lasciarsi sfuggire un segreto",
+   "ex": [
+    "He let the cat out of the bag.",
+    "Si è lasciato sfuggire il segreto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "The ball is in your court",
+   "lit": "La palla è nel tuo campo",
+   "it": "Ora tocca a te decidere",
+   "ex": [
+    "I made my offer: the ball is in your court.",
+    "Ho fatto la mia offerta: ora tocca a te."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "Kill two birds with one stone",
+   "lit": "Uccidere due uccelli con una pietra",
+   "it": "Prendere due piccioni con una fava",
+   "ex": [
+    "Let's kill two birds with one stone.",
+    "Prendiamo due piccioni con una fava."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Bite the bullet",
+   "lit": "Mordere il proiettile",
+   "it": "Fare buon viso a cattivo gioco",
+   "ex": [
+    "I will bite the bullet and call him.",
+    "Stringerò i denti e lo chiamerò."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "A blessing in disguise",
+   "lit": "Una benedizione sotto mentite spoglie",
+   "it": "Non tutto il male vien per nuocere",
+   "ex": [
+    "Losing that job was a blessing in disguise.",
+    "Perdere quel lavoro è stato un bene."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "Better late than never",
+   "lit": "Meglio tardi che mai",
+   "it": "Meglio tardi che mai",
+   "ex": [
+    "You are here: better late than never!",
+    "Sei qui: meglio tardi che mai!"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "Break the ice",
+   "lit": "Rompere il ghiaccio",
+   "it": "Rompere il ghiaccio",
+   "ex": [
+    "A joke can break the ice.",
+    "Una battuta può rompere il ghiaccio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Hit the sack",
+   "lit": "Colpire il sacco",
+   "it": "Andare a letto",
+   "ex": [
+    "I am tired: I am going to hit the sack.",
+    "Sono stanco: vado a letto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "Call it a day",
+   "lit": "Chiamarlo un giorno",
+   "it": "Smettere per oggi",
+   "ex": [
+    "It is late: let's call it a day.",
+    "È tardi: basta per oggi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "Cut corners",
+   "lit": "Tagliare gli angoli",
+   "it": "Fare le cose frettolosamente, risparmiando",
+   "ex": [
+    "Don't cut corners on safety.",
+    "Non risparmiare sulla sicurezza."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "Beat around the bush",
+   "lit": "Picchiare intorno al cespuglio",
+   "it": "Girare intorno alle cose",
+   "ex": [
+    "Stop beating around the bush!",
+    "Smetti di girarci intorno!"
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "Back to square one",
+   "lit": "Di nuovo alla casella uno",
+   "it": "Tornare al punto di partenza",
+   "ex": [
+    "The plan failed: back to square one.",
+    "Il piano è fallito: punto e a capo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "A piece of the action",
+   "it": "Una fetta del guadagno",
+   "lit": "Un pezzo dell'azione",
+   "lv": "B2",
+   "ex": [
+    "Everyone wanted a piece of the action when the shop took off.",
+    "Tutti volevano una fetta del guadagno quando il negozio ha preso piede."
+   ]
+  },
+  {
+   "en": "Add insult to injury",
+   "it": "Aggiungere la beffa al danno",
+   "lit": "Aggiungere insulto al danno",
+   "lv": "B2",
+   "ex": [
+    "He lost my book and added insult to injury by laughing about it.",
+    "Ha perso il mio libro e, per aggiungere la beffa al danno, ci ha riso sopra."
+   ]
+  },
+  {
+   "en": "At the drop of a hat",
+   "it": "Immediatamente, senza pensarci",
+   "lit": "Alla caduta di un cappello",
+   "lv": "B2",
+   "ex": [
+    "She'd move abroad at the drop of a hat.",
+    "Si trasferirebbe all'estero da un momento all'altro."
+   ]
+  },
+  {
+   "en": "Bite off more than you can chew",
+   "it": "Fare il passo più lungo della gamba",
+   "lit": "Mordere più di quanto si possa masticare",
+   "lv": "B2",
+   "ex": [
+    "I think I bit off more than I could chew with three jobs.",
+    "Credo di aver fatto il passo più lungo della gamba con tre lavori."
+   ]
+  },
+  {
+   "en": "Burn the midnight oil",
+   "it": "Lavorare fino a notte fonda",
+   "lit": "Bruciare l'olio di mezzanotte",
+   "lv": "B2",
+   "ex": [
+    "I was burning the midnight oil to finish the report.",
+    "Stavo lavorando fino a notte fonda per finire la relazione."
+   ]
+  },
+  {
+   "en": "By the skin of your teeth",
+   "it": "Per un pelo",
+   "lit": "Per la pelle dei denti",
+   "lv": "B2",
+   "ex": [
+    "We caught the train by the skin of our teeth.",
+    "Abbiamo preso il treno per un pelo."
+   ]
+  },
+  {
+   "en": "Chip on your shoulder",
+   "it": "Avere il dente avvelenato",
+   "lit": "Una scheggia sulla spalla",
+   "lv": "B2",
+   "ex": [
+    "He has a chip on his shoulder about not going to university.",
+    "Ce l'ha con il mondo perché non è andato all'università."
+   ]
+  },
+  {
+   "en": "Cry over spilt milk",
+   "it": "Piangere sul latte versato",
+   "lit": "Piangere sul latte versato",
+   "lv": "B1",
+   "ex": [
+    "It's done, so there's no use crying over spilt milk.",
+    "Ormai è fatta, non serve piangere sul latte versato."
+   ]
+  },
+  {
+   "en": "Get cold feet",
+   "it": "Farsi prendere dalla paura all'ultimo",
+   "lit": "Avere i piedi freddi",
+   "lv": "B1",
+   "ex": [
+    "He got cold feet the night before the wedding.",
+    "Ha avuto paura la sera prima del matrimonio."
+   ]
+  },
+  {
+   "en": "Get out of hand",
+   "it": "Sfuggire di mano",
+   "lit": "Uscire di mano",
+   "lv": "B1",
+   "ex": [
+    "The party got out of hand and the neighbours called the police.",
+    "La festa è sfuggita di mano e i vicini hanno chiamato la polizia."
+   ]
+  },
+  {
+   "en": "Give someone the cold shoulder",
+   "it": "Trattare qualcuno con freddezza",
+   "lit": "Dare a qualcuno la spalla fredda",
+   "lv": "B2",
+   "ex": [
+    "Ever since the argument, she's been giving me the cold shoulder.",
+    "Dalla lite mi tratta con freddezza."
+   ]
+  },
+  {
+   "en": "Go the extra mile",
+   "it": "Fare più del dovuto",
+   "lit": "Fare il miglio in più",
+   "lv": "B2",
+   "ex": [
+    "Our waiter went the extra mile to make our evening special.",
+    "Il nostro cameriere ha fatto più del dovuto per rendere speciale la serata."
+   ]
+  },
+  {
+   "en": "Hit the nail on the head",
+   "it": "Centrare il punto",
+   "lit": "Colpire il chiodo sulla testa",
+   "lv": "B1",
+   "ex": [
+    "You hit the nail on the head: that's exactly the problem.",
+    "Hai centrato il punto: è proprio quello il problema."
+   ]
+  },
+  {
+   "en": "In the same boat",
+   "it": "Nella stessa situazione",
+   "lit": "Nella stessa barca",
+   "lv": "B1",
+   "ex": [
+    "Don't worry, we're all in the same boat.",
+    "Non preoccuparti, siamo tutti nella stessa situazione."
+   ]
+  },
+  {
+   "en": "It's not rocket science",
+   "it": "Non è difficile",
+   "lit": "Non è scienza dei razzi",
+   "lv": "B1",
+   "ex": [
+    "Setting up the printer isn't rocket science.",
+    "Installare la stampante non è difficile."
+   ]
+  },
+  {
+   "en": "Jump on the bandwagon",
+   "it": "Salire sul carro del vincitore",
+   "lit": "Saltare sul carro della banda",
+   "lv": "B2",
+   "ex": [
+    "Everyone jumped on the bandwagon when the app became popular.",
+    "Tutti sono saliti sul carro del vincitore quando l'app è diventata popolare."
+   ]
+  },
+  {
+   "en": "Keep an eye on",
+   "it": "Tenere d'occhio",
+   "lit": "Tenere un occhio su",
+   "lv": "A2",
+   "ex": [
+    "Could you keep an eye on my bag for a minute?",
+    "Puoi tenere d'occhio la mia borsa un minuto?"
+   ]
+  },
+  {
+   "en": "Keep your fingers crossed",
+   "it": "Incrociare le dita",
+   "lit": "Tenere le dita incrociate",
+   "lv": "A2",
+   "ex": [
+    "I have an interview tomorrow, so keep your fingers crossed.",
+    "Domani ho un colloquio, quindi incrocia le dita per me."
+   ]
+  },
+  {
+   "en": "Let sleeping dogs lie",
+   "it": "Non svegliare il can che dorme",
+   "lit": "Lasciare che i cani dormienti riposino",
+   "lv": "B2",
+   "ex": [
+    "I wouldn't mention the money: let sleeping dogs lie.",
+    "Non menzionerei i soldi: non svegliare il can che dorme."
+   ]
+  },
+  {
+   "en": "Miss the boat",
+   "it": "Perdere l'occasione",
+   "lit": "Perdere la barca",
+   "lv": "B1",
+   "ex": [
+    "If you don't apply today, you'll miss the boat.",
+    "Se non fai domanda oggi, perderai l'occasione."
+   ]
+  },
+  {
+   "en": "No pain, no gain",
+   "it": "Senza sacrificio non si ottiene nulla",
+   "lit": "Niente dolore, niente guadagno",
+   "lv": "B1",
+   "ex": [
+    "It's a hard course, but no pain, no gain.",
+    "È un corso duro, ma senza sacrificio non si ottiene nulla."
+   ]
+  },
+  {
+   "en": "On the ball",
+   "it": "Sveglio, sul pezzo",
+   "lit": "Sulla palla",
+   "lv": "B2",
+   "ex": [
+    "Our new manager is really on the ball.",
+    "Il nostro nuovo capo è davvero sul pezzo."
+   ]
+  },
+  {
+   "en": "Out of the blue",
+   "it": "All'improvviso, a ciel sereno",
+   "lit": "Dal blu",
+   "lv": "B1",
+   "ex": [
+    "She called me out of the blue after ten years.",
+    "Mi ha chiamato all'improvviso dopo dieci anni."
+   ]
+  },
+  {
+   "en": "Pull someone's leg",
+   "it": "Prendere in giro qualcuno",
+   "lit": "Tirare la gamba a qualcuno",
+   "lv": "B1",
+   "ex": [
+    "Are you serious, or are you pulling my leg?",
+    "Dici sul serio o mi stai prendendo in giro?"
+   ]
+  },
+  {
+   "en": "Put your foot in it",
+   "it": "Fare una gaffe",
+   "lit": "Mettere il piede dentro",
+   "lv": "B2",
+   "ex": [
+    "I really put my foot in it when I asked about her ex.",
+    "Ho fatto una vera gaffe chiedendo del suo ex."
+   ]
+  },
+  {
+   "en": "See eye to eye",
+   "it": "Essere d'accordo",
+   "lit": "Vedere occhio a occhio",
+   "lv": "B2",
+   "ex": [
+    "My brother and I rarely see eye to eye on politics.",
+    "Mio fratello e io raramente siamo d'accordo sulla politica."
+   ]
+  },
+  {
+   "en": "Sit on the fence",
+   "it": "Non prendere posizione",
+   "lit": "Sedersi sulla recinzione",
+   "lv": "B2",
+   "ex": [
+    "You can't sit on the fence forever; you have to choose.",
+    "Non puoi non prendere posizione per sempre: devi scegliere."
+   ]
+  },
+  {
+   "en": "Speak of the devil",
+   "it": "Parli del diavolo...",
+   "lit": "Parla del diavolo",
+   "lv": "B1",
+   "ex": [
+    "Speak of the devil: here comes Tom!",
+    "Parli del diavolo: ecco Tom!"
+   ]
+  },
+  {
+   "en": "Take it with a pinch of salt",
+   "it": "Prendere con le pinze",
+   "lit": "Prenderlo con un pizzico di sale",
+   "lv": "B2",
+   "ex": [
+    "Take his stories with a pinch of salt.",
+    "Prendi i suoi racconti con le pinze."
+   ]
+  },
+  {
+   "en": "The last straw",
+   "it": "La goccia che fa traboccare il vaso",
+   "lit": "L'ultima pagliuzza",
+   "lv": "B2",
+   "ex": [
+    "When he forgot my birthday again, that was the last straw.",
+    "Quando ha dimenticato di nuovo il mio compleanno, è stata la goccia che ha fatto traboccare il vaso."
+   ]
+  },
+  {
+   "en": "The tip of the iceberg",
+   "it": "La punta dell'iceberg",
+   "lit": "La punta dell'iceberg",
+   "lv": "B2",
+   "ex": [
+    "These complaints are only the tip of the iceberg.",
+    "Questi reclami sono solo la punta dell'iceberg."
+   ]
+  },
+  {
+   "en": "Throw in the towel",
+   "it": "Gettare la spugna",
+   "lit": "Gettare l'asciugamano",
+   "lv": "B2",
+   "ex": [
+    "After three failed attempts, she threw in the towel.",
+    "Dopo tre tentativi falliti, ha gettato la spugna."
+   ]
+  },
+  {
+   "en": "Time flies",
+   "it": "Il tempo vola",
+   "lit": "Il tempo vola",
+   "lv": "A2",
+   "ex": [
+    "Time flies when you're having fun.",
+    "Il tempo vola quando ci si diverte."
+   ]
+  },
+  {
+   "en": "Turn a blind eye",
+   "it": "Chiudere un occhio",
+   "lit": "Girare un occhio cieco",
+   "lv": "B2",
+   "ex": [
+    "The teacher turned a blind eye to the noise.",
+    "L'insegnante ha chiuso un occhio sul rumore."
+   ]
+  },
+  {
+   "en": "When pigs fly",
+   "it": "Quando gli asini voleranno",
+   "lit": "Quando i maiali voleranno",
+   "lv": "B2",
+   "ex": [
+    "He'll tidy his room when pigs fly.",
+    "Metterà in ordine la camera quando gli asini voleranno."
+   ]
+  },
+  {
+   "en": "You can't judge a book by its cover",
+   "it": "Non giudicare dalle apparenze",
+   "lit": "Non puoi giudicare un libro dalla copertina",
+   "lv": "B1",
+   "ex": [
+    "He looks scary, but you can't judge a book by its cover.",
+    "Sembra spaventoso, ma non si giudica dalle apparenze."
+   ]
+  },
+  {
+   "en": "Your guess is as good as mine",
+   "it": "Non ne ho idea quanto te",
+   "lit": "La tua ipotesi è buona quanto la mia",
+   "lv": "B1",
+   "ex": [
+    "When will the bus come? Your guess is as good as mine.",
+    "Quando arriva l'autobus? Non ne ho idea quanto te."
+   ]
+  },
+  {
+   "en": "Get the hang of it",
+   "it": "Prenderci la mano",
+   "lit": "Prendere il gancio",
+   "lv": "B1",
+   "ex": [
+    "It's difficult at first, but you'll soon get the hang of it.",
+    "All'inizio è difficile, ma presto ci prenderai la mano."
+   ]
+  },
+  {
+   "en": "Hold your horses",
+   "it": "Calma, aspetta un attimo",
+   "lit": "Tieni i tuoi cavalli",
+   "lv": "B1",
+   "ex": [
+    "Hold your horses, we haven't decided anything yet.",
+    "Calma, non abbiamo ancora deciso niente."
+   ]
+  },
+  {
+   "en": "Lose your temper",
+   "it": "Perdere la pazienza",
+   "lit": "Perdere il temperamento",
+   "lv": "B1",
+   "ex": [
+    "He lost his temper and started shouting.",
+    "Ha perso la pazienza e ha cominciato a urlare."
+   ]
+  },
+  {
+   "en": "A storm in a teacup",
+   "it": "Una tempesta in un bicchier d'acqua",
+   "lit": "Una tempesta in una tazza da tè",
+   "lv": "B2",
+   "ex": [
+    "It was just a storm in a teacup; they've made up already.",
+    "Era solo una tempesta in un bicchier d'acqua: hanno già fatto pace."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1461 @@
+{
+  "id": "b1-06",
+  "level": "B1",
+  "position": 6,
+  "title": "Prodotti e invenzioni",
+  "sub": "Il passivo - restituire un prodotto e scrivere un reclamo",
+  "grammar": "Passivo: present simple, past simple, present perfect, will e verbi modali",
+  "topic": "Prodotti, invenzioni, cibo",
+  "situation": "Reso e rimborso in negozio",
+  "lessons": [
+    {
+      "id": "b1-06-grammar",
+      "kind": "grammar",
+      "title": "Il passivo",
+      "intro": "In inglese il passivo è molto più frequente che in italiano, soprattutto quando parli di prodotti, notizie e processi: «The shoes are made in Italy». Qui impari a costruirlo in tutti i tempi principali e a capire quando conviene usarlo.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come si forma il passivo",
+          "body": "Il passivo si forma con **be (al tempo giusto) + participio passato**. Il tempo del verbo be è lo stesso che avrebbe il verbo attivo.\n- **Present simple**: Cheese **is made** from milk.\n- **Past simple**: The telephone **was invented** in 1876.\n- **Present perfect**: My order **has been delivered**.\n- **Will**: Your parcel **will be sent** tomorrow.\n- **Verbi modali**: Receipts **must be kept**. / Faulty goods **can be returned**.\n\nL'oggetto della frase attiva diventa il soggetto del passivo: *They make these shoes in Italy* -> *These shoes are made in Italy*.\n\nNegative e domande si fanno con l'ausiliare be (o con il modale): The shop **isn't** open. / **Was** the parcel **sent**? / **Can** it **be repaired**?",
+          "table": [
+            [
+              "Tempo",
+              "Forma",
+              "Esempio"
+            ],
+            [
+              "Present simple",
+              "am / is / are + participio",
+              "Bread is baked every day."
+            ],
+            [
+              "Past simple",
+              "was / were + participio",
+              "The car was built in Turin."
+            ],
+            [
+              "Present perfect",
+              "has / have been + participio",
+              "The price has been reduced."
+            ],
+            [
+              "Will",
+              "will be + participio",
+              "It will be repaired."
+            ],
+            [
+              "Modali",
+              "can / must / should be + participio",
+              "It must be returned."
+            ]
+          ],
+          "ex": [
+            [
+              "These biscuits are made by hand.",
+              "Questi biscotti sono fatti a mano."
+            ],
+            [
+              "The bridge was built in 1890.",
+              "Il ponte è stato costruito nel 1890."
+            ],
+            [
+              "Has my jacket been cleaned yet?",
+              "La mia giacca è già stata pulita?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Quando si usa il passivo",
+          "body": "Si usa il passivo quando:\n- **chi fa l'azione non è importante o non si sa**: My bike **was stolen**. (non so da chi)\n- **interessa il risultato o il processo**: The beans **are roasted** and then **crushed**.\n- **si vuole essere impersonali**, soprattutto in testi scritti, avvisi e reclami: Your request **has been received**.\n\nSe vuoi dire **chi** ha fatto l'azione, aggiungi **by**: *Hamlet was written by Shakespeare.* Se l'autore non serve, non metterlo.\n\nL'inglese usa il passivo dove l'italiano usa spesso il «si» impersonale o passivante: «Qui si parla inglese» -> English **is spoken** here. «Si vendono biglietti» -> Tickets **are sold**.",
+          "ex": [
+            [
+              "English is spoken in many airports.",
+              "In molti aeroporti si parla inglese."
+            ],
+            [
+              "The parcel was sent by courier.",
+              "Il pacco è stato spedito con un corriere."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Errori tipici degli italiani",
+          "body": "- **I verbi intransitivi non hanno il passivo**: happen, arrive, die, come, go... **«The accident was happened»** -> The accident **happened**.\n- **Il participio è obbligatorio**: «The window was broke» -> The window was **broken**. Controlla i participi irregolari: made, built, sold, stolen, written, taken, given.\n- **Essere / avere**: «I have been stolen my wallet» -> **My wallet has been stolen.**\n- **Concordanza**: «The bags was delivered» -> The bags **were** delivered.\n- **Il passivo non si usa per il futuro semplice con «verrà»**: «will come delivered» -> will **be delivered**.\n- **Materiale**: be made **of** (si vede il materiale: of wood) / be made **from** (non si vede più: from milk) / be made **in** (luogo) / made **by** (chi).",
+          "ex": [
+            [
+              "My wallet has been stolen.",
+              "Mi è stato rubato il portafoglio."
+            ],
+            [
+              "This table is made of oak.",
+              "Questo tavolo è fatto di quercia."
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Passivo con due oggetti e con get",
+          "body": "Alcuni verbi (give, send, offer, show, tell) hanno **due oggetti**: *They offered me a refund.* Si può fare il passivo in due modi, ma il più naturale parte dalla persona:\n- **I was offered a refund.** (più comune)\n- A refund was offered to me.\n\nNel parlato informale si usa spesso **get** al posto di be, per cose che capitano: *My car **got stolen**. / He **got fired**.* Funziona solo per eventi, non per stati.\n\nAttenzione al presente progressivo passivo: *The road **is being repaired** at the moment.* (being = è in corso).",
+          "ex": [
+            [
+              "I was offered a replacement.",
+              "Mi è stato offerto un sostituto."
+            ],
+            [
+              "The road is being repaired.",
+              "La strada è in riparazione."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "Cheese ___ in many countries.",
+          "opts": [
+            "is made",
+            "makes",
+            "is making"
+          ],
+          "a": 0,
+          "it": "Il formaggio viene prodotto in molti paesi.",
+          "why": "Il formaggio non fa l'azione, la subisce: present simple passivo (is made)."
+        },
+        {
+          "t": "gap",
+          "s": "My order ___ yet.",
+          "opts": [
+            "hasn't been delivered",
+            "hasn't delivered",
+            "isn't been delivered"
+          ],
+          "a": 0,
+          "it": "Il mio ordine non è ancora stato consegnato.",
+          "why": "Present perfect passivo: has / have been + participio."
+        },
+        {
+          "t": "gap",
+          "s": "The package ___ to your door tomorrow morning.",
+          "opts": [
+            "will be delivered",
+            "will be deliver",
+            "will been delivered"
+          ],
+          "a": 0,
+          "why": "Futuro passivo: will be + participio passato."
+        },
+        {
+          "t": "gap",
+          "s": "You must keep your receipt: faulty goods can only ___ with proof of purchase.",
+          "opts": [
+            "be returned",
+            "return",
+            "be return"
+          ],
+          "a": 0,
+          "why": "Modale passivo: can / must + be + participio passato."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "The bridge was built in 1890.",
+            "The bridge was build in 1890.",
+            "The bridge built in 1890."
+          ],
+          "a": 0,
+          "why": "Serve was + participio passato (built), non l'infinito né il solo passato."
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "Something strange happened last night.",
+            "Something strange was happened last night.",
+            "Something strange has been happened last night."
+          ],
+          "a": 0,
+          "why": "Happen è intransitivo: non ha il passivo."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "This jumper ___ (make) of pure wool.",
+          "answers": [
+            "is made"
+          ],
+          "why": "Descrive un fatto: present simple passivo."
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "These cars ___ (not / produce) in Italy any more.",
+          "answers": [
+            "aren't produced",
+            "are not produced"
+          ],
+          "why": "Negativa del present simple passivo: are not + participio."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Il mio telefono è stato riparato ieri.",
+          "answers": [
+            "My phone was repaired yesterday",
+            "My phone was fixed yesterday",
+            "My mobile was repaired yesterday",
+            "My mobile was fixed yesterday",
+            "My mobile phone was repaired yesterday",
+            "My mobile phone was fixed yesterday",
+            "Yesterday my phone was repaired",
+            "Yesterday my phone was fixed",
+            "Yesterday my mobile was repaired",
+            "Yesterday my mobile was fixed"
+          ],
+          "why": "Azione conclusa nel passato, chi ripara non importa: was + participio."
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "In Svizzera si parlano quattro lingue.",
+          "answers": [
+            "Four languages are spoken in Switzerland",
+            "In Switzerland four languages are spoken",
+            "In Switzerland, four languages are spoken"
+          ],
+          "why": "Il «si» passivante italiano corrisponde al passivo inglese: are spoken."
+        },
+        {
+          "t": "fix",
+          "s": "The window was broke by a football.",
+          "answers": [
+            "The window was broken by a football"
+          ],
+          "why": "Dopo be serve il participio passato: broken, non broke."
+        },
+        {
+          "t": "fix",
+          "s": "The bags was delivered to the wrong address.",
+          "answers": [
+            "The bags were delivered to the wrong address"
+          ],
+          "why": "Soggetto plurale (bags): were."
+        },
+        {
+          "t": "fix",
+          "s": "The accident was happened at six o'clock.",
+          "answers": [
+            "The accident happened at six o'clock",
+            "The accident happened at six"
+          ],
+          "why": "Happen è intransitivo: niente passivo."
+        },
+        {
+          "t": "transform",
+          "s1": "Someone has stolen my bike.",
+          "key": "BEEN",
+          "s2": "My bike ___ stolen.",
+          "answers": [
+            "has been",
+            "'s been"
+          ],
+          "why": "Present perfect passivo: has been + stolen."
+        },
+        {
+          "t": "transform",
+          "s1": "People must not use phones during the exam.",
+          "key": "USED",
+          "s2": "Phones ___ during the exam.",
+          "answers": [
+            "must not be used",
+            "mustn't be used",
+            "cannot be used",
+            "can't be used",
+            "may not be used"
+          ],
+          "why": "Modale + be + participio: must not be used."
+        },
+        {
+          "t": "transform",
+          "s1": "Somebody will repair your laptop by Friday.",
+          "key": "REPAIRED",
+          "s2": "Your laptop ___ by Friday.",
+          "answers": [
+            "will be repaired",
+            "'ll be repaired"
+          ],
+          "why": "Futuro passivo: will be + repaired."
+        },
+        {
+          "t": "order",
+          "it": "Questi biscotti sono fatti a mano.",
+          "en": "These biscuits are made by hand",
+          "extra": [
+            "making",
+            "been"
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Il pacco è stato spedito ieri?",
+          "en": "Was the parcel sent yesterday",
+          "extra": [
+            "did",
+            "send"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-06-vocab",
+      "kind": "vocab",
+      "title": "Prodotti, reclami e invenzioni",
+      "intro": "Il lessico per restituire un prodotto, fare un reclamo e parlare di come si fanno e si inventano le cose. Attenzione a faulty e damaged: non sono sinonimi perfetti.",
+      "minutes": 20,
+      "words": [
+        {
+          "id": "b1-06-w01",
+          "en": "refund",
+          "it": "rimborso",
+          "ipa": "ˈriːfʌnd",
+          "pos": "n",
+          "ex": [
+            "I'd like a full refund, please.",
+            "Vorrei un rimborso completo, per favore."
+          ],
+          "note": "Anche verbo (rɪˈfʌnd): refund the money. Collocazione: ask for / get a refund."
+        },
+        {
+          "id": "b1-06-w02",
+          "en": "faulty",
+          "it": "difettoso",
+          "ipa": "ˈfɔːlti",
+          "pos": "adj",
+          "ex": [
+            "The hairdryer was faulty, so I took it back.",
+            "L'asciugacapelli era difettoso, quindi l'ho riportato indietro."
+          ],
+          "note": "Per qualcosa che non funziona bene. Un oggetto rotto in viaggio è damaged."
+        },
+        {
+          "id": "b1-06-w03",
+          "en": "replacement",
+          "it": "sostituzione, pezzo sostitutivo",
+          "ipa": "rɪˈpleɪsmənt",
+          "pos": "n",
+          "ex": [
+            "They sent me a replacement the next day.",
+            "Il giorno dopo mi hanno mandato un sostituto."
+          ],
+          "note": "Verbo: replace."
+        },
+        {
+          "id": "b1-06-w04",
+          "en": "complaint",
+          "it": "reclamo, lamentela",
+          "ipa": "kəmˈpleɪnt",
+          "pos": "n",
+          "ex": [
+            "I'd like to make a complaint about the service.",
+            "Vorrei fare un reclamo sul servizio."
+          ],
+          "note": "Collocazione: make a complaint (non «do»). Verbo: complain about."
+        },
+        {
+          "id": "b1-06-w05",
+          "en": "warranty",
+          "it": "garanzia (del prodotto)",
+          "ipa": "ˈwɒrənti",
+          "pos": "n",
+          "ex": [
+            "The washing machine is still under warranty.",
+            "La lavatrice è ancora in garanzia."
+          ],
+          "note": "Si dice anche guarantee. Under warranty = in garanzia."
+        },
+        {
+          "id": "b1-06-w06",
+          "en": "damaged",
+          "it": "danneggiato",
+          "ipa": "ˈdæmɪdʒd",
+          "pos": "adj",
+          "ex": [
+            "The box was damaged when it arrived.",
+            "La scatola era danneggiata quando è arrivata."
+          ]
+        },
+        {
+          "id": "b1-06-w07",
+          "en": "invent",
+          "it": "inventare",
+          "ipa": "ɪnˈvent",
+          "pos": "v",
+          "ex": [
+            "Who invented the telephone?",
+            "Chi ha inventato il telefono?"
+          ],
+          "note": "Si inventa qualcosa di nuovo (invent); si scopre qualcosa che esisteva già (discover). Nome: invention."
+        },
+        {
+          "id": "b1-06-w08",
+          "en": "manufacture",
+          "it": "fabbricare, produrre in serie",
+          "ipa": "ˌmænjuˈfæktʃə",
+          "pos": "v",
+          "ex": [
+            "The shoes are manufactured in Portugal.",
+            "Le scarpe sono fabbricate in Portogallo."
+          ],
+          "note": "Più tecnico di make. Chi lo fa: a manufacturer."
+        },
+        {
+          "id": "b1-06-w09",
+          "en": "ingredient",
+          "it": "ingrediente",
+          "ipa": "ɪnˈɡriːdiənt",
+          "pos": "n",
+          "ex": [
+            "The main ingredient is flour.",
+            "L'ingrediente principale è la farina."
+          ]
+        },
+        {
+          "id": "b1-06-w10",
+          "en": "recipe",
+          "it": "ricetta (di cucina)",
+          "ipa": "ˈresəpi",
+          "pos": "n",
+          "ex": [
+            "This recipe was passed down from my grandmother.",
+            "Questa ricetta mi è stata tramandata da mia nonna."
+          ],
+          "note": "Non è la ricetta del medico: quella è prescription."
+        },
+        {
+          "id": "b1-06-w11",
+          "en": "import",
+          "it": "importare",
+          "ipa": "ɪmˈpɔːt",
+          "pos": "v",
+          "ex": [
+            "Most of the coffee is imported from Brazil.",
+            "Gran parte del caffè è importato dal Brasile."
+          ],
+          "note": "Il verbo ha l'accento sulla seconda sillaba, il nome (ˈɪmpɔːt) sulla prima."
+        },
+        {
+          "id": "b1-06-w12",
+          "en": "harvest",
+          "it": "raccogliere, vendemmiare",
+          "ipa": "ˈhɑːvɪst",
+          "pos": "v",
+          "ex": [
+            "The grapes are harvested in September.",
+            "L'uva viene raccolta a settembre."
+          ],
+          "note": "Anche nome: the harvest = il raccolto."
+        },
+        {
+          "id": "b1-06-w13",
+          "en": "be made of",
+          "it": "essere fatto di (materiale)",
+          "ipa": "bi ˈmeɪd əv",
+          "pos": "phr",
+          "ex": [
+            "The chair is made of recycled plastic.",
+            "La sedia è fatta di plastica riciclata."
+          ],
+          "note": "Of se il materiale si riconosce; from se è trasformato (cheese is made from milk)."
+        },
+        {
+          "id": "b1-06-w14",
+          "en": "take back",
+          "it": "riportare indietro (in negozio)",
+          "ipa": "teɪk ˈbæk",
+          "pos": "pv",
+          "ex": [
+            "I'm going to take this jumper back because it's too small.",
+            "Riporto indietro questo maglione perché è troppo piccolo."
+          ],
+          "note": "Passato: took back; participio: taken back."
+        }
+      ],
+      "steps": [
+        {
+          "t": "words"
+        },
+        {
+          "t": "drill",
+          "n": 10
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "ask for a refund",
+              "chiedere un rimborso"
+            ],
+            [
+              "make a complaint",
+              "presentare un reclamo"
+            ],
+            [
+              "be under warranty",
+              "essere in garanzia"
+            ],
+            [
+              "take a product back",
+              "riportare un prodotto in negozio"
+            ],
+            [
+              "be made of wood",
+              "essere di legno"
+            ],
+            [
+              "harvest the grapes",
+              "vendemmiare"
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "The toaster doesn't work properly. It must be ___ .",
+          "opts": [
+            "faulty",
+            "defect",
+            "faultless"
+          ],
+          "a": 0,
+          "why": "Serve l'aggettivo: faulty. «Defect» è un nome (a defect = un difetto)."
+        },
+        {
+          "t": "gap",
+          "s": "Keep your receipt: the washing machine is under ___ for two years.",
+          "opts": [
+            "warranty",
+            "warrant",
+            "warning"
+          ],
+          "a": 0,
+          "why": "«Under warranty» = in garanzia. Warrant è un mandato, warning un avviso."
+        },
+        {
+          "t": "mc",
+          "q": "Che cosa significa «I'd like to take this back»?",
+          "opts": [
+            "Vorrei restituire questo articolo.",
+            "Vorrei prendere questo in prestito.",
+            "Vorrei tornare qui più tardi."
+          ],
+          "a": 0,
+          "why": "«Take back» in un negozio = riportare indietro per un reso."
+        },
+        {
+          "t": "wordform",
+          "s": "She works for a clothing ___ in Prato.",
+          "root": "MANUFACTURE",
+          "answers": [
+            "manufacturer"
+          ],
+          "why": "Serve la persona o l'azienda che produce: manufacture -> manufacturer."
+        },
+        {
+          "t": "wordform",
+          "s": "The ___ of the telephone changed the way people communicate.",
+          "root": "INVENT",
+          "answers": [
+            "invention"
+          ],
+          "why": "Serve il nome: invent -> invention."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Please check the ___ list: some people are allergic to nuts.",
+          "answers": [
+            "ingredients",
+            "ingredient"
+          ],
+          "sub": "Controlla la lista degli ingredienti: alcune persone sono allergiche alla frutta secca."
+        }
+      ]
+    },
+    {
+      "id": "b1-06-reading",
+      "kind": "reading",
+      "title": "Invenzioni nate per caso",
+      "intro": "Un articolo racconta come sono nati tre cibi famosi. Nel testo trovi molti passivi: sottolineali mentre leggi e chiediti ogni volta perché chi fa l'azione non viene nominato.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "read",
+          "title": "Three delicious mistakes",
+          "genre": "articolo",
+          "text": "Some of the foods we eat every day were invented by mistake. Here are three famous stories, although historians are not always sure that they are completely true.\n\nThe first is the ice lolly. In 1905 an eleven-year-old boy in California left a glass of fruit soda outside with a wooden stick in it. The night was very cold, and the next morning the drink had frozen. The boy pulled the stick out, licked the frozen soda and loved it. Years later, when he was an adult, he decided to sell the idea, and a famous summer treat was born. Today, ice lollies are sold in almost every country in the world, and millions are eaten every summer.\n\nThe second story is about chocolate biscuits. In the 1930s the owner of a small hotel in Massachusetts was making biscuits for her guests. She ran out of baking chocolate, so she cut a chocolate bar into small pieces and mixed them into the dough. She expected the pieces to melt completely, but they stayed solid. The guests were delighted, and the recipe was printed on the packets of a chocolate company a few years later. Nowadays, the biscuits are baked in kitchens everywhere.\n\nThe last story is the most surprising. According to one version, a customer in a restaurant in New York complained that his fried potatoes were too thick. The chef was annoyed, so he cut the potatoes as thin as paper, fried them until they were hard and added a lot of salt. He thought the customer would hate them. Instead, the man was thrilled and asked for more. Thin crisps were soon being served to every table, and later they were sold in bags in shops. Some historians say that a similar recipe had been published in a cookbook years before, but the restaurant story is still the most popular one.\n\nWhat do these stories have in common? In each case a problem was turned into an opportunity. Perhaps the next big food idea is being created in a kitchen near you right now, by someone who has simply made a mistake.",
+          "qs": [
+            {
+              "q": "How was the first ice lolly made?",
+              "opts": [
+                "A drink froze outside during the night.",
+                "A boy put a drink in the freezer.",
+                "A shop owner tried a new recipe."
+              ],
+              "a": 0,
+              "why": "«...left a glass of fruit soda outside... the next morning the drink had frozen»."
+            },
+            {
+              "q": "When did the boy start selling the idea?",
+              "opts": [
+                "Straight away",
+                "When he was an adult",
+                "He never sold it"
+              ],
+              "a": 1,
+              "why": "«Years later, when he was an adult, he decided to sell the idea»."
+            },
+            {
+              "q": "Why did the hotel owner cut up a chocolate bar?",
+              "opts": [
+                "She had no baking chocolate left.",
+                "Her guests asked for a new recipe.",
+                "She wanted to save money."
+              ],
+              "a": 0,
+              "why": "«She ran out of baking chocolate, so she cut a chocolate bar...»"
+            },
+            {
+              "q": "What happened to the chocolate pieces in the biscuits?",
+              "opts": [
+                "They melted completely.",
+                "They did not melt.",
+                "They burned."
+              ],
+              "a": 1,
+              "why": "«She expected the pieces to melt completely, but they stayed solid»."
+            },
+            {
+              "q": "The chef was pleased with the customer's complaint.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 1,
+              "why": "«The chef was annoyed»."
+            },
+            {
+              "q": "The restaurant in New York is still open today.",
+              "opts": [
+                "True",
+                "False",
+                "Not given"
+              ],
+              "a": 2,
+              "why": "Il testo non dice se il ristorante esiste ancora."
+            },
+            {
+              "q": "The chef cut the potatoes as ___ as paper.",
+              "answers": [
+                "thin"
+              ],
+              "why": "«...he cut the potatoes as thin as paper»."
+            },
+            {
+              "q": "What do some historians think about the crisps story?",
+              "opts": [
+                "A similar recipe existed earlier.",
+                "The story is completely false.",
+                "The chef was a famous cook."
+              ],
+              "a": 0,
+              "why": "«...a similar recipe had been published in a cookbook years before»."
+            }
+          ]
+        },
+        {
+          "t": "mc",
+          "q": "Nel testo, «she ran out of baking chocolate» significa:",
+          "opts": [
+            "le era finito il cioccolato da cucina",
+            "è corsa a comprare il cioccolato",
+            "ha buttato via il cioccolato"
+          ],
+          "a": 0,
+          "why": "Run out of = finire, esaurire."
+        },
+        {
+          "t": "gap",
+          "s": "Ice lollies ___ in almost every country in the world.",
+          "opts": [
+            "are sold",
+            "sell",
+            "are selling"
+          ],
+          "a": 0,
+          "why": "Le persone vendono i gelati: sono i gelati a «subire» l'azione. Passivo."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola del testo",
+          "s": "The guests were ___ when they tasted the biscuits.",
+          "answers": [
+            "delighted"
+          ],
+          "sub": "Molto contenti."
+        },
+        {
+          "t": "type",
+          "q": "Completa con una parola",
+          "s": "Perhaps the next big idea is ___ created in a kitchen near you.",
+          "answers": [
+            "being"
+          ],
+          "sub": "Presente progressivo passivo: is being created."
+        }
+      ]
+    },
+    {
+      "id": "b1-06-listening",
+      "kind": "listening",
+      "title": "Dentro una fabbrica di cioccolato",
+      "intro": "Un'intervista radiofonica spiega come nasce il cioccolato. Il passivo qui serve a descrivere un processo: ascolta l'ordine delle fasi.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "listen",
+          "title": "How chocolate is made",
+          "it": "Ascolta l'intervista e rispondi. Puoi riascoltarla e usare la velocità lenta.",
+          "lines": [
+            [
+              "Kate",
+              "Welcome to Food Matters. Today I'm in a small chocolate factory in York with the owner, Tom Hale. Tom, where does your chocolate begin?"
+            ],
+            [
+              "Tom",
+              "Well, it begins in West Africa. The cocoa beans are grown on small farms in Ghana, and then they're shipped to us in big sacks. They arrive twice a year, in January and in July."
+            ],
+            [
+              "Kate",
+              "And what happens next?"
+            ],
+            [
+              "Tom",
+              "First the beans are cleaned, and then they're roasted for about thirty minutes. Actually, that's the part I love, because the whole building smells wonderful. After that, the beans are crushed and the shells are removed."
+            ],
+            [
+              "Kate",
+              "Is sugar added at this stage?"
+            ],
+            [
+              "Tom",
+              "Yes, sugar and a little milk powder are mixed in. Then the mixture is stirred very slowly for two days. Most big companies only do that for a few hours, but we think the taste is better this way."
+            ],
+            [
+              "Kate",
+              "Two days! And finally?"
+            ],
+            [
+              "Tom",
+              "Finally the chocolate is poured into moulds and left to cool. Every bar is wrapped by hand, and the bars are sent to about forty shops in the north of England. Nothing is wasted: even the shells are sold to local gardeners."
+            ],
+            [
+              "Kate",
+              "That's amazing. Can customers visit the factory?"
+            ],
+            [
+              "Tom",
+              "Of course. Tours are held every Saturday at eleven, and children are welcome. They get a free taste at the end."
+            ],
+            [
+              "Kate",
+              "Sounds delicious. Thank you, Tom."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Where are the cocoa beans grown?",
+              "opts": [
+                "In Ghana",
+                "In Ecuador",
+                "In Peru"
+              ],
+              "a": 0
+            },
+            {
+              "q": "How long are the beans roasted?",
+              "opts": [
+                "About thirty minutes",
+                "About two hours",
+                "About two days"
+              ],
+              "a": 0
+            },
+            {
+              "q": "How long is the mixture stirred?",
+              "opts": [
+                "A few hours",
+                "Two days",
+                "Thirty minutes"
+              ],
+              "a": 1
+            },
+            {
+              "q": "What is done with the shells?",
+              "opts": [
+                "They are thrown away.",
+                "They are sold to gardeners.",
+                "They are used in the chocolate."
+              ],
+              "a": 1
+            },
+            {
+              "q": "Tours are held every Saturday at ___ .",
+              "answers": [
+                "11",
+                "eleven",
+                "11 a.m.",
+                "11am",
+                "eleven o'clock",
+                "11.00",
+                "11:00",
+                "11 o'clock"
+              ]
+            },
+            {
+              "q": "What do children get at the end of the tour?",
+              "opts": [
+                "A free taste",
+                "A small gift",
+                "A discount for the shop"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dictation",
+          "en": "The beans are roasted for about thirty minutes.",
+          "it": "I chicchi vengono tostati per circa trenta minuti."
+        },
+        {
+          "t": "dictation",
+          "en": "Every bar is wrapped by hand.",
+          "it": "Ogni tavoletta viene incartata a mano."
+        },
+        {
+          "t": "speak",
+          "en": "Nothing is wasted: even the shells are sold to local gardeners.",
+          "it": "Niente va sprecato: anche i gusci vengono venduti ai giardinieri della zona."
+        }
+      ]
+    },
+    {
+      "id": "b1-06-situation",
+      "kind": "situation",
+      "title": "Restituire un prodotto",
+      "intro": "Riportare in negozio un prodotto difettoso o della taglia sbagliata e chiedere un rimborso o un cambio. La differenza tra chiedere con garbo e pretendere è tutta nel registro.",
+      "minutes": 20,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Spiegare il problema e chiedere una soluzione",
+          "body": "- **I bought this yesterday, but it doesn't work.** = L'ho comprato ieri, ma non funziona.\n- **It was damaged when I opened the box.** = Era danneggiato quando ho aperto la scatola.\n- **I'd like to return it / exchange it for a larger size.** = Vorrei restituirlo / cambiarlo con una taglia più grande.\n- **Could I get a refund / a replacement?** = Potrei avere un rimborso / un sostituto?\n- **Do you have the receipt?** = Ha lo scontrino?\n- **It's still under warranty.** = È ancora in garanzia.\n\nRisposte tipiche del negozio: **I'm afraid we can only offer a credit note.** (buono) / **I'll have to speak to my manager.**",
+          "ex": [
+            [
+              "I'd like to exchange this for a larger size.",
+              "Vorrei cambiarlo con una taglia più grande."
+            ],
+            [
+              "Could I get a refund, please?",
+              "Potrei avere un rimborso, per favore?"
+            ]
+          ]
+        },
+        {
+          "t": "note",
+          "title": "Diretto o scortese? Il registro",
+          "body": "Anche quando hai ragione, il tono conta:\n- troppo diretto: «Give me my money back.» -> **I'd like a refund, please.** / **Would it be possible to get a refund?**\n- troppo brusco: «Your product is rubbish.» -> **Unfortunately, it stopped working after two days.**\n- accusatorio: «You sold me a broken thing.» -> **It seems to be faulty.**\n\nTrucchi per essere fermi ma cortesi: **I'm afraid**, **unfortunately**, **would it be possible**, **I understand, but...**\n\n**Errore tipico degli italiani**: «I want to make a reclamation» -> **I'd like to make a complaint.** E «scontrino» è receipt, non «scontrin».",
+          "ex": [
+            [
+              "I understand, but the shirt is damaged.",
+              "Capisco, ma la camicia è danneggiata."
+            ],
+            [
+              "Would it be possible to speak to the manager?",
+              "Sarebbe possibile parlare con il responsabile?"
+            ]
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "Un asciugacapelli difettoso",
+          "it": "Scegli la risposta più chiara e cortese (Tu).",
+          "lines": [
+            [
+              "Assistant",
+              "Good afternoon. Can I help you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello. I bought this hairdryer here last week, but it stopped working yesterday. I'd like to return it, please.",
+                  "Hello. This hairdryer is rubbish. I want my money back now.",
+                  "Hello. I have buyed this hairdryer and it don't work, why?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Assistant",
+              "I'm sorry to hear that. Do you have the receipt?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, here it is. It's still under warranty, I think.",
+                  "Yes, here the scontrino. It is still in warranty, I believe.",
+                  "No, but you must believe me, I'm an honest person."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Assistant",
+              "Thank you. I'm afraid we can't give you a refund, but we can send it away to be repaired, or we can offer you a replacement."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "A replacement would be great, thank you. Would it be possible to get it today?",
+                  "A replacement? I wanted the money, I don't want another rubbish.",
+                  "Yes, give me a replacement or I write a bad review."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "Il tono giusto è fermo ma cortese: motivo chiaro (stopped working), scontrino, e una richiesta indiretta (Would it be possible...)."
+        },
+        {
+          "t": "dialog",
+          "title": "Cambiare una taglia",
+          "lines": [
+            [
+              "Assistant",
+              "Hi there. Is everything all right?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "I bought this jacket for my brother, but unfortunately it's too small. Could I exchange it for a larger size?",
+                  "This jacket is not the good size. Change it.",
+                  "I have bought this jacket but my brother is more big, exchange it please."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Assistant",
+              "Of course. Have you got the receipt with you?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, and I haven't worn it. The label is still on.",
+                  "Yes, and I have not carried it. The label is still there.",
+                  "I think I lost it, but you can see my face on the camera."
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Assistant",
+              "Perfect. The next size up is out of stock, I'm afraid. We can give you a credit note instead."
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "That's fine, thanks. I'll have a look around and choose something else.",
+                  "A credit note? No, I want the money, it's my right.",
+                  "Credit note not good. I go to another shop."
+                ],
+                "a": 0
+              }
+            ]
+          ],
+          "why": "In inglese un vestito non indossato si dice «I haven't worn it» (wear = indossare, carry = portare in mano). Per accettare una soluzione parziale si usa un tono collaborativo."
+        },
+        {
+          "t": "match",
+          "pairs": [
+            [
+              "I'd like to exchange this.",
+              "Vorrei cambiare questo."
+            ],
+            [
+              "It's still under warranty.",
+              "È ancora in garanzia."
+            ],
+            [
+              "Do you have the receipt?",
+              "Ha lo scontrino?"
+            ],
+            [
+              "It was damaged when it arrived.",
+              "Era danneggiato quando è arrivato."
+            ],
+            [
+              "We can offer you a credit note.",
+              "Possiamo offrirle un buono."
+            ]
+          ]
+        },
+        {
+          "t": "order",
+          "it": "Posso avere un rimborso per questo maglione?",
+          "en": "Could I get a refund for this jumper",
+          "extra": [
+            "refunds",
+            "gave"
+          ]
+        },
+        {
+          "t": "speak",
+          "en": "I bought this yesterday, but unfortunately it doesn't work.",
+          "it": "L'ho comprato ieri, ma purtroppo non funziona."
+        },
+        {
+          "t": "speak",
+          "en": "Would it be possible to get a refund, please?",
+          "it": "Sarebbe possibile avere un rimborso, per favore?"
+        },
+        {
+          "t": "speak",
+          "en": "I haven't worn it and the label is still on.",
+          "it": "Non l'ho indossato e l'etichetta c'è ancora."
+        },
+        {
+          "t": "speakTask",
+          "q": "You bought a pair of headphones last week, but one side doesn't work. Go back to the shop.",
+          "it": "Sei in negozio con delle cuffie difettose: spiega il problema, mostra lo scontrino e chiedi un rimborso o un cambio, con un tono cortese (almeno 6 frasi).",
+          "hints": [
+            "I bought these headphones...",
+            "Unfortunately, one side...",
+            "Here is the receipt.",
+            "Would it be possible to...?"
+          ],
+          "min": 50,
+          "model": "Good morning. I bought these headphones here last Saturday, but unfortunately the left side doesn't work. I've only used them twice, and I haven't dropped them. Here is the receipt. I'd like to exchange them for a new pair, if possible. If you don't have the same model, I'd be happy with a refund. Would it be possible to check that today?"
+        }
+      ]
+    },
+    {
+      "id": "b1-06-production",
+      "kind": "production",
+      "title": "Scrivere un'email di reclamo",
+      "intro": "Nell'esame B1 Preliminary l'email è formale o informale a seconda del destinatario. Qui scrivi un reclamo cortese ma chiaro a un negozio online: il passivo è perfetto per descrivere il problema senza accusare nessuno.",
+      "minutes": 25,
+      "steps": [
+        {
+          "t": "note",
+          "title": "Come è fatta un'email di reclamo",
+          "body": "- **Saluto**: Dear Sir or Madam, (se non conosci il nome) / Dear Mr Jones,\n- **Motivo**: I am writing to complain about... / I am writing to ask for a refund for...\n- **Fatti** (con date e passivi): I ordered ... on 3 March. It was delivered on 8 March, but the box had been damaged.\n- **Che cosa è stato fatto**: I phoned your customer service, but nobody has called me back.\n- **Richiesta**: I would be grateful if you could send a replacement. / I would like a full refund.\n- **Chiusura**: I look forward to hearing from you. / **Yours faithfully,** (con Dear Sir or Madam) / **Yours sincerely,** (con il nome).\n\nConnettivi utili: **However**, **unfortunately**, **as a result**, **therefore**. In un'email formale **niente contrazioni** (I am, I would) e tono calmo.",
+          "ex": [
+            [
+              "I am writing to complain about a faulty phone.",
+              "Scrivo per lamentarmi di un telefono difettoso."
+            ],
+            [
+              "I would be grateful if you could send a replacement.",
+              "Le sarei grato se potesse inviarmi un sostituto."
+            ]
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "The jacket arrived on Monday. ___ , one of the buttons was missing.",
+          "opts": [
+            "Unfortunately",
+            "Although",
+            "Because"
+          ],
+          "a": 0,
+          "why": "Serve un avverbio che introduce un fatto negativo dopo una frase intera: unfortunately."
+        },
+        {
+          "t": "fix",
+          "s": "Dear Sir or Madam, I want that you send me a refund immediately.",
+          "answers": [
+            "Dear Sir or Madam, I would like you to send me a refund",
+            "Dear Sir or Madam, I would like you to send me a refund immediately",
+            "Dear Sir or Madam, I would be grateful if you could send me a refund",
+            "Dear Sir or Madam, I would be grateful if you could send me a refund immediately"
+          ],
+          "why": "«I want that» non esiste e il tono è troppo diretto. Si usa I would like you to... oppure I would be grateful if you could..."
+        },
+        {
+          "t": "transform",
+          "s1": "Please send me a replacement.",
+          "key": "GRATEFUL",
+          "s2": "I would be ___ me a replacement.",
+          "answers": [
+            "grateful if you could send",
+            "grateful if you would send"
+          ],
+          "why": "Richiesta formale: I would be grateful if you could + verbo base."
+        },
+        {
+          "t": "write",
+          "q": "You bought a coffee machine from an online shop. It was delivered in a damaged box and the water tank was cracked. You phoned customer service, but nobody called you back. Write an email to the shop. Explain the problem, say what has happened since, and ask for a refund or a replacement.",
+          "it": "Scrivi un'email formale di 100-120 parole al negozio: spiega il problema, che cosa è successo dopo la telefonata, e chiedi un rimborso o un sostituto. Usa almeno due passivi.",
+          "min": 100,
+          "max": 120,
+          "checklist": [
+            "Ho iniziato con Dear Sir or Madam e chiuso con Yours faithfully",
+            "Ho spiegato il problema con date e fatti",
+            "Ho usato almeno due passivi (was delivered, had been damaged...)",
+            "Ho chiesto una soluzione in modo cortese (I would be grateful if...)",
+            "Non ho usato contrazioni e il tono è calmo"
+          ],
+          "useful": [
+            "I am writing to complain about...",
+            "It was delivered on...",
+            "Unfortunately, ...",
+            "I would be grateful if you could...",
+            "I look forward to hearing from you."
+          ],
+          "model": "Dear Sir or Madam,\n\nI am writing to complain about a coffee machine that I bought from your website on 3 March. It was delivered on 8 March, but unfortunately the box had been damaged and the water tank was cracked.\n\nI telephoned your customer service team last week. I was told that someone would call me back within two days, but nobody has contacted me yet.\n\nI would like to have a full refund or, if possible, a replacement as soon as possible. I have attached a photograph of the damaged machine and a copy of my receipt.\n\nI look forward to hearing from you.\n\nYours faithfully,\nMarco Bianchi"
+        },
+        {
+          "t": "speakTask",
+          "q": "Describe a product that you bought and were disappointed with.",
+          "it": "Racconta un acquisto che ti ha deluso: che cos'era, che problema aveva, che cosa hai fatto (almeno 5 frasi).",
+          "hints": [
+            "I bought...",
+            "It was made of... but...",
+            "It was damaged / It stopped working...",
+            "In the end I..."
+          ],
+          "min": 40,
+          "model": "Last year I bought a pair of boots online. They looked great in the photos, but when they were delivered, I saw that they were made of cheap plastic. After two weeks, the heel was already loose. I phoned the shop and I was offered a replacement, but I asked for a refund instead. Now I always read the reviews before I order anything."
+        },
+        {
+          "t": "speakTask",
+          "q": "Talk about a food or product that is typical of your country.",
+          "it": "Parla di un cibo o di un prodotto tipico del tuo paese: come viene fatto, dove viene venduto (almeno 5 frasi, con il passivo).",
+          "hints": [
+            "... is made from...",
+            "It is produced in...",
+            "It is sold in...",
+            "It was invented..."
+          ],
+          "min": 40,
+          "model": "A typical product from my region is olive oil. The olives are harvested between October and December, and they are pressed within a few hours. The oil is sold in small bottles in local shops, and a lot of it is exported abroad. It is used in almost every traditional dish, and it is often given as a present."
+        }
+      ]
+    },
+    {
+      "id": "b1-06-test",
+      "kind": "test",
+      "title": "Test dell'unità 6",
+      "intro": "Verifica senza aiuti: il passivo, il lessico di reclami e invenzioni, un testo e un ascolto. Le correzioni le vedi alla fine.",
+      "minutes": 25,
+      "pass": 70,
+      "steps": [
+        {
+          "t": "gap",
+          "s": "These shoes ___ in Portugal.",
+          "opts": [
+            "are made",
+            "make",
+            "are making"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "The telephone ___ by Alexander Graham Bell.",
+          "opts": [
+            "was invented",
+            "invented",
+            "has invented"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "My phone ___ , so I can use it again.",
+          "opts": [
+            "has been repaired",
+            "has repaired",
+            "is been repaired"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "Your order ___ by courier on Thursday.",
+          "opts": [
+            "will be delivered",
+            "will deliver",
+            "will be deliver"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "This medicine ___ before the expiry date.",
+          "opts": [
+            "must be taken",
+            "must take",
+            "must be take"
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "I was offered a better price.",
+            "I was offered me a better price.",
+            "Me was offered a better price."
+          ],
+          "a": 0
+        },
+        {
+          "t": "mc",
+          "q": "Qual è la frase corretta?",
+          "opts": [
+            "The shop was closed because of the strike.",
+            "The shop was close because of the strike.",
+            "The shop closed by the strike."
+          ],
+          "a": 0
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "Millions of tonnes of coffee ___ (import) into Europe every year.",
+          "answers": [
+            "are imported"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Scrivi la forma giusta del verbo tra parentesi",
+          "s": "My bag ___ (steal) on the train yesterday.",
+          "answers": [
+            "was stolen"
+          ]
+        },
+        {
+          "t": "type",
+          "q": "Traduci in inglese",
+          "text": "Il nuovo ponte sarà aperto a giugno.",
+          "answers": [
+            "The new bridge will be opened in June",
+            "The new bridge will be opened next June",
+            "The new bridge will be open in June"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "The box was arrived damaged.",
+          "answers": [
+            "The box arrived damaged"
+          ]
+        },
+        {
+          "t": "fix",
+          "s": "The tomatoes is harvested in August.",
+          "answers": [
+            "The tomatoes are harvested in August"
+          ]
+        },
+        {
+          "t": "transform",
+          "s1": "They sold all the tickets in two hours.",
+          "key": "SOLD",
+          "s2": "All the tickets ___ in two hours.",
+          "answers": [
+            "were sold"
+          ]
+        },
+        {
+          "t": "wordform",
+          "s": "I'd like to make a ___ about the service.",
+          "root": "COMPLAIN",
+          "answers": [
+            "complaint"
+          ]
+        },
+        {
+          "t": "gap",
+          "s": "The washing machine is still under ___ , so the repair is free.",
+          "opts": [
+            "warranty",
+            "warrant",
+            "warning"
+          ],
+          "a": 0
+        },
+        {
+          "t": "gap",
+          "s": "The toaster doesn't work. It must be ___ .",
+          "opts": [
+            "faulty",
+            "defect",
+            "faultless"
+          ],
+          "a": 0
+        },
+        {
+          "t": "order",
+          "it": "Questo tavolo è fatto di legno riciclato.",
+          "en": "This table is made of recycled wood",
+          "extra": [
+            "makes",
+            "by"
+          ]
+        },
+        {
+          "t": "cloze",
+          "title": "Completa l'email",
+          "mode": "mc",
+          "text": "Last week I bought a pair of boots online. They {1} to my house two days later, but one of them {2}: the heel was loose. I phoned the shop, and they said that boots {3} back within thirty days, so I {4} a full refund. A new pair {5} next week.",
+          "gaps": [
+            {
+              "opts": [
+                "were delivered",
+                "delivered",
+                "have delivered",
+                "were deliver"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "was damaged",
+                "damaged",
+                "has damaged",
+                "was damage"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "can be returned",
+                "can return",
+                "can be return",
+                "can been returned"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "was offered",
+                "offered",
+                "have offered",
+                "am offering"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "will be sent",
+                "will send",
+                "sends",
+                "will be send"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from the shop",
+          "it": "Ascolta il messaggio in segreteria.",
+          "lines": [
+            [
+              "Anna",
+              "Hello Mr Rossi, this is Anna from the furniture shop on High Street. I'm calling about the wardrobe you ordered. I'm afraid it was damaged in our warehouse, so a new one has been ordered for you. It will be delivered on Thursday afternoon, between two and five. If that isn't convenient, please phone us before Wednesday."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What happened to the wardrobe?",
+              "opts": [
+                "It was damaged in the warehouse.",
+                "It was lost on the way.",
+                "It was sold to another customer."
+              ],
+              "a": 0
+            },
+            {
+              "q": "When will the new wardrobe be delivered?",
+              "opts": [
+                "On Thursday afternoon",
+                "On Wednesday morning",
+                "On Friday"
+              ],
+              "a": 0
+            },
+            {
+              "q": "What should Mr Rossi do if the time isn't convenient?",
+              "opts": [
+                "Phone the shop before Wednesday",
+                "Collect it from the shop",
+                "Send an email on Thursday"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "title": "In negozio",
+          "lines": [
+            [
+              "Assistant",
+              "Good morning. How can I help?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Hello. I bought this lamp here last week, but unfortunately it doesn't work. Could I get a refund?",
+                  "Hello. This lamp is a rubbish. I want the money, now.",
+                  "Hello. I have buyed this lamp and it is not functioning, why?"
+                ],
+                "a": 0
+              }
+            ],
+            [
+              "Assistant",
+              "I'm sorry about that. Do you have the receipt?"
+            ],
+            [
+              "Tu",
+              {
+                "opts": [
+                  "Yes, here it is.",
+                  "Yes, here the scontrino.",
+                  "No, but trust me."
+                ],
+                "a": 0
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

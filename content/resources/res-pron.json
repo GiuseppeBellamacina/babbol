@@ -1,0 +1,548 @@
+{
+ "id": "res-pron",
+ "kind": "pron",
+ "title": "Pronuncia per italiani",
+ "intro": "I suoni dell'inglese che danno più problemi a chi parla italiano.",
+ "items": [
+  {
+   "title": "TH sorda",
+   "sound": "θ",
+   "tip": "Metti la punta della lingua tra i denti e soffia, senza far vibrare la voce. NON è «s» né «t»: «think» non è «sink» né «tink».",
+   "words": [
+    [
+     "think",
+     "θɪŋk",
+     "pensare"
+    ],
+    [
+     "three",
+     "θriː",
+     "tre"
+    ],
+    [
+     "thank",
+     "θæŋk",
+     "ringraziare"
+    ],
+    [
+     "month",
+     "mʌnθ",
+     "mese"
+    ]
+   ]
+  },
+  {
+   "title": "TH sonora",
+   "sound": "ð",
+   "tip": "Stessa posizione di θ ma facendo vibrare le corde vocali: è come una «d» morbida con la lingua tra i denti. Si trova in the, this, that, mother.",
+   "words": [
+    [
+     "the",
+     "ðə",
+     "il / la"
+    ],
+    [
+     "this",
+     "ðɪs",
+     "questo"
+    ],
+    [
+     "mother",
+     "ˈmʌðə",
+     "madre"
+    ],
+    [
+     "brother",
+     "ˈbrʌðə",
+     "fratello"
+    ]
+   ]
+  },
+  {
+   "title": "La H si sente",
+   "sound": "h",
+   "tip": "In italiano la H è muta, in inglese si pronuncia con un soffio d'aria dalla gola, come quando appanni uno specchio. «Hair» (capelli) non è «air» (aria)!",
+   "words": [
+    [
+     "house",
+     "haʊs",
+     "casa"
+    ],
+    [
+     "hello",
+     "həˈləʊ",
+     "ciao"
+    ],
+    [
+     "happy",
+     "ˈhæpi",
+     "felice"
+    ],
+    [
+     "hungry",
+     "ˈhʌŋɡri",
+     "affamato"
+    ]
+   ]
+  },
+  {
+   "title": "ship vs sheep",
+   "sound": "ɪ / iː",
+   "tip": "La vocale breve ɪ è rapida e rilassata (ship, bit); la lunga iː è tesa e allungata (sheep, beat). In italiano non c'è questa distinzione: allunga davvero la lunga!",
+   "words": [
+    [
+     "ship",
+     "ʃɪp",
+     "nave"
+    ],
+    [
+     "sheep",
+     "ʃiːp",
+     "pecora"
+    ],
+    [
+     "bit",
+     "bɪt",
+     "pezzetto"
+    ],
+    [
+     "beat",
+     "biːt",
+     "battere"
+    ]
+   ]
+  },
+  {
+   "title": "La A aperta",
+   "sound": "æ",
+   "tip": "Apri molto la bocca, a metà tra «a» ed «e». «Cat» non è «cet» e non è «cat» all'italiana. Pensa a un belato: «bæ».",
+   "words": [
+    [
+     "cat",
+     "kæt",
+     "gatto"
+    ],
+    [
+     "bad",
+     "bæd",
+     "cattivo"
+    ],
+    [
+     "man",
+     "mæn",
+     "uomo"
+    ],
+    [
+     "apple",
+     "ˈæpl",
+     "mela"
+    ]
+   ]
+  },
+  {
+   "title": "La schwa",
+   "sound": "ə",
+   "tip": "È il suono più comune dell'inglese: una vocale neutra, breve e rilassata nelle sillabe NON accentate. «About» → «əˈbaʊt», «banana» → «bəˈnɑːnə».",
+   "words": [
+    [
+     "about",
+     "əˈbaʊt",
+     "circa"
+    ],
+    [
+     "banana",
+     "bəˈnɑːnə",
+     "banana"
+    ],
+    [
+     "teacher",
+     "ˈtiːtʃə",
+     "insegnante"
+    ],
+    [
+     "family",
+     "ˈfæməli",
+     "famiglia"
+    ]
+   ]
+  },
+  {
+   "title": "Il suffisso -ed",
+   "sound": "t / d / ɪd",
+   "tip": "Il passato in -ed ha tre pronunce: /t/ dopo suoni sordi (worked), /d/ dopo suoni sonori (played), /ɪd/ dopo t o d (wanted). Non si dice mai «work-ed» con la e!",
+   "words": [
+    [
+     "worked",
+     "wɜːkt",
+     "lavorato"
+    ],
+    [
+     "played",
+     "pleɪd",
+     "giocato"
+    ],
+    [
+     "wanted",
+     "ˈwɒntɪd",
+     "voluto"
+    ],
+    [
+     "asked",
+     "ɑːskt",
+     "chiesto"
+    ]
+   ]
+  },
+  {
+   "title": "Il suffisso -s",
+   "sound": "s / z / ɪz",
+   "tip": "La -s finale suona /s/ dopo suoni sordi (cats), /z/ dopo suoni sonori (dogs) e /ɪz/ dopo s, x, sh, ch (boxes, watches).",
+   "words": [
+    [
+     "cats",
+     "kæts",
+     "gatti"
+    ],
+    [
+     "dogs",
+     "dɒɡz",
+     "cani"
+    ],
+    [
+     "boxes",
+     "ˈbɒksɪz",
+     "scatole"
+    ],
+    [
+     "watches",
+     "ˈwɒtʃɪz",
+     "orologi"
+    ]
+   ]
+  },
+  {
+   "title": "La R inglese",
+   "sound": "r",
+   "tip": "Non è la R italiana vibrante: la lingua non tocca mai il palato, resta arretrata e le labbra sono leggermente arrotondate. Come un suono «u» seguito da «r».",
+   "words": [
+    [
+     "red",
+     "red",
+     "rosso"
+    ],
+    [
+     "right",
+     "raɪt",
+     "giusto"
+    ],
+    [
+     "very",
+     "ˈveri",
+     "molto"
+    ],
+    [
+     "room",
+     "ruːm",
+     "stanza"
+    ]
+   ]
+  },
+  {
+   "title": "W e V",
+   "sound": "w / v",
+   "tip": "La W si fa con le labbra arrotondate (come «uo»), senza toccare i denti. La V invece appoggia i denti superiori sul labbro inferiore. «Wine» ≠ «vine».",
+   "words": [
+    [
+     "water",
+     "ˈwɔːtə",
+     "acqua"
+    ],
+    [
+     "very",
+     "ˈveri",
+     "molto"
+    ],
+    [
+     "wine",
+     "waɪn",
+     "vino"
+    ],
+    [
+     "vine",
+     "vaɪn",
+     "vite"
+    ]
+   ]
+  },
+  {
+   "title": "Lettere mute",
+   "sound": "∅",
+   "tip": "Molte parole hanno lettere che non si pronunciano: la K in knee, la W in write, la B in lamb, la L in walk, la T in listen.",
+   "words": [
+    [
+     "knee",
+     "niː",
+     "ginocchio"
+    ],
+    [
+     "write",
+     "raɪt",
+     "scrivere"
+    ],
+    [
+     "listen",
+     "ˈlɪsn",
+     "ascoltare"
+    ],
+    [
+     "island",
+     "ˈaɪlənd",
+     "isola"
+    ]
+   ]
+  },
+  {
+   "title": "J e G dolce",
+   "sound": "dʒ",
+   "tip": "Il suono /dʒ/ è come la G italiana di «gelato». Lo trovi nella J (jam, job) e a volte nella G (gym, giant).",
+   "words": [
+    [
+     "jam",
+     "dʒæm",
+     "marmellata"
+    ],
+    [
+     "job",
+     "dʒɒb",
+     "lavoro"
+    ],
+    [
+     "gym",
+     "dʒɪm",
+     "palestra"
+    ],
+    [
+     "giant",
+     "ˈdʒaɪənt",
+     "gigante"
+    ]
+   ]
+  },
+  {
+   "title": "CH e SH",
+   "sound": "tʃ / ʃ",
+   "tip": "CH /tʃ/ è come la C italiana di «ciao» (cheese). SH /ʃ/ è come «sc» di «scena» (ship). «Cheap» e «sheep» non sono la stessa cosa!",
+   "words": [
+    [
+     "cheese",
+     "tʃiːz",
+     "formaggio"
+    ],
+    [
+     "chair",
+     "tʃeə",
+     "sedia"
+    ],
+    [
+     "shoe",
+     "ʃuː",
+     "scarpa"
+    ],
+    [
+     "fish",
+     "fɪʃ",
+     "pesce"
+    ]
+   ]
+  },
+  {
+   "title": "Il suono NG",
+   "sound": "ŋ",
+   "tip": "In sing, long, morning la G finale NON si pronuncia come in italiano: il suono è nasale, come la N di «anche». Non dire «sing-guh»!",
+   "words": [
+    [
+     "sing",
+     "sɪŋ",
+     "cantare"
+    ],
+    [
+     "long",
+     "lɒŋ",
+     "lungo"
+    ],
+    [
+     "morning",
+     "ˈmɔːnɪŋ",
+     "mattina"
+    ],
+    [
+     "thing",
+     "θɪŋ",
+     "cosa"
+    ]
+   ]
+  },
+  {
+   "title": "L'accento della parola",
+   "sound": "ˈ",
+   "tip": "Ogni parola con più sillabe ha una sillaba accentata più forte e lunga. Cambiare l'accento cambia a volte il significato: «PHOtograph» ≠ «phoTOGraphy».",
+   "words": [
+    [
+     "photograph",
+     "ˈfəʊtəɡrɑːf",
+     "fotografia"
+    ],
+    [
+     "photography",
+     "fəˈtɒɡrəfi",
+     "arte fotografica"
+    ],
+    [
+     "important",
+     "ɪmˈpɔːtnt",
+     "importante"
+    ],
+    [
+     "banana",
+     "bəˈnɑːnə",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "title": "Dittonghi",
+   "sound": "aɪ eɪ aʊ",
+   "tip": "Molte vocali inglesi sono dittonghi: due suoni uniti. «My» = a + i; «say» = e + i; «now» = a + u. Scivola da un suono all'altro.",
+   "words": [
+    [
+     "my",
+     "maɪ",
+     "mio"
+    ],
+    [
+     "say",
+     "seɪ",
+     "dire"
+    ],
+    [
+     "now",
+     "naʊ",
+     "adesso"
+    ],
+    [
+     "go",
+     "ɡəʊ",
+     "andare"
+    ]
+   ]
+  },
+  {
+   "title": "Niente doppie!",
+   "sound": "=",
+   "tip": "In inglese le lettere doppie NON allungano il suono come in italiano: «coffee» si dice /ˈkɒfi/, non «cof-fee» con la F lunga. Una sola consonante, suono normale.",
+   "words": [
+    [
+     "coffee",
+     "ˈkɒfi",
+     "caffè"
+    ],
+    [
+     "pizza",
+     "ˈpiːtsə",
+     "pizza"
+    ],
+    [
+     "happy",
+     "ˈhæpi",
+     "felice"
+    ],
+    [
+     "better",
+     "ˈbetə",
+     "meglio"
+    ]
+   ]
+  },
+  {
+   "title": "Il mostro OUGH",
+   "sound": "ough",
+   "tip": "«Ough» si legge in 5 modi diversi! though /ðəʊ/, through /θruː/, tough /tʌf/, cough /kɒf/, bought /bɔːt/. Non c'è regola: va imparata parola per parola.",
+   "words": [
+    [
+     "though",
+     "ðəʊ",
+     "sebbene"
+    ],
+    [
+     "through",
+     "θruː",
+     "attraverso"
+    ],
+    [
+     "tough",
+     "tʌf",
+     "duro"
+    ],
+    [
+     "cough",
+     "kɒf",
+     "tosse"
+    ]
+   ]
+  },
+  {
+   "title": "Si scrive ≠ si legge",
+   "sound": "?!",
+   "tip": "L'inglese non si legge come si scrive: Wednesday /ˈwenzdeɪ/, comfortable /ˈkʌmftəbl/, vegetable /ˈvedʒtəbl/, colonel /ˈkɜːnl/. Controlla sempre la trascrizione fonetica!",
+   "words": [
+    [
+     "Wednesday",
+     "ˈwenzdeɪ",
+     "mercoledì"
+    ],
+    [
+     "comfortable",
+     "ˈkʌmftəbl",
+     "comodo"
+    ],
+    [
+     "vegetable",
+     "ˈvedʒtəbl",
+     "verdura"
+    ],
+    [
+     "colonel",
+     "ˈkɜːnl",
+     "colonnello"
+    ]
+   ]
+  },
+  {
+   "title": "S + consonante: niente E davanti",
+   "sound": "sp- st- sk-",
+   "tip": "Parole che iniziano con S + consonante: in italiano diciamo spontaneamente «eschool», «estudent». In inglese NON si aggiunge nessuna vocale: «school» inizia con una S sibilata lunga, poi subito la consonante.",
+   "words": [
+    [
+     "school",
+     "skuːl",
+     "scuola"
+    ],
+    [
+     "student",
+     "ˈstjuːdnt",
+     "studente"
+    ],
+    [
+     "speak",
+     "spiːk",
+     "parlare"
+    ],
+    [
+     "street",
+     "striːt",
+     "strada"
+    ]
+   ]
+  }
+ ]
+}

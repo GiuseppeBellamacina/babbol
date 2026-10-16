@@ -1,0 +1,688 @@
+{
+ "id": "res-connectors",
+ "kind": "connectors",
+ "title": "Connettivi per scrivere e parlare",
+ "intro": "Connettivi e segnali del discorso per collegare le idee, con registro, posizione e un esempio.",
+ "items": [
+  {
+   "en": "and",
+   "it": "e",
+   "use": "Il connettivo più semplice per aggiungere. Si usa tra parole o frasi, in ogni registro.",
+   "ex": [
+    "She plays the guitar and sings in a band.",
+    "Suona la chitarra e canta in un gruppo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "also",
+   "it": "anche, inoltre",
+   "use": "Si mette di solito prima del verbo principale (dopo be e gli ausiliari). Non a inizio frase nello scritto accurato.",
+   "ex": [
+    "He is also very good at maths.",
+    "È anche molto bravo in matematica."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "too",
+   "it": "anche, troppo",
+   "use": "Informale. Va in fondo alla frase: non si usa a inizio frase.",
+   "ex": [
+    "I'd like a coffee too, please.",
+    "Prendo un caffè anch'io, per favore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "as well",
+   "it": "anche",
+   "use": "Neutro. Va in fondo alla frase, mai prima del verbo.",
+   "ex": [
+    "We visited Rome and Florence as well.",
+    "Abbiamo visitato anche Roma e Firenze."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "in addition",
+   "it": "inoltre",
+   "use": "Formale, per aggiungere un punto. Spesso a inizio frase, seguito dalla virgola.",
+   "ex": [
+    "The hotel is cheap; in addition, it is close to the station.",
+    "L'hotel è economico; inoltre, è vicino alla stazione."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "moreover",
+   "it": "inoltre, per di più",
+   "use": "Molto formale, tipico dello scritto. Aggiunge un'informazione più forte della precedente.",
+   "ex": [
+    "The plan is expensive; moreover, it is unlikely to work.",
+    "Il piano è costoso; per di più, è improbabile che funzioni."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "furthermore",
+   "it": "inoltre, in più",
+   "use": "Formale, scritto. Si mette a inizio frase o dopo il punto e virgola.",
+   "ex": [
+    "The report is clear; furthermore, it is well written.",
+    "Il rapporto è chiaro; inoltre, è scritto bene."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "besides",
+   "it": "inoltre, oltretutto",
+   "use": "Informale-neutro. Aggiunge un argomento in più; non confonderlo con beside (accanto a).",
+   "ex": [
+    "I don't want to go; besides, I have no money.",
+    "Non voglio andare; oltretutto, non ho soldi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "not only",
+   "it": "non solo",
+   "use": "Dopo not only a inizio frase serve l'inversione (Not only did he...). Si completa con but also.",
+   "ex": [
+    "He not only speaks French but also Russian.",
+    "Non solo parla francese, ma anche russo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "as well as",
+   "it": "oltre a, così come",
+   "use": "Seguito da un nome o da -ing, non da una frase.",
+   "ex": [
+    "She speaks Spanish as well as Italian.",
+    "Parla spagnolo oltre all'italiano."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "but",
+   "it": "ma",
+   "use": "Il contrasto più comune, in ogni registro. Evita di usarlo a inizio frase nello scritto formale.",
+   "ex": [
+    "I like tea but I prefer coffee.",
+    "Mi piace il tè, ma preferisco il caffè."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "however",
+   "it": "tuttavia, però",
+   "use": "Formale-neutro. Di solito dopo punto o punto e virgola, seguito da virgola. Non si usa per unire due frasi con la sola virgola.",
+   "ex": [
+    "The film was long; however, I enjoyed it.",
+    "Il film era lungo; tuttavia mi è piaciuto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "although",
+   "it": "sebbene, anche se",
+   "use": "Introduce una frase completa (soggetto e verbo). Non va seguito da but nella frase principale.",
+   "ex": [
+    "We went for a walk although it was raining.",
+    "Siamo andati a fare una passeggiata anche se pioveva."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "even though",
+   "it": "anche se, nonostante",
+   "use": "Più forte di although. Seguito da una frase completa.",
+   "ex": [
+    "He went to work even though he was ill.",
+    "È andato al lavoro anche se era malato."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "though",
+   "it": "però, anche se",
+   "use": "Informale. In fondo alla frase vale \"però\"; a inizio frase è come although.",
+   "ex": [
+    "The food was good; the service was slow, though.",
+    "Il cibo era buono; il servizio però era lento."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "despite",
+   "it": "nonostante",
+   "use": "Seguito da un nome o da -ing, mai da una frase. Non si dice despite of.",
+   "ex": [
+    "We played despite the bad weather.",
+    "Abbiamo giocato nonostante il maltempo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "in spite of",
+   "it": "nonostante",
+   "use": "Come despite, ma con of. Seguito da un nome o da -ing.",
+   "ex": [
+    "She smiled in spite of her tiredness.",
+    "Ha sorriso nonostante la stanchezza."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "while",
+   "it": "mentre, invece",
+   "use": "Per contrapporre due fatti. Seguito da una frase completa. Neutro-formale.",
+   "ex": [
+    "My brother loves sport, while I prefer reading.",
+    "A mio fratello piace lo sport, mentre io preferisco leggere."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "whereas",
+   "it": "mentre, laddove",
+   "use": "Formale, tipico dello scritto. Contrappone due fatti in una stessa frase.",
+   "ex": [
+    "Some people like cities, whereas others prefer the countryside.",
+    "Ad alcuni piacciono le città, mentre altri preferiscono la campagna."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "on the other hand",
+   "it": "d'altra parte",
+   "use": "Presenta l'aspetto opposto. Di solito segue on the one hand ed è seguito da una virgola.",
+   "ex": [
+    "Flying is fast; on the other hand, it is bad for the environment.",
+    "Volare è veloce; d'altra parte, fa male all'ambiente."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "nevertheless",
+   "it": "ciononostante",
+   "use": "Formale. Più forte di however, tipico dello scritto.",
+   "ex": [
+    "It was risky; nevertheless, they decided to go ahead.",
+    "Era rischioso; ciononostante, hanno deciso di andare avanti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "in contrast",
+   "it": "al contrario, in confronto",
+   "use": "Formale. Mette a confronto due situazioni. Seguito da virgola.",
+   "ex": [
+    "Summers are hot; in contrast, winters are mild.",
+    "Le estati sono calde; al contrario, gli inverni sono miti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "instead",
+   "it": "invece, al suo posto",
+   "use": "Va in fondo alla frase o dopo la virgola. Non confonderlo con instead of (seguito da nome o -ing).",
+   "ex": [
+    "There was no bus, so we walked instead.",
+    "Non c'era l'autobus, quindi siamo andati a piedi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "instead of",
+   "it": "invece di",
+   "use": "Seguito da un nome o da -ing, mai da to + verbo.",
+   "ex": [
+    "I had tea instead of coffee.",
+    "Ho preso il tè invece del caffè."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "otherwise",
+   "it": "altrimenti",
+   "use": "Introduce la conseguenza negativa di non fare qualcosa. Si può usare dopo punto e virgola.",
+   "ex": [
+    "Hurry up; otherwise we'll miss the train.",
+    "Sbrigati; altrimenti perderemo il treno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "because",
+   "it": "perché",
+   "use": "Introduce una frase completa con soggetto e verbo. Risponde a why.",
+   "ex": [
+    "I stayed at home because I was tired.",
+    "Sono rimasto a casa perché ero stanco."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "because of",
+   "it": "a causa di",
+   "use": "Seguito da un nome o da un pronome, non da una frase.",
+   "ex": [
+    "The match was cancelled because of the rain.",
+    "La partita è stata annullata a causa della pioggia."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "since",
+   "it": "dato che, visto che",
+   "use": "Nel senso di causa si usa quando il motivo è già noto. Neutro-formale.",
+   "ex": [
+    "We took a taxi since it was late.",
+    "Abbiamo preso un taxi dato che era tardi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "as",
+   "it": "poiché, dato che",
+   "use": "Causa, spesso a inizio frase. Neutro. Non confonderlo con as per il tempo.",
+   "ex": [
+    "We stayed in as it was raining.",
+    "Siamo rimasti dentro poiché pioveva."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "due to",
+   "it": "a causa di, dovuto a",
+   "use": "Formale. Seguito da un nome. Spesso dopo be: The delay was due to...",
+   "ex": [
+    "The flight was late due to fog.",
+    "Il volo era in ritardo a causa della nebbia."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "owing to",
+   "it": "a causa di",
+   "use": "Formale. Seguito da un nome; si usa per spiegare un fatto negativo.",
+   "ex": [
+    "The museum is closed today owing to staff shortages.",
+    "Il museo oggi è chiuso a causa della carenza di personale."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "thanks to",
+   "it": "grazie a",
+   "use": "Si usa per cause positive (o ironicamente per quelle negative). Seguito da un nome.",
+   "ex": [
+    "I passed the exam thanks to your help.",
+    "Ho superato l'esame grazie al tuo aiuto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "so",
+   "it": "quindi, perciò",
+   "use": "Informale-neutro. Introduce il risultato; non si mette a inizio frase nello scritto formale.",
+   "ex": [
+    "It was cold, so I wore a coat.",
+    "Faceva freddo, quindi ho messo il cappotto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "therefore",
+   "it": "quindi, pertanto",
+   "use": "Formale. Introduce una conseguenza logica. Spesso tra due virgole o dopo punto e virgola.",
+   "ex": [
+    "The road was closed; therefore, we took another route.",
+    "La strada era chiusa; pertanto abbiamo preso un'altra via."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "as a result",
+   "it": "di conseguenza",
+   "use": "Neutro-formale. Collega un risultato a un fatto precedente. Seguito da virgola.",
+   "ex": [
+    "He missed the bus; as a result, he was late.",
+    "Ha perso l'autobus; di conseguenza è arrivato tardi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "consequently",
+   "it": "di conseguenza",
+   "use": "Formale. Come as a result, ma tipico dello scritto.",
+   "ex": [
+    "Sales fell; consequently, the shop closed.",
+    "Le vendite sono calate; di conseguenza il negozio ha chiuso."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "that's why",
+   "it": "ecco perché",
+   "use": "Informale-neutro. Seguito da una frase completa.",
+   "ex": [
+    "I was ill, and that's why I didn't come.",
+    "Ero malato, ed ecco perché non sono venuto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "to",
+   "it": "per (scopo)",
+   "use": "Con il verbo base indica lo scopo. Non si dice for + verbo.",
+   "ex": [
+    "I went to the shop to buy some bread.",
+    "Sono andato al negozio per comprare del pane."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "in order to",
+   "it": "al fine di",
+   "use": "Più formale di to. Per negare: in order not to.",
+   "ex": [
+    "She left early in order to avoid the traffic.",
+    "È partita presto per evitare il traffico."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "so that",
+   "it": "in modo che, affinché",
+   "use": "Seguito da una frase completa, spesso con can o could.",
+   "ex": [
+    "I wrote it down so that I wouldn't forget.",
+    "L'ho scritto in modo da non dimenticarlo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "so as to",
+   "it": "in modo da",
+   "use": "Formale. Seguito dal verbo base; per negare: so as not to.",
+   "ex": [
+    "He spoke quietly so as to avoid waking the baby.",
+    "Parlava piano per non svegliare il bambino."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "when",
+   "it": "quando",
+   "use": "Per azioni nel tempo. Dopo when non si usa will per il futuro: usa il present simple.",
+   "ex": [
+    "I'll call you when I arrive.",
+    "Ti chiamo quando arrivo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "during",
+   "it": "durante",
+   "use": "Seguito da un nome, mai da una frase (con una frase si usa while). Neutro.",
+   "ex": [
+    "She called during dinner.",
+    "Ha chiamato durante la cena."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "as soon as",
+   "it": "appena",
+   "use": "Per azioni consecutive. Dopo as soon as non si usa will per il futuro: usa il present simple.",
+   "ex": [
+    "Text me as soon as you get home.",
+    "Mandami un messaggio appena arrivi a casa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "before",
+   "it": "prima di, prima che",
+   "use": "Può introdurre una frase o essere seguito da -ing.",
+   "ex": [
+    "Wash your hands before you eat.",
+    "Lavati le mani prima di mangiare."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "after",
+   "it": "dopo",
+   "use": "Può introdurre una frase o essere seguito da -ing.",
+   "ex": [
+    "We went for a walk after we had dinner.",
+    "Siamo andati a fare una passeggiata dopo cena."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "until",
+   "it": "finché, fino a",
+   "use": "Per indicare il momento in cui qualcosa finisce. Con il futuro si usa il present simple.",
+   "ex": [
+    "Wait here until I come back.",
+    "Aspetta qui finché non torno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "meanwhile",
+   "it": "nel frattempo",
+   "use": "Neutro-formale. Indica due azioni contemporanee; si mette a inizio frase o dopo il punto e virgola.",
+   "ex": [
+    "I'll cook; meanwhile, you can set the table.",
+    "Cucino io; nel frattempo puoi apparecchiare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "eventually",
+   "it": "alla fine",
+   "use": "Dopo un lungo tempo o molte difficoltà. Non significa eventualmente.",
+   "ex": [
+    "We eventually found the right house.",
+    "Alla fine abbiamo trovato la casa giusta."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "first of all",
+   "it": "prima di tutto",
+   "use": "Per elencare i punti di un discorso o di un testo. Si usa poi con secondly, finally.",
+   "ex": [
+    "Let me explain first of all why I called.",
+    "Lasciate che vi spieghi prima di tutto perché ho chiamato."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "finally",
+   "it": "infine, finalmente",
+   "use": "Introduce l'ultimo punto o un evento atteso. Di solito prima del verbo o a inizio frase.",
+   "ex": [
+    "We finally reached the top of the hill.",
+    "Siamo finalmente arrivati in cima alla collina."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "for example",
+   "it": "per esempio",
+   "use": "Neutro. Introduce un esempio, spesso tra virgole.",
+   "ex": [
+    "Many sports, for example tennis, are played outdoors.",
+    "Molti sport, per esempio il tennis, si praticano all'aperto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "for instance",
+   "it": "per esempio",
+   "use": "Come for example, un po' più parlato.",
+   "ex": [
+    "Some cities, for instance Venice, are very crowded.",
+    "Alcune città, per esempio Venezia, sono molto affollate."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "such as",
+   "it": "come, quali",
+   "use": "Introduce uno o più esempi dentro la frase, senza virgola dopo. Non si usa a inizio frase.",
+   "ex": [
+    "I love fruit such as mangoes and pineapples.",
+    "Adoro la frutta come mango e ananas."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "in particular",
+   "it": "in particolare",
+   "use": "Mette in evidenza un elemento in mezzo a un gruppo.",
+   "ex": [
+    "I like thrillers, and Scandinavian ones in particular.",
+    "Mi piacciono i thriller, e in particolare quelli scandinavi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "in conclusion",
+   "it": "in conclusione",
+   "use": "Formale. Introduce la parte finale di un testo o di un discorso.",
+   "ex": [
+    "I think, in conclusion, that the plan is a good one.",
+    "Penso, in conclusione, che il piano sia buono."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "to sum up",
+   "it": "riassumendo",
+   "use": "Neutro-formale. Per riassumere i punti principali; di solito a inizio frase.",
+   "ex": [
+    "The project, to sum up, was a success.",
+    "Il progetto, riassumendo, è stato un successo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "overall",
+   "it": "nel complesso",
+   "use": "Dà un giudizio globale. Spesso a inizio frase, con la virgola.",
+   "ex": [
+    "The trip was tiring but, overall, we enjoyed it.",
+    "Il viaggio è stato faticoso ma, nel complesso, ci è piaciuto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "in my opinion",
+   "it": "secondo me",
+   "use": "Neutro. Si può mettere a inizio frase o tra virgole. Non si dice according to me.",
+   "ex": [
+    "The food, in my opinion, was too salty.",
+    "Secondo me il cibo era troppo salato."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "I think",
+   "it": "penso",
+   "use": "Informale-neutro. Per negare: I don't think + frase affermativa.",
+   "ex": [
+    "I think we should leave now.",
+    "Penso che dovremmo andare ora."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "as far as I'm concerned",
+   "it": "per quanto mi riguarda",
+   "use": "Neutro-formale. Introduce un'opinione personale.",
+   "ex": [
+    "The matter is settled as far as I'm concerned.",
+    "Per quanto mi riguarda, la questione è chiusa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "to be honest",
+   "it": "a dire la verità",
+   "use": "Informale. Introduce un'opinione sincera, spesso a inizio frase.",
+   "ex": [
+    "I didn't enjoy the film, to be honest.",
+    "A dire la verità il film non mi è piaciuto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "actually",
+   "it": "in realtà",
+   "use": "Corregge o precisa; non significa attualmente.",
+   "ex": [
+    "It's actually quite easy once you know how.",
+    "In realtà è piuttosto facile, una volta che sai come si fa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "in fact",
+   "it": "infatti, anzi",
+   "use": "Aggiunge un dettaglio che rafforza o corregge quanto detto prima.",
+   "ex": [
+    "He isn't shy; in fact, he loves talking.",
+    "Non è timido; anzi, adora parlare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "generally speaking",
+   "it": "in generale",
+   "use": "Neutro. Introduce un'affermazione che vale per lo più.",
+   "ex": [
+    "Trains here are, generally speaking, punctual.",
+    "In generale, qui i treni sono puntuali."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "of course",
+   "it": "naturalmente",
+   "use": "Neutro. Può suonare scortese se usato per una risposta ovvia; attenzione al tono.",
+   "ex": [
+    "We can of course reschedule the meeting.",
+    "Naturalmente possiamo spostare la riunione."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "as long as",
+   "it": "a patto che, purché",
+   "use": "Introduce una condizione. Con il futuro si usa il present simple.",
+   "ex": [
+    "You can go out as long as you finish your homework.",
+    "Puoi uscire purché tu finisca i compiti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "unless",
+   "it": "a meno che non",
+   "use": "Significa if not. Non si usa con una negazione aggiuntiva.",
+   "ex": [
+    "We'll go unless it rains.",
+    "Andremo, a meno che non piova."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

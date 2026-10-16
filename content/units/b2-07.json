@@ -1,0 +1,1452 @@
+{
+ "id": "b2-07",
+ "level": "B2",
+ "position": 7,
+ "title": "Arte, cultura e viaggi",
+ "sub": "Relative non definitorie e participle clauses - presentare e rispondere",
+ "grammar": "Relative clauses non definitorie, participle clauses",
+ "topic": "Cultura, arte, viaggi",
+ "situation": "Fare una presentazione e rispondere alle domande",
+ "lessons": [
+  {
+   "id": "b2-07-grammar",
+   "kind": "grammar",
+   "title": "Relative clauses non definitorie e participle clauses",
+   "intro": "Le relative non definitorie e le participle clauses servono a unire le frasi in modo elegante e a scrivere come in un articolo. Sono tra le strutture più tipiche dello stile B2: descrivono un luogo, un artista, un viaggio senza ripetere soggetti e connettivi.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Relative definitorie e non definitorie",
+     "body": "- **Definitoria**: dice **quale** persona o cosa; senza di lei la frase perde senso. **Niente virgole**; si può usare that: The museum **that** opened last year is already famous.\n- **Non definitoria**: aggiunge un'informazione **extra**. **Tra virgole** (nel parlato, con pause); mai that; il pronome non si omette: The Tate Modern, **which** opened in 2000, attracts millions.\n\n**Pronomi**: who (persone), which (cose), whose (possesso), where (luoghi), when (tempo). **Whom** (formale) come complemento.\n\n**Attenzione al significato**: «My brother who lives in Paris is an architect» (ho più fratelli, parlo di quello che vive a Parigi). «My brother, who lives in Paris, is an architect» (ho un solo fratello, e per inciso vive a Parigi).\n\n**Which** può riferirsi a **tutta la frase precedente**: She passed the exam at her first attempt, **which** surprised everyone.",
+     "ex": [
+      [
+       "The painter, whose work is on show in Rome, was born in Turin.",
+       "Il pittore, la cui opera è esposta a Roma, è nato a Torino."
+      ],
+      [
+       "We stayed at the Hotel Aurora, where the staff were extremely friendly.",
+       "Abbiamo alloggiato all'Hotel Aurora, dove il personale era gentilissimo."
+      ],
+      [
+       "He lost his passport, which caused him a lot of trouble.",
+       "Ha perso il passaporto, il che gli ha causato molti guai."
+      ]
+     ],
+     "table": [
+      [
+       "",
+       "Definitoria",
+       "Non definitoria"
+      ],
+      [
+       "Virgole",
+       "no",
+       "sì"
+      ],
+      [
+       "that",
+       "possibile",
+       "mai"
+      ],
+      [
+       "Omettere il pronome (oggetto)",
+       "sì",
+       "no"
+      ],
+      [
+       "Funzione",
+       "identifica",
+       "aggiunge informazione"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Preposizione + pronome, quantità + pronome",
+     "body": "- **Preposizione + which / whom** (formale): The hotel, **in which** we stayed, was comfortable. Nel parlato la preposizione va in fondo: The hotel, **which we stayed in**, was comfortable.\n- **Quantificatore + of which / of whom**: She has two brothers, **both of whom** are musicians. / The museum has 500 paintings, **most of which** are on loan.\n- Dopo la preposizione non si usa who né that: «in that», «to who» sono errori (-> in which, to whom).\n- Non si ripete il pronome: «The castle, which we visited **it**» è sbagliato.\n\nErrore tipico: usare **what** invece di **which** per riprendere una frase: «He passed, what surprised everyone» -> **which** surprised everyone.",
+     "ex": [
+      [
+       "The festival, to which thousands of people come every year, takes place in July.",
+       "Il festival, a cui ogni anno vengono migliaia di persone, si tiene a luglio."
+      ],
+      [
+       "The museum has 500 paintings, most of which are on loan.",
+       "Il museo ha 500 dipinti, la maggior parte in prestito."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Participle clauses",
+     "body": "Una participle clause sostituisce una frase con il **verbo al participio**, quando i soggetti sono **gli stessi**:\n- **-ing** (attivo, azione contemporanea o motivo): **Walking** along the beach, we found a shell. / **Not knowing** the language, he asked for help.\n- **Having + participio passato** (azione **anteriore**): **Having seen** the film, she didn't want to read the book.\n- **Participio passato** (significato passivo): **Built** in 1850, the bridge is still in use. / **Seen** from the hill, the town looks tiny.\n\nSi usano anche dopo un nome come **relativa ridotta**: The castle, **built** in the twelfth century, is now a museum. / The woman **standing** by the window is the curator.\n\nSi usano soprattutto nello **scritto** e nel parlato curato; rendono i testi più compatti (criterio Cambridge «language»).",
+     "ex": [
+      [
+       "Having walked all day, we were exhausted.",
+       "Dopo aver camminato tutto il giorno, eravamo esausti."
+      ],
+      [
+       "Built in 1850, the bridge is still in use.",
+       "Costruito nel 1850, il ponte è ancora in uso."
+      ]
+     ],
+     "table": [
+      [
+       "Forma",
+       "Significato",
+       "Esempio"
+      ],
+      [
+       "-ing",
+       "attivo, contemporaneo",
+       "Looking up, I saw a hawk."
+      ],
+      [
+       "having + pp",
+       "attivo, anteriore",
+       "Having finished, she left."
+      ],
+      [
+       "participio passato",
+       "passivo",
+       "Painted in 1890, it is worth millions."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Errori tipici: soggetto sbagliato e punteggiatura",
+     "body": "- **Dangling participle**: il soggetto della participle clause deve essere lo stesso della frase principale. «**Walking** along the beach, a shell was found» è sbagliato (la conchiglia non cammina). Corretto: Walking along the beach, **we** found a shell.\n- Dopo la participle clause iniziale si mette la **virgola**.\n- Con la forma negativa: **Not** knowing the way, ... (non «Knowing not»).\n- In italiano usiamo spesso il gerundio per tutto: in inglese, se le azioni non sono simultanee o collegate, si preferisce **having + pp** o una frase con **after**.\n- Non usare le relative non definitorie con **that** («The castle, that is old...»).",
+     "ex": [
+      [
+       "Not knowing the way, we asked a passer-by.",
+       "Non conoscendo la strada, abbiamo chiesto a un passante."
+      ],
+      [
+       "Walking along the beach, we found a beautiful shell.",
+       "Camminando sulla spiaggia, abbiamo trovato una bella conchiglia."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "My sister, ___ lives in Florence, works as a restorer.",
+     "opts": [
+      "who",
+      "that",
+      "which"
+     ],
+     "a": 0,
+     "why": "Relativa non definitoria riferita a una persona: who. That non si usa tra virgole."
+    },
+    {
+     "t": "gap",
+     "s": "The artist, ___ paintings sell for millions, refuses to give interviews.",
+     "opts": [
+      "whose",
+      "who",
+      "which"
+     ],
+     "a": 0,
+     "why": "Whose indica possesso: i cui dipinti."
+    },
+    {
+     "t": "gap",
+     "s": "She passed the exam at the first attempt, ___ surprised everyone.",
+     "opts": [
+      "which",
+      "what",
+      "that"
+     ],
+     "a": 0,
+     "why": "Which riprende l'intera frase; what e that non possono farlo."
+    },
+    {
+     "t": "gap",
+     "s": "We stayed at the Hotel Aurora, ___ the staff were extremely friendly.",
+     "opts": [
+      "where",
+      "which",
+      "that"
+     ],
+     "a": 0,
+     "why": "Where = nel quale (luogo); which e that richiederebbero una preposizione."
+    },
+    {
+     "t": "gap",
+     "s": "___ the exhibition earlier that week, she did not need the audio guide.",
+     "opts": [
+      "Having visited",
+      "Visiting",
+      "Visited"
+     ],
+     "a": 0,
+     "why": "Azione anteriore: having + participio passato. Visiting indicherebbe azioni contemporanee; Visited è passivo."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "The Colosseum, which attracts millions of tourists every year, is in Rome.",
+      "The Colosseum, that attracts millions of tourists every year, is in Rome.",
+      "The Colosseum which attracts millions of tourists every year, is in Rome."
+     ],
+     "a": 0,
+     "why": "Non definitoria: virgole e which (mai that)."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta?",
+     "opts": [
+      "Walking along the beach, we found a beautiful shell.",
+      "Walking along the beach, a beautiful shell was found.",
+      "Walking along the beach, the shell was beautiful."
+     ],
+     "a": 0,
+     "why": "Il soggetto della participle clause (we) deve essere quello della frase principale."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "The novel, ___ was published in 1998, became a bestseller.",
+     "answers": [
+      "which"
+     ],
+     "why": "Non definitoria riferita a una cosa: which."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "She has two brothers, both of ___ are musicians.",
+     "answers": [
+      "whom"
+     ],
+     "why": "Dopo of si usa whom per le persone."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola (build)",
+     "s": "___ in the twelfth century, the castle is now a museum.",
+     "answers": [
+      "Built"
+     ],
+     "why": "Participio passato con valore passivo."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The museum, that opened last year, is already famous.",
+     "answers": [
+      "The museum, which opened last year, is already famous"
+     ],
+     "why": "Nelle non definitorie non si usa that."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "My uncle, who's house is in Venice, is a glassmaker.",
+     "answers": [
+      "My uncle, whose house is in Venice, is a glassmaker"
+     ],
+     "why": "Whose esprime possesso; who's = who is."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The hotel, in that we stayed, was very comfortable.",
+     "answers": [
+      "The hotel, in which we stayed, was very comfortable",
+      "The hotel, which we stayed in, was very comfortable"
+     ],
+     "why": "Dopo la preposizione si usa which, non that."
+    },
+    {
+     "t": "transform",
+     "s1": "The cathedral was built in 1250. It dominates the old town.",
+     "key": "WHICH",
+     "s2": "The cathedral, ___ in 1250, dominates the old town.",
+     "answers": [
+      "which was built"
+     ],
+     "why": "Non definitoria con which + verbo passivo."
+    },
+    {
+     "t": "transform",
+     "s1": "He lost his passport, and that caused him a lot of trouble.",
+     "key": "WHICH",
+     "s2": "He lost his passport, ___ him a lot of trouble.",
+     "answers": [
+      "which caused"
+     ],
+     "why": "Which riprende tutta la frase precedente."
+    },
+    {
+     "t": "transform",
+     "s1": "She had finished the report, so she went home.",
+     "key": "HAVING",
+     "s2": "___ the report, she went home.",
+     "answers": [
+      "Having finished"
+     ],
+     "why": "Azione anteriore: having + participio passato."
+    },
+    {
+     "t": "transform",
+     "s1": "As he didn't know the way, he asked a passer-by.",
+     "key": "KNOWING",
+     "s2": "___ the way, he asked a passer-by.",
+     "answers": [
+      "Not knowing"
+     ],
+     "why": "Forma negativa: Not + -ing."
+    },
+    {
+     "t": "order",
+     "it": "Il castello, che risale al Duecento, è aperto al pubblico.",
+     "en": "The castle which dates from the thirteenth century is open to the public",
+     "extra": [
+      "what",
+      "whose"
+     ],
+     "why": "Non definitoria: which + virgole."
+    }
+   ]
+  },
+  {
+   "id": "b2-07-vocab",
+   "kind": "vocab",
+   "title": "Arte, cultura e viaggi",
+   "intro": "Lessico per descrivere mostre, monumenti e viaggi: serve per scrivere un articolo, per fare una presentazione e per raccontare una visita.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "b2-07-w01",
+     "en": "masterpiece",
+     "it": "capolavoro",
+     "ipa": "ˈmɑːstəpiːs",
+     "pos": "n",
+     "ex": [
+      "The Sistine Chapel ceiling is widely regarded as a masterpiece.",
+      "Il soffitto della Cappella Sistina è considerato un capolavoro."
+     ]
+    },
+    {
+     "id": "b2-07-w02",
+     "en": "curator",
+     "it": "curatore, curatrice (di museo o mostra)",
+     "ipa": "kjʊˈreɪtə",
+     "pos": "n",
+     "ex": [
+      "The curator spent two years preparing the exhibition.",
+      "La curatrice ha impiegato due anni per preparare la mostra."
+     ],
+     "note": "Non è «curatore» in senso legale: lavora con collezioni e mostre."
+    },
+    {
+     "id": "b2-07-w03",
+     "en": "landmark",
+     "it": "monumento simbolo, punto di riferimento",
+     "ipa": "ˈlændmɑːk",
+     "pos": "n",
+     "ex": [
+      "The clock tower is the town's best-known landmark.",
+      "La torre dell'orologio è il monumento più noto della città."
+     ]
+    },
+    {
+     "id": "b2-07-w04",
+     "en": "heritage",
+     "it": "patrimonio culturale",
+     "ipa": "ˈherɪtɪdʒ",
+     "pos": "n",
+     "ex": [
+      "The old town is a UNESCO World Heritage Site.",
+      "Il centro storico è patrimonio dell'umanità UNESCO."
+     ],
+     "note": "Non è «eredità» in senso legale (inheritance)."
+    },
+    {
+     "id": "b2-07-w05",
+     "en": "restoration",
+     "it": "restauro",
+     "ipa": "ˌrestəˈreɪʃn",
+     "pos": "n",
+     "ex": [
+      "The restoration of the fresco took five years.",
+      "Il restauro dell'affresco è durato cinque anni."
+     ],
+     "note": "Verbo: restore."
+    },
+    {
+     "id": "b2-07-w06",
+     "en": "off the beaten track",
+     "it": "fuori dai sentieri battuti",
+     "ipa": "ɒf ðə ˌbiːtn ˈtræk",
+     "pos": "phr",
+     "ex": [
+      "We found a lovely village off the beaten track.",
+      "Abbiamo trovato un bel villaggio fuori dai percorsi turistici."
+     ]
+    },
+    {
+     "id": "b2-07-w07",
+     "en": "tourist trap",
+     "it": "trappola per turisti",
+     "ipa": "ˈtʊərɪst træp",
+     "pos": "n",
+     "ex": [
+      "The restaurant by the cathedral was a tourist trap.",
+      "Il ristorante vicino alla cattedrale era una trappola per turisti."
+     ]
+    },
+    {
+     "id": "b2-07-w08",
+     "en": "breathtaking",
+     "it": "mozzafiato",
+     "ipa": "ˈbreθteɪkɪŋ",
+     "pos": "adj",
+     "ex": [
+      "The view from the summit was breathtaking.",
+      "La vista dalla cima era mozzafiato."
+     ]
+    },
+    {
+     "id": "b2-07-w09",
+     "en": "itinerary",
+     "it": "itinerario",
+     "ipa": "aɪˈtɪnərəri",
+     "pos": "n",
+     "ex": [
+      "Our itinerary included three cities in six days.",
+      "Il nostro itinerario comprendeva tre città in sei giorni."
+     ],
+     "note": "Si pronuncia con l'accento sulla seconda sillaba."
+    },
+    {
+     "id": "b2-07-w10",
+     "en": "installation",
+     "it": "installazione (opera d'arte)",
+     "ipa": "ˌɪnstəˈleɪʃn",
+     "pos": "n",
+     "ex": [
+      "The installation filled the whole room with light and sound.",
+      "L'installazione riempiva tutta la sala di luce e suoni."
+     ],
+     "note": "In arte è un'opera tridimensionale che occupa uno spazio."
+    },
+    {
+     "id": "b2-07-w11",
+     "en": "commission",
+     "it": "commissionare (un'opera)",
+     "ipa": "kəˈmɪʃn",
+     "pos": "v",
+     "ex": [
+      "The city commissioned a statue to mark the anniversary.",
+      "La città ha commissionato una statua per celebrare l'anniversario."
+     ],
+     "note": "Anche nome: an official commission = un incarico."
+    },
+    {
+     "id": "b2-07-w12",
+     "en": "vibrant",
+     "it": "vivace, pieno di vita e colore",
+     "ipa": "ˈvaɪbrənt",
+     "pos": "adj",
+     "ex": [
+      "The market is a vibrant place full of colour and music.",
+      "Il mercato è un luogo vivace pieno di colori e musica."
+     ]
+    },
+    {
+     "id": "b2-07-w13",
+     "en": "unmissable",
+     "it": "imperdibile",
+     "ipa": "ʌnˈmɪsəbl",
+     "pos": "adj",
+     "ex": [
+      "The new exhibition is unmissable.",
+      "La nuova mostra è imperdibile."
+     ]
+    },
+    {
+     "id": "b2-07-w14",
+     "en": "admission",
+     "it": "ingresso, biglietto d'entrata",
+     "ipa": "ədˈmɪʃn",
+     "pos": "n",
+     "ex": [
+      "Admission is free on the first Sunday of the month.",
+      "L'ingresso è gratuito la prima domenica del mese."
+     ],
+     "note": "Non è «ammissione» solo scolastica: è il prezzo/diritto di entrata."
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "a UNESCO heritage site",
+       "un sito patrimonio dell'umanità"
+      ],
+      [
+       "off the beaten track",
+       "fuori dai percorsi turistici"
+      ],
+      [
+       "restore a painting",
+       "restaurare un dipinto"
+      ],
+      [
+       "commission a portrait",
+       "commissionare un ritratto"
+      ],
+      [
+       "plan an itinerary",
+       "pianificare un itinerario"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Each painting in the show was chosen by the ___ , who has worked at the museum for twenty years.",
+     "opts": [
+      "curator",
+      "composer",
+      "receptionist"
+     ],
+     "a": 0,
+     "why": "Curator = chi organizza e cura le collezioni e le mostre."
+    },
+    {
+     "t": "gap",
+     "s": "We avoided the tourist ___ near the station and ate in a family-run café.",
+     "opts": [
+      "trap",
+      "net",
+      "hook"
+     ],
+     "a": 0,
+     "why": "Tourist trap = locale o luogo pensato per spennare i turisti."
+    },
+    {
+     "t": "wordform",
+     "s": "The ___ of the old theatre took three years.",
+     "root": "RESTORE",
+     "answers": [
+      "restoration"
+     ],
+     "why": "Nome: restore -> restoration."
+    },
+    {
+     "t": "wordform",
+     "s": "After the ___ of the new gallery, visitor numbers doubled.",
+     "root": "OPEN",
+     "answers": [
+      "opening"
+     ],
+     "why": "Nome verbale: open -> opening."
+    },
+    {
+     "t": "mc",
+     "q": "Un posto «off the beaten track» è:",
+     "opts": [
+      "fuori dai percorsi turistici abituali",
+      "molto affollato",
+      "difficile da raggiungere in auto"
+     ],
+     "a": 0,
+     "why": "Off the beaten track = lontano dalle strade più battute, meno turistico."
+    },
+    {
+     "t": "type",
+     "q": "Completa con UNA parola",
+     "s": "Visitors can enter free of charge: ___ is free on Sundays.",
+     "answers": [
+      "admission"
+     ],
+     "why": "Admission = ingresso, entrata."
+    }
+   ]
+  },
+  {
+   "id": "b2-07-reading",
+   "kind": "reading",
+   "title": "La fila per la Gioconda",
+   "intro": "Un articolo sul turismo di massa e sul modo di guardare l'arte. Osserva le relative non definitorie e le participle clauses con cui l'autrice condensa le informazioni.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Is the Mona Lisa worth the queue?",
+     "genre": "magazine feature",
+     "text": "Every morning at the Louvre, long before the doors open, a queue begins to form. Most of the people in it, many of whom have travelled thousands of miles, are heading for a single painting. They will spend, on average, fifty minutes in line and less than a minute in front of the Mona Lisa, which is smaller than most visitors expect and is protected by glass and a rope. Many leave disappointed, having seen the picture mainly through a forest of raised phones.\n\nCritics of mass tourism, a group that includes museum directors as well as residents, argue that this experience has little to do with art. Visitors tick off famous names rather than looking, and the result, they say, is tiredness and a vague sense of having missed something. Dr Helen Marsh, a curator at a small gallery in Edinburgh, which receives fewer than forty thousand visitors a year, puts it bluntly. \"A masterpiece needs time. Rushed through in sixty seconds, it stops being a work of art and becomes a souvenir.\"\n\nSome cities are trying to change the habit. Florence, hit by crowds that have doubled in a decade, now promotes lesser-known museums on its tourist cards. Visitors holding these cards get discounts at churches and workshops outside the centre. In Lisbon, where the old tram lines are packed all summer, a new scheme encourages travellers to explore the northern districts, known for street art and family-run cafés. Early figures, published last spring, suggest that the plan is working: attendance at several small museums has risen by almost a third.\n\nTravellers can do their part. Experts recommend, first, choosing a single major sight rather than trying to see everything, and booking a time slot well in advance. Second, they suggest spending longer in fewer rooms, a habit that psychologists say improves memory. And third, visiting smaller places, where you can often stand in front of a painting for ten minutes without being pushed. \"I once saw a Rembrandt in a provincial town, with only a guard for company,\" Dr Marsh recalls. \"Forty minutes later, I realised I had forgotten to check my phone.\"\n\nNot everyone is convinced. Some argue that the queue itself is part of the experience, a shared ritual that connects strangers, and that nobody has the right to tell visitors how to enjoy art. Others point out that the smaller museums, lacking the budget of the big ones, may not cope with a sudden flood of visitors. Both points are fair. Perhaps the sensible compromise is to do both: see the famous picture briefly, then spend the afternoon somewhere quieter, giving your eyes, and your feet, a rest. Yet the central message is hard to dispute: a place, like a painting, rewards those who look slowly.",
+     "qs": [
+      {
+       "q": "Why do many visitors leave the Mona Lisa disappointed?",
+       "opts": [
+        "They queue for a long time and see the painting only briefly, among many phones.",
+        "The painting is damaged by the glass.",
+        "The museum closes before they reach it."
+       ],
+       "a": 0,
+       "why": "«fifty minutes in line and less than a minute... a forest of raised phones»"
+      },
+      {
+       "q": "What does Dr Marsh believe about masterpieces?",
+       "opts": [
+        "They need time to be appreciated.",
+        "They should be moved to smaller galleries.",
+        "They are overrated."
+       ],
+       "a": 0,
+       "why": "«A masterpiece needs time.»"
+      },
+      {
+       "q": "Dr Marsh works at a small gallery in ___ .",
+       "answers": [
+        "Edinburgh"
+       ]
+      },
+      {
+       "q": "What has Florence done to deal with crowds?",
+       "opts": [
+        "It promotes lesser-known museums on its tourist cards.",
+        "It has limited the number of visitors.",
+        "It has closed the main churches."
+       ],
+       "a": 0,
+       "why": "«now promotes lesser-known museums on its tourist cards»"
+      },
+      {
+       "q": "Attendance at several small museums in Lisbon has risen by almost a ___ .",
+       "answers": [
+        "third"
+       ]
+      },
+      {
+       "q": "What do psychologists say about spending longer in fewer rooms?",
+       "opts": [
+        "It helps people remember what they saw.",
+        "It makes visits more expensive.",
+        "It tires visitors less."
+       ],
+       "a": 0,
+       "why": "«a habit that psychologists say improves memory»"
+      },
+      {
+       "q": "What worry do some people have about smaller museums?",
+       "opts": [
+        "They may not be able to cope with many more visitors.",
+        "They are not interesting enough.",
+        "They are too far from the centre."
+       ],
+       "a": 0,
+       "why": "«may not cope with a sudden flood of visitors»"
+      },
+      {
+       "q": "What is the writer's main message?",
+       "opts": [
+        "Looking slowly brings more reward than rushing.",
+        "Famous museums should be avoided.",
+        "Travellers should never queue."
+       ],
+       "a": 0,
+       "why": "Ultima frase: a place, like a painting, rewards those who look slowly."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "«Visitors tick off famous names» significa che i visitatori:",
+     "opts": [
+      "spuntano i nomi famosi come in una lista",
+      "criticano i nomi famosi",
+      "dimenticano i nomi famosi"
+     ],
+     "a": 0,
+     "why": "Tick off = spuntare da un elenco."
+    },
+    {
+     "t": "mc",
+     "q": "«A forest of raised phones» è:",
+     "opts": [
+      "un'immagine: tantissimi telefoni alzati",
+      "un luogo con molti alberi",
+      "un tipo di fotocamera"
+     ],
+     "a": 0,
+     "why": "Metafora: una moltitudine fitta di telefoni alzati."
+    },
+    {
+     "t": "gap",
+     "s": "Both points are fair, but the central message is hard to ___ .",
+     "opts": [
+      "dispute",
+      "defend",
+      "refuse"
+     ],
+     "a": 0,
+     "why": "Hard to dispute = difficile da contestare (collocazione)."
+    },
+    {
+     "t": "wordform",
+     "s": "Many visitors leave with a sense of ___ .",
+     "root": "DISAPPOINT",
+     "answers": [
+      "disappointment"
+     ],
+     "why": "Nome: disappoint -> disappointment."
+    }
+   ]
+  },
+  {
+   "id": "b2-07-listening",
+   "kind": "listening",
+   "title": "Presentare un progetto e rispondere alle domande",
+   "intro": "Una responsabile presenta il progetto di una nuova galleria e risponde alle domande del pubblico. Ascolta come struttura il discorso e come gestisce le domande.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Presenting the Riverside Gallery",
+     "it": "Ascolta la presentazione e le domande. Puoi riascoltarla e usare la velocità lenta.",
+     "lines": [
+      [
+       "Anna",
+       "Good morning, everyone, and thank you for coming. In the next ten minutes I would like to present our proposal for the new Riverside Gallery, which is due to open next spring. I will start with the building, then talk about the programme, and finally the budget. Please do feel free to ask questions at the end."
+      ],
+      [
+       "Anna",
+       "First, the building. The gallery will be housed in an old textile mill, built in 1890 and unused since the nineties. The architects, who won an international competition last year, plan to keep the original brick walls, which gives the space real character."
+      ],
+      [
+       "Anna",
+       "Moving on to the programme. Our opening exhibition, curated by Dr Nilsson, brings together fifty works by local artists. Having consulted more than two hundred residents, we have also decided to offer free entry on Sundays."
+      ],
+      [
+       "Anna",
+       "Finally, the budget. The total cost is four million pounds, half of which comes from a lottery grant. That is all from me, and I would be happy to take questions."
+      ],
+      [
+       "Tom",
+       "Thank you, Anna. Could you say a little more about the lottery grant? Is it guaranteed?"
+      ],
+      [
+       "Anna",
+       "That is a good question. The grant has been approved in principle, but we have to submit a final report by June. If we fail to do so, we could lose up to a quarter of the money."
+      ],
+      [
+       "Mei",
+       "I was wondering about accessibility. The mill has several floors, hasn't it?"
+      ],
+      [
+       "Anna",
+       "Yes, four floors. We will install two lifts, and the architects are also designing a ramp at the main entrance, so the whole building will be accessible."
+      ],
+      [
+       "Tom",
+       "And what if costs go over budget?"
+      ],
+      [
+       "Anna",
+       "Fair point. We have included a ten per cent contingency, so a small overrun would not stop us. Anything larger, and we would have to reduce the size of the shop and the café. Does that answer your question?"
+      ],
+      [
+       "Tom",
+       "Yes, thank you."
+      ],
+      [
+       "Anna",
+       "Any other questions? No? Then thank you all for listening."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What kind of building will the gallery be in?",
+       "opts": [
+        "An old textile mill",
+        "A former school",
+        "A converted station"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Who designed the gallery?",
+       "opts": [
+        "Architects who won an international competition",
+        "Dr Nilsson",
+        "Local residents"
+       ],
+       "a": 0
+      },
+      {
+       "q": "The mill was built in ___ .",
+       "answers": [
+        "1890",
+        "eighteen ninety"
+       ]
+      },
+      {
+       "q": "What decision was made after talking to residents?",
+       "opts": [
+        "To offer free entry on Sundays",
+        "To open in the evening",
+        "To charge a lower price for children"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Why might the gallery lose some of the lottery grant?",
+       "opts": [
+        "If it does not submit a final report by June",
+        "If it exceeds the budget",
+        "If it opens late"
+       ],
+       "a": 0
+      },
+      {
+       "q": "How will the building be made accessible?",
+       "opts": [
+        "With lifts and a ramp",
+        "With a new entrance on the river",
+        "With a special bus service"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What would happen if costs rose far above the budget?",
+       "opts": [
+        "The shop and café would be made smaller.",
+        "The opening would be delayed.",
+        "Entry would no longer be free."
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "Having consulted more than two hundred residents, we have decided to offer free entry on Sundays.",
+     "it": "Dopo aver consultato più di duecento residenti, abbiamo deciso di offrire l'ingresso gratuito la domenica."
+    },
+    {
+     "t": "dictation",
+     "en": "The architects, who won an international competition, plan to keep the brick walls.",
+     "it": "Gli architetti, che hanno vinto un concorso internazionale, prevedono di mantenere i muri di mattoni."
+    },
+    {
+     "t": "speak",
+     "en": "Please do feel free to ask questions at the end.",
+     "it": "Sentitevi liberi di fare domande alla fine."
+    }
+   ]
+  },
+  {
+   "id": "b2-07-situation",
+   "kind": "situation",
+   "title": "Fare una presentazione e rispondere alle domande",
+   "intro": "Aprire, guidare il pubblico con i segnali di struttura e gestire le domande, anche quelle difficili. Le frasi giuste ti permettono di restare calmo e di sembrare preparato.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Strutturare la presentazione",
+     "body": "- **Aprire**: Good morning, everyone. Thank you for coming. / In the next ten minutes I'd like to present... / I'll start with..., then..., and finally...\n- **Passare al punto successivo**: Moving on to... / Let me turn to... / That brings me to my next point.\n- **Dare enfasi**: What I'd like to stress is... / The key point here is...\n- **Citare dati**: As you can see from this chart, ... / Figures show that...\n- **Concludere**: To sum up, ... / That brings me to the end of my presentation. Thank you for listening.\n- **Invitare alle domande**: I'd be happy to take any questions. / Please feel free to interrupt.\n\nUsa le **relative non definitorie** per aggiungere informazioni senza spezzare il ritmo: Our new gallery, which opens in May, will...",
+     "ex": [
+      [
+       "Moving on to the programme.",
+       "Passando al programma."
+      ],
+      [
+       "That brings me to the end of my presentation.",
+       "Questo mi porta alla fine della mia presentazione."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Gestire le domande",
+     "body": "- **Prendere tempo**: That's a good question. / Let me think about that for a moment.\n- **Chiarire**: If I understand correctly, you're asking whether... / Could you clarify what you mean by...?\n- **Rispondere con onestà**: I don't have the exact figures to hand, but I can send them to you afterwards. / I'm afraid I can't comment on that.\n- **Controllare**: Does that answer your question?\n- **Rinviare con garbo**: That's a bit outside today's topic, but I'd be happy to talk about it later.\n- **Obiezioni**: That's a fair point. / I see it differently, because...\n\nErrore tipico: rispondere «I don't know» e basta. Meglio: **I'm afraid I don't know, but I'll find out and get back to you.**",
+     "ex": [
+      [
+       "I don't have the figures to hand, but I'll send them to you afterwards.",
+       "Non ho le cifre sottomano, ma gliele manderò dopo."
+      ],
+      [
+       "If I understand correctly, you're asking whether the grant is guaranteed.",
+       "Se ho capito bene, chiede se il contributo è garantito."
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Aprire la presentazione",
+     "it": "Stai presentando un nuovo progetto. Scegli le battute più adatte (Tu).",
+     "lines": [
+      [
+       "Chair",
+       "We are ready to start. Over to you."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Good morning, everyone, and thank you for coming. In the next ten minutes I would like to present our plan for the new library.",
+         "Good morning. I am here for presenting you our plan of the new library, which is very interesting.",
+         "Hi guys. So, um, this is about a library."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Chair",
+       "Please go ahead."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I will start with the building, then talk about the cost, and finally explain the timetable.",
+         "First I speak about the building, after I speak about the cost, then the timetable I explain.",
+         "You will see everything on the slides, so I will not say much."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Chair",
+       "Thank you. Do you want to take questions now or at the end?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "At the end, please. Feel free to make notes, and I will be happy to answer everything afterwards.",
+         "At the end, please. You can to make notes, and I answer all after.",
+         "It does not matter. Ask whenever."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Una domanda difficile",
+     "it": "Il pubblico ti fa una domanda a cui non sai rispondere subito. Scegli le battute migliori (Tu).",
+     "lines": [
+      [
+       "Audience",
+       "How much will the project cost if the building work is delayed?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That is a good question. I do not have the exact figures to hand, but I can email them to you this afternoon.",
+         "I don't know. Not my job, this.",
+         "I have not the figures with me, but I answer you after."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Audience",
+       "And who will be responsible for the delay costs?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "If I understand correctly, you are asking who would pay. That is outlined in the contract, which I would be happy to share with you.",
+         "Who will pay? Probably the others, I think.",
+         "That question is not interesting, to be honest."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Audience",
+       "Thank you. That is helpful."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "You are welcome. Does anyone else have a question?",
+         "You are welcome. Another questions?",
+         "Okay, now I leave, I am in hurry."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Moving on to the budget.",
+       "Passando al budget."
+      ],
+      [
+       "That brings me to the end of my presentation.",
+       "Questo mi porta alla fine della mia presentazione."
+      ],
+      [
+       "That is a fair point.",
+       "È un buon punto."
+      ],
+      [
+       "I don't have the figures to hand.",
+       "Non ho le cifre sottomano."
+      ],
+      [
+       "Does that answer your question?",
+       "Questo risponde alla sua domanda?"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Passiamo ora al secondo punto, ovvero il budget.",
+     "en": "Let me move on to my second point, the budget",
+     "extra": [
+      "for",
+      "went"
+     ],
+     "why": "Frase di transizione tra i punti."
+    },
+    {
+     "t": "speak",
+     "en": "In the next ten minutes I would like to present our proposal.",
+     "it": "Nei prossimi dieci minuti vorrei presentare la nostra proposta."
+    },
+    {
+     "t": "speak",
+     "en": "That is a good question. Let me think about that for a moment.",
+     "it": "Bella domanda. Mi lasci pensare un momento."
+    },
+    {
+     "t": "speak",
+     "en": "I don't have the exact figures to hand, but I can send them to you afterwards.",
+     "it": "Non ho le cifre esatte sottomano, ma posso mandargliele dopo."
+    },
+    {
+     "t": "speakTask",
+     "q": "Give a short presentation (about two minutes) on a place you know well: a museum, a town or a landmark.",
+     "it": "Presenta un luogo (almeno 6 frasi): apertura, due punti con relative non definitorie, conclusione e invito alle domande.",
+     "hints": [
+      "I would like to present...",
+      "Moving on to...",
+      "..., which was built in...",
+      "To sum up, ..."
+     ],
+     "min": 60,
+     "model": "Good morning, everyone. In the next two minutes I would like to present the old town of Bergamo, where I grew up. I will start with its history and then say a few words about what to see. Bergamo, which was part of the Venetian Republic for three centuries, is divided into an upper and a lower town. The upper town, surrounded by impressive walls, is a UNESCO World Heritage Site. Moving on to what to see, my favourite place is the main square, where you can have coffee under a medieval tower. To sum up, Bergamo is small, but it is full of character. I would be happy to take any questions."
+    }
+   ]
+  },
+  {
+   "id": "b2-07-production",
+   "kind": "production",
+   "title": "L'articolo (B2 First Part 2)",
+   "intro": "Scrivere un articolo per una rivista: titolo, apertura che cattura, esempi concreti e una conclusione con un messaggio. Poi allenati a parlare di luoghi e musei.",
+   "minutes": 25,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come si scrive un articolo",
+     "body": "Un articolo ha **un pubblico** e **un tono** (spesso vivace, personale, con domande retoriche):\n1. **Titolo** accattivante: Slow travel: the best way to discover a city\n2. **Apertura**: cattura l'attenzione con un'immagine o una domanda: Have you ever returned from a trip with a thousand photos and no memories?\n3. **Sviluppo** (1-2 paragrafi): esempi, aneddoti, opinioni, dettagli sensoriali.\n4. **Conclusione**: un messaggio o un consiglio: If you want to understand a city, give it time.\n\nUsa **relative non definitorie** e **participle clauses** per dare varietà: Wandering through the old district, which is full of narrow streets, I found a tiny bakery.\n\nCriteri Cambridge: **contenuto** (tutti i punti), **comunicazione** (coinvolgi il lettore), **organizzazione** (paragrafi e connettivi: Of course, However, In addition), **lingua** (lessico vario, strutture complesse corrette).",
+     "ex": [
+      [
+       "Wandering through the old district, which is full of narrow streets, I found a tiny bakery.",
+       "Girovagando per il quartiere storico, pieno di stradine, ho trovato un piccolo forno."
+      ],
+      [
+       "If you want to understand a city, give it time.",
+       "Se vuoi capire una città, dalle tempo."
+      ]
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Quale apertura è più adatta a un articolo per una rivista di viaggi?",
+     "opts": [
+      "Have you ever returned from a trip with a thousand photos and no memories?",
+      "In this article I will write about travelling because I like it.",
+      "Dear readers, I am writing to inform you about my holidays."
+     ],
+     "a": 0,
+     "why": "Una domanda diretta cattura il lettore: tono adatto a un articolo."
+    },
+    {
+     "t": "transform",
+     "s1": "The tower is a landmark. It was built in the sixteenth century.",
+     "key": "WHICH",
+     "s2": "The tower, ___ in the sixteenth century, is a landmark.",
+     "answers": [
+      "which was built"
+     ],
+     "why": "Relativa non definitoria con which + passivo."
+    },
+    {
+     "t": "wordform",
+     "s": "The old town is full of ___ cafés and small shops.",
+     "root": "ATTRACT",
+     "answers": [
+      "attractive"
+     ],
+     "why": "Aggettivo: attract -> attractive."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "Wandering through the old district, a tiny bakery was found by me.",
+     "answers": [
+      "Wandering through the old district, I found a tiny bakery"
+     ],
+     "why": "Il soggetto della participle clause (I) deve coincidere con quello della principale."
+    },
+    {
+     "t": "write",
+     "q": "You see this announcement in a travel magazine: \"Articles wanted: the best way to discover a new city. Tell us about a city you have visited and explain how you think visitors should explore it.\" Write your article.",
+     "it": "Scrivi un articolo (140-190 parole) con titolo, apertura che cattura, esempi concreti e conclusione. Usa almeno due relative non definitorie e due participle clauses.",
+     "min": 140,
+     "max": 190,
+     "checklist": [
+      "Contenuto: ho parlato di una città e spiegato come, secondo me, va esplorata",
+      "Comunicazione: ho scritto con un tono coinvolgente e personale, adatto a una rivista",
+      "Organizzazione: ho scritto un titolo, un'apertura, uno sviluppo con esempi e una conclusione chiara",
+      "Lingua: ho usato almeno due relative non definitorie con le virgole e almeno due participle clauses con il soggetto corretto",
+      "Lingua: ho usato lessico vario (breathtaking, landmark, off the beaten track, vibrant...)",
+      "Ho controllato spelling UK e punteggiatura"
+     ],
+     "useful": [
+      "Most visitors to... rush from...",
+      "Having tried..., I decided to...",
+      "..., which is full of..., ...",
+      "Wandering through..., I found...",
+      "Of course, some sights are unmissable.",
+      "..., built in..., is well worth a visit.",
+      "If you want to understand a city, ...",
+      "You will see fewer..., but you will remember far more."
+     ],
+     "model": "Slow travel: the best way to discover a city\n\nMost visitors to a new city rush from one famous landmark to the next, taking photos but seeing very little. Having tried this approach in Rome, I decided to do things differently on my next trip, to Lisbon, a city that rewards those who walk slowly.\n\nInstead of a guidebook, I followed a simple rule: get lost every morning. Wandering through the old district of Alfama, which is full of narrow streets and tiled houses, I found a tiny bakery, run by an elderly couple, where I had the best custard tart of my life. Later, sitting on a hillside terrace, I watched the sun go down over the river.\n\nOf course, some sights are unmissable. The Belem Tower, built in the sixteenth century, is well worth a visit, but I went early, before the crowds arrived.\n\nIf you want to understand a city, give it time. You will see fewer monuments, but you will remember far more."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe a place of culture (a museum, a monument or a festival) that impressed you. What made it special?",
+     "it": "Descrivi un luogo o evento culturale che ti ha colpito (almeno 6 frasi), con almeno una relativa non definitoria e una participle clause.",
+     "hints": [
+      "It is a...",
+      "Built in..., it...",
+      "What impressed me most was...",
+      "I would recommend it to..."
+     ],
+     "min": 60,
+     "model": "The place that impressed me most was the Egyptian Museum in Turin, which is one of the oldest collections of its kind in the world. Having read about it for years, I finally visited it last spring. What impressed me most was the huge statues, some of which are more than three thousand years old. Walking through the rooms, I felt that I was travelling in time. I would recommend it to anyone who likes history, but I advise going early, before the crowds arrive."
+    },
+    {
+     "t": "speakTask",
+     "q": "What makes a museum or a city worth visiting, in your opinion? Would you rather see famous sights or explore off the beaten track?",
+     "it": "Esprimi la tua opinione (almeno 6 frasi): confronta i due modi di viaggiare e spiega la tua preferenza.",
+     "hints": [
+      "In my opinion, ...",
+      "On the one hand, ...",
+      "On the other hand, ...",
+      "That is why I prefer..."
+     ],
+     "min": 60,
+     "model": "In my opinion, a place is worth visiting if it lets you feel something, not just tick off a list. On the one hand, famous sights are famous for a reason, and I would never skip a landmark such as the Colosseum. On the other hand, the best moments of my trips have always happened off the beaten track, in small villages where nobody was in a hurry. That is why I prefer to choose one major sight a day and spend the rest of the time wandering. Having done it this way in Spain last summer, I remember far more than I do from any organised tour."
+    }
+   ]
+  },
+  {
+   "id": "b2-07-test",
+   "kind": "test",
+   "title": "Test dell'unità 7 (B2)",
+   "intro": "Verifica senza aiuti: relative non definitorie, participle clauses, lessico di arte e viaggi, un cloze e un ascolto.",
+   "minutes": 20,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "My brother, ___ works in Paris, is an architect.",
+     "opts": [
+      "who",
+      "that",
+      "whose"
+     ],
+     "a": 0,
+     "why": "Non definitoria riferita a persona: who (that non si usa tra virgole)."
+    },
+    {
+     "t": "gap",
+     "s": "The castle, ___ we visited last year, is now closed for restoration.",
+     "opts": [
+      "which",
+      "what",
+      "where"
+     ],
+     "a": 0,
+     "why": "Oggetto di visited, cosa: which."
+    },
+    {
+     "t": "gap",
+     "s": "She has three sisters, two of ___ live abroad.",
+     "opts": [
+      "whom",
+      "who",
+      "them"
+     ],
+     "a": 0,
+     "why": "Quantificatore + of whom."
+    },
+    {
+     "t": "gap",
+     "s": "He failed his driving test again, ___ made him very unhappy.",
+     "opts": [
+      "which",
+      "what",
+      "who"
+     ],
+     "a": 0,
+     "why": "Which riprende l'intera frase."
+    },
+    {
+     "t": "gap",
+     "s": "___ across the valley, we could see the cathedral.",
+     "opts": [
+      "Looking",
+      "Looked",
+      "Having looked"
+     ],
+     "a": 0,
+     "why": "Participio presente attivo: contemporaneità (guardiamo e vediamo insieme). Looked è passivo, Having looked indica un'azione anteriore."
+    },
+    {
+     "t": "gap",
+     "s": "Each painting in the exhibition was chosen by the ___ , who has worked at the museum for years.",
+     "opts": [
+      "curator",
+      "composer",
+      "tourist"
+     ],
+     "a": 0,
+     "why": "Curator = curatore."
+    },
+    {
+     "t": "gap",
+     "s": "We avoided the tourist ___ near the station and ate in a family-run café.",
+     "opts": [
+      "trap",
+      "net",
+      "hook"
+     ],
+     "a": 0,
+     "why": "Tourist trap."
+    },
+    {
+     "t": "gap",
+     "s": "The view from the summit was absolutely ___ .",
+     "opts": [
+      "breathtaking",
+      "breathless",
+      "breathing"
+     ],
+     "a": 0,
+     "why": "Breathtaking = mozzafiato."
+    },
+    {
+     "t": "wordform",
+     "s": "The ___ of the old theatre took three years.",
+     "root": "RESTORE",
+     "answers": [
+      "restoration"
+     ],
+     "why": "Nome: restore -> restoration."
+    },
+    {
+     "t": "wordform",
+     "s": "Her ___ and imagination were praised across Europe.",
+     "root": "CREATE",
+     "answers": [
+      "creativity"
+     ],
+     "why": "Nome astratto: create -> creativity (accanto a imagination serve una qualità, non un'opera)."
+    },
+    {
+     "t": "cloze",
+     "title": "Completa la cartolina con una parola per spazio",
+     "mode": "open",
+     "text": "Dear Sam,\n\nI am writing from Seville, {1} is even more beautiful than I expected. Yesterday we visited the cathedral, {2} was built on the site of an old mosque. {3} at the top of the Giralda tower, we had a wonderful view of the city. My cousin Lucia, {4} husband is a guide, took us to a small bar {5} the tapas are famous. {6} seen the main sights, we plan to spend the rest of the week relaxing.\n\nLove,\nMarco",
+     "gaps": [
+      {
+       "answers": [
+        "which"
+       ]
+      },
+      {
+       "answers": [
+        "which"
+       ]
+      },
+      {
+       "answers": [
+        "Standing",
+        "Being"
+       ]
+      },
+      {
+       "answers": [
+        "whose"
+       ]
+      },
+      {
+       "answers": [
+        "where"
+       ]
+      },
+      {
+       "answers": [
+        "Having"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "The villa was built in 1650. It is now a hotel.",
+     "key": "WHICH",
+     "s2": "The villa, ___ in 1650, is now a hotel.",
+     "answers": [
+      "which was built"
+     ],
+     "why": "Non definitoria con which + passivo."
+    },
+    {
+     "t": "transform",
+     "s1": "She didn't feel well, so she left the party early.",
+     "key": "FEELING",
+     "s2": "___ well, she left the party early.",
+     "answers": [
+      "Not feeling"
+     ],
+     "why": "Participio presente negativo: Not + -ing."
+    },
+    {
+     "t": "transform",
+     "s1": "After he had read the reviews, he booked the hotel.",
+     "key": "HAVING",
+     "s2": "___ the reviews, he booked the hotel.",
+     "answers": [
+      "Having read"
+     ],
+     "why": "Azione anteriore: having + participio passato."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The painter, who's paintings I admire, is giving a talk tonight.",
+     "answers": [
+      "The painter, whose paintings I admire, is giving a talk tonight"
+     ],
+     "why": "Whose = di cui; who's = who is."
+    },
+    {
+     "t": "fix",
+     "q": "Correggi l'errore",
+     "s": "The castle, which we visited it last year, is closed.",
+     "answers": [
+      "The castle, which we visited last year, is closed"
+     ],
+     "why": "Non si ripete il pronome oggetto."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase è corretta ed è naturale in un testo scritto?",
+     "opts": [
+      "My brother, who lives in Paris, is an architect.",
+      "My brother, that lives in Paris, is an architect.",
+      "My brother who lives in Paris, is an architect."
+     ],
+     "a": 0,
+     "why": "Non definitoria: virgole e who."
+    },
+    {
+     "t": "mc",
+     "q": "Quale frase implica che chi parla ha **più di un** fratello?",
+     "opts": [
+      "My brother who lives in Paris is an architect.",
+      "My brother, who lives in Paris, is an architect.",
+      "Both sentences."
+     ],
+     "a": 0,
+     "why": "Senza virgole la relativa identifica un fratello tra altri; con le virgole aggiunge solo un'informazione."
+    },
+    {
+     "t": "order",
+     "it": "Avendo visto il film, non voleva leggere il libro.",
+     "en": "Having seen the film she did not want to read the book",
+     "extra": [
+      "seeing",
+      "had"
+     ],
+     "alts": [
+      "She did not want to read the book having seen the film"
+     ],
+     "why": "Azione anteriore: having + participio passato."
+    },
+    {
+     "t": "listen",
+     "title": "A museum announcement",
+     "it": "Ascolta l'annuncio.",
+     "lines": [
+      [
+       "Guide",
+       "Welcome to the Oakmoor Museum, which was founded in 1888 by a local merchant. Having been closed for two years, it reopened last month after a major restoration. On the ground floor you will find the permanent collection, including a famous portrait that was stolen in 1975 and recovered ten years later. Photography is allowed, but please do not use a flash. The café, which is on the second floor, closes at five."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What happened to the museum recently?",
+       "opts": [
+        "It reopened after a restoration.",
+        "It was founded by a merchant.",
+        "It moved to a new building."
+       ],
+       "a": 0
+      },
+      {
+       "q": "Where is the café?",
+       "opts": [
+        "On the second floor",
+        "On the ground floor",
+        "Next to the entrance"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What must visitors not use?",
+       "opts": [
+        "A flash",
+        "A camera",
+        "A phone"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

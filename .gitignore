@@ -1,0 +1,10 @@
+build/
+node_modules/
+*.log
+*.idsig
+dist/
+.secrets/
+
+# chiavi di firma Android: chi le ha può pubblicare "aggiornamenti" falsi dell'app. Conservarle a parte (backup!).
+*.keystore
+*.jks

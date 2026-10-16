@@ -1,0 +1,1461 @@
+{
+ "id": "a2-01",
+ "level": "A2",
+ "position": 1,
+ "title": "Lavoro e routine",
+ "sub": "Present simple e continuous - il primo giorno di lavoro",
+ "grammar": "Present simple vs present continuous, verbi di stato, avverbi di frequenza",
+ "topic": "Lavoro e routine quotidiana",
+ "situation": "Presentarsi il primo giorno in un nuovo lavoro",
+ "lessons": [
+  {
+   "id": "a2-01-grammar",
+   "kind": "grammar",
+   "title": "Simple o continuous?",
+   "intro": "In italiano «lavoro» va bene per tutto; in inglese devi scegliere tra «I work» e «I'm working». È la scelta che gli italiani sbagliano più spesso: qui la sistemiamo una volta per tutte.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Present simple: abitudini e fatti stabili",
+     "body": "Si usa per:\n- **abitudini e routine**: I get up at 7.\n- **situazioni stabili o permanenti**: She works in a bank.\n- **fatti sempre veri**: Water boils at 100 degrees.\n- **orari e programmi fissi**: The train leaves at 8.15.\n\nAlla terza persona singolare (he, she, it) il verbo prende **-s**: works, lives, goes, watches, studies.\nNegative e domande usano **do / does** + verbo base (senza -s!).",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "I / you / we / they",
+       "work",
+       "don't work",
+       "Do you work?"
+      ],
+      [
+       "he / she / it",
+       "works",
+       "doesn't work",
+       "Does she work?"
+      ]
+     ],
+     "ex": [
+      [
+       "My brother works nights.",
+       "Mio fratello lavora di notte."
+      ],
+      [
+       "Does your office open on Saturdays?",
+       "Il tuo ufficio apre il sabato?"
+      ],
+      [
+       "She doesn't drive to work.",
+       "Lei non va al lavoro in macchina."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Present continuous: adesso e in questo periodo",
+     "body": "Si forma con **am / is / are + verbo in -ing**. Si usa per:\n- azioni **in corso adesso**: I'm writing an email.\n- situazioni **temporanee**, che durano un periodo: I'm working from home this week.\n- situazioni **che stanno cambiando**: Prices are going up.\n\nOrtografia: make -> making (cade la -e), run -> running (raddoppia la consonante), lie -> lying.",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "I",
+       "am ('m) working",
+       "'m not working",
+       "Am I working?"
+      ],
+      [
+       "he / she / it",
+       "is ('s) working",
+       "isn't working",
+       "Is she working?"
+      ],
+      [
+       "you / we / they",
+       "are ('re) working",
+       "aren't working",
+       "Are they working?"
+      ]
+     ],
+     "ex": [
+      [
+       "Can you call back later? I'm driving.",
+       "Puoi richiamare più tardi? Sto guidando."
+      ],
+      [
+       "Paolo is staying with us until Friday.",
+       "Paolo sta da noi fino a venerdì."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Come scegliere",
+     "body": "Chiediti: è **stabile/abituale** o **temporaneo/in corso**?\n- I **live** in Turin. (ci vivo, punto)\n- I'**m living** with my parents at the moment. (soluzione temporanea)\n- He **teaches** maths. (è il suo lavoro)\n- He'**s teaching** a class right now. (lo sta facendo ora)\n\nParole spia del simple: always, usually, often, every day, on Mondays.\nParole spia del continuous: now, right now, at the moment, today, this week, currently.\n\n**Errore tipico degli italiani**: «I am working here since 2019». Per qualcosa che dura dal passato a oggi serve il present perfect (lo vedrai nelle prossime unità): I have worked / I have been working here since 2019.",
+     "ex": [
+      [
+       "I usually walk to work, but this week I'm taking the bus.",
+       "Di solito vado al lavoro a piedi, ma questa settimana prendo l'autobus."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Verbi di stato: niente -ing",
+     "body": "Alcuni verbi descrivono uno **stato**, non un'azione, e normalmente **non** si usano al continuous:\n- mente: know, understand, believe, remember, mean\n- gusti: like, love, hate, prefer, want, need\n- possesso: have (= possedere), own, belong\n- sensi e apparenza: seem, sound, smell, taste\n\nSi dice **I know**, mai «I'm knowing». **I need** a coffee, non «I'm needing».\n\nAttenzione ai verbi con due significati:\n- I **think** it's a good idea. (opinione: simple)\n- I'**m thinking** about changing jobs. (sto riflettendo: continuous)\n- I **have** two children. (possesso) / I'**m having** lunch. (have = mangiare/fare: continuous ok)",
+     "ex": [
+      [
+       "I don't understand this email.",
+       "Non capisco questa email."
+      ],
+      [
+       "We're having a meeting, can I call you back?",
+       "Siamo in riunione, ti richiamo?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Avverbi di frequenza: la posizione",
+     "body": "always, usually, often, sometimes, rarely, never vanno:\n- **prima** del verbo principale: She **often works** late.\n- **dopo** il verbo be: He **is never** late.\n- tra ausiliare e verbo: I **don't usually** drink coffee.\n\nIn italiano diciamo «lavoro spesso tardi», ma in inglese «I often work late», non «I work often late».\nPer chiedere la frequenza: **How often** do you...? -> Twice a week / Every day / Once a month.",
+     "ex": [
+      [
+       "I sometimes work at weekends.",
+       "A volte lavoro nel fine settimana."
+      ],
+      [
+       "How often do you go to the office?",
+       "Quanto spesso vai in ufficio?"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "My sister ___ in a hospital in Bologna.",
+     "opts": [
+      "works",
+      "is work",
+      "work"
+     ],
+     "a": 0,
+     "it": "Mia sorella lavora in un ospedale a Bologna.",
+     "why": "Lavoro stabile: present simple, terza persona con -s."
+    },
+    {
+     "t": "gap",
+     "s": "Shh! The manager ___ on the phone.",
+     "opts": [
+      "is talking",
+      "talks",
+      "talk"
+     ],
+     "a": 0,
+     "it": "Zitto! Il direttore è al telefono.",
+     "why": "Azione in corso adesso: present continuous."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ what you mean.",
+     "opts": [
+      "understand",
+      "am understanding",
+      "understanding"
+     ],
+     "a": 0,
+     "it": "Capisco cosa intendi.",
+     "why": "«Understand» è un verbo di stato: non si usa al continuous."
+    },
+    {
+     "t": "gap",
+     "s": "___ your husband work at weekends?",
+     "opts": [
+      "Does",
+      "Do",
+      "Is"
+     ],
+     "a": 0,
+     "it": "Tuo marito lavora nel fine settimana?",
+     "why": "Domanda al present simple con he/she/it: Does + verbo base."
+    },
+    {
+     "t": "gap",
+     "s": "This month we ___ on a new project, so I'm very busy.",
+     "opts": [
+      "are working",
+      "work",
+      "works"
+     ],
+     "a": 0,
+     "why": "Situazione temporanea («this month»): present continuous."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "She is always late for meetings.",
+      "She always is late for meetings.",
+      "Always she is late for meetings."
+     ],
+     "a": 0,
+     "why": "Con il verbo be l'avverbio di frequenza va dopo: is always."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I don't usually take the car.",
+      "I usually don't take the car never.",
+      "I don't take usually the car."
+     ],
+     "a": 0,
+     "why": "L'avverbio va tra ausiliare e verbo: don't usually take."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "He ___ (not / like) working late.",
+     "answers": [
+      "doesn't like",
+      "does not like"
+     ],
+     "why": "Terza persona negativa: doesn't + verbo base, e «like» è di stato."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "Look! It ___ (snow).",
+     "answers": [
+      "is snowing",
+      "'s snowing",
+      "s snowing"
+     ],
+     "why": "Sta succedendo adesso: present continuous."
+    },
+    {
+     "t": "type",
+     "q": "Completa la domanda (you / go)",
+     "s": "How often ___ to the gym?",
+     "answers": [
+      "do you go"
+     ],
+     "why": "Domanda su un'abitudine: do + soggetto + verbo base."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Di solito pranzo alla scrivania.",
+     "answers": [
+      "I usually have lunch at my desk",
+      "I usually eat lunch at my desk",
+      "I usually have lunch at the desk",
+      "Usually I have lunch at my desk",
+      "I usually have my lunch at my desk",
+      "I normally have lunch at my desk",
+      "I usually eat at my desk",
+      "Usually I eat lunch at my desk",
+      "I usually eat my lunch at my desk"
+     ],
+     "why": "Abitudine: present simple + usually prima del verbo. «Pranzare» = have lunch."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Questa settimana lavoro da casa.",
+     "answers": [
+      "This week I'm working from home",
+      "I'm working from home this week",
+      "This week I am working from home",
+      "I am working from home this week"
+     ],
+     "why": "Situazione temporanea: present continuous, anche se in italiano usiamo il presente semplice."
+    },
+    {
+     "t": "fix",
+     "s": "She don't work on Fridays.",
+     "answers": [
+      "She doesn't work on Fridays",
+      "She does not work on Fridays"
+     ],
+     "why": "Con she serve doesn't."
+    },
+    {
+     "t": "fix",
+     "s": "I'm knowing the answer.",
+     "answers": [
+      "I know the answer"
+     ],
+     "why": "«Know» è un verbo di stato: niente -ing."
+    },
+    {
+     "t": "fix",
+     "s": "He works often at night.",
+     "answers": [
+      "He often works at night"
+     ],
+     "why": "L'avverbio di frequenza va prima del verbo principale."
+    },
+    {
+     "t": "transform",
+     "s1": "Paolo goes to the gym on Mondays, Wednesdays and Fridays.",
+     "key": "TIMES",
+     "s2": "Paolo goes to the gym ___ a week.",
+     "answers": [
+      "three times"
+     ],
+     "why": "Tre giorni alla settimana = three times a week (once, twice, three times...)."
+    },
+    {
+     "t": "order",
+     "it": "Cosa stai facendo in questo momento?",
+     "en": "What are you doing at the moment",
+     "extra": [
+      "do",
+      "does"
+     ],
+     "alts": [
+      "At the moment what are you doing"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Lei non beve mai caffè al lavoro.",
+     "en": "She never drinks coffee at work",
+     "extra": [
+      "drink",
+      "doesn't"
+     ],
+     "alts": [
+      "At work she never drinks coffee"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-01-vocab",
+   "kind": "vocab",
+   "title": "Il lessico del lavoro",
+   "intro": "Le parole che servono per parlare del tuo lavoro e della tua giornata: colleghi, orari, scadenze, turni. Molte entreranno nel ripasso a intervalli.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-01-w01",
+     "en": "colleague",
+     "it": "collega",
+     "ipa": "ˈkɒliːɡ",
+     "pos": "n",
+     "ex": [
+      "My colleague Marta sits next to me.",
+      "La mia collega Marta siede accanto a me."
+     ],
+     "note": "Si scrive con -gue finale."
+    },
+    {
+     "id": "a2-01-w02",
+     "en": "manager",
+     "it": "responsabile, capo",
+     "ipa": "ˈmænɪdʒə",
+     "pos": "n",
+     "ex": [
+      "I need to ask my manager first.",
+      "Devo prima chiedere al mio responsabile."
+     ]
+    },
+    {
+     "id": "a2-01-w03",
+     "en": "meeting",
+     "it": "riunione",
+     "ipa": "ˈmiːtɪŋ",
+     "pos": "n",
+     "ex": [
+      "We have a team meeting every Monday.",
+      "Abbiamo una riunione di squadra ogni lunedì."
+     ]
+    },
+    {
+     "id": "a2-01-w04",
+     "en": "deadline",
+     "it": "scadenza",
+     "ipa": "ˈdedlaɪn",
+     "pos": "n",
+     "ex": [
+      "The deadline for the report is Friday.",
+      "La scadenza per la relazione è venerdì."
+     ]
+    },
+    {
+     "id": "a2-01-w05",
+     "en": "shift",
+     "it": "turno",
+     "ipa": "ʃɪft",
+     "pos": "n",
+     "ex": [
+      "I'm on the night shift this week.",
+      "Questa settimana faccio il turno di notte."
+     ]
+    },
+    {
+     "id": "a2-01-w06",
+     "en": "commute",
+     "it": "fare il pendolare",
+     "ipa": "kəˈmjuːt",
+     "pos": "v",
+     "ex": [
+      "I commute to Milan by train.",
+      "Faccio il pendolare a Milano in treno."
+     ],
+     "note": "Anche nome: my commute = il mio tragitto casa-lavoro."
+    },
+    {
+     "id": "a2-01-w07",
+     "en": "salary",
+     "it": "stipendio",
+     "ipa": "ˈsæləri",
+     "pos": "n",
+     "ex": [
+      "The salary is good, but the hours are long.",
+      "Lo stipendio è buono, ma gli orari sono lunghi."
+     ],
+     "note": "Di solito annuale; la paga oraria o settimanale è «wage»."
+    },
+    {
+     "id": "a2-01-w08",
+     "en": "full-time",
+     "it": "a tempo pieno",
+     "ipa": "ˌfʊlˈtaɪm",
+     "pos": "adj",
+     "ex": [
+      "She has a full-time job in a shop.",
+      "Ha un lavoro a tempo pieno in un negozio."
+     ]
+    },
+    {
+     "id": "a2-01-w09",
+     "en": "part-time",
+     "it": "part-time, a tempo parziale",
+     "ipa": "ˌpɑːtˈtaɪm",
+     "pos": "adj",
+     "ex": [
+      "I work part-time while I'm studying.",
+      "Lavoro part-time mentre studio."
+     ]
+    },
+    {
+     "id": "a2-01-w10",
+     "en": "day off",
+     "it": "giorno libero",
+     "ipa": "ˌdeɪ ˈɒf",
+     "pos": "phr",
+     "ex": [
+      "Tomorrow is my day off.",
+      "Domani è il mio giorno libero."
+     ]
+    },
+    {
+     "id": "a2-01-w11",
+     "en": "overtime",
+     "it": "straordinari",
+     "ipa": "ˈəʊvətaɪm",
+     "pos": "n",
+     "ex": [
+      "I don't get paid for overtime.",
+      "Non mi pagano gli straordinari."
+     ],
+     "note": "Non numerabile: mai «overtimes»."
+    },
+    {
+     "id": "a2-01-w12",
+     "en": "be in charge of",
+     "it": "essere responsabile di",
+     "ipa": "bi ɪn ˈtʃɑːdʒ əv",
+     "pos": "phr",
+     "ex": [
+      "Anna is in charge of the new project.",
+      "Anna è responsabile del nuovo progetto."
+     ]
+    },
+    {
+     "id": "a2-01-w13",
+     "en": "desk",
+     "it": "scrivania",
+     "ipa": "desk",
+     "pos": "n",
+     "ex": [
+      "My desk is always a mess.",
+      "La mia scrivania è sempre in disordine."
+     ]
+    },
+    {
+     "id": "a2-01-w14",
+     "en": "laptop",
+     "it": "computer portatile",
+     "ipa": "ˈlæptɒp",
+     "pos": "n",
+     "ex": [
+      "I take my laptop home every evening.",
+      "Porto il portatile a casa ogni sera."
+     ],
+     "emoji": "💻"
+    },
+    {
+     "id": "a2-01-w15",
+     "en": "alarm clock",
+     "it": "sveglia",
+     "ipa": "əˈlɑːm klɒk",
+     "pos": "n",
+     "ex": [
+      "My alarm clock goes off at six.",
+      "La mia sveglia suona alle sei."
+     ],
+     "emoji": "⏰"
+    },
+    {
+     "id": "a2-01-w16",
+     "en": "briefcase",
+     "it": "valigetta",
+     "ipa": "ˈbriːfkeɪs",
+     "pos": "n",
+     "ex": [
+      "He carries his documents in a briefcase.",
+      "Porta i documenti in una valigetta."
+     ],
+     "emoji": "💼"
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "meet a deadline",
+       "rispettare una scadenza"
+      ],
+      [
+       "do overtime",
+       "fare gli straordinari"
+      ],
+      [
+       "take a day off",
+       "prendersi un giorno libero"
+      ],
+      [
+       "have a meeting",
+       "fare una riunione"
+      ],
+      [
+       "work shifts",
+       "lavorare a turni"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "I can't come tonight: I'm working the late ___ .",
+     "opts": [
+      "shift",
+      "turn",
+      "time"
+     ],
+     "a": 0,
+     "why": "Il turno di lavoro è «shift». «Turn» è il turno nel senso di «tocca a te» (it's your turn)."
+    },
+    {
+     "t": "gap",
+     "s": "I ___ from Monza to Milan every day.",
+     "opts": [
+      "commute",
+      "journey",
+      "trip"
+     ],
+     "a": 0,
+     "why": "«Commute» è il verbo per il tragitto casa-lavoro; journey e trip sono nomi."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "The report must be ready by Friday at 5 p.m. That's our ___ , so we're all working late.",
+     "answers": [
+      "deadline"
+     ],
+     "sub": "La nostra scadenza è venerdì alle 17, quindi stiamo tutti lavorando fino a tardi."
+    },
+    {
+     "t": "wordform",
+     "s": "She's a very ___ manager: she never forgets anything.",
+     "root": "ORGANISE",
+     "answers": [
+      "organised",
+      "organized"
+     ],
+     "why": "Serve un aggettivo: organise -> organised (UK) / organized (US)."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «I'm off tomorrow»?",
+     "opts": [
+      "Domani non lavoro.",
+      "Domani parto.",
+      "Domani sono spento."
+     ],
+     "a": 0,
+     "why": "«Be off» (work) = essere libero dal lavoro."
+    }
+   ]
+  },
+  {
+   "id": "a2-01-reading",
+   "kind": "reading",
+   "title": "Una giornata da infermiere",
+   "intro": "Leggi il post di un infermiere che lavora a Londra. Cerca le informazioni senza tradurre parola per parola: è così che si legge in un'altra lingua.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Nights, coffee and a lot of walking",
+     "genre": "blog",
+     "text": "My name is Daniel and I'm a nurse at a big hospital in south London. I work shifts, so my week is never the same. Usually I do three long day shifts and then I have two days off, but this month I'm working nights because two of my colleagues are on holiday.\n\nA night shift starts at 8 p.m. and finishes at 8 a.m. When I arrive, the day nurses tell me about each patient. Then I check medicines, answer the phones and help patients who can't sleep. Most nights are quiet after 2 a.m., but sometimes everything happens at once and I don't sit down for hours. My phone app says I walk about twelve kilometres every shift!\n\nThe hardest part isn't the work, it's sleeping during the day. My flat is near a busy road and the buses never stop. I wear earplugs and I keep my curtains closed, but I still wake up three or four times.\n\nDo I like my job? Yes, I love it. The salary isn't great and I often do overtime, but my team is fantastic and every day I know I'm helping someone.",
+     "qs": [
+      {
+       "q": "Why is Daniel working nights this month?",
+       "opts": [
+        "Some colleagues are away.",
+        "He prefers night shifts.",
+        "The hospital is busier at night."
+       ],
+       "a": 0,
+       "why": "«...because two of my colleagues are on holiday»."
+      },
+      {
+       "q": "How long is a night shift?",
+       "opts": [
+        "Eight hours",
+        "Twelve hours",
+        "Ten hours"
+       ],
+       "a": 1,
+       "why": "Dalle 20 alle 8: dodici ore."
+      },
+      {
+       "q": "What does Daniel do first when he arrives?",
+       "opts": [
+        "He checks medicines.",
+        "He gets information about the patients.",
+        "He answers the phones."
+       ],
+       "a": 1,
+       "why": "«When I arrive, the day nurses tell me about each patient.»"
+      },
+      {
+       "q": "Night shifts are always quiet after 2 a.m.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "«Most nights are quiet... but sometimes everything happens at once»: non sempre."
+      },
+      {
+       "q": "Daniel walks about ___ km during a shift.",
+       "answers": [
+        "12",
+        "twelve"
+       ]
+      },
+      {
+       "q": "What is the most difficult thing for Daniel?",
+       "opts": [
+        "Walking a lot",
+        "Sleeping in the day",
+        "Talking to patients"
+       ],
+       "a": 1,
+       "why": "«The hardest part... it's sleeping during the day»."
+      },
+      {
+       "q": "Daniel wants to change his job.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "«Do I like my job? Yes, I love it.»"
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «everything happens at once» significa:",
+     "opts": [
+      "succede tutto insieme",
+      "succede tutto una volta sola",
+      "non succede niente"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I ___ earplugs because my street is very noisy.",
+     "opts": [
+      "wear",
+      "dress",
+      "carry on"
+     ],
+     "a": 0,
+     "why": "Si «wear» (indossare) vestiti, occhiali, tappi per le orecchie."
+    },
+    {
+     "t": "type",
+     "q": "Trova nel testo la parola che significa «tende»",
+     "text": "I keep my ___ closed.",
+     "answers": [
+      "curtains"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-01-listening",
+   "kind": "listening",
+   "title": "Alla macchinetta del caffè",
+   "intro": "Due colleghi si incontrano alla macchinetta del caffè. Uno dei due è appena arrivato in azienda. Ascolta senza leggere: il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "A new face in the office",
+     "it": "Ascolta il dialogo e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Sarah",
+       "Hi, I don't think we've met. I'm Sarah, I work in accounts."
+      ],
+      [
+       "Luca",
+       "Nice to meet you, Sarah. I'm Luca. It's my first week here."
+      ],
+      [
+       "Sarah",
+       "Oh, welcome! Which team are you in?"
+      ],
+      [
+       "Luca",
+       "Marketing. I'm working on the new website with James."
+      ],
+      [
+       "Sarah",
+       "James is great. Where are you from, Luca?"
+      ],
+      [
+       "Luca",
+       "I'm from Verona, but I live in Bristol now. I'm staying with a friend until I find a flat."
+      ],
+      [
+       "Sarah",
+       "That's not easy here. Do you come in by car?"
+      ],
+      [
+       "Luca",
+       "No, I cycle. It only takes fifteen minutes."
+      ],
+      [
+       "Sarah",
+       "Lucky you. I commute from Bath, so I spend almost two hours on the train every day."
+      ],
+      [
+       "Luca",
+       "Two hours? What do you do on the train?"
+      ],
+      [
+       "Sarah",
+       "I usually read, or I answer emails. Anyway, there's a team lunch on Friday. Why don't you come?"
+      ],
+      [
+       "Luca",
+       "I'd love to. Thanks, Sarah."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What department does Sarah work in?",
+       "opts": [
+        "Accounts",
+        "Marketing",
+        "Sales"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What is Luca doing at the moment?",
+       "opts": [
+        "Working on a website",
+        "Looking for a new job",
+        "Training new colleagues"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Where is Luca living now?",
+       "opts": [
+        "In his own flat",
+        "At a friend's place",
+        "In a hotel"
+       ],
+       "a": 1
+      },
+      {
+       "q": "How does Luca get to work?",
+       "opts": [
+        "By car",
+        "By train",
+        "By bike"
+       ],
+       "a": 2
+      },
+      {
+       "q": "Sarah's journey takes about ___ hours a day.",
+       "answers": [
+        "2",
+        "two"
+       ]
+      },
+      {
+       "q": "What does Sarah invite Luca to?",
+       "opts": [
+        "A meeting",
+        "A lunch",
+        "A party"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "I'm staying with a friend until I find a flat.",
+     "it": "Sto da un amico finché non trovo un appartamento."
+    },
+    {
+     "t": "dictation",
+     "en": "I usually read, or I answer emails.",
+     "it": "Di solito leggo, oppure rispondo alle email."
+    },
+    {
+     "t": "speak",
+     "en": "Nice to meet you. It's my first week here.",
+     "it": "Piacere di conoscerti. È la mia prima settimana qui."
+    }
+   ]
+  },
+  {
+   "id": "a2-01-situation",
+   "kind": "situation",
+   "title": "Il primo giorno di lavoro",
+   "intro": "Primo giorno in un ufficio inglese: presentarsi, dire che cosa fai, fare due chiacchiere senza bloccarsi. Frasi pronte da usare subito.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Frasi per presentarsi",
+     "body": "- **Hi, I'm Giulia. I've just started here.** = Ciao, sono Giulia. Ho appena iniziato.\n- **I'm the new** sales assistant. = Sono il nuovo / la nuova...\n- **I work in** the IT department / **I'm in** marketing.\n- **I'm in charge of** the website. = Mi occupo del sito.\n- **Nice to meet you.** / **Pleased to meet you.** (più formale)\n\nPer rispondere: **Nice to meet you too.** Non si dice «Also to you».\nIn inglese non si dice «I am Giulia, piacere»: il piacere si esprime con «Nice to meet you», dopo il nome.",
+     "ex": [
+      [
+       "Hi, I'm Marco. I'm the new developer.",
+       "Ciao, sono Marco. Sono il nuovo sviluppatore."
+      ],
+      [
+       "Nice to meet you too.",
+       "Piacere mio."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Fare conversazione (small talk)",
+     "body": "Domande utili:\n- **How long have you worked here?** = Da quanto lavori qui?\n- **What do you do exactly?** = Di cosa ti occupi esattamente?\n- **How do you get to work?** = Come vieni al lavoro?\n- **Where's the best place for lunch around here?**\n\nPer chiedere aiuto senza sembrare scortese:\n- **Sorry, could you show me how the printer works?**\n- **Who should I ask about...?**",
+     "ex": [
+      [
+       "Sorry, who should I ask about my password?",
+       "Scusa, a chi devo chiedere per la mia password?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "In reception",
+     "it": "Scegli la battuta più naturale per te (Tu).",
+     "lines": [
+      [
+       "Receptionist",
+       "Good morning. Can I help you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Good morning. I'm Elena Rossi, I'm starting work here today.",
+         "Good morning. I am Elena Rossi, pleasure.",
+         "Hello. Me Elena Rossi, new work today."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Receptionist",
+       "Ah yes, welcome! You're in the design team, aren't you?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, that's right.",
+         "Yes, it's correct me.",
+         "Yes, I'm agree."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Receptionist",
+       "Here's your badge. Mr Clark will meet you on the second floor."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thank you. Where are the lifts?",
+         "Thank you. Where is the lifts?",
+         "Thank. Where are lift?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Con un nuovo collega",
+     "lines": [
+      [
+       "Tom",
+       "Hi, you must be the new team member. I'm Tom."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Hi Tom, nice to meet you. I'm Paolo.",
+         "Hi Tom, I'm Paolo, also to you.",
+         "Hi Tom, Paolo, piacere."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tom",
+       "Nice to meet you too. So, what are you working on?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm working on the new budget with Anna.",
+         "I work on the new budget now with Anna.",
+         "I am work on the new budget with Anna."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Tom",
+       "Great. If you need anything, I sit by the window."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thanks, that's really kind.",
+         "Thanks, you are very gentle.",
+         "Thanks, is very kind."
+        ],
+        "a": 0
+       }
+      ]
+     ],
+     "why": "«Gentle» è un falso amico: significa «delicato, mite». Per dire «gentile» si usa «kind»."
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Nice to meet you.",
+       "Piacere di conoscerti."
+      ],
+      [
+       "I've just started here.",
+       "Ho appena iniziato qui."
+      ],
+      [
+       "I'm in charge of sales.",
+       "Mi occupo delle vendite."
+      ],
+      [
+       "Who should I ask?",
+       "A chi devo chiedere?"
+      ],
+      [
+       "That's really kind.",
+       "È molto gentile."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Potresti mostrarmi come funziona la stampante?",
+     "en": "Could you show me how the printer works",
+     "extra": [
+      "work",
+      "does"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "Hi, I'm the new sales assistant.",
+     "it": "Ciao, sono il nuovo addetto alle vendite."
+    },
+    {
+     "t": "speak",
+     "en": "Nice to meet you too.",
+     "it": "Piacere mio."
+    },
+    {
+     "t": "speak",
+     "en": "Sorry, who should I ask about my password?",
+     "it": "Scusa, a chi devo chiedere per la password?"
+    },
+    {
+     "t": "speakTask",
+     "q": "It's your first day. Introduce yourself to a new colleague.",
+     "it": "Presentati: nome, ruolo, da dove vieni, una cosa che fai di solito e una che stai facendo in questo periodo.",
+     "hints": [
+      "Hi, I'm... I'm the new...",
+      "I'm from... but I live in...",
+      "I usually...",
+      "At the moment I'm..."
+     ],
+     "min": 30,
+     "model": "Hi, I'm Chiara, I'm the new receptionist. I'm from Naples, but I live in Milan now. I usually start work at eight, so I get up very early. At the moment I'm learning how the booking system works. Nice to meet you!"
+    }
+   ]
+  },
+  {
+   "id": "a2-01-production",
+   "kind": "production",
+   "title": "Scrivere di sé e del proprio lavoro",
+   "intro": "Scriverai una breve email informale per presentarti, poi parlerai della tua giornata tipo. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come è fatta un'email informale",
+     "body": "- **Saluto**: Hi Sam, / Dear Sam,\n- **Apertura**: Thanks for your email. / It's great to hear from you.\n- **Corpo**: 2-3 frasi per ogni argomento, con i connettivi **and, but, because, so, also**.\n- **Chiusura**: Write soon! / Speak soon, / Take care,\n- **Firma**: solo il nome.\n\nNelle email informali le contrazioni (I'm, don't) sono normali.",
+     "ex": [
+      [
+       "I work in a bank, but I'm not a cashier.",
+       "Lavoro in banca, ma non sono un cassiere."
+      ],
+      [
+       "I get up early, so I'm always tired in the evening.",
+       "Mi alzo presto, quindi la sera sono sempre stanco."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "I love my job, ___ the hours are very long.",
+     "opts": [
+      "but",
+      "so",
+      "because"
+     ],
+     "a": 0,
+     "why": "Contrasto tra due idee: but."
+    },
+    {
+     "t": "gap",
+     "s": "I'm learning English ___ I want to work abroad.",
+     "opts": [
+      "because",
+      "so",
+      "but"
+     ],
+     "a": 0,
+     "why": "Causa: because."
+    },
+    {
+     "t": "gap",
+     "s": "My office is near my flat, ___ I walk to work.",
+     "opts": [
+      "so",
+      "because",
+      "but"
+     ],
+     "a": 0,
+     "why": "Conseguenza: so."
+    },
+    {
+     "t": "fix",
+     "s": "Thank for your email, I am very happy to hear you.",
+     "answers": [
+      "Thanks for your email, I am very happy to hear from you",
+      "Thanks for your email, I'm very happy to hear from you",
+      "Thank you for your email, I am very happy to hear from you",
+      "Thank you for your email, I'm very happy to hear from you"
+     ],
+     "why": "Si dice «Thanks» o «Thank you», e «hear from someone» (ricevere notizie da qualcuno)."
+    },
+    {
+     "t": "write",
+     "q": "You have a new English-speaking pen friend, Sam. Write an email to Sam. Tell Sam about your job or studies, your typical day, and something you are doing these days.",
+     "it": "Scrivi un'email informale a Sam: il tuo lavoro o i tuoi studi, la giornata tipo, una cosa che stai facendo in questo periodo.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho iniziato con un saluto e chiuso con una formula informale",
+      "Ho usato il present simple per abitudini e routine",
+      "Ho usato il present continuous per qualcosa di temporaneo",
+      "Ho usato almeno due connettivi (and, but, because, so)",
+      "Ho messo gli avverbi di frequenza prima del verbo"
+     ],
+     "useful": [
+      "Hi Sam,",
+      "Thanks for your email.",
+      "I work as a...",
+      "I usually...",
+      "At the moment I'm...",
+      "because",
+      "so",
+      "Write soon!"
+     ],
+     "model": "Hi Sam,\n\nThanks for your email! I work as a receptionist in a hotel in Florence. I usually start at seven, so I get up very early. I love my job because I meet people from all over the world, but the hours are long.\n\nAt the moment I'm studying English in the evenings because I want to work in London one day.\n\nWrite soon!\nGiulia"
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe your typical working day (or study day).",
+     "it": "Racconta la tua giornata tipo: a che ora ti alzi, come vai al lavoro, cosa fai, quando finisci.",
+     "hints": [
+      "I usually get up at...",
+      "I go to work by...",
+      "In the morning I...",
+      "I finish at..."
+     ],
+     "min": 40,
+     "model": "I usually get up at half past six. I have a quick breakfast and then I take the train to work. I start at eight. In the morning I answer emails and I often have meetings. I have lunch at about one, usually at my desk. I finish at five, but on Fridays I sometimes finish earlier."
+    },
+    {
+     "t": "speakTask",
+     "q": "What are you doing these days that is different from usual?",
+     "it": "Parla di qualcosa che stai facendo in questo periodo, diverso dal solito (un progetto, un corso, un cambiamento).",
+     "hints": [
+      "These days I'm...",
+      "Usually I..., but at the moment...",
+      "It's difficult/interesting because..."
+     ],
+     "min": 30,
+     "model": "Usually I work in the office, but these days I'm working from home because they're painting our building. It's nice because I don't commute, but I'm spending too much time at my laptop. I'm also learning to cook, so I'm trying a new recipe every evening."
+    }
+   ]
+  },
+  {
+   "id": "a2-01-test",
+   "kind": "test",
+   "title": "Test dell'unità 1",
+   "intro": "Verifica senza aiuti: grammatica, lessico, lettura e ascolto dell'unità. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "My parents ___ in a small village near Lecce.",
+     "opts": [
+      "live",
+      "are living",
+      "lives"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Be quiet, please. The baby ___ .",
+     "opts": [
+      "is sleeping",
+      "sleeps",
+      "sleep"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I ___ this song. Turn it up!",
+     "opts": [
+      "love",
+      "am loving",
+      "loving"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "___ your manager speak Italian?",
+     "opts": [
+      "Does",
+      "Do",
+      "Is"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "She's on the night ___ this week.",
+     "opts": [
+      "shift",
+      "turn",
+      "deadline"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We have to finish the report by Friday. That's the ___ .",
+     "opts": [
+      "deadline",
+      "salary",
+      "overtime"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "He is usually at the office before eight.",
+      "He usually is at the office before eight.",
+      "He is at the office usually before eight."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "Kate ___ (not / work) today. She's ill.",
+     "answers": [
+      "isn't working",
+      "is not working",
+      "'s not working"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "Water ___ (boil) at 100 degrees.",
+     "answers": [
+      "boils"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Non capisco questa parola.",
+     "answers": [
+      "I don't understand this word",
+      "I do not understand this word"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Domani è il mio giorno libero.",
+     "answers": [
+      "Tomorrow is my day off",
+      "Tomorrow's my day off"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "My brother work in a factory.",
+     "answers": [
+      "My brother works in a factory"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "Are you wanting a coffee?",
+     "answers": [
+      "Do you want a coffee",
+      "Do you want coffee"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "I need some ___ about the job before I apply.",
+     "root": "INFORM",
+     "answers": [
+      "information"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Quanto spesso fai gli straordinari?",
+     "en": "How often do you do overtime",
+     "extra": [
+      "make",
+      "does"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa l'email",
+     "mode": "mc",
+     "text": "Hi Marta,\n\nI'm writing from my new office! I {1} for a small company that makes furniture. I usually {2} at nine, but this week I {3} at eight because we have a big order. My boss is very kind and my {4} are friendly. I {5} like the canteen food, but there's a nice café across the road.\n\nSpeak soon,\nElisa",
+     "gaps": [
+      {
+       "opts": [
+        "work",
+        "am work",
+        "works",
+        "working"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "start",
+        "am starting",
+        "starts",
+        "started"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "am starting",
+        "start",
+        "starts",
+        "starting"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "colleagues",
+        "collegues",
+        "partners",
+        "companions"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "don't",
+        "doesn't",
+        "am not",
+        "not"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A voicemail",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Mark",
+       "Hi Jenny, it's Mark from the office. Just to let you know, tomorrow's meeting is at half past ten, not at nine, because the manager is visiting a client in the morning. Can you bring your laptop? We're looking at the new sales figures. Thanks, see you tomorrow."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What time is the meeting?",
+       "opts": [
+        "9.00",
+        "10.30",
+        "11.30"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Why has the time changed?",
+       "opts": [
+        "The manager is with a client.",
+        "Jenny is busy.",
+        "The room isn't free."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What should Jenny bring?",
+       "opts": [
+        "Some documents",
+        "Her laptop",
+        "The sales report"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Primo giorno",
+     "lines": [
+      [
+       "Anna",
+       "Hi, are you the new intern?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, I'm Luca. Nice to meet you.",
+         "Yes, I am Luca, pleasure to me.",
+         "Yes, me is Luca."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Anna",
+       "Nice to meet you too. What are you working on?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'm helping with the new catalogue.",
+         "I help now the new catalogue.",
+         "I'm help with the new catalogue."
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

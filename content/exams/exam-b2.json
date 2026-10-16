@@ -1,0 +1,1348 @@
+{
+  "id": "exam-b2",
+  "level": "B2",
+  "title": "Simulazione B2 First",
+  "intro": "Simulazione ispirata al formato Cambridge B2 First. Contiene quattro prove: Reading and Use of English (7 parti, 75 minuti: tre cloze, trasformazioni con parola chiave, articolo con domande, testo con frasi mancanti, abbinamento multiplo), Writing (2 testi da scrivere, 80 minuti: un saggio obbligatorio e una recensione), Listening (4 parti, circa 40 minuti, ogni audio si ascolta al massimo 2 volte) e Speaking (4 prove a voce, circa 14 minuti). In tutto sono circa tre ore e mezza: ogni parte indica la sua durata consigliata e puoi anche farla da sola, in giorni diversi. Lavora senza dizionario e senza traduttore. Il punteggio sulla scala Cambridge è solo indicativo: serve a capire a che punto sei, non è un voto ufficiale.",
+  "parts": [
+    {
+      "id": "rue1",
+      "title": "Reading and Use of English - Part 1",
+      "skill": "use",
+      "minutes": 8,
+      "it": "Leggi il testo e per ogni spazio scegli la parola o l'espressione giusta (A-D).",
+      "steps": [
+        {
+          "t": "cloze",
+          "mode": "mc",
+          "title": "A new life in the mountains",
+          "text": "When Elena Marchetti left her job at a Milan advertising agency, her friends thought she had {1} her mind. She had always been a city person, yet she moved to a tiny village in the Alps, where the nearest supermarket is forty minutes away by car. 'I had been {2} up with the noise and the constant rush,' she explains. 'What I was really {3} was a quieter life, with time to think.' She now works as a freelance translator, and the internet connection, which she feared would be unreliable, has {4} out to be excellent. Of course, there are drawbacks. In winter the village is often {5} off by snow, and she has learned to keep her cupboards well stocked. She has also had to {6} up with the fact that there is no cinema or theatre nearby. Even so, she says she has no regrets. 'I finally feel that I'm {7} the most of every day,' she says. Her advice to anyone thinking of doing the same? 'Don't {8} the gun. Spend a few months there first.'",
+          "gaps": [
+            {
+              "opts": [
+                "lost",
+                "missed",
+                "gone",
+                "left"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "fed",
+                "put",
+                "given",
+                "taken"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "after",
+                "on",
+                "in",
+                "to"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "turned",
+                "come",
+                "worked",
+                "ended"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "cut",
+                "broken",
+                "torn",
+                "divided"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "put",
+                "come",
+                "keep",
+                "get"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "making",
+                "taking",
+                "having",
+                "getting"
+              ],
+              "a": 0
+            },
+            {
+              "opts": [
+                "jump",
+                "fire",
+                "shoot",
+                "run"
+              ],
+              "a": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rue2",
+      "title": "Reading and Use of English - Part 2",
+      "skill": "use",
+      "minutes": 7,
+      "it": "Completa il testo con UNA parola per ogni spazio.",
+      "steps": [
+        {
+          "t": "cloze",
+          "mode": "open",
+          "title": "The library that came back to life",
+          "text": "Few people would claim that libraries are exciting places, {1} the library in my town has become one of its liveliest meeting points. Only a few years ago it was close {2} being shut, because fewer and fewer people were borrowing books. Then a new manager arrived, who {3} been working in a similar library abroad, and she changed almost everything. Silence is no longer compulsory: there is {4} need to whisper. Instead, visitors find a cafe, a children's play area and a workshop where they can learn to repair {5} own bicycles. 'People {6} to think of a library as somewhere you only go to read,' she says. 'Our aim is to make it a place {7} you can meet your neighbours, whatever your age.' The scheme has been so successful that not only {8} the number of visitors doubled, but several other towns have asked for advice. Even the most sceptical residents admit that the old building has never felt so alive.",
+          "gaps": [
+            {
+              "answers": [
+                "yet",
+                "but"
+              ]
+            },
+            {
+              "answers": [
+                "to"
+              ]
+            },
+            {
+              "answers": [
+                "had"
+              ]
+            },
+            {
+              "answers": [
+                "no",
+                "little"
+              ]
+            },
+            {
+              "answers": [
+                "their"
+              ]
+            },
+            {
+              "answers": [
+                "used"
+              ]
+            },
+            {
+              "answers": [
+                "where"
+              ]
+            },
+            {
+              "answers": [
+                "has"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rue3",
+      "title": "Reading and Use of English - Part 3",
+      "skill": "use",
+      "minutes": 7,
+      "it": "Usa la parola in maiuscolo (radice) di ogni spazio per formare una parola che completi la frase. Ogni parola richiede una trasformazione (prefisso, suffisso, plurale...).",
+      "steps": [
+        {
+          "t": "cloze",
+          "mode": "wordform",
+          "title": "Slow travel",
+          "text": "Over the past decade there has been a steady {1} in the number of people who prefer to travel by train or on foot rather than to fly. Many of them are not simply {2} holidaymakers but ordinary families who have become worried about the {3} damage caused by air travel. 'Flying has become increasingly {4},' says travel writer Tom Hale, 'with delays and cancellations that make an {5} holiday almost impossible.' Slow travel, however, is not for everyone. Journeys can be {6} long, connections are sometimes missed, and the whole experience requires a good deal of {7}. Yet fans insist that the rewards are worth it. As well as watching the landscape change slowly outside the window, they say, you get the chance to talk to local {8} who would never meet a tourist at an airport.",
+          "gaps": [
+            {
+              "root": "GROW",
+              "answers": [
+                "growth"
+              ]
+            },
+            {
+              "root": "ADVENTURE",
+              "answers": [
+                "adventurous"
+              ]
+            },
+            {
+              "root": "ENVIRONMENT",
+              "answers": [
+                "environmental"
+              ]
+            },
+            {
+              "root": "RELY",
+              "answers": [
+                "unreliable"
+              ]
+            },
+            {
+              "root": "ENJOY",
+              "answers": [
+                "enjoyable"
+              ]
+            },
+            {
+              "root": "EXPECT",
+              "answers": [
+                "unexpectedly"
+              ]
+            },
+            {
+              "root": "PATIENT",
+              "answers": [
+                "patience"
+              ]
+            },
+            {
+              "root": "RESIDE",
+              "answers": [
+                "residents"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rue4",
+      "title": "Reading and Use of English - Part 4",
+      "skill": "use",
+      "minutes": 13,
+      "it": "Completa la seconda frase in modo che abbia lo stesso significato della prima, usando la parola data SENZA modificarla. Servono da due a cinque parole, compresa la parola data.",
+      "steps": [
+        {
+          "t": "transform",
+          "s1": "I'm sure Karen forgot about the meeting.",
+          "key": "MUST",
+          "s2": "Karen ___ about the meeting.",
+          "answers": [
+            "must have forgotten"
+          ],
+          "why": "Deduzione sicura sul passato: must have + participio passato."
+        },
+        {
+          "t": "transform",
+          "s1": "I regret not studying harder when I was at school.",
+          "key": "WISH",
+          "s2": "I ___ harder when I was at school.",
+          "answers": [
+            "wish I had studied",
+            "wish I'd studied",
+            "wish I had worked",
+            "wish I'd worked"
+          ],
+          "why": "Rimpianto sul passato: wish + past perfect."
+        },
+        {
+          "t": "transform",
+          "s1": "We have arranged for a mechanic to repair our car tomorrow.",
+          "key": "GOING",
+          "s2": "We ___ our car repaired tomorrow.",
+          "answers": [
+            "are going to have",
+            "'re going to have",
+            "are going to get",
+            "'re going to get"
+          ],
+          "why": "Costruzione causativa (have + oggetto + participio) al futuro con be going to."
+        },
+        {
+          "t": "transform",
+          "s1": "'You should apply for the job, Maria,' said her brother.",
+          "key": "ADVISED",
+          "s2": "Maria's brother ___ for the job.",
+          "answers": [
+            "advised her to apply",
+            "advised Maria to apply"
+          ],
+          "why": "Reported speech: advise + oggetto + to + infinito."
+        },
+        {
+          "t": "transform",
+          "s1": "She had hardly sat down when the phone rang.",
+          "key": "SOONER",
+          "s2": "She ___ down than the phone rang.",
+          "answers": [
+            "had no sooner sat"
+          ],
+          "why": "No sooner ... than: la forma senza inversione è had no sooner + participio passato."
+        },
+        {
+          "t": "transform",
+          "s1": "I can't tolerate people who talk during films.",
+          "key": "PUT",
+          "s2": "I can't ___ with people who talk during films.",
+          "answers": [
+            "put up"
+          ],
+          "why": "Phrasal verb: put up with = tollerare."
+        }
+      ]
+    },
+    {
+      "id": "rue5",
+      "title": "Reading and Use of English - Part 5",
+      "skill": "reading",
+      "minutes": 15,
+      "it": "Leggi l'articolo e rispondi alle sei domande. Per ogni domanda scegli A, B, C o D.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "The hospital for broken things",
+          "genre": "magazine feature",
+          "text": "On the first Saturday of every month, the church hall in my neighbourhood stops being a place for jumble sales and becomes something closer to a hospital for household objects. Toasters, lamps, torn jackets and wobbly chairs are carried in by anxious owners, and a team of volunteers goes to work. I went along last month, expecting a mildly charming scene. What I found was something a good deal more serious.\n\nThe Repair Cafe was founded four years ago by Martin Oake, a retired electrical engineer. He insists that it began almost by accident. 'My neighbour's vacuum cleaner broke, and she was about to throw it away,' he says. 'It needed a new belt that cost two pounds. I fixed it in ten minutes on her kitchen table, and she looked at me as if I had performed a miracle. That's when I realised how many people believe that anything which stops working is finished.' He put a notice in the library, and eleven people turned up at the first meeting. Now, on busy days, more than sixty do.\n\nNot everything that arrives gets mended. The volunteers are honest about that, and a sign at the entrance explains that no repair is guaranteed. Modern gadgets are often the worst, Martin explains, since many are glued together rather than screwed, and spare parts are simply not sold to the public. 'Some manufacturers seem to design things so that nobody can open them,' he says, with the weary air of a man who has made the same complaint many times. Yet he is careful not to sound bitter. 'The point isn't to blame anyone. The point is that people can learn.'\n\nLearning is indeed the heart of the event. Owners are not allowed to hand over their broken goods and go off for a coffee; they are asked to sit beside the volunteer and watch, or even to hold the screwdriver. A teenager called Priya, who had brought in a radio that belonged to her grandfather, told me she had been nervous at first. 'I thought I'd just get in the way,' she said. 'But after twenty minutes I had replaced a wire, and I felt weirdly proud. I'd never done anything like that before.' The radio now works, although it only receives one station, which her grandfather, who is hard of hearing, is apparently quite happy with.\n\nNot everyone is convinced that the cafe changes much. A local shopkeeper I spoke to argued that it was a pleasant hobby for retired people but would never make a dent in the amount of rubbish the town produces. Martin does not entirely disagree. 'I'm not naive,' he says. 'We repaired about four hundred items last year. That's a drop in the ocean.' But he thinks the real effect is harder to measure. 'People leave here looking at the objects in their homes differently. They ask themselves whether something can be mended before they decide to replace it. It's a small change, but if enough people make it, it matters.'\n\nAs I was leaving, I noticed that the queue of visitors had grown rather than shrunk, and that several people had brought not only broken things but cakes and biscuits for the volunteers. A woman holding a cardboard box of tangled Christmas lights smiled at me and said, 'I'm not sure it will work, but I like the idea that someone will try.' It seemed to me a fair summary of the whole enterprise.",
+          "qs": [
+            {
+              "q": "What does the writer imply about the repair cafe in the first paragraph?",
+              "opts": [
+                "It is organised in a rather chaotic way.",
+                "It is taken more seriously than the writer had expected.",
+                "It has replaced the church's usual activities.",
+                "It is mainly intended to entertain visitors."
+              ],
+              "a": 1,
+              "why": "«I went along expecting a mildly charming scene. What I found was something a good deal more serious»: si aspettava un evento carino, ha trovato qualcosa di più serio. La sala non è occupata sempre, solo il primo sabato del mese."
+            },
+            {
+              "q": "According to Martin, how did the cafe begin?",
+              "opts": [
+                "He had been planning it for years.",
+                "A small favour made him notice a wider problem.",
+                "A neighbour asked him to set it up.",
+                "He wanted to use his professional skills again."
+              ],
+              "a": 1,
+              "why": "Aggiusta l'aspirapolvere della vicina e capisce che molti pensano che ciò che si rompe sia da buttare. Non l'aveva pianificato (insiste: «almost by accident»)."
+            },
+            {
+              "q": "What does the writer mean by 'the weary air of a man who has made the same complaint many times'?",
+              "opts": [
+                "Martin is bored with the work of the cafe.",
+                "Martin has criticised manufacturers so often that he is tired of doing it.",
+                "Martin is reluctant to criticise manufacturers in public.",
+                "Martin is certain that nothing will ever change."
+              ],
+              "a": 1,
+              "why": "«Weary» = stanco: ha ripetuto la stessa lamentela molte volte. Critica i produttori (quindi non è riluttante) e subito dopo dice che non vuole dare colpe."
+            },
+            {
+              "q": "Why does the writer describe Priya's experience?",
+              "opts": [
+                "To show that young people lack practical skills",
+                "To illustrate how taking part changes the owners' feelings",
+                "To explain why some repairs fail",
+                "To suggest that the cafe is used mainly by teenagers"
+              ],
+              "a": 1,
+              "why": "Priya all'inizio è nervosa, poi sostituisce un filo e si sente orgogliosa: esempio di come partecipare cambia chi porta l'oggetto."
+            },
+            {
+              "q": "What does 'That' refer to in 'That's a drop in the ocean' (paragraph 5)?",
+              "opts": [
+                "The shopkeeper's opinion",
+                "The number of items repaired last year",
+                "The amount of rubbish in the town",
+                "Martin's lack of naivety"
+              ],
+              "a": 1,
+              "why": "«We repaired about four hundred items last year. That's a drop in the ocean»: that = le quattrocento riparazioni, poche rispetto al problema dei rifiuti."
+            },
+            {
+              "q": "What does Martin believe is the most important effect of the cafe?",
+              "opts": [
+                "It reduces the amount of waste in the town.",
+                "It teaches young people engineering.",
+                "It makes people think before they replace things.",
+                "It gives retired people something to do."
+              ],
+              "a": 2,
+              "why": "«They ask themselves whether something can be mended before they decide to replace it»: è l'effetto più importante secondo lui. Sui rifiuti ammette che l'impatto è minimo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rue6",
+      "title": "Reading and Use of English - Part 6",
+      "skill": "reading",
+      "minutes": 12,
+      "it": "Dall'articolo sono state tolte sei frasi. Per ogni spazio [1]-[6] scegli la frase giusta tra le sette (A-G): una non serve.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "Cold water, warm heart",
+          "genre": "magazine article",
+          "text": "Until last winter, if anyone had told me I would be swimming in a freezing lake at seven in the morning, I would have laughed. I am not a sporty person, and I have always been the first to put on a jumper at the slightest chill. [1] But a colleague of mine, Hannah, had been going to the lake for two years, and her enthusiasm was so persistent that I finally agreed to join her one Saturday in November.\n\nThe first time was an experience I will never forget, though not for the reasons she had promised. [2] I managed about forty seconds before my legs seemed to stop belonging to me, and I climbed out gasping, certain that I had made a terrible mistake. Hannah, meanwhile, was floating happily in the middle of the lake, talking to a stranger about the weather.\n\nWhat surprised me was how I felt afterwards. [3] My skin tingled, my head was clear, and I walked back to the car in a state of cheerfulness that lasted until lunchtime. I went back the following weekend, and the one after that.\n\nOver the weeks I got to know the other regulars, a mixed group ranging from a retired postman in his seventies to a nurse who swims after her night shifts. [4] They offered me advice without being asked: wear neoprene gloves, never stay in longer than your body tells you, and always bring a flask of something hot. I followed it all, and gradually the swims became longer.\n\nOf course, not everyone shares our enthusiasm. My brother thinks we are mad, and doctors do warn that cold water can be dangerous for people with heart problems. [5] I would also never encourage a beginner to go alone, and the group has a strict rule that nobody swims without a companion.\n\nI still feel nervous every time I walk down to the water, and I doubt that will ever change. [6] It is hard to describe the quiet of the lake in winter, with mist lying on the surface and the mountains turning pink as the sun appears. I have stopped trying to convince my friends that it is enjoyable; I simply invite them to come and see for themselves.",
+          "qs": [
+            {
+              "q": "Which sentence fits gap 1?",
+              "opts": [
+                "Within minutes of getting dressed, I felt more alive than I had in months.",
+                "But the nervousness disappears the moment my shoulders go under.",
+                "Hannah, it turned out, had been a competitive swimmer as a teenager.",
+                "Cold water was, in short, something I avoided at all costs.",
+                "I accept that, and I always tell newcomers to see their doctor first.",
+                "The water was so cold that I could hardly breathe.",
+                "Most of them had been swimming through the winter for years and treated the cold with calm respect."
+              ],
+              "a": 3,
+              "why": "Prima: «the first to put on a jumper»; dopo: «But a colleague...». La frase sul freddo come cosa da evitare introduce il contrasto con Hannah."
+            },
+            {
+              "q": "Which sentence fits gap 2?",
+              "opts": [
+                "Within minutes of getting dressed, I felt more alive than I had in months.",
+                "But the nervousness disappears the moment my shoulders go under.",
+                "Hannah, it turned out, had been a competitive swimmer as a teenager.",
+                "Cold water was, in short, something I avoided at all costs.",
+                "I accept that, and I always tell newcomers to see their doctor first.",
+                "The water was so cold that I could hardly breathe.",
+                "Most of them had been swimming through the winter for years and treated the cold with calm respect."
+              ],
+              "a": 5,
+              "why": "«I managed about forty seconds» presuppone che si sia parlato della difficoltà di stare in acqua: l'acqua era gelida."
+            },
+            {
+              "q": "Which sentence fits gap 3?",
+              "opts": [
+                "Within minutes of getting dressed, I felt more alive than I had in months.",
+                "But the nervousness disappears the moment my shoulders go under.",
+                "Hannah, it turned out, had been a competitive swimmer as a teenager.",
+                "Cold water was, in short, something I avoided at all costs.",
+                "I accept that, and I always tell newcomers to see their doctor first.",
+                "The water was so cold that I could hardly breathe.",
+                "Most of them had been swimming through the winter for years and treated the cold with calm respect."
+              ],
+              "a": 0,
+              "why": "«What surprised me was how I felt afterwards» e subito dopo «My skin tingled»: la frase descrive la sensazione dopo essersi rivestita."
+            },
+            {
+              "q": "Which sentence fits gap 4?",
+              "opts": [
+                "Within minutes of getting dressed, I felt more alive than I had in months.",
+                "But the nervousness disappears the moment my shoulders go under.",
+                "Hannah, it turned out, had been a competitive swimmer as a teenager.",
+                "Cold water was, in short, something I avoided at all costs.",
+                "I accept that, and I always tell newcomers to see their doctor first.",
+                "The water was so cold that I could hardly breathe.",
+                "Most of them had been swimming through the winter for years and treated the cold with calm respect."
+              ],
+              "a": 6,
+              "why": "«They offered me advice» richiede un soggetto: «Most of them» (i frequentatori abituali) che nuotano da anni."
+            },
+            {
+              "q": "Which sentence fits gap 5?",
+              "opts": [
+                "Within minutes of getting dressed, I felt more alive than I had in months.",
+                "But the nervousness disappears the moment my shoulders go under.",
+                "Hannah, it turned out, had been a competitive swimmer as a teenager.",
+                "Cold water was, in short, something I avoided at all costs.",
+                "I accept that, and I always tell newcomers to see their doctor first.",
+                "The water was so cold that I could hardly breathe.",
+                "Most of them had been swimming through the winter for years and treated the cold with calm respect."
+              ],
+              "a": 4,
+              "why": "Dopo l'avvertimento dei medici, «I accept that» lo riprende e «also» aggiunge un'altra precauzione."
+            },
+            {
+              "q": "Which sentence fits gap 6?",
+              "opts": [
+                "Within minutes of getting dressed, I felt more alive than I had in months.",
+                "But the nervousness disappears the moment my shoulders go under.",
+                "Hannah, it turned out, had been a competitive swimmer as a teenager.",
+                "Cold water was, in short, something I avoided at all costs.",
+                "I accept that, and I always tell newcomers to see their doctor first.",
+                "The water was so cold that I could hardly breathe.",
+                "Most of them had been swimming through the winter for years and treated the cold with calm respect."
+              ],
+              "a": 1,
+              "why": "«It is hard to describe the quiet of the lake»: serve una frase che dica che il nervosismo svanisce in acqua. L'extra su Hannah non si collega a niente (e Hannah è già presentata nel paragrafo 1)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rue7",
+      "title": "Reading and Use of English - Part 7",
+      "skill": "reading",
+      "minutes": 13,
+      "it": "Leggi i quattro testi (A-D) in cui altrettante persone parlano del cambio di carriera. Per ogni domanda scegli la persona giusta: ogni persona può essere scelta più di una volta.",
+      "steps": [
+        {
+          "t": "read",
+          "title": "Changing careers",
+          "genre": "personal accounts",
+          "text": "**A - Owen**\nI spent twelve years as a newspaper reporter, and I loved it for most of that time. But when the paper started cutting staff, the atmosphere changed. Everyone was waiting to be told they had lost their job, and nobody wanted to take risks any more. A friend suggested teaching, and I laughed, because I'd always assumed I had no patience. I trained for a year, and the first term was a shock: I'd never worked so hard in my life. What I hadn't expected was how much I would use my old skills. Teenagers are a tough audience, and getting them interested in a news story is surprisingly like persuading an editor. I earn about a third less than before, and I don't regret it for a minute. My only complaint is the marking, which follows me home every evening.\n\n**B - Sofia**\nPeople assume I made a big, brave decision, but it was more gradual than that. I'd always baked as a hobby, and when I was a bank manager I used to bring cakes into the office. One day a customer asked if she could order one for her daughter's wedding, and I said yes before I'd thought about it. After that, orders kept coming. For two years I did both jobs, which meant getting up at four, and eventually I realised that I was exhausted and happy only on the days I was baking. I left the bank when I turned forty-five. The first year was very hard financially, and I sometimes wondered whether I had been foolish. My husband was a great support, though; he never once suggested going back. Now I employ three people, and strangely, I use the same skills as before: planning, budgeting and handling difficult customers.\n\n**C - Dev**\nI'd been writing software for a large insurance company since I left university. The money was good, and my parents were proud of me. But I'd begun to feel I was solving problems that didn't matter to anyone. Then a charity that helps refugees advertised for someone to build a system to match volunteers with families, and I applied almost as a joke. I was amazed to get the job. The salary is much lower, and I share a flat now instead of owning one, but I feel useful every day. Some of my old colleagues think I've thrown away my future. I understand that, but I'd say I've simply changed the measure I use to judge success. If I were advising anyone, I'd say try it for a trial period first; I took a six-month break from my old firm, which made the decision far less frightening.\n\n**D - Gina**\nI was a lawyer for twenty-six years, and I'm not ashamed to say I was good at it. But the work had become so stressful that I could no longer switch off at weekends. My doctor told me, quite bluntly, that I had to change something. I took a year off and, to my surprise, spent most of it working in other people's gardens as a volunteer. That's when it occurred to me that I could do it for a living. I did a course, bought some tools and started with three clients. Within a year I had a waiting list. I'm outdoors, I'm fit, and I sleep well. People often ask whether I miss the status, and I don't. What I do miss, a little, is the intellectual challenge, so I read a lot more now, and I've joined a debating society in my spare time.",
+          "qs": [
+            {
+              "q": "Which person applied for the new job without taking it very seriously?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 2,
+              "why": "C: «I applied almost as a joke»."
+            },
+            {
+              "q": "Which person assumed at first that the new career would not suit their character?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 0,
+              "why": "A: «I'd always assumed I had no patience»."
+            },
+            {
+              "q": "Which person was told by a professional that a change was necessary?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 3,
+              "why": "D: il medico le dice «quite bluntly» che deve cambiare qualcosa."
+            },
+            {
+              "q": "Which person did the old job and the new one at the same time for a while?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 1,
+              "why": "B: «For two years I did both jobs». Dev ha preso una pausa, non ha fatto i due lavori insieme."
+            },
+            {
+              "q": "Which person says that former colleagues disapprove of the decision?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 2,
+              "why": "C: «Some of my old colleagues think I've thrown away my future»."
+            },
+            {
+              "q": "Which person describes a workplace where people were afraid of losing their jobs?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 0,
+              "why": "A: «Everyone was waiting to be told they had lost their job»."
+            },
+            {
+              "q": "Which person sometimes doubted that the change had been a wise one?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 1,
+              "why": "B: «I sometimes wondered whether I had been foolish»."
+            },
+            {
+              "q": "Which person has taken up a new interest to make up for something missing in the new work?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 3,
+              "why": "D: sente la mancanza della sfida intellettuale e legge di più e si è iscritta a un club di dibattito."
+            },
+            {
+              "q": "Which person found the new job more demanding than expected at the beginning?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 0,
+              "why": "A: «the first term was a shock: I'd never worked so hard in my life»."
+            },
+            {
+              "q": "Which person recommends trying a new career for a limited time before committing?",
+              "opts": [
+                "A (Owen)",
+                "B (Sofia)",
+                "C (Dev)",
+                "D (Gina)"
+              ],
+              "a": 2,
+              "why": "C: «try it for a trial period first»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w1",
+      "title": "Writing - Part 1",
+      "skill": "writing",
+      "minutes": 40,
+      "it": "Parte obbligatoria. Scrivi un saggio (essay) di 140-190 parole sul tema dato, usando TUTTE e due le note e aggiungendo una tua idea.",
+      "steps": [
+        {
+          "t": "write",
+          "q": "In your English class you have been talking about transport in cities. Now your teacher has asked you to write an essay for homework.\n\nWrite an essay using ALL the notes and give reasons for your point of view.\n\nSome people say that cars should be banned from city centres. Do you agree?\n\nNotes\nWrite about:\n1. air quality\n2. people who need to drive\n3. (your own idea)\n\nWrite your essay in 140-190 words.",
+          "it": "Scrivi un saggio di 140-190 parole: di' se sei d'accordo o no, tratta qualità dell'aria e persone che hanno bisogno dell'auto, e aggiungi una tua idea. Registro neutro o formale, niente contrazioni.",
+          "min": 140,
+          "max": 190,
+          "checklist": [
+            "Content: ho trattato tutti i punti richiesti e il lettore è informato su ciò che voleva sapere (ho scritto di aria, di chi deve guidare e di una mia idea, con la mia opinione)",
+            "Communicative Achievement: ho usato il registro giusto e ho convinto o interessato il lettore (tono neutro/formale, opinione chiara con ragioni)",
+            "Organisation: il testo è ordinato in paragrafi chiari, con connettivi vari (introduzione, paragrafi per ogni punto e conclusione)",
+            "Language: ho usato strutture e vocaboli vari e ho ricontrollato grammatica e ortografia (condizionali, passivi, connettivi come however, as long as, in addition)",
+            "Ho rispettato il numero di parole (140-190)"
+          ],
+          "useful": [
+            "In my opinion, ...",
+            "The main advantage is that...",
+            "However, ... would be unfair on...",
+            "Another possibility is to...",
+            "To sum up, ..."
+          ],
+          "model": "Nowadays more and more cities are considering banning cars from their centres. In my opinion, this would be a good idea, provided that certain conditions are met.\n\nThe main advantage is that the air would be much cleaner. Traffic is one of the biggest sources of pollution in urban areas, and children and elderly people are the ones who suffer most from it. Several European cities that have restricted traffic have already recorded a clear improvement in air quality.\n\nHowever, a total ban would be unfair on those who have no alternative, such as disabled people or workers who carry heavy equipment. For them, special permits should be available.\n\nAnother possibility is to make public transport cheaper or even free. If buses and trams were reliable and affordable, many people would leave their cars at home voluntarily.\n\nTo sum up, limiting traffic in city centres would bring great benefits, as long as exceptions are made for those who really need to drive."
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "title": "Writing - Part 2",
+      "skill": "writing",
+      "minutes": 40,
+      "it": "Parte a scelta (qui: una recensione). Scrivi 140-190 parole.",
+      "steps": [
+        {
+          "t": "write",
+          "q": "You see this announcement on an English-language website for learners.\n\nREVIEWS WANTED\nA book, film or series that changed the way you think.\nWrite a review of something that made you see an issue in a new way. Say what it is about and whether you would recommend it to other people. The best reviews will be published on our website.\n\nWrite your review in 140-190 words.",
+          "it": "Scrivi una recensione (140-190 parole) di un libro, film o serie che ti ha fatto cambiare idea su qualcosa: di' di che cosa parla, che cosa ti ha colpito e se lo consigli. Tono coinvolgente, con un titolo.",
+          "min": 140,
+          "max": 190,
+          "checklist": [
+            "Content: ho trattato tutti i punti richiesti e il lettore è informato su ciò che voleva sapere (ho detto che cos'è, di che cosa parla, che cosa mi ha colpito e se lo consiglio)",
+            "Communicative Achievement: ho usato il registro giusto e ho convinto o interessato il lettore (tono vivace e personale, adatto a un sito per lettori, con un titolo)",
+            "Organisation: il testo è ordinato in paragrafi chiari, con connettivi vari (introduzione, contenuto, giudizio, raccomandazione)",
+            "Language: ho usato strutture e vocaboli vari e ho ricontrollato grammatica e ortografia (aggettivi precisi, relative, forme come what impressed me most is that)",
+            "Ho rispettato il numero di parole (140-190)"
+          ],
+          "useful": [
+            "I normally avoid..., but...",
+            "What impressed me most is...",
+            "If I had one criticism, it would be...",
+            "Even so, I would recommend it to anyone who..."
+          ],
+          "model": "Our Planet: a series that made me think again\n\nI normally avoid nature documentaries, as I assume they are slow and depressing. However, a friend persuaded me to watch Our Planet, and it changed my opinion completely.\n\nEach of the eight episodes looks at a different habitat, from frozen seas to tropical forests, and shows how human activity is affecting them. The photography is breathtaking: in one scene, thousands of walruses climb a cliff because the ice they normally rest on has melted. I found it so moving that I had to pause the episode for a few minutes.\n\nWhat impressed me most is that the series does not lecture the viewer. The narrator speaks calmly and lets the images make the point, which is far more effective than any speech.\n\nIf I had one criticism, it would be that some episodes feel slightly too long. Even so, I would recommend the series to anyone, whether or not they are interested in nature, because it makes you look at your everyday habits in a completely new light."
+        }
+      ]
+    },
+    {
+      "id": "l1",
+      "title": "Listening - Part 1",
+      "skill": "listening",
+      "minutes": 10,
+      "it": "Ascolta otto brevi estratti, tutti indipendenti. Per ogni domanda scegli la risposta giusta (A, B o C).",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "The sales report",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Woman",
+              "Did you read the report?"
+            ],
+            [
+              "Man",
+              "I skimmed it. Honestly, I think the figures are far too optimistic. We'll never sell that many."
+            ],
+            [
+              "Woman",
+              "I thought so too, but Ruth will be upset if we say it in front of everybody on Monday."
+            ],
+            [
+              "Man",
+              "Then let's tell her beforehand, in private. I'll ask if she's free tomorrow."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What do the speakers decide to do?",
+              "opts": [
+                "Rewrite the figures",
+                "Speak to Ruth before the meeting",
+                "Cancel Monday's meeting"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "A message from the hotel",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Man",
+              "Hello, this is Mr Gallo from the Riverside Hotel. I'm calling about your booking for the fourteenth. Unfortunately, the sea-view room won't be ready because of a burst pipe. We can offer you a garden room at the same price, or a sea-view room two days later. Please call me back on the number in your confirmation email."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Why is Mr Gallo calling?",
+              "opts": [
+                "To cancel the booking",
+                "To offer alternatives",
+                "To confirm a price"
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The novel",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Woman",
+              "Everybody had told me it was brilliant, so I had high hopes. And, well, the first fifty pages were so slow that I nearly gave up. But the ending, I won't say what happens, completely changed my opinion. I read the last chapter twice."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What does the woman say about the book?",
+              "opts": [
+                "It was better at the end than at the beginning.",
+                "It did not live up to its reputation.",
+                "It was too long."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The job",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Man",
+              "Did you get the job?"
+            ],
+            [
+              "Woman",
+              "No. They gave it to somebody who already worked there. I'm not angry, really. I'd probably have done the same. What's annoying is that they took three weeks to tell me."
+            ],
+            [
+              "Man",
+              "Three weeks? That's rude."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What annoys the woman most?",
+              "opts": [
+                "The decision itself",
+                "The choice of person",
+                "The time it took"
+              ],
+              "a": 2
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The essays",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Teacher",
+              "Right, everyone, before you go. Some of you handed in last week's essays without a bibliography. I'm not going to take marks off this time, but from now on I will. So please check the instructions before you submit anything."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What is the teacher doing?",
+              "opts": [
+                "Warning students about a rule",
+                "Apologising for a mistake",
+                "Explaining a new deadline"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Cycling to work",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Woman",
+              "Since when do you cycle to work?"
+            ],
+            [
+              "Man",
+              "Since March. Someone told me it would keep me fit, which is a bonus, and I'm saving a bit of money. But the real reason is that the bus takes forty minutes and I do it in twenty."
+            ],
+            [
+              "Woman",
+              "Twenty! I might try it myself."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Why did the man start cycling to work?",
+              "opts": [
+                "It is cheaper.",
+                "It is quicker.",
+                "It keeps him fit."
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The new neighbours",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Man",
+              "I was worried when I heard that a family with three boys was moving in next door. I imagined football against my fence at all hours. But they're lovely. They bring my bins in when I'm away, and last week the youngest one drew me a picture of my garden."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "How does the man feel about his new neighbours?",
+              "opts": [
+                "Surprised to find that he likes them",
+                "Annoyed by the noise they make",
+                "Grateful but still worried"
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "The presentation",
+          "it": "Ascolta l'estratto.",
+          "lines": [
+            [
+              "Woman",
+              "Shall we start the presentation with the statistics?"
+            ],
+            [
+              "Man",
+              "I'd rather open with a story about a customer. People remember stories."
+            ],
+            [
+              "Woman",
+              "Fair enough, but we've only got ten minutes."
+            ],
+            [
+              "Man",
+              "True. So a very short story, and then the statistics."
+            ],
+            [
+              "Woman",
+              "OK, let's do that."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "What do they agree on?",
+              "opts": [
+                "Beginning with the statistics",
+                "Telling a short story first",
+                "Making the talk longer"
+              ],
+              "a": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "title": "Listening - Part 2",
+      "skill": "listening",
+      "minutes": 10,
+      "it": "Ascolta la guida di un museo e completa le dieci frasi con una o più parole (o un numero) che senti.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "A visit to Hartley Mill",
+          "it": "Ascolta la guida.",
+          "lines": [
+            [
+              "Claire",
+              "Good morning, everyone, and welcome to Hartley Mill. My name's Claire Dunmore, that's D-U-N-M-O-R-E, and I'll be your guide for the next hour and a half. Before we start, a little history.\n\nThe mill was built in eighteen twenty-four, although the building you're standing in is only a part of the original. The tall chimney was added much later, in eighteen sixty-one, when steam engines began to replace water power. At first, the mill produced wool, as many mills in this valley did, but within ten years the owners had switched to cotton, and cotton is what you'll see on the looms today. The wheel you can see through the window was originally turned by water from the river, which is just beyond the car park. There was a small stream too, but it dried up every summer, so it was never reliable.\n\nAt its busiest, in the eighteen seventies, the mill employed two hundred and fifty people, many of them women and children, and the working day lasted twelve hours. I'll show you the photographs in the second room; some visitors find them rather moving.\n\nNow, the practical bits. Our workshops are very popular. Spinning takes place on Sundays, but on Saturdays you can take part in a weaving workshop, where you make your own scarf to take home. The cafe is open every day except Mondays, when we close it to give the staff a rest. On other days it's open until five, and I can recommend the carrot cake.\n\nAdmission prices are on the board by the door. Adults pay ten pounds, children five, but a family ticket, which covers two adults and up to three children, is twenty-eight pounds, so it's a good deal. Please leave large bags and rucksacks in the lockers at the entrance. Inside, you're welcome to take photographs, but please don't touch the machines.\n\nRight, our tour begins in a few minutes, at ten past eleven. Sorry, I've just been told it's a quarter past, because the school group is running late. So, if you'd like to follow me."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "The guide's surname is ___ .",
+              "answers": [
+                "Dunmore"
+              ]
+            },
+            {
+              "q": "The mill was built in ___ .",
+              "answers": [
+                "1824",
+                "eighteen twenty-four",
+                "eighteen twenty four"
+              ]
+            },
+            {
+              "q": "Soon after it opened, the mill began to produce ___ instead of wool.",
+              "answers": [
+                "cotton"
+              ]
+            },
+            {
+              "q": "The wheel was originally turned by water from the ___ .",
+              "answers": [
+                "river"
+              ]
+            },
+            {
+              "q": "At its busiest, the mill employed ___ people.",
+              "answers": [
+                "250",
+                "two hundred and fifty",
+                "two hundred fifty"
+              ]
+            },
+            {
+              "q": "On Saturdays visitors can take part in a ___ workshop.",
+              "answers": [
+                "weaving"
+              ]
+            },
+            {
+              "q": "The cafe is closed on ___ .",
+              "answers": [
+                "Mondays",
+                "Monday"
+              ]
+            },
+            {
+              "q": "A family ticket costs ___ pounds.",
+              "answers": [
+                "28",
+                "twenty-eight",
+                "twenty eight",
+                "£28"
+              ]
+            },
+            {
+              "q": "Large bags should be left in the ___ at the entrance.",
+              "answers": [
+                "lockers",
+                "locker"
+              ]
+            },
+            {
+              "q": "Today's tour begins at ___ .",
+              "answers": [
+                "11.15",
+                "11:15",
+                "eleven fifteen",
+                "a quarter past eleven",
+                "quarter past eleven",
+                "a quarter past 11",
+                "quarter past 11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "title": "Listening - Part 3",
+      "skill": "listening",
+      "minutes": 8,
+      "it": "Cinque persone parlano del trasferimento in una nuova città. Per ogni parlante scegli il problema più grande (A-E). Ogni frase va usata una sola volta.",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Speaker 1",
+          "it": "Ascolta il parlante 1.",
+          "lines": [
+            [
+              "Speaker 1",
+              "When I first arrived in Lyon, I assumed my school French would be enough. It wasn't. People spoke so fast, and the waiter laughed when I asked for 'a bread of butter'. The flat was fine, I'd found it before I came, and my colleagues were friendly. But for months I'd go home exhausted from translating everything in my head."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Speaker 1: what was the biggest problem for this person after moving to a new city?",
+              "opts": [
+                "The speaker found it hard to make friends.",
+                "The speaker was shocked by the cost of living.",
+                "The speaker struggled with the language.",
+                "The speaker missed the climate of home.",
+                "The speaker had trouble finding somewhere to live.",
+                "The speaker found the local food hard to get used to.",
+                "The speaker's new job was much harder than expected.",
+                "The speaker found local customs hard to understand."
+              ],
+              "a": 2
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Speaker 2",
+          "it": "Ascolta il parlante 2.",
+          "lines": [
+            [
+              "Speaker 2",
+              "Everyone had warned me that Berlin was cheap, and the prices really were no problem at all. People were friendly too. What nobody told me was that finding a flat would take four months. I slept on a friend's sofa, then in a hostel, and I viewed over thirty places before anyone would rent to me."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Speaker 2: what was the biggest problem for this person after moving to a new city?",
+              "opts": [
+                "The speaker found it hard to make friends.",
+                "The speaker was shocked by the cost of living.",
+                "The speaker struggled with the language.",
+                "The speaker missed the climate of home.",
+                "The speaker had trouble finding somewhere to live.",
+                "The speaker found the local food hard to get used to.",
+                "The speaker's new job was much harder than expected.",
+                "The speaker found local customs hard to understand."
+              ],
+              "a": 4
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Speaker 3",
+          "it": "Ascolta il parlante 3.",
+          "lines": [
+            [
+              "Speaker 3",
+              "I spoke the language well, because I'd studied it for years, and I had a nice flat from the start. It was the evenings that were difficult. Everyone seemed to have known each other since school, and I'd sit in my kitchen with nobody to call. It took almost a year before I felt that I belonged."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Speaker 3: what was the biggest problem for this person after moving to a new city?",
+              "opts": [
+                "The speaker found it hard to make friends.",
+                "The speaker was shocked by the cost of living.",
+                "The speaker struggled with the language.",
+                "The speaker missed the climate of home.",
+                "The speaker had trouble finding somewhere to live.",
+                "The speaker found the local food hard to get used to.",
+                "The speaker's new job was much harder than expected.",
+                "The speaker found local customs hard to understand."
+              ],
+              "a": 0
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Speaker 4",
+          "it": "Ascolta il parlante 4.",
+          "lines": [
+            [
+              "Speaker 4",
+              "I moved to London for a better salary, and I got one. But then rent, transport, even a sandwich at lunchtime, everything cost twice what I'd expected. By the end of the month I had almost nothing left. I made friends quickly, which helped, and I missed the sun a bit, but money was the thing that kept me awake."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Speaker 4: what was the biggest problem for this person after moving to a new city?",
+              "opts": [
+                "The speaker found it hard to make friends.",
+                "The speaker was shocked by the cost of living.",
+                "The speaker struggled with the language.",
+                "The speaker missed the climate of home.",
+                "The speaker had trouble finding somewhere to live.",
+                "The speaker found the local food hard to get used to.",
+                "The speaker's new job was much harder than expected.",
+                "The speaker found local customs hard to understand."
+              ],
+              "a": 1
+            }
+          ]
+        },
+        {
+          "t": "listen",
+          "title": "Speaker 5",
+          "it": "Ascolta il parlante 5.",
+          "lines": [
+            [
+              "Speaker 5",
+              "Honestly, people were lovely, and I found a good flat in a week. Money was fine. What I hadn't prepared for was the grey. In Glasgow it was dark by four in the afternoon in December, and I felt it more than I'd expected. I kept thinking about the sea and the light back home in Sicily."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "Speaker 5: what was the biggest problem for this person after moving to a new city?",
+              "opts": [
+                "The speaker found it hard to make friends.",
+                "The speaker was shocked by the cost of living.",
+                "The speaker struggled with the language.",
+                "The speaker missed the climate of home.",
+                "The speaker had trouble finding somewhere to live.",
+                "The speaker found the local food hard to get used to.",
+                "The speaker's new job was much harder than expected.",
+                "The speaker found local customs hard to understand."
+              ],
+              "a": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "title": "Listening - Part 4",
+      "skill": "listening",
+      "minutes": 12,
+      "it": "Ascolta l'intervista a una fotografa naturalista. Per ognuna delle sette domande scegli la risposta giusta (A, B o C).",
+      "steps": [
+        {
+          "t": "listen",
+          "title": "Photographing birds",
+          "it": "Ascolta l'intervista.",
+          "lines": [
+            [
+              "Interviewer",
+              "Today my guest is Ruth Calder, a wildlife photographer whose pictures of Arctic birds have just been published in a book. Ruth, welcome."
+            ],
+            [
+              "Ruth",
+              "Thank you."
+            ],
+            [
+              "Interviewer",
+              "Most people imagine photographers as people who always dreamed of the job. Was that you?"
+            ],
+            [
+              "Ruth",
+              "Not at all. I studied chemistry and worked in a laboratory for six years. I only bought a proper camera because I wanted to record the birds I saw on my lunchtime walks. I never intended to turn it into a career, but a magazine bought one of my pictures, and one thing led to another."
+            ],
+            [
+              "Interviewer",
+              "What's the hardest part of the job?"
+            ],
+            [
+              "Ruth",
+              "People assume it's the cold or the early starts, and they're not easy, but I've got used to them. The real challenge is patience. I once spent eleven days in a hide waiting for a single owl to appear. It came on the last morning, for about ninety seconds."
+            ],
+            [
+              "Interviewer",
+              "And was it worth it?"
+            ],
+            [
+              "Ruth",
+              "Completely, though if I'm honest I wasn't sure at the time. I was on the point of packing up on the tenth day."
+            ],
+            [
+              "Interviewer",
+              "Many photographers use drones now. Do you?"
+            ],
+            [
+              "Ruth",
+              "No, and I'm quite firm on that. They disturb the birds. A bird that panics may leave its nest, and then the eggs die. No picture is worth that. I know some colleagues disagree and say the technology is improving, but I'm not convinced."
+            ],
+            [
+              "Interviewer",
+              "Your book carries a strong message about climate change. Was that your intention?"
+            ],
+            [
+              "Ruth",
+              "In the beginning, no. I simply wanted beautiful pictures. But after three trips north, it was impossible not to notice that the ice was thinner each year. I decided I'd feel dishonest if the book didn't say so. I don't want to lecture people, though, so the message is quiet. It's mostly in the captions."
+            ],
+            [
+              "Interviewer",
+              "What would you say to a young person hoping to follow your path?"
+            ],
+            [
+              "Ruth",
+              "Don't spend a fortune on equipment. I took my best photos with a very ordinary camera. Spend your money on travel instead, and learn how birds behave. Knowing what an animal is going to do next is worth more than any lens."
+            ],
+            [
+              "Interviewer",
+              "And what's next?"
+            ],
+            [
+              "Ruth",
+              "I'm going to Patagonia in March, with a smaller team than usual. I'm hoping to photograph penguins, but I've promised myself that I'll be flexible. In my experience, plans never survive the first week."
+            ]
+          ],
+          "qs": [
+            {
+              "q": "How did Ruth begin taking photography seriously?",
+              "opts": [
+                "She wanted to leave her laboratory job.",
+                "She wanted to record the birds she saw near her work.",
+                "A magazine asked her to take pictures."
+              ],
+              "a": 1
+            },
+            {
+              "q": "What does Ruth find most difficult about her work?",
+              "opts": [
+                "The cold weather",
+                "The early starts",
+                "The waiting"
+              ],
+              "a": 2
+            },
+            {
+              "q": "How did Ruth feel on the tenth day in the hide?",
+              "opts": [
+                "Sure that the owl would appear",
+                "Ready to abandon the attempt",
+                "Angry with herself"
+              ],
+              "a": 1
+            },
+            {
+              "q": "What is Ruth's attitude to using drones?",
+              "opts": [
+                "She thinks the technology is improving.",
+                "She refuses to use them because they may harm birds.",
+                "She uses them only near nests."
+              ],
+              "a": 1
+            },
+            {
+              "q": "Why does the book mention climate change?",
+              "opts": [
+                "Her publisher suggested it.",
+                "She wanted to make people feel guilty.",
+                "She had seen changes herself and felt she should say so."
+              ],
+              "a": 2
+            },
+            {
+              "q": "What advice does Ruth give to young photographers?",
+              "opts": [
+                "Work with an experienced professional first.",
+                "Understanding animals matters more than owning expensive equipment.",
+                "Visit as many countries as possible."
+              ],
+              "a": 1
+            },
+            {
+              "q": "What does Ruth say about her plans for Patagonia?",
+              "opts": [
+                "She expects everything to go as arranged.",
+                "She will take a bigger team than usual.",
+                "She accepts that the plans may change."
+              ],
+              "a": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s",
+      "title": "Speaking",
+      "skill": "speaking",
+      "minutes": 14,
+      "it": "Rispondi a voce a ognuna delle quattro prove, come in un colloquio con l'esaminatore. Parla con frasi complete e confronta poi la tua risposta con il modello.",
+      "steps": [
+        {
+          "t": "speakTask",
+          "q": "Part 1 (interview). Where are you from? What do you enjoy doing in your free time? Tell me about a place you would like to visit and why. What are you hoping to be doing in five years' time?",
+          "it": "Colloquio personale: parla di dove vieni, di che cosa fai nel tempo libero, di un posto che vorresti visitare e perché, e di che cosa speri di fare tra cinque anni (almeno 6 frasi).",
+          "hints": [
+            "I come from... a town in...",
+            "In my free time I tend to...",
+            "I'd love to visit... because...",
+            "In five years' time I hope to be..."
+          ],
+          "min": 50,
+          "model": "I come from a small town near Bologna, although I've been living in Turin for the last three years. In my free time I tend to go running or meet friends for dinner, and at the weekend I sometimes go hiking in the mountains. I'd love to visit Japan, because I've always been fascinated by the mixture of old traditions and modern technology. I also hear that the food is incredible. In five years' time I hope to be working in a more senior position, and perhaps I'll have bought a small flat of my own."
+        },
+        {
+          "t": "speakTask",
+          "q": "Part 2 (long turn). Here are two photographs showing people travelling to work. Compare the photographs and say what you think the good and bad points of each way of travelling are, and which one you would prefer.",
+          "it": "Immagina due foto. FOTO 1: una carrozza di treno affollata nell'ora di punta, la mattina presto. Molti pendolari in piedi, stretti l'uno all'altro; un uomo in giacca e cravatta guarda il telefono, una donna regge un caffè, una ragazza con le cuffie ha gli occhi chiusi; fuori dal finestrino è ancora grigio. FOTO 2: una donna in bicicletta su una pista ciclabile lungo un fiume, in una mattina di sole; ha uno zaino e il casco, sorride; alcuni podisti corrono dietro di lei e ci sono alberi e acqua sullo sfondo. Confronta le due foto: che cosa hanno in comune e in che cosa sono diverse, quali sono vantaggi e svantaggi di ciascun mezzo e quale preferiresti (parla circa 1 minuto, almeno 8 frasi).",
+          "hints": [
+            "Both photos show people on their way to work, but...",
+            "In the first one... whereas in the second...",
+            "The advantage of... is that..., but the drawback is...",
+            "They probably feel... because...",
+            "Personally, I would rather... since..."
+          ],
+          "min": 70,
+          "model": "Both photographs show people on their way to work, but the situations are very different. In the first one, the commuters are standing in a crowded train, so they probably feel tired and a little stressed. Some of them are looking at their phones to pass the time, whereas in the second photo the woman is cycling along a river and seems to be enjoying herself. The great advantage of the train is that you can relax, read or answer emails during the journey, but the drawback is that it's uncomfortable at rush hour and you depend on timetables and delays. Cycling, on the other hand, keeps you fit and gives you fresh air, although it can be dangerous in heavy traffic and unpleasant if it rains. Personally, I would rather cycle, provided there is a safe path, because I could start the day feeling energetic instead of exhausted."
+        },
+        {
+          "t": "speakTask",
+          "q": "Part 3 (collaborative task). A company wants to help its employees stay healthy. Here are some ideas: free gym membership, healthy food in the canteen, flexible working hours, a quiet room for relaxing, a walking club at lunchtime. Talk about how each idea could help employees to stay healthy. Then decide which two ideas would be the most effective.",
+          "it": "Compito collaborativo (immagina di parlare con un partner): discuti come ciascuna delle cinque idee (abbonamento gratuito alla palestra, cibo sano in mensa, orari flessibili, stanza tranquilla per rilassarsi, gruppo di cammino all'ora di pranzo) potrebbe aiutare i dipendenti a stare in salute. Poi decidi quali due sono le più efficaci e spiega perché (almeno 8 frasi).",
+          "hints": [
+            "Let's start with... How might that help?",
+            "That could make a real difference because...",
+            "I'm not so sure about..., since...",
+            "What do you think?",
+            "So, shall we say that... and ... are the best?"
+          ],
+          "min": 70,
+          "model": "Let's start with the gym membership. It could help people who already like exercise, but many employees are too tired after work to use it. Healthy food in the canteen would help everyone, because most people eat lunch at work every day. Flexible working hours might reduce stress, since people could avoid the rush hour or look after their families. A quiet room is a good idea too, although I'm not sure how many people would actually use it. And a walking club would be easy and free, and it would also help colleagues get to know each other. So, which two are the best? I think flexible hours and healthy food would be the most effective, because they affect everybody, every day, and they don't depend on anyone's motivation."
+        },
+        {
+          "t": "speakTask",
+          "q": "Part 4 (discussion). Do you think employers should be responsible for the health of their staff? Is it better to work for a big company or a small one? Why do some people find it hard to relax? How important is it to have a job you enjoy?",
+          "it": "Discussione: rispondi alle quattro domande, con opinioni, ragioni ed esempi: i datori di lavoro devono occuparsi della salute dei dipendenti? È meglio lavorare in una grande o in una piccola azienda? Perché certe persone non riescono a rilassarsi? Quanto conta fare un lavoro che piace? (almeno 8 frasi).",
+          "hints": [
+            "I'd say that... up to a point.",
+            "On the one hand..., on the other hand...",
+            "One reason may be that...",
+            "For me, what matters most is...",
+            "I agree to some extent, but..."
+          ],
+          "min": 70,
+          "model": "I think employers have some responsibility, up to a point. They can't force people to live healthily, but they can make sure that the workplace isn't harmful, for example by avoiding unrealistic deadlines. As for company size, a big company usually offers more security and training, whereas in a small one you often have more responsibility and a friendlier atmosphere. Personally, I'd prefer a small company. Some people find it hard to relax because they are always connected to their phones and feel they should be available all the time. Finally, I believe that enjoying your job is very important, since we spend most of our lives at work, but a good salary matters too, so for me the ideal is a reasonable balance between the two."
+        }
+      ]
+    }
+  ]
+}

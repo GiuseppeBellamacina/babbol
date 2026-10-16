@@ -1,0 +1,1465 @@
+{
+ "id": "a2-05",
+ "level": "A2",
+ "position": 5,
+ "title": "Piani e inviti",
+ "sub": "Will, going to, present continuous - organizzare un'uscita",
+ "grammar": "Futuro: will, going to, present continuous per appuntamenti",
+ "topic": "Tempo libero, meteo, piani",
+ "situation": "Invitare, accettare o rifiutare, fissare un appuntamento al telefono",
+ "lessons": [
+  {
+   "id": "a2-05-grammar",
+   "kind": "grammar",
+   "title": "Tre modi di parlare del futuro",
+   "intro": "In inglese non esiste un solo futuro: «will», «going to» e il present continuous hanno usi diversi. L'italiano usa quasi sempre il presente («domani vado al mare»), per questo la scelta sembra difficile. Qui la rendiamo semplice.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Will: decisioni al momento, previsioni, promesse",
+     "body": "**Will** + verbo base (uguale per tutte le persone). Forma breve: **'ll**. Negativa: **won't**.\n\nSi usa per:\n- **decisioni prese al momento di parlare**: «It's cold.» - «I'll close the window.»\n- **offerte e promesse**: I'll help you. / I won't tell anyone.\n- **previsioni e opinioni** sul futuro (spesso con I think, probably): I think it will rain tomorrow.\n\n**Errore tipico degli italiani**: «I will to call you». Dopo will il verbo è senza **to**: I will call you.",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "I / you / he / she / it / we / they",
+       "will ('ll) come",
+       "won't come",
+       "Will you come?"
+      ]
+     ],
+     "ex": [
+      [
+       "I'll have the soup, please.",
+       "Prendo la zuppa, grazie."
+      ],
+      [
+       "Don't worry, I won't be late.",
+       "Non preoccuparti, non farò tardi."
+      ],
+      [
+       "I think you'll love this film.",
+       "Penso che questo film ti piacerà."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Going to: piani e prove evidenti",
+     "body": "**Am / is / are + going to + verbo base**. Si usa per:\n- **piani e intenzioni** già decisi prima di parlare: We're going to buy a new sofa.\n- **previsioni basate su ciò che vedi adesso**: Look at those clouds! It's going to rain.\n\nNegativa: **I'm not going to...**, **She isn't going to...**. Domanda: **Are you going to...?**\n\nNel parlato si dice spesso «gonna», ma si scrive going to.\n\n**Errore tipico degli italiani**: dimenticare l'ausiliare («I going to study») o il to («She is going come»).",
+     "table": [
+      [
+       "",
+       "Affermativa",
+       "Negativa",
+       "Domanda"
+      ],
+      [
+       "I",
+       "am going to leave",
+       "'m not going to leave",
+       "Am I going to leave?"
+      ],
+      [
+       "he / she / it",
+       "is going to leave",
+       "isn't going to leave",
+       "Is she going to leave?"
+      ],
+      [
+       "you / we / they",
+       "are going to leave",
+       "aren't going to leave",
+       "Are they going to leave?"
+      ]
+     ],
+     "ex": [
+      [
+       "I'm going to visit my cousin in Dublin this summer.",
+       "Quest'estate vado a trovare mio cugino a Dublino."
+      ],
+      [
+       "Careful! You're going to fall.",
+       "Attento! Stai per cadere."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Present continuous: appuntamenti già organizzati",
+     "body": "Il present continuous (**am / is / are + -ing**) si usa per **accordi già presi**, con persone, luoghi e orari concreti: hai prenotato, hai fissato, hai detto a qualcuno.\n- I'm meeting Anna at six tonight.\n- We're flying to Madrid on Friday. (il biglietto è comprato)\n\nSpesso c'è un'espressione di tempo: tomorrow, tonight, on Saturday, next week.\n\nDifferenza pratica:\n- **I'm meeting Anna at six.** (appuntamento fissato)\n- **I'm going to buy a present for Anna.** (intenzione, non c'è ancora nulla di organizzato)\n\nCon i verbi **go** e **come** è molto comune: I'm going to the gym later.",
+     "ex": [
+      [
+       "I'm having dinner with my boss on Thursday.",
+       "Giovedì ceno con il mio capo."
+      ],
+      [
+       "She's starting a new job next month.",
+       "Il mese prossimo inizia un nuovo lavoro."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Come scegliere",
+     "body": "Chiediti: **quando ho deciso?**\n- Sto decidendo **adesso** -> **will**: «The phone's ringing.» - «I'll get it.»\n- Ho **già deciso**, è un'intenzione -> **going to**\n- Ho **già organizzato** con altre persone -> **present continuous**\n- È una **previsione**: se vedi un segnale -> going to; se è solo un'opinione -> will\n\nEspressioni di tempo: **tomorrow, tonight, next week, next month, in two days, on Friday, this weekend**.\nNota: «in two days» = **tra** due giorni (non «after two days»).",
+     "ex": [
+      [
+       "I'm tired. I think I'll go to bed early.",
+       "Sono stanco. Penso che andrò a letto presto."
+      ],
+      [
+       "I'm going to learn the guitar one day.",
+       "Un giorno imparerò a suonare la chitarra."
+      ],
+      [
+       "The film starts in ten minutes.",
+       "Il film inizia tra dieci minuti."
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "Look at those black clouds. It ___ rain.",
+     "opts": [
+      "is going to",
+      "will to",
+      "is going"
+     ],
+     "a": 0,
+     "it": "Guarda quelle nuvole nere. Sta per piovere.",
+     "why": "Previsione basata su ciò che vedi adesso: is going to + verbo."
+    },
+    {
+     "t": "gap",
+     "s": "A: I can't open this bottle. B: Give it to me. I ___ do it.",
+     "opts": [
+      "'ll",
+      "am going to",
+      "do"
+     ],
+     "a": 0,
+     "why": "Offerta decisa al momento di parlare: will ('ll)."
+    },
+    {
+     "t": "gap",
+     "s": "We ___ to Rome on Saturday. We've booked the train.",
+     "opts": [
+      "are going",
+      "will going",
+      "do go"
+     ],
+     "a": 0,
+     "it": "Sabato andiamo a Roma. Abbiamo prenotato il treno.",
+     "why": "Accordo già organizzato: present continuous (are going)."
+    },
+    {
+     "t": "gap",
+     "s": "I think it ___ sunny tomorrow.",
+     "opts": [
+      "will be",
+      "is be",
+      "are being"
+     ],
+     "a": 0,
+     "why": "Previsione personale con I think: will + verbo base."
+    },
+    {
+     "t": "gap",
+     "s": "A: What are your plans for the summer? B: We ___ visit my parents in Sicily.",
+     "opts": [
+      "are going to",
+      "are go to",
+      "will to"
+     ],
+     "a": 0,
+     "why": "Intenzione: are going to + verbo base."
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "I'm meeting Anna at six tonight.",
+      "I will to meet Anna at six tonight.",
+      "I'm going meet Anna at six tonight."
+     ],
+     "a": 0,
+     "why": "Appuntamento fissato: present continuous. «Will to» e «going meet» sono errori di forma."
+    },
+    {
+     "t": "mc",
+     "q": "Come si dice «Non verrò alla festa»?",
+     "opts": [
+      "I won't come to the party.",
+      "I don't will come to the party.",
+      "I'm not will come to the party."
+     ],
+     "a": 0,
+     "why": "La negativa di will è won't, senza altri ausiliari."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "Don't worry, I ___ (call) you later.",
+     "answers": [
+      "'ll call",
+      "will call",
+      "ll call"
+     ],
+     "why": "Promessa: will + verbo base."
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "I'm not going to ___ (tell) anyone your secret.",
+     "answers": [
+      "tell"
+     ],
+     "why": "Dopo going to il verbo è alla forma base."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Domani piove.",
+     "answers": [
+      "It's going to rain tomorrow",
+      "It is going to rain tomorrow",
+      "It will rain tomorrow",
+      "It'll rain tomorrow"
+     ],
+     "why": "In inglese il futuro non si esprime con il presente: going to oppure will, secondo come lo sai."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Stasera esco con Paolo.",
+     "answers": [
+      "I'm going out with Paolo tonight",
+      "I am going out with Paolo tonight",
+      "Tonight I'm going out with Paolo",
+      "Tonight I am going out with Paolo",
+      "I'm going out with Paolo this evening",
+      "I am going out with Paolo this evening",
+      "This evening I'm going out with Paolo",
+      "This evening I am going out with Paolo",
+      "I'm going to go out with Paolo tonight",
+      "I am going to go out with Paolo tonight",
+      "I'm going to go out with Paolo this evening"
+     ],
+     "why": "Accordo già preso con una persona: present continuous."
+    },
+    {
+     "t": "fix",
+     "s": "I will to call you tomorrow.",
+     "answers": [
+      "I will call you tomorrow",
+      "I'll call you tomorrow"
+     ],
+     "why": "Dopo will il verbo non vuole to."
+    },
+    {
+     "t": "fix",
+     "s": "She isn't going come to the party.",
+     "answers": [
+      "She isn't going to come to the party",
+      "She is not going to come to the party",
+      "She's not going to come to the party"
+     ],
+     "why": "Going to ha sempre il to prima del verbo."
+    },
+    {
+     "t": "transform",
+     "s1": "I don't plan to buy a car.",
+     "key": "GOING",
+     "s2": "I'm not ___ a car.",
+     "answers": [
+      "going to buy",
+      "going to get"
+     ],
+     "why": "Un'intenzione negativa: not going to + verbo base."
+    },
+    {
+     "t": "transform",
+     "s1": "I've arranged to meet Sue at eight tomorrow.",
+     "key": "MEETING",
+     "s2": "I ___ Sue at eight tomorrow.",
+     "answers": [
+      "'m meeting",
+      "am meeting"
+     ],
+     "why": "Un incontro già fissato si dice con il present continuous."
+    },
+    {
+     "t": "order",
+     "it": "Cosa fai domani sera?",
+     "en": "What are you doing tomorrow evening",
+     "extra": [
+      "go",
+      "does"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Stasera non sarò a casa.",
+     "en": "I won't be at home tonight",
+     "extra": [
+      "going",
+      "will"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-05-vocab",
+   "kind": "vocab",
+   "title": "Meteo e tempo libero",
+   "intro": "Il tempo che fa e quello che si fa: parole per leggere le previsioni, per invitare qualcuno e per parlare dei piani del weekend.",
+   "minutes": 15,
+   "words": [
+    {
+     "id": "a2-05-w01",
+     "en": "forecast",
+     "it": "previsioni",
+     "ipa": "ˈfɔːkɑːst",
+     "pos": "n",
+     "ex": [
+      "The forecast says it will be sunny on Sunday.",
+      "Le previsioni dicono che domenica sarà soleggiato."
+     ],
+     "note": "Si usa anche weather forecast."
+    },
+    {
+     "id": "a2-05-w02",
+     "en": "drizzle",
+     "it": "pioggerella",
+     "ipa": "ˈdrɪzl",
+     "pos": "n",
+     "ex": [
+      "There was a bit of drizzle this morning.",
+      "C'era un po' di pioggerella stamattina."
+     ]
+    },
+    {
+     "id": "a2-05-w03",
+     "en": "humid",
+     "it": "umido, afoso",
+     "ipa": "ˈhjuːmɪd",
+     "pos": "adj",
+     "ex": [
+      "It's very humid in July.",
+      "A luglio è molto afoso."
+     ],
+     "note": "Si riferisce all'aria umida e calda: non è «umido» di un muro (damp)."
+    },
+    {
+     "id": "a2-05-w04",
+     "en": "freezing",
+     "it": "gelido",
+     "ipa": "ˈfriːzɪŋ",
+     "pos": "adj",
+     "ex": [
+      "It's freezing outside, take a scarf.",
+      "Fuori si gela, prendi una sciarpa."
+     ]
+    },
+    {
+     "id": "a2-05-w05",
+     "en": "foggy",
+     "it": "nebbioso",
+     "ipa": "ˈfɒɡi",
+     "pos": "adj",
+     "ex": [
+      "It's too foggy to see the mountains.",
+      "C'è troppa nebbia per vedere le montagne."
+     ]
+    },
+    {
+     "id": "a2-05-w06",
+     "en": "picnic",
+     "it": "picnic",
+     "ipa": "ˈpɪknɪk",
+     "pos": "n",
+     "ex": [
+      "Let's have a picnic by the lake.",
+      "Facciamo un picnic vicino al lago."
+     ],
+     "note": "Si dice have a picnic, non «make»."
+    },
+    {
+     "id": "a2-05-w07",
+     "en": "go out",
+     "it": "uscire",
+     "ipa": "ɡəʊ aʊt",
+     "pos": "pv",
+     "ex": [
+      "Do you want to go out tonight?",
+      "Vuoi uscire stasera?"
+     ]
+    },
+    {
+     "id": "a2-05-w08",
+     "en": "stay in",
+     "it": "restare a casa",
+     "ipa": "steɪ ɪn",
+     "pos": "pv",
+     "ex": [
+      "It's raining, so we're staying in.",
+      "Piove, quindi restiamo a casa."
+     ]
+    },
+    {
+     "id": "a2-05-w09",
+     "en": "get together",
+     "it": "ritrovarsi, vedersi",
+     "ipa": "ɡet təˈɡeðə",
+     "pos": "pv",
+     "ex": [
+      "We get together every Sunday for lunch.",
+      "Ci ritroviamo ogni domenica a pranzo."
+     ]
+    },
+    {
+     "id": "a2-05-w10",
+     "en": "fancy",
+     "it": "avere voglia di",
+     "ipa": "ˈfænsi",
+     "pos": "v",
+     "ex": [
+      "Do you fancy a walk?",
+      "Ti va di fare una passeggiata?"
+     ],
+     "note": "Informale, molto britannico: fancy + nome o -ing."
+    },
+    {
+     "id": "a2-05-w11",
+     "en": "be free",
+     "it": "essere libero, non avere impegni",
+     "ipa": "bi friː",
+     "pos": "phr",
+     "ex": [
+      "Are you free on Saturday evening?",
+      "Sei libero sabato sera?"
+     ]
+    },
+    {
+     "id": "a2-05-w12",
+     "en": "be up to",
+     "it": "stare facendo, avere in programma",
+     "ipa": "bi ʌp tuː",
+     "pos": "phr",
+     "ex": [
+      "What are you up to this weekend?",
+      "Che cosa fai questo weekend?"
+     ],
+     "note": "Informale."
+    },
+    {
+     "id": "a2-05-w13",
+     "en": "umbrella",
+     "it": "ombrello",
+     "ipa": "ʌmˈbrelə",
+     "pos": "n",
+     "ex": [
+      "Take an umbrella, it might rain.",
+      "Prendi un ombrello, potrebbe piovere."
+     ],
+     "emoji": "☂️"
+    },
+    {
+     "id": "a2-05-w14",
+     "en": "sunglasses",
+     "it": "occhiali da sole",
+     "ipa": "ˈsʌnɡlɑːsɪz",
+     "pos": "n",
+     "ex": [
+      "I always forget my sunglasses.",
+      "Dimentico sempre gli occhiali da sole."
+     ],
+     "note": "Si usa solo al plurale: a pair of sunglasses.",
+     "emoji": "🕶️"
+    }
+   ],
+   "steps": [
+    {
+     "t": "words"
+    },
+    {
+     "t": "drill",
+     "n": 10
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "check the forecast",
+       "controllare le previsioni"
+      ],
+      [
+       "go out",
+       "uscire"
+      ],
+      [
+       "stay in",
+       "restare a casa"
+      ],
+      [
+       "get together",
+       "ritrovarsi"
+      ],
+      [
+       "have a picnic",
+       "fare un picnic"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "It's ___ today: you need a thick coat and a hat.",
+     "opts": [
+      "freezing",
+      "humid",
+      "foggy"
+     ],
+     "a": 0,
+     "why": "Per cappotto e cappello serve freddo intenso: freezing. «Humid» indica aria calda e umida."
+    },
+    {
+     "t": "gap",
+     "s": "Are you ___ on Friday evening? We're having a barbecue.",
+     "opts": [
+      "free",
+      "empty",
+      "open"
+     ],
+     "a": 0,
+     "why": "Per dire «libero da impegni» si usa free."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola",
+     "s": "Take your ___ : it's raining.",
+     "answers": [
+      "umbrella",
+      "raincoat",
+      "coat",
+      "jacket"
+     ],
+     "sub": "Prendi l'ombrello: piove."
+    },
+    {
+     "t": "wordform",
+     "s": "It's a very ___ day: there's no sun at all.",
+     "root": "CLOUD",
+     "answers": [
+      "cloudy"
+     ],
+     "why": "Serve un aggettivo: cloud -> cloudy."
+    },
+    {
+     "t": "mc",
+     "q": "Che cosa significa «Do you fancy a walk?»",
+     "opts": [
+      "Ti va di fare una passeggiata?",
+      "Sei elegante per una passeggiata?",
+      "Hai bisogno di una passeggiata?"
+     ],
+     "a": 0,
+     "why": "«Fancy» è un verbo informale che esprime voglia, non eleganza."
+    }
+   ]
+  },
+  {
+   "id": "a2-05-reading",
+   "kind": "reading",
+   "title": "Pronti per la Scozia",
+   "intro": "Leggi il blog di una donna alla vigilia delle vacanze. Osserva come usa will, going to e il present continuous per piani, appuntamenti e previsioni.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "read",
+     "title": "Seven days to go",
+     "genre": "blog",
+     "text": "Next Saturday is the big day: we're finally going on holiday to the Scottish Highlands! My husband Dan and I talked about it for years, and this time we booked everything early. We're flying to Glasgow on Saturday morning, and a friend of Dan's is meeting us at the airport. We're staying in a small cottage near a lake for six nights.\n\nI'm checking the weather forecast every ten minutes. It's going to be cool, about twelve degrees, and on Tuesday there's going to be heavy rain. Dan says it won't matter. \"We'll stay in, light the fire and read,\" he says. I'm not so sure! I'm going to pack a raincoat, two pairs of boots and an umbrella, although everybody says that in the Highlands the wind will break it in five minutes.\n\nWe haven't got a detailed plan, but we're going to walk every morning if the weather is good. On Thursday we're taking a boat trip on the lake, and on Friday evening we're having dinner with Dan's friend and his family. I'm also going to try the local food: I hear the soup is amazing.\n\nI'll write again from Scotland and I'll post lots of photos. I promise there won't be too many (well, maybe a few hundred)!",
+     "qs": [
+      {
+       "q": "When are they leaving?",
+       "opts": [
+        "On Saturday morning",
+        "On Friday evening",
+        "On Sunday"
+       ],
+       "a": 0,
+       "why": "«We're flying to Glasgow on Saturday morning»."
+      },
+      {
+       "q": "How long are they staying in the cottage?",
+       "opts": [
+        "Four nights",
+        "Six nights",
+        "Ten nights"
+       ],
+       "a": 1,
+       "why": "«...for six nights»."
+      },
+      {
+       "q": "Dan is worried about the rain.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 1,
+       "why": "Dan dice «it won't matter» e propone di restare in casa a leggere."
+      },
+      {
+       "q": "On Tuesday there's going to be ___ rain.",
+       "answers": [
+        "heavy"
+       ]
+      },
+      {
+       "q": "What are they doing on Thursday?",
+       "opts": [
+        "Having dinner with friends",
+        "Taking a boat trip",
+        "Walking in the mountains"
+       ],
+       "a": 1,
+       "why": "«On Thursday we're taking a boat trip on the lake»."
+      },
+      {
+       "q": "They are going to hire a car in Scotland.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 2,
+       "why": "Il testo non parla di auto a noleggio."
+      },
+      {
+       "q": "The writer is going to post photos on her blog.",
+       "opts": [
+        "True",
+        "False",
+        "Not given"
+       ],
+       "a": 0,
+       "why": "«I'll post lots of photos»."
+      }
+     ]
+    },
+    {
+     "t": "mc",
+     "q": "Nel testo, «it won't matter» significa:",
+     "opts": [
+      "non ha importanza",
+      "non cambierà il tempo",
+      "non ci sarà niente"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I'm going to ___ my suitcase tonight.",
+     "opts": [
+      "pack",
+      "do",
+      "make"
+     ],
+     "a": 0,
+     "why": "«Fare la valigia» si dice pack your suitcase (o pack your bags)."
+    },
+    {
+     "t": "type",
+     "q": "Completa con una parola dal testo",
+     "s": "We're staying in a small ___ near a lake.",
+     "answers": [
+      "cottage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2-05-listening",
+   "kind": "listening",
+   "title": "Un sabato sul fiume",
+   "intro": "Due amici decidono che cosa fare sabato. Ascolta con attenzione orari, tempo e cose da portare. Il testo lo vedi solo alla fine.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "listen",
+     "title": "Plans for Saturday",
+     "it": "Ascolta il dialogo e rispondi. Puoi riascoltarlo e usare la velocità lenta.",
+     "lines": [
+      [
+       "Mia",
+       "Hi Tom, are you free on Saturday? I'm thinking of going for a walk by the river."
+      ],
+      [
+       "Tom",
+       "I'd love to, but I'm not sure about the weather. Did you check the forecast?"
+      ],
+      [
+       "Mia",
+       "Yes, it's going to be sunny in the morning, but cloudy in the afternoon. And it will rain on Sunday."
+      ],
+      [
+       "Tom",
+       "Then Saturday morning is perfect. What time do you want to meet?"
+      ],
+      [
+       "Mia",
+       "How about nine? I'm taking my brother's dog, so we'll walk slowly."
+      ],
+      [
+       "Tom",
+       "Nine is a bit early for me. I'm playing football on Friday night, so I'll be tired. Can we say half past ten?"
+      ],
+      [
+       "Mia",
+       "Sure. Half past ten at the bridge. I'll bring some sandwiches and a flask of tea."
+      ],
+      [
+       "Tom",
+       "Great. I'll bring biscuits. And an umbrella, just in case!"
+      ],
+      [
+       "Mia",
+       "You won't need it, I promise. See you on Saturday."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What will the weather be like on Saturday morning?",
+       "opts": [
+        "Sunny",
+        "Cloudy",
+        "Rainy"
+       ],
+       "a": 0
+      },
+      {
+       "q": "When is it going to rain?",
+       "opts": [
+        "On Saturday afternoon",
+        "On Sunday",
+        "On Friday night"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Why does Tom prefer to meet later?",
+       "opts": [
+        "He is playing football on Friday night.",
+        "He has to take the dog out.",
+        "He is working in the morning."
+       ],
+       "a": 0
+      },
+      {
+       "q": "They are going to meet at ___ .",
+       "answers": [
+        "10.30",
+        "half past ten",
+        "ten thirty",
+        "10:30"
+       ]
+      },
+      {
+       "q": "Where are they going to meet?",
+       "opts": [
+        "At the bridge",
+        "At Mia's house",
+        "At the station"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What is Tom going to bring?",
+       "opts": [
+        "Sandwiches",
+        "Biscuits",
+        "Tea"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "t": "dictation",
+     "en": "I'm taking my brother's dog, so we'll walk slowly.",
+     "it": "Porto il cane di mio fratello, quindi cammineremo piano."
+    },
+    {
+     "t": "dictation",
+     "en": "It's going to be sunny in the morning, but cloudy in the afternoon.",
+     "it": "Al mattino sarà soleggiato, ma nel pomeriggio nuvoloso."
+    },
+    {
+     "t": "speak",
+     "en": "Are you free on Saturday?",
+     "it": "Sei libero sabato?"
+    }
+   ]
+  },
+  {
+   "id": "a2-05-situation",
+   "kind": "situation",
+   "title": "Inviti e appuntamenti",
+   "intro": "Invitare un amico, accettare, rifiutare con gentilezza e fissare ora e luogo, di persona o al telefono. Frasi pronte per ogni momento della conversazione.",
+   "minutes": 15,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Invitare, accettare, rifiutare",
+     "body": "**Per invitare**:\n- **Are you free on Saturday?**\n- **Would you like to come to the cinema with us?**\n- **Do you fancy going for a pizza?** (informale)\n- **How about Friday at eight?**\n- **Let's meet at the station.**\n\n**Per accettare**:\n- **I'd love to!** / **That sounds great.** / **Yes, why not?**\n\n**Per rifiutare con gentilezza**:\n- **I'd love to, but I can't. I'm working that evening.**\n- **Sorry, I'm afraid I'm busy on Saturday.**\n- **Maybe another time?**\n\nUn rifiuto in inglese ha quasi sempre una **scusa** e una **proposta alternativa**: dire solo «No, I can't» suona brusco.",
+     "ex": [
+      [
+       "Would you like to come to the cinema with us?",
+       "Ti va di venire al cinema con noi?"
+      ],
+      [
+       "I'd love to, but I can't. I'm working that evening.",
+       "Mi piacerebbe, ma non posso. Quella sera lavoro."
+      ],
+      [
+       "Maybe another time?",
+       "Magari un'altra volta?"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "title": "Al telefono: fissare un appuntamento",
+     "body": "- **Hello, is that Anna?** = Pronto, sei Anna?\n- **It's Marco** (speaking). Non «I am Marco».\n- **Can I speak to Mr Wilson, please?** / **Could you hold on a moment?**\n- **What time shall we meet?** / **Shall we say seven o'clock?**\n- **Where shall we meet?**\n- **I'll call you back.** / **I'll text you the address.**\n- **See you then!** / **See you on Saturday!**\n\n**Errore tipico degli italiani**: «I'm agree» (si dice **I agree**) e «Yes, with pleasure» (si dice **I'd love to**).",
+     "ex": [
+      [
+       "Hello, is that Anna? It's Marco.",
+       "Pronto, sei Anna? Sono Marco."
+      ],
+      [
+       "Shall we say seven o'clock?",
+       "Diciamo alle sette?"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Un invito",
+     "it": "Un amico ti invita. Scegli le risposte più naturali (Tu).",
+     "lines": [
+      [
+       "Luke",
+       "Hi! Are you free on Saturday evening? Some of us are going to a restaurant."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Yes, I think so. What time are you meeting?",
+         "Yes, I have free. What hour you meet?",
+         "Yes, I'm free me. Which time meeting?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Luke",
+       "At half past seven, outside the cinema."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "That sounds great. I'll be there.",
+         "That sounds me great. I will to be there.",
+         "It sounds well. I am there."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Luke",
+       "Brilliant. I'll send you the address."
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Thanks. See you on Saturday!",
+         "Thanks. See you the Saturday!",
+         "Thanks. We see on Saturday!"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Non posso, ma...",
+     "it": "Devi rifiutare un invito con gentilezza. Scegli le battute giuste (Tu).",
+     "lines": [
+      [
+       "Emma",
+       "Hello? It's Emma. Do you fancy going to the cinema tonight?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'd love to, but I can't. I'm working late tonight.",
+         "No, I don't want. I work late.",
+         "I would to, but I not can. I work late."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Emma",
+       "Oh, what a shame. What about tomorrow?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Tomorrow is fine. Shall we say eight o'clock?",
+         "Tomorrow is fine. We say eight o'clock?",
+         "Tomorrow it's good. Eight hour?"
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Emma",
+       "Perfect. I'll text you the name of the cinema."
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "pairs": [
+      [
+       "Are you free on Saturday?",
+       "Sei libero sabato?"
+      ],
+      [
+       "I'd love to, but I can't.",
+       "Mi piacerebbe, ma non posso."
+      ],
+      [
+       "Shall we say seven o'clock?",
+       "Diciamo alle sette?"
+      ],
+      [
+       "Maybe another time?",
+       "Magari un'altra volta?"
+      ],
+      [
+       "I'll text you the address.",
+       "Ti mando l'indirizzo per messaggio."
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Ti va di venire al cinema con noi?",
+     "en": "Would you like to come to the cinema with us",
+     "extra": [
+      "coming",
+      "going"
+     ]
+    },
+    {
+     "t": "speak",
+     "en": "Do you fancy going out tonight?",
+     "it": "Ti va di uscire stasera?"
+    },
+    {
+     "t": "speak",
+     "en": "I'd love to, but I can't. I'm working.",
+     "it": "Mi piacerebbe, ma non posso. Lavoro."
+    },
+    {
+     "t": "speak",
+     "en": "Shall we say seven o'clock outside the station?",
+     "it": "Diciamo alle sette davanti alla stazione?"
+    },
+    {
+     "t": "speakTask",
+     "q": "Phone a friend. Invite them to do something this weekend and agree on a time and a place.",
+     "it": "Telefona a un amico: invitalo a fare qualcosa nel weekend e metti d'accordo orario e luogo (almeno 4 frasi).",
+     "hints": [
+      "Hi, it's... Are you free on...?",
+      "Would you like to...? / Do you fancy...?",
+      "What time shall we meet?",
+      "See you then!"
+     ],
+     "min": 30,
+     "model": "Hi Sara, it's Luca. Are you free on Saturday afternoon? I'm going to the lake with some friends and we're going to have a picnic. Would you like to come? We're meeting at the station at two o'clock. Shall we say two? Great, see you then!"
+    }
+   ]
+  },
+  {
+   "id": "a2-05-production",
+   "kind": "production",
+   "title": "Un messaggio per organizzare un'uscita",
+   "intro": "Scriverai un messaggio informale a un amico per organizzare un'uscita, poi parlerai dei tuoi piani e del tempo. Prima qualche esercizio per preparare le frasi.",
+   "minutes": 20,
+   "steps": [
+    {
+     "t": "note",
+     "title": "Come è fatto un messaggio per organizzare",
+     "body": "- **Saluto**: Hi Laura, / Hello Tom,\n- **Domanda iniziale**: Are you free on...? / What are you up to on...?\n- **Il piano**: We're going to... / Some friends and I are going to...\n- **Dettagli**: dove e quando (We're meeting at... at...), che tempo farà (The forecast says...), cosa portare (Could you bring...?)\n- **Chiusura**: Let me know if you can come. / See you soon! / Speak soon!\n\nNei messaggi tra amici le contrazioni (I'll, we're) e i punti esclamativi sono normali, ma meglio non esagerare.",
+     "ex": [
+      [
+       "Let me know if you can come.",
+       "Fammi sapere se puoi venire."
+      ],
+      [
+       "Could you bring something to drink?",
+       "Potresti portare qualcosa da bere?"
+      ]
+     ]
+    },
+    {
+     "t": "gap",
+     "s": "We ___ at the main gate at twelve.",
+     "opts": [
+      "are meeting",
+      "will to meet",
+      "meeting"
+     ],
+     "a": 0,
+     "why": "Accordo già preso con orario e luogo: present continuous."
+    },
+    {
+     "t": "gap",
+     "s": "The forecast says it ___ be sunny, so bring sunglasses.",
+     "opts": [
+      "is going to",
+      "going to",
+      "is going"
+     ],
+     "a": 0,
+     "why": "Previsione: is going to + verbo base, non basta going to."
+    },
+    {
+     "t": "fix",
+     "s": "Let me to know if you can come.",
+     "answers": [
+      "Let me know if you can come"
+     ],
+     "why": "Dopo let + persona il verbo è senza to."
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Sabato sei libero?",
+     "answers": [
+      "Are you free on Saturday",
+      "Are you free Saturday",
+      "Will you be free on Saturday",
+      "Are you free this Saturday"
+     ],
+     "why": "Si dice «free» e si usa on con i giorni della settimana."
+    },
+    {
+     "t": "write",
+     "q": "Write a message to a friend. Invite him or her to do something this weekend. Say where and when you are going to meet, what the weather will be like and what to bring.",
+     "it": "Scrivi un messaggio a un amico: invitalo a fare qualcosa nel weekend, di' dove e quando vi vedete, che tempo farà e cosa portare.",
+     "min": 60,
+     "max": 80,
+     "checklist": [
+      "Ho iniziato con un saluto e chiuso con una formula informale",
+      "Ho usato going to per il piano o la previsione",
+      "Ho usato il present continuous per orario e luogo dell'appuntamento",
+      "Ho usato will almeno una volta (offerta o promessa)",
+      "Ho chiesto qualcosa all'amico (Are you free...? / Could you bring...?)"
+     ],
+     "useful": [
+      "Hi...,",
+      "Are you free on...?",
+      "We're going to...",
+      "We're meeting at...",
+      "The forecast says...",
+      "Could you bring...?",
+      "Let me know if you can come.",
+      "See you soon!"
+     ],
+     "model": "Hi Laura,\n\nAre you free on Saturday? Some friends and I are going to have a picnic in the park near the river. We're meeting at the main gate at twelve. The forecast says it's going to be sunny, so bring sunglasses! I'll bring sandwiches and some fruit. Could you bring something to drink? Let me know if you can come. It's going to be a lot of fun!\n\nSee you soon,\nMarco"
+    },
+    {
+     "t": "speakTask",
+     "q": "What are you doing next weekend?",
+     "it": "Racconta i tuoi piani per il prossimo weekend: cosa hai già organizzato e cosa hai intenzione di fare.",
+     "hints": [
+      "On Saturday I'm...",
+      "I'm going to...",
+      "I'm meeting... at...",
+      "If the weather is good, I'll..."
+     ],
+     "min": 40,
+     "model": "On Saturday morning I'm going to the market with my mother. In the afternoon I'm going to clean the flat, which is boring! In the evening I'm having dinner with some friends at a pizzeria. On Sunday I'm going to relax. If the weather is good, I'll go for a long walk in the park."
+    },
+    {
+     "t": "speakTask",
+     "q": "Describe the weather where you live and say what you do when it's bad.",
+     "it": "Descrivi il tempo nella tua zona nelle varie stagioni e di' cosa fai quando il tempo è brutto.",
+     "hints": [
+      "In winter it's...",
+      "In summer it's very...",
+      "When it rains, I usually...",
+      "Tomorrow the forecast says..."
+     ],
+     "min": 40,
+     "model": "In my city the winters are cold and often foggy, and the summers are hot and humid. When it rains, I usually stay in and watch a film. Tomorrow the forecast says it's going to be sunny, so I'm going to go out for a walk and maybe have a picnic by the river."
+    }
+   ]
+  },
+  {
+   "id": "a2-05-test",
+   "kind": "test",
+   "title": "Test dell'unità 5",
+   "intro": "Verifica senza aiuti: will, going to, present continuous per il futuro, lessico del tempo libero e inviti. Le correzioni le vedi alla fine.",
+   "minutes": 15,
+   "pass": 70,
+   "steps": [
+    {
+     "t": "gap",
+     "s": "Look! That car ___ crash into the wall.",
+     "opts": [
+      "is going to",
+      "will to",
+      "is going"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "A: There's no milk. B: I ___ get some from the shop.",
+     "opts": [
+      "'ll",
+      "am going",
+      "get to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We ___ dinner with my parents on Friday. They've booked a table.",
+     "opts": [
+      "are having",
+      "will having",
+      "have to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "I think Italy ___ win the match.",
+     "opts": [
+      "will",
+      "is going",
+      "won't to"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "It's very ___ today: I can't see more than ten metres.",
+     "opts": [
+      "foggy",
+      "humid",
+      "freezing"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "We're going to ___ a picnic in the park.",
+     "opts": [
+      "have",
+      "make",
+      "do"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "Do you ___ going to the beach tomorrow?",
+     "opts": [
+      "fancy",
+      "want to",
+      "wish"
+     ],
+     "a": 0
+    },
+    {
+     "t": "gap",
+     "s": "The film starts ___ ten minutes.",
+     "opts": [
+      "in",
+      "after",
+      "at"
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la frase corretta?",
+     "opts": [
+      "She's going to start a new job next month.",
+      "She going to start a new job next month.",
+      "She is going start a new job next month."
+     ],
+     "a": 0
+    },
+    {
+     "t": "mc",
+     "q": "Qual è la risposta più naturale a «Are you free on Saturday?» se non puoi?",
+     "opts": [
+      "Sorry, I'm afraid I'm busy. Maybe another time?",
+      "No, I don't want.",
+      "No, I can't, I'm not free me."
+     ],
+     "a": 0
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "I'm tired. I think I ___ (go) to bed early.",
+     "answers": [
+      "'ll go",
+      "will go"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Scrivi la forma giusta del verbo tra parentesi",
+     "s": "We ___ (not / go) away this summer. We're staying at home.",
+     "answers": [
+      "aren't going",
+      "are not going",
+      "'re not going"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Questa sera non esco.",
+     "answers": [
+      "I'm not going out tonight",
+      "I am not going out tonight",
+      "I'm not going out this evening",
+      "I am not going out this evening",
+      "I'm staying in tonight",
+      "I am staying in tonight",
+      "I'm staying in this evening",
+      "I am staying in this evening",
+      "I'm not going to go out tonight",
+      "I am not going to go out tonight",
+      "I'm not going to go out this evening",
+      "I won't go out tonight"
+     ]
+    },
+    {
+     "t": "type",
+     "q": "Traduci in inglese",
+     "text": "Giovedì incontro il mio capo.",
+     "answers": [
+      "I'm meeting my boss on Thursday",
+      "I am meeting my boss on Thursday",
+      "On Thursday I'm meeting my boss",
+      "On Thursday I am meeting my boss",
+      "I'm meeting my manager on Thursday",
+      "I am meeting my manager on Thursday",
+      "I'm going to meet my boss on Thursday",
+      "I am going to meet my boss on Thursday",
+      "On Thursday I'm going to meet my boss"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "I will to help you with your homework.",
+     "answers": [
+      "I will help you with your homework",
+      "I'll help you with your homework"
+     ]
+    },
+    {
+     "t": "fix",
+     "s": "He isn't going passing the exam.",
+     "answers": [
+      "He isn't going to pass the exam",
+      "He is not going to pass the exam",
+      "He's not going to pass the exam"
+     ]
+    },
+    {
+     "t": "transform",
+     "s1": "I plan to learn Spanish next year.",
+     "key": "GOING",
+     "s2": "I'm ___ Spanish next year.",
+     "answers": [
+      "going to learn",
+      "going to study",
+      "going to take up"
+     ]
+    },
+    {
+     "t": "wordform",
+     "s": "It's a very ___ day: take your sunglasses.",
+     "root": "SUN",
+     "answers": [
+      "sunny"
+     ]
+    },
+    {
+     "t": "order",
+     "it": "Che cosa farai questo weekend?",
+     "en": "What are you doing this weekend",
+     "extra": [
+      "go",
+      "does"
+     ]
+    },
+    {
+     "t": "cloze",
+     "title": "Completa il messaggio",
+     "mode": "mc",
+     "text": "Hi Sam,\n\nAre you {1} on Saturday? Some friends and I {2} to have a barbecue at my house. We're {3} at about six. The forecast says it {4} be warm, but I'll {5} some umbrellas just in case.\n\nLet me know!\nPaula",
+     "gaps": [
+      {
+       "opts": [
+        "free",
+        "empty",
+        "libre",
+        "open"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "are going",
+        "will",
+        "going",
+        "do"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "starting",
+        "start",
+        "to start",
+        "starts"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "is going to",
+        "going to",
+        "will to",
+        "is going"
+       ],
+       "a": 0
+      },
+      {
+       "opts": [
+        "buy",
+        "to buy",
+        "buying",
+        "bought"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "listen",
+     "title": "A phone message",
+     "it": "Ascolta il messaggio in segreteria.",
+     "lines": [
+      [
+       "Anna",
+       "Hi Dan, it's Anna. Are you free tomorrow afternoon? Some of us are going to the lake and we're having a picnic. We're meeting outside the library at two o'clock. The forecast says it's going to be sunny, so don't forget your sunglasses. Call me back if you can come."
+      ]
+     ],
+     "qs": [
+      {
+       "q": "What are they going to do?",
+       "opts": [
+        "Have a picnic",
+        "Go shopping",
+        "Visit a museum"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Where are they meeting?",
+       "opts": [
+        "At the lake",
+        "Outside the library",
+        "At Anna's house"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What will the weather be like?",
+       "opts": [
+        "Sunny",
+        "Cloudy",
+        "Rainy"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "t": "dialog",
+     "title": "Al telefono",
+     "lines": [
+      [
+       "Chloe",
+       "Hello, it's Chloe. Do you fancy going out tonight?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "I'd love to, but I can't. I'm working late.",
+         "I would, but I not can. I work late.",
+         "No, I am not agree."
+        ],
+        "a": 0
+       }
+      ],
+      [
+       "Chloe",
+       "What about tomorrow evening?"
+      ],
+      [
+       "Tu",
+       {
+        "opts": [
+         "Tomorrow is fine. Shall we say eight o'clock?",
+         "Tomorrow is fine. Eight hour?",
+         "Tomorrow it's good. We say eight?"
+        ],
+        "a": 0
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
