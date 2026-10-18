@@ -136,7 +136,7 @@
     modal: function (opts) {
       var m = document.getElementById("modal");
       m.innerHTML = "";
-      var sheet = h("div", { class: "sheet" + (opts.center ? " center" : "") });
+      var sheet = h("div", { class: "sheet" + (opts.center ? " center" : "") + (opts.tall ? " tall" : "") });
       if (opts.icon) sheet.appendChild(h("div", { class: "sheet-icon" }, B.icon(opts.icon, 40)));
       sheet.appendChild(h("h3", null, opts.title));
       if (opts.body) sheet.appendChild(typeof opts.body === "string" ? h("p", { class: "sheet-text" }, opts.body) : opts.body);

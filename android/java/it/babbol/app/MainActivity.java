@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.UtteranceProgressListener;
+import android.speech.tts.Voice;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
@@ -25,7 +26,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Locale;
+import java.util.Set;
 
 /**
  * Guscio nativo di Babbol.
@@ -52,6 +56,7 @@ public class MainActivity extends Activity {
     private boolean ttsWarned = false;
     private long lastBackAt = 0;
     private int utterance = 0;
+    private boolean voiceOverridden = false;
     private boolean pageReady = false;
     private String pendingAuthUrl = null;
 
@@ -203,8 +208,90 @@ public class MainActivity extends Activity {
             }
             return false;
         }
-        tts.setSpeechRate(Math.max(0.3f, Math.min(1.5f, rate)));
+        tts.setSpeechRate(Math.max(0.2f, Math.min(2.0f, rate)));
         return true;
+    }
+
+    /**
+     * Genere di una voce di sistema: 'm', 'f' oppure '?'. Si riconosce dal nome ("female"/"male" in molti motori)
+     * o dal codice delle voci Google ("en-gb-x-gbb-local": gbb = maschile, gba = femminile...).
+     */
+    private char genderOfVoice(String name) {
+        String n = name.toLowerCase(Locale.ROOT);
+        if (n.contains("female")) {
+            return 'f';
+        }
+        if (n.contains("male")) {
+            return 'm';
+        }
+        int x = n.indexOf("-x-");
+        if (x >= 0 && n.length() >= x + 6) {
+            String code = n.substring(x + 3, x + 6);
+            String[] males = {"gbb", "gbd", "rjs", "iol", "iom", "tpd", "aub", "aud", "ind"};
+            String[] females = {"gba", "gbc", "gbf", "fis", "sfg", "iob", "iog", "tpc", "tpf", "aua", "auc", "inc"};
+            for (String m : males) {
+                if (m.equals(code)) {
+                    return 'm';
+                }
+            }
+            for (String f : females) {
+                if (f.equals(code)) {
+                    return 'f';
+                }
+            }
+        }
+        return '?';
+    }
+
+    /** Sceglie tra le voci installate una voce inglese del genere richiesto (variant = quale, se ce ne sono piu' di una). */
+    private boolean selectGenderVoice(String langTag, String gender, int variant) {
+        if (gender == null || gender.isEmpty()) {
+            return false;
+        }
+        try {
+            Set<Voice> all = tts.getVoices();
+            if (all == null) {
+                return false;
+            }
+            Locale want = Locale.forLanguageTag(langTag);
+            ArrayList<Voice> offline = new ArrayList<Voice>();
+            ArrayList<Voice> online = new ArrayList<Voice>();
+            for (Voice v : all) {
+                Locale l = v.getLocale();
+                if (l == null || !"en".equals(l.getLanguage())) {
+                    continue;
+                }
+                if (!want.getCountry().isEmpty() && !want.getCountry().equalsIgnoreCase(l.getCountry())) {
+                    continue;
+                }
+                if (v.getFeatures() != null && v.getFeatures().contains("notInstalled")) {
+                    continue;
+                }
+                if (genderOfVoice(v.getName()) != gender.charAt(0)) {
+                    continue;
+                }
+                if (v.isNetworkConnectionRequired()) {
+                    online.add(v);
+                } else {
+                    offline.add(v);
+                }
+            }
+            ArrayList<Voice> pool = offline.isEmpty() ? online : offline;
+            if (pool.isEmpty()) {
+                return false;
+            }
+            Collections.sort(pool, new Comparator<Voice>() {
+                @Override
+                public int compare(Voice a, Voice b) {
+                    return a.getName().compareTo(b.getName());
+                }
+            });
+            tts.setVoice(pool.get(Math.abs(variant) % pool.size()));
+            voiceOverridden = true;
+            return true;
+        } catch (RuntimeException e) {
+            return false;
+        }
     }
 
     /** Ponte JS -> Android. I metodi sono chiamati su un thread dedicato, non su quello UI. */
@@ -228,13 +315,34 @@ public class MainActivity extends Activity {
          * id non vuoto = avvisa la pagina quando questa frase finisce; queued = in coda invece di interrompere.
          */
         @JavascriptInterface
-        public void speakVoice(String text, String lang, float rate, float pitch, String id, boolean queued) {
+        public void speakVoice(String text, String lang, float rate, float pitch, String id, boolean queued, String gender, int variant) {
             if (prepareVoice(lang, rate)) {
-                tts.setPitch(Math.max(0.5f, Math.min(2.0f, pitch)));
+                // con una voce del genere giusto il tono cambia poco (serve solo a distinguere due speaker dello stesso genere)
+                boolean gendered = selectGenderVoice(lang, gender, variant);
+                if (!gendered && voiceOverridden) {
+                    // dopo una voce scelta per genere si torna a quella predefinita dell'accento richiesto
+                    voiceOverridden = false;
+                    try {
+                        tts.setVoice(tts.getDefaultVoice());
+                    } catch (RuntimeException e) {
+                        // si resta con la voce corrente
+                    }
+                    prepareVoice(lang, rate);
+                }
+                float p = gendered ? 1.0f + (pitch - 1.0f) * 0.25f : pitch;
+                tts.setPitch(Math.max(0.5f, Math.min(2.0f, p)));
                 String uid = (id == null || id.isEmpty()) ? "babbol" + (++utterance) : id;
                 tts.speak(text, queued ? TextToSpeech.QUEUE_ADD : TextToSpeech.QUEUE_FLUSH, null, uid);
             } else if (id != null && !id.isEmpty()) {
                 notifyDone(id);
+            }
+        }
+
+        /** Pausa (in coda) tra una frase e l'altra: serve al parlato lento. */
+        @JavascriptInterface
+        public void silence(int ms) {
+            if (ttsReady) {
+                tts.playSilentUtterance(Math.max(50, Math.min(3000, ms)), TextToSpeech.QUEUE_ADD, "babbol-pause" + (++utterance));
             }
         }
 

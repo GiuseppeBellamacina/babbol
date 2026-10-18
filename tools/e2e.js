@@ -115,7 +115,7 @@ async function solveStep(page, mode) {
     return { phase: s.phase, step: s.step, quiet: !!s.cfg.quiet };
   });
   if (!st) return "closed";
-  const main = page.locator(".s-foot .btn");
+  const main = page.locator(".s-foot .btn:not(.back)");
   if (st.phase === "done") { await main.click(); return "closed"; }
   if (st.phase === "feedback") { await main.click(); return "next"; }
   const s = st.step;
@@ -344,12 +344,69 @@ async function play(page, cfgExpr, mode, seen, arg) {
   // un esercizio sbagliato in lezione torna in coda e mostra la spiegazione
   await page.evaluate(() => B.session.start({ mode: "practice", title: "t", steps: [{ t: "gap", s: "She ___ here.", opts: ["works", "work"], a: 0, why: "Terza persona: -s." }], xpPer: 1, retry: true }));
   await page.locator(".opt", { hasText: /^work$/ }).click();
-  await page.locator(".s-foot .btn").click();
+  await page.locator(".s-foot .btn:not(.back)").click();
   ok(/Terza persona/.test(await page.locator(".fb").innerText()), "correzione con spiegazione in italiano");
   await shot("06-feedback-wrong");
-  await page.locator(".s-foot .btn").click();
+  await page.locator(".s-foot .btn:not(.back)").click();
   ok(await page.evaluate(() => B.session._state().step._retry === true), "l'esercizio sbagliato torna in coda una volta");
   await page.evaluate(() => B.session._state().close());
+
+  // ---------------------------------------------------------------- indietro, suggerimento, velocità
+  console.log("Indietro, suggerimento, velocità");
+  ok(await page.evaluate(() => B.store.settings().roast === false), "gli insulti sono spenti di default");
+  const FOOT = ".s-foot .btn:not(.back)";
+  // INDIETRO: torna al passo precedente e annulla il punteggio di quello a cui si era risposto
+  await page.evaluate(() => B.session.start({ mode: "practice", title: "t", xpPer: 1, retry: true, steps: [
+    { t: "note", title: "Teoria", body: "Testo della nota." },
+    { t: "gap", s: "I ___ tea.", opts: ["like", "likes"], a: 0, why: "Con I niente -s." },
+    { t: "gap", s: "She ___ coffee.", opts: ["likes", "like"], a: 0 },
+    { t: "gap", s: "We ___ milk.", opts: ["want", "wants"], a: 0 }] }));
+  ok(await page.locator(".s-actions .btn.back").isHidden(), "INDIETRO non c'è al primo passo");
+  await page.locator(FOOT).click();                                              // continua dalla nota
+  ok(await page.locator(".s-actions .btn.back").isVisible(), "dal secondo passo compare INDIETRO");
+  await shot("15-back-button");
+  await page.locator(".opt", { hasText: /^like$/ }).click(); await page.locator(FOOT).click();      // giusta
+  await page.locator(FOOT).click();                                              // continua
+  await page.locator(".opt", { hasText: /^like$/ }).click(); await page.locator(FOOT).click();      // sbagliata (she like)
+  ok(await page.evaluate(() => { const S = B.session._state(); return S.right === 1 && S.items === 2 && S.wrongSteps === 1; }), "prima di tornare indietro: 1 giusta su 2");
+  await page.locator(".s-actions .btn.back").click();                            // dalla correzione: annulla la risposta e torna al passo prima
+  ok(await page.evaluate(() => { const S = B.session._state(); return S.step.s === "I ___ tea." && S.phase === "question" && S.right === 0 && S.items === 0 && S.wrongSteps === 0 && S.queue.every((q) => !q._retry); }),
+    "INDIETRO dalla correzione: torna al passo precedente, punteggio e ripetizione in coda annullati");
+  await page.locator(".opt", { hasText: /^likes$/ }).click(); await page.locator(FOOT).click();      // ora sbagliata
+  await page.locator(".s-actions .btn.back").click();                            // torna alla nota
+  ok(await page.locator(".note-step").count() === 1, "si può tornare a rileggere la teoria");
+  await page.evaluate(() => B.session._state().close());
+
+  // il suggerimento: nelle lezioni c'è, nei test e negli esami no
+  await page.evaluate((u) => B.session.start(B.engine.lessonSession(u + "-reading")), firstUnit);
+  ok(await page.locator(".hint-btn").count() === 1, "nelle lezioni c'è il tasto suggerimento");
+  await page.locator(".hint-btn").click();
+  await page.waitForSelector(".hint");
+  ok(await page.locator(".hint .note-card").count() > 0 && /Present simple/i.test(await page.locator(".hint").innerText()), "scheda Grammatica: la teoria dell'unità con tabelle ed esempi");
+  await page.waitForTimeout(400); await shot("12-hint-grammar");
+  await page.locator(".hint .seg-b", { hasText: "Parole" }).click();
+  ok(await page.locator(".hint-word").count() >= 12 && /colleague/.test(await page.locator(".hint").innerText()), "scheda Parole: lessico con traduzione ed esempio d'uso");
+  await page.waitForTimeout(200); await shot("13-hint-words");
+  await page.locator(".hint .seg-b", { hasText: "Frasi utili" }).click();
+  ok(await page.locator(".hint .note-card").count() > 0, "scheda Frasi utili: frasi della situazione reale");
+  await page.evaluate(() => B.ui.closeModal(true));
+  ok(await page.evaluate(() => B.session.isOpen()), "chiudendo il suggerimento si torna all'esercizio");
+  await page.evaluate(() => B.session._state().close());
+  await page.evaluate((u) => B.session.start(B.engine.lessonSession(u + "-test")), firstUnit);
+  ok(await page.locator(".hint-btn").count() === 0, "nei test il suggerimento non c'è");
+  await page.evaluate(() => B.session._state().close());
+
+  // velocità: foglio con due slider; la tartaruga e la voce normale sono indipendenti
+  await page.evaluate(() => B.session.start({ mode: "practice", title: "t", xpPer: 1, steps: [{ t: "speak", en: "Nice to meet you." }] }));
+  await page.locator(".audio-row .speaker.tiny").click();
+  await page.waitForSelector(".speed");
+  ok(await page.locator(".speed input[type=range]").count() === 2, "due regolatori: voce normale e tartaruga");
+  await page.waitForTimeout(400); await shot("14-speed");
+  await page.locator(".speed input[type=range]").nth(1).evaluate((el) => { el.value = "0.3"; el.dispatchEvent(new Event("change")); });
+  ok(await page.evaluate(() => Math.abs(B.store.settings().slowRate - 0.3) < 0.001 && Math.abs(B.store.settings().rate - 0.95) < 0.001), "la velocità lenta si regola da sola (0.3) senza toccare la normale");
+  await page.evaluate(() => B.ui.closeModal(true));
+  await page.evaluate(() => B.session._state().close());
+  await page.evaluate(() => B.store.setSetting("slowRate", 0.55));
 
   // ---------------------------------------------------------------- ripasso e abilità
   console.log("Ripasso");
@@ -475,7 +532,8 @@ async function play(page, cfgExpr, mode, seen, arg) {
     window.AndroidBridge = {
       speak: (t, l, r) => window.__bridge.push(["speak", t, l]),
       speakQueued: (t, l, r) => window.__bridge.push(["speakQueued", t, l]),
-      speakVoice: (t, l, r, p, id, q) => { window.__bridge.push(["speakVoice", t, l, p, id, q]); if (id) setTimeout(() => window.__onTtsDone(id), 5); },
+      speakVoice: (t, l, r, p, id, q, g, v) => { window.__bridge.push(["speakVoice", t, l, p, id, q, g, v, r]); if (id) setTimeout(() => window.__onTtsDone(id), 5); },
+      silence: (ms) => window.__bridge.push(["silence", ms]),
       stopSpeaking: () => window.__bridge.push(["stop"]),
       listen: (l) => { window.__bridge.push(["listen", l]); setTimeout(() => window.__onSpeech(JSON.stringify({ ok: true, results: [window.__say || ""] })), 10); },
       setStatusBar: (d) => window.__bridge.push(["bar", d])
@@ -489,10 +547,24 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await p3.locator(".auth-form input").nth(1).fill("Password123");
   await p3.locator(".auth-form .btn").click();
   await p3.waitForSelector(".tabbar");
-  await p3.evaluate(() => B.speech.playLines([["A", "Hello there."], ["B", "Hi, how are you?"], ["A", "Fine, thanks."]]));
+  await p3.evaluate(() => B.speech.playLines([["Tom", "Hello there."], ["Sarah", "Hi, how are you?"], ["Tom", "Fine, thanks."]]));
   const calls = await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice"));
-  ok(calls.length === 3 && calls[0][2] !== calls[1][2] && calls[0][2] === calls[2][2], "dialoghi: voci diverse per speaker (accento alternato)");
+  ok(calls.length === 3 && calls[0][6] === "m" && calls[1][6] === "f" && calls[2][6] === "m", "dialoghi: voce maschile per Tom, femminile per Sarah");
+  ok(calls[0][7] === calls[2][7] && calls[0][3] < 1 && calls[1][3] > 1, "stesso speaker = stessa voce; tono più grave per lui e più acuto per lei (se manca una voce del genere giusto)");
   ok(calls[2][4] && calls[2][5] === true, "l'ultima frase porta l'id per sapere quando l'audio finisce");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.speech.playLines([["Receptionist", "Good morning."], ["Mr Doyle", "Hello."], ["Woman", "Hi."], ["Man", "Hey."]]); });
+  const g2 = await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice").map((c) => c[6]).join(""));
+  ok(g2 === "fmfm", "ruolo sconosciuto (Receptionist) -> il genere che manca; Mr Doyle maschile, Woman femminile, Man maschile (" + g2 + ")");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.speech.playLines([["Anna", "Where is it?", "m"], ["Luca", "It is here.", "f"]]); });
+  const g3 = await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice").map((c) => c[6]).join(""));
+  ok(g3 === "mf", "il genere indicato nei contenuti ha la precedenza sul nome (" + g3 + ")");
+  // parlato lento: frasi a gruppi di parole, pause tra i gruppi e velocità "tartaruga" (regolabile)
+  await p3.evaluate(() => { window.__bridge.length = 0; B.store.setSetting("slowRate", 0.4); B.speech.slow("I would like to book a table for four people please"); });
+  const sl = await p3.evaluate(() => window.__bridge.slice());
+  ok(sl.filter((c) => c[0] === "speakVoice").length >= 3 && sl.filter((c) => c[0] === "silence").length >= 2, "tartaruga: frase spezzata in gruppi con pause (" + sl.filter((c) => c[0] === "speakVoice").length + " gruppi)");
+  ok(sl.filter((c) => c[0] === "speakVoice").every((c) => Math.abs(c[8] - 0.4) < 0.001), "tartaruga: usa la velocità regolata dall'utente (0.4)");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.speech.speak("Hello"); });
+  ok(await p3.evaluate(() => Math.abs(window.__bridge.filter((c) => c[0] === "speakVoice")[0][8] - B.store.settings().rate) < 0.001), "la voce normale usa la velocità normale, indipendente da quella lenta");
   await p3.evaluate(() => B.session.start({ mode: "practice", title: "t", steps: [{ t: "speak", en: "Nice to meet you." }], xpPer: 1 }));
   await p3.evaluate(() => { window.__say = "nice to meet you"; });
   await p3.locator(".mic").click();

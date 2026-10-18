@@ -150,6 +150,7 @@ function validate(all) {
         break;
       case "listen":
         if (!(Array.isArray(s.lines) && s.lines.length && s.lines.every((l) => arrStr(l, 2)))) err(where, "listen: lines [[speaker,text]]");
+        else s.lines.forEach((l) => { if (l.length > 3 || (l[2] != null && l[2] !== "m" && l[2] !== "f")) err(where, "listen: il terzo elemento di una riga è il genere, solo \"m\" o \"f\""); });
         qsOk(s.qs, where);
         break;
       case "cloze": {

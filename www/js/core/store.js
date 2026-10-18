@@ -29,7 +29,7 @@
       days: {},                   // "AAAA-MM-GG" -> { xp, s }
       badges: {},                 // id -> timestamp
       stats: { answered: 0, correct: 0, sessions: 0, seconds: 0, spoken: 0, written: 0 },
-      settings: { accent: "en-GB", rate: 0.95, sound: true, theme: "auto", roast: false, unlockAll: false }
+      settings: { accent: "en-GB", rate: 0.95, slowRate: 0.55, sound: true, theme: "auto", roast: false, unlockAll: false }
     };
   }
 

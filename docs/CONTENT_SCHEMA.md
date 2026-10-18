@@ -133,7 +133,8 @@ In `type` si usa `text` (frase da tradurre/trasformare) **oppure** `s` (frase co
 ```
 Nelle `qs` di `read` e `listen` una domanda può anche essere a risposta scritta: `{ "q": "The museum opens at ___ .", "answers": ["9.30", "half past nine"] }`
 (utile per sentence completion e note-taking).
-Un monologo è un `listen` con un solo speaker. Le voci sono assegnate per speaker (accento e tono diversi).
+Un monologo è un `listen` con un solo speaker.
+**Voci:** ogni speaker ha una voce diversa, maschile o femminile. Il genere si ricava dal nome (Tom, Sarah, Mr Doyle, Woman, Man...); per nomi ambigui o ruoli (Receptionist, Doctor, Chris, Sam...) si può indicare nella riga come terzo elemento: `["Sam", "Hello.", "f"]` (`"m"` o `"f"`). Senza indicazione, i ruoli sconosciuti prendono il genere che manca nel dialogo, così si alternano. Vale anche per le righe dei `dialog`. Le voci sono assegnate per speaker (accento e tono diversi).
 Il copione si vede solo dopo aver risposto.
 
 ### Parlato

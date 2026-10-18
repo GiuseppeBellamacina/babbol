@@ -4,13 +4,16 @@
  * Su Android usa il ponte nativo `AndroidBridge` (TextToSpeech + RecognizerIntent), gratuito e offline se la voce è installata.
  * Nel browser (test/sviluppo) ripiega su speechSynthesis / webkitSpeechRecognition.
  * Ogni funzione degrada con grazia: se la voce non c'è, l'app resta usabile.
+ *
+ * Voci dei dialoghi: ogni speaker ha un genere (dal nome, o da un terzo elemento "m"/"f" nella riga dei contenuti);
+ * il guscio Android sceglie una voce maschile o femminile tra quelle installate, e se non ne trova usa il tono.
  */
 (function (B) {
   "use strict";
 
   var native = window.AndroidBridge || null;
   var pendingListen = null;
-  var doneCbs = {}, seq = 0;
+  var doneCbs = {}, seq = 0, webToken = 0;
 
   // Il ponte nativo chiama questa funzione con l'esito del riconoscimento:
   // json = {"ok":true,"results":["..."]} oppure {"ok":false,"error":"cancelled|unavailable|..."}
@@ -24,84 +27,186 @@
   // fine di una sequenza di frasi (dialoghi): chiamata dal ponte nativo con l'id dell'ultima frase
   window.__onTtsDone = function (id) { var f = doneCbs[id]; delete doneCbs[id]; if (f) f(); };
 
-  function pickWebVoice(lang) {
-    if (!window.speechSynthesis) return null;
-    var voices = speechSynthesis.getVoices();
-    return voices.filter(function (v) { return v.lang === lang; })[0] ||
-           voices.filter(function (v) { return v.lang.replace("_", "-") === lang; })[0] ||
-           voices.filter(function (v) { return v.lang.indexOf("en") === 0; })[0] || null;
+  // ---------------------------------------------------------------- genere degli speaker
+  var MALE = "marco ben tom jack jake dan daniel luke mark owen paul paolo rob luca raj omar karim jonas james john david peter mike michael george harry oliver liam noah sean simon andrew ian nick tim joe max leo ethan adam alex ryan jacob will william robert richard steve stephen thomas matt matthew jim bob bill frank henry mr sir man boy dad father brother he".split(" ");
+  var FEMALE = "helen emma kate anna priya laura ruth aisha sarah maria nina sofia mia elena claire lena marta chloe ana hannah ella tina clara karen rita anita lucy mei zoe sophie lily emily alice amy jane mary kim julia sara giulia eva eve ivy grace ruby ella isla amelia mrs ms miss madam woman girl mum mom mother sister she".split(" ");
+  var genderCache = {};
+  // "m", "f" oppure "" se non si capisce dal nome (Receptionist, Doctor, Tu...)
+  function genderOf(name) {
+    var k = String(name).toLowerCase();
+    if (k in genderCache) return genderCache[k];
+    var words = k.replace(/[^a-z ]/g, " ").split(/\s+/).filter(Boolean), g = "";
+    for (var i = 0; i < words.length && !g; i++) {
+      if (MALE.indexOf(words[i]) >= 0) g = "m"; else if (FEMALE.indexOf(words[i]) >= 0) g = "f";
+    }
+    return (genderCache[k] = g);
   }
-  function webUtter(text, lang, rate, pitch) {
+
+  function other(accent) { return accent === "en-US" ? "en-GB" : "en-US"; }
+
+  /**
+   * Assegna una voce a ogni speaker di lines ([[speaker, testo, genere?], ...]).
+   * Genere noto -> quello; sconosciuto -> il genere meno usato finora (alternando). Ritorna { speaker: {lang, pitch, gender, variant} }.
+   */
+  function assignVoices(lines) {
+    var acc = B.store.settings().accent || "en-GB";
+    var order = [], explicit = {};
+    lines.forEach(function (l) {
+      if (order.indexOf(l[0]) < 0) order.push(l[0]);
+      if (l[2] === "m" || l[2] === "f") explicit[l[0]] = l[2];
+    });
+    var used = { m: 0, f: 0 }, last = "", genders = {};
+    order.forEach(function (s) {
+      var g = explicit[s] || genderOf(s);
+      if (g) { genders[s] = g; used[g]++; last = g; }
+    });
+    order.forEach(function (s) {
+      if (genders[s]) return;
+      var g = used.m === used.f ? (last === "m" ? "f" : "m") : (used.m < used.f ? "m" : "f");
+      genders[s] = g; used[g]++; last = g;
+    });
+    var idx = { m: 0, f: 0 }, out = {};
+    var P = { m: [0.85, 0.72, 0.65], f: [1.08, 1.22, 1.32] };
+    order.forEach(function (s) {
+      var g = genders[s], k = idx[g]++;
+      out[s] = { gender: g, variant: k, lang: k % 2 ? other(acc) : acc, pitch: P[g][k % 3] };
+    });
+    return out;
+  }
+
+  // ---------------------------------------------------------------- browser (fallback)
+  function pickWebVoice(lang, gender) {
+    if (!window.speechSynthesis) return null;
+    var voices = speechSynthesis.getVoices().filter(function (v) { return v.lang.replace("_", "-").indexOf("en") === 0; });
+    var exact = voices.filter(function (v) { return v.lang.replace("_", "-") === lang; });
+    var pool = exact.length ? exact : voices;
+    if (gender) {
+      var re = gender === "f" ? /female|woman|zira|hazel|susan|samantha|serena|kate|fiona|karen|libby|sonia|aria|jenny/i : /(^|[^e])male|\bman\b|david|mark|daniel|george|alex|ryan|guy|thomas|oliver/i;
+      var hit = pool.filter(function (v) { return re.test(v.name); })[0];
+      if (hit) return hit;
+    }
+    return pool[0] || null;
+  }
+  function webUtter(text, lang, rate, pitch, gender) {
     var u = new SpeechSynthesisUtterance(String(text));
     u.lang = lang; u.rate = rate; u.pitch = pitch || 1;
-    var v = pickWebVoice(lang);
+    var v = pickWebVoice(lang, gender);
     if (v) u.voice = v;
     return u;
   }
-  function other(accent) { return accent === "en-US" ? "en-GB" : "en-US"; }
+  // frasi in catena (con pause): serve a dividere e rallentare davvero
+  function webSequence(items, onDone) {
+    var token = ++webToken, i = 0;
+    function next() {
+      if (token !== webToken) return;
+      if (i >= items.length) { if (onDone) onDone(); return; }
+      var it = items[i++];
+      if (it.pause) { setTimeout(next, it.pause); return; }
+      var u = webUtter(it.text, it.lang, it.rate, it.pitch, it.gender);
+      u.onend = next; u.onerror = next;
+      speechSynthesis.speak(u);
+    }
+    speechSynthesis.cancel();
+    next();
+  }
+
+  // ---------------------------------------------------------------- testo -> pezzi per il parlato lento
+  // gruppi di 2-3 parole, interrotti da una pausa: anche i motori che ignorano la velocità risultano più lenti
+  function chunks(text, perChunk) {
+    var words = String(text).trim().split(/\s+/), out = [];
+    for (var i = 0; i < words.length; i += perChunk) out.push(words.slice(i, i + perChunk).join(" "));
+    return out;
+  }
+  function slowItems(text, voice, rate, pauseMs) {
+    var items = [];
+    chunks(text, 3).forEach(function (c, i) {
+      if (i) items.push({ pause: pauseMs });
+      items.push({ text: c, lang: voice.lang, rate: rate, pitch: voice.pitch, gender: voice.gender, variant: voice.variant });
+    });
+    return items;
+  }
+
+  // ---------------------------------------------------------------- invio (nativo o browser)
+  function play(items, onDone) {
+    Speech.stop();
+    var id = "seq" + (++seq);
+    if (onDone) doneCbs[id] = onDone;
+    if (native) {
+      try {
+        var lastText = -1;
+        items.forEach(function (it, i) { if (!it.pause) lastText = i; });
+        items.forEach(function (it, i) {
+          if (it.pause) { if (native.silence) native.silence(it.pause); return; }
+          native.speakVoice(String(it.text), it.lang, it.rate, it.pitch, i === lastText ? id : "", i > 0, it.gender || "", it.variant || 0);
+        });
+      } catch (e) { console.error(e); if (onDone) setTimeout(function () { window.__onTtsDone(id); }, 50); }
+      return;
+    }
+    if (!window.speechSynthesis) { if (onDone) setTimeout(function () { window.__onTtsDone(id); }, 50); return; }
+    webSequence(items, function () { window.__onTtsDone(id); });
+  }
 
   var Speech = B.speech = {
     isNative: !!native,
     canSpeak: function () { return !!native || !!window.speechSynthesis; },
+    genderOf: genderOf,
+    assignVoices: assignVoices,
+
+    // velocità normale (0.6-1.4) e "tartaruga" (0.25-0.9), regolabili dall'utente
+    rate: function () { return B.store.settings().rate || 0.95; },
+    slowRate: function () { return B.store.settings().slowRate || 0.55; },
 
     speak: function (text, opts) {
       opts = opts || {};
       var st = B.store.settings();
-      var rate = opts.rate || st.rate || 0.95, lang = opts.lang || st.accent || "en-GB", pitch = opts.pitch || 1;
-      if (native) {
-        try {
-          if (native.speakVoice) native.speakVoice(String(text), lang, rate, pitch, "", false);
-          else native.speak(String(text), lang, rate);
-        } catch (e) { console.error(e); }
-        return;
-      }
-      if (!window.speechSynthesis) return;
-      speechSynthesis.cancel();
-      speechSynthesis.speak(webUtter(text, lang, rate, pitch));
+      var voice = { lang: opts.lang || st.accent || "en-GB", pitch: opts.pitch || 1, gender: "", variant: 0 };
+      play([{ text: text, lang: voice.lang, rate: opts.rate || Speech.rate(), pitch: voice.pitch }]);
     },
-    slow: function (text) { Speech.speak(text, { rate: 0.6 }); },
+    // lenta davvero: velocità "tartaruga" + frasi spezzate a gruppi di parole con pause
+    slow: function (text, onDone) {
+      var st = B.store.settings();
+      var voice = { lang: st.accent || "en-GB", pitch: 1, gender: "", variant: 0 };
+      var words = String(text).trim().split(/\s+/).length;
+      play(words > 3 ? slowItems(text, voice, Speech.slowRate(), 350) : [{ text: text, lang: voice.lang, rate: Speech.slowRate(), pitch: 1 }], onDone);
+    },
 
-    /** Voce per lo speaker n-esimo di un dialogo: accento e tono alternati, così si distinguono. */
-    voiceFor: function (n) {
+    // una frase con la voce già assegnata a uno speaker (vedi assignVoices)
+    speakAs: function (text, voice) {
+      play([{ text: text, lang: voice.lang, rate: Speech.rate(), pitch: voice.pitch, gender: voice.gender, variant: voice.variant }]);
+    },
+
+    /** Voce per lo speaker n-esimo (compatibilità): usa il genere se noto. */
+    voiceFor: function (n, name) {
       var acc = B.store.settings().accent || "en-GB";
-      var V = [{ lang: acc, pitch: 1.0 }, { lang: other(acc), pitch: 0.82 }, { lang: acc, pitch: 1.22 }, { lang: other(acc), pitch: 0.7 }];
-      return V[n % V.length];
+      var g = name ? genderOf(name) : "";
+      var m = [{ lang: acc, pitch: 0.85, gender: "m" }, { lang: other(acc), pitch: 0.72, gender: "m" }];
+      var f = [{ lang: acc, pitch: 1.1, gender: "f" }, { lang: other(acc), pitch: 1.25, gender: "f" }];
+      var pool = g === "m" ? m : g === "f" ? f : (n % 2 ? m : f);
+      return pool[Math.floor(n / 2) % pool.length];
     },
 
     /**
-     * Legge un dialogo/monologo: lines = [[speaker, testo], ...]. onDone() alla fine (se il motore lo segnala).
-     * opts.rate per rallentare.
+     * Legge un dialogo/monologo: lines = [[speaker, testo, genere?], ...]. onDone() alla fine.
+     * opts.slow = parlato lento (velocità tartaruga + frasi spezzate con pause).
      */
     playLines: function (lines, onDone, opts) {
       opts = opts || {};
-      var st = B.store.settings(), rate = opts.rate || st.rate || 0.95;
-      var speakers = [];
-      lines.forEach(function (l) { if (speakers.indexOf(l[0]) < 0) speakers.push(l[0]); });
-      Speech.stop();
-      var id = "seq" + (++seq);
-      if (onDone) doneCbs[id] = onDone;
-      if (native) {
-        try {
-          lines.forEach(function (l, i) {
-            var v = Speech.voiceFor(speakers.indexOf(l[0]));
-            var last = i === lines.length - 1;
-            if (native.speakVoice) native.speakVoice(String(l[1]), v.lang, rate, v.pitch, last ? id : "", true);
-            else native.speakQueued(String(l[1]), v.lang, rate);
-          });
-          if (!native.speakVoice && onDone) setTimeout(function () { window.__onTtsDone(id); }, 400 * lines.join(" ").length / 6);
-        } catch (e) { console.error(e); }
-        return;
-      }
-      if (!window.speechSynthesis) { if (onDone) setTimeout(function () { window.__onTtsDone(id); }, 50); return; }
+      var voices = assignVoices(lines), items = [];
+      var rate = opts.slow ? Speech.slowRate() : (opts.rate || Speech.rate());
       lines.forEach(function (l, i) {
-        var v = Speech.voiceFor(speakers.indexOf(l[0]));
-        var u = webUtter(l[1], v.lang, rate, v.pitch);
-        if (i === lines.length - 1) { u.onend = function () { window.__onTtsDone(id); }; u.onerror = u.onend; }
-        speechSynthesis.speak(u);
+        var v = voices[l[0]];
+        if (opts.slow) {
+          if (i) items.push({ pause: 600 });
+          slowItems(l[1], v, rate, 300).forEach(function (it) { items.push(it); });
+        } else {
+          items.push({ text: l[1], lang: v.lang, rate: rate, pitch: v.pitch, gender: v.gender, variant: v.variant });
+        }
       });
+      play(items, onDone);
     },
+
     stop: function () {
-      doneCbs = {};
+      doneCbs = {}; webToken++;
       try { if (native) native.stopSpeaking(); else if (window.speechSynthesis) speechSynthesis.cancel(); } catch (e) { /* ignorato */ }
     },
 

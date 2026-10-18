@@ -37,16 +37,7 @@
   }
   function grammarDetail(s) {
     var root = h("div", { class: "detail" });
-    s.notes.forEach(function (n) {
-      var card = h("div", { class: "card note-card" }, h("h3", null, n.title), B.rich(n.body));
-      if (n.table) {
-        var t = h("table", { class: "gtable" });
-        n.table.forEach(function (row, i) { t.appendChild(h("tr", null, row.map(function (c) { return h(i === 0 ? "th" : "td", null, c); }))); });
-        card.appendChild(h("div", { class: "table-wrap" }, t));
-      }
-      if (n.ex) card.appendChild(h("div", { class: "examples" }, n.ex.map(function (p) { return UI.speakable(p[0], p[1], "ex"); })));
-      root.appendChild(card);
-    });
+    s.notes.forEach(function (n) { root.appendChild(B.noteCard(n)); });
     root.appendChild(h("button", { class: "btn primary big", onclick: function () { B.session.start(B.engine.lessonSession(s.lesson.id)); } }, "FAI LA LEZIONE"));
     return root;
   }

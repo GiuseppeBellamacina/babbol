@@ -1,6 +1,6 @@
 /* Namespace globale + configurazione. Va caricato per primo. */
 window.B = {
-  VERSION: "1.0",
+  VERSION: "1.1",
   config: {
     // Progetto Supabase "babbol". La chiave è quella pubblica (publishable): i dati sono protetti dalle regole RLS.
     supabaseUrl: "https://xmitklupdqpnzcviimvx.supabase.co",

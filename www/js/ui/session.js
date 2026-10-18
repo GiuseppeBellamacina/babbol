@@ -20,7 +20,8 @@
   function speakerButtons(text) {
     return h("div", { class: "audio-row" },
       h("button", { class: "speaker", "aria-label": "Ascolta", onclick: function () { B.speech.speak(text); } }, B.icon("speaker", 26)),
-      h("button", { class: "speaker slow", "aria-label": "Ascolta lentamente", onclick: function () { B.speech.slow(text); } }, B.icon("turtle", 24)));
+      h("button", { class: "speaker slow", "aria-label": "Ascolta lentamente", onclick: function () { B.speech.slow(text); } }, B.icon("turtle", 24)),
+      h("button", { class: "speaker tiny", "aria-label": "Regola la velocità", onclick: function () { B.ui.speedSheet(text); } }, B.icon("speed", 18)));
   }
   function picture(step) {
     return h("div", { class: "q-pic" + (step.img && !step.emoji ? " scene" : "") }, B.pic(step));
@@ -82,29 +83,33 @@
   }
 
   // lettore audio per listen/dictation: conta gli ascolti (negli esami max 2)
-  function audioPlayer(lines, maxPlays) {
-    var plays = 0, playing = false;
+  function audioPlayer(lines, maxPlays, state) {
+    state = state || {};
+    var plays = state._plays || 0, playing = false;
     var label = h("span", null, "Ascolta");
     var count = h("div", { class: "muted small center" });
     var btn = h("button", { class: "btn blue play" }, B.icon("play", 20), label);
     var slowBtn = h("button", { class: "btn ghost small" }, B.icon("turtle", 18), " Lento");
+    var speedBtn = h("button", { class: "btn ghost small", "aria-label": "Regola la velocità", onclick: function () { B.ui.speedSheet(lines.map(function (l) { return l[1]; }).join(" ").split(" ").slice(0, 14).join(" ")); } }, B.icon("speed", 18));
     function upd() {
       count.textContent = maxPlays ? "Ascolti: " + plays + " / " + maxPlays : (plays ? "Ascoltato " + plays + (plays === 1 ? " volta" : " volte") : "");
       var over = maxPlays && plays >= maxPlays;
       btn.disabled = over || playing; slowBtn.disabled = over || playing;
+      state._plays = plays;
       label.textContent = playing ? "In riproduzione" : over ? "Ascolti finiti" : plays ? "Riascolta" : "Ascolta";
     }
-    function play(rate) {
+    function play(slow) {
       if (maxPlays && plays >= maxPlays) return;
       plays++; playing = true; upd();
-      B.speech.playLines(lines, function () { playing = false; upd(); }, rate ? { rate: rate } : null);
+      B.speech.playLines(lines, function () { playing = false; upd(); }, slow ? { slow: true } : null);
       // sicurezza: se il motore non segnala la fine, si riabilita comunque
-      setTimeout(function () { if (playing) { playing = false; upd(); } }, 1500 + lines.reduce(function (a, l) { return a + l[1].length; }, 0) * 110 / (rate || 1));
+      var chars = lines.reduce(function (a, l) { return a + l[1].length; }, 0);
+      setTimeout(function () { if (playing) { playing = false; upd(); } }, 2000 + chars * 110 / (slow ? Math.max(0.3, B.speech.slowRate()) * 0.8 : 1));
     }
-    btn.addEventListener("click", function () { play(); });
-    slowBtn.addEventListener("click", function () { play(0.65); });
+    btn.addEventListener("click", function () { play(false); });
+    slowBtn.addEventListener("click", function () { play(true); });
     upd();
-    return { el: h("div", { class: "player" }, h("div", { class: "row center gap" }, btn, maxPlays ? null : slowBtn), count), play: play };
+    return { el: h("div", { class: "player" }, h("div", { class: "row center gap" }, btn, maxPlays ? null : slowBtn, speedBtn), count), play: play };
   }
 
   // domande di comprensione (read/listen): scelta o risposta scritta
@@ -358,6 +363,7 @@
     if (step.it) el.appendChild(h("p", { class: "muted" }, step.it));
     var groups = [], speakers = [];
     step.lines.forEach(function (l) { if (speakers.indexOf(l[0]) < 0) speakers.push(l[0]); });
+    var voices = B.speech.assignVoices(step.lines.map(function (l) { return [l[0], "", l[2]]; }));
     step.lines.forEach(function (l) {
       var side = speakers.indexOf(l[0]) % 2 ? "right" : "left";
       var bubble = h("div", { class: "bubble " + side }, h("div", { class: "who" }, l[0]));
@@ -369,7 +375,7 @@
         bubble.appendChild(g.el);
         bubble.classList.add("choice");
       } else {
-        bubble.appendChild(h("div", { class: "says", onclick: function () { B.speech.speak(l[1], B.speech.voiceFor(speakers.indexOf(l[0]))); } }, l[1]));
+        bubble.appendChild(h("div", { class: "says", onclick: function () { B.speech.speakAs(l[1], voices[l[0]]); } }, l[1]));
       }
       el.appendChild(bubble);
     });
@@ -400,7 +406,7 @@
   Renderers.listen = function (step, ctx) {
     var el = h("div", { class: "listening" }, title(step.title || "Ascolta"));
     if (step.it) el.appendChild(h("p", { class: "muted" }, step.it));
-    var player = audioPlayer(step.lines, ctx.quiet ? (step._maxPlays || 2) : 0);
+    var player = audioPlayer(step.lines, ctx.quiet ? (step._maxPlays || 2) : 0, step);
     el.appendChild(player.el);
     el.appendChild(h("h4", null, "Domande"));
     var qs = questions(step.qs, ctx);
@@ -586,7 +592,8 @@
     var S = current = {
       cfg: cfg, queue: cfg.steps.slice(), total: cfg.steps.length, passed: 0,
       right: 0, items: 0, wrongSteps: 0, skipped: 0, t0: Date.now(), review: [],
-      byLevel: {}, byPart: {}, step: null, renderer: null, phase: "idle"
+      byLevel: {}, byPart: {}, step: null, renderer: null, phase: "idle",
+      done: [], tok: 0   // done = passi gia' conclusi, per poter tornare indietro annullandone il punteggio
     };
 
     overlay.innerHTML = "";
@@ -597,9 +604,15 @@
     var body = h("div", { class: "s-body" });
     var fb = h("div", { class: "fb" });
     var main = h("button", { class: "btn primary big" }, "CONTROLLA");
-    var foot = h("div", { class: "s-foot" }, fb, main);
-    overlay.appendChild(h("div", { class: "session" }, h("div", { class: "s-top" }, closeBtn, bar, clock), body, foot));
-    S.ui = { bar: bar.firstChild, body: body, foot: foot, fb: fb, main: main, clock: clock };
+    var backBtn = h("button", { class: "btn ghost big back", "aria-label": "Indietro", style: { display: "none" }, onclick: function () { goBack(); } }, B.icon("back", 22), h("span", null, "INDIETRO"));
+    var foot = h("div", { class: "s-foot" }, fb, h("div", { class: "s-actions" }, backBtn, main));
+    // suggerimento (grammatica, parole, frasi utili dell'unita'): solo nelle lezioni, mai nei test e negli esami
+    var hintBtn = cfg.mode === "lesson" && cfg.unitId
+      ? h("button", { class: "icon-btn hint-btn", "aria-label": "Suggerimento: grammatica e parole", onclick: function () { B.ui.hintSheet(cfg.unitId, cfg.kind); } }, B.icon("bulb", 22))
+      : null;
+    overlay.appendChild(h("div", { class: "session" }, h("div", { class: "s-top" }, closeBtn, bar, clock, hintBtn), body, foot));
+    S.ui = { bar: bar.firstChild, body: body, foot: foot, fb: fb, main: main, clock: clock, back: backBtn };
+    function updateBack() { S.ui.back.style.display = S.done.length && (S.phase === "question" || S.phase === "feedback") ? "" : "none"; }
 
     // negli esami: tempo trascorso rispetto a quello indicativo
     if (cfg.minutes) {
@@ -624,6 +637,9 @@
       if (!S.queue.length) return finish();
       S.step = S.queue.shift();
       S.phase = "question";
+      var tok = ++S.tok;
+      // ogni passo ha il suo ctx: un timer rimasto indietro (es. abbina) non puo' chiudere un altro passo
+      var stepCtx = Object.assign({}, ctx, { submit: function (result) { if (tok === S.tok && S.phase === "question") resolve(result); } });
       S.ui.body.innerHTML = ""; S.ui.fb.innerHTML = "";
       S.ui.foot.className = "s-foot";
       S.ui.main.className = "btn primary big";
@@ -633,24 +649,27 @@
       S.ui.main.disabled = true;
       var R = Renderers[S.step.t];
       if (!R) { console.warn("step sconosciuto", S.step.t); S.passed++; return showStep(); }
-      S.renderer = R(S.step, ctx);
+      S.renderer = R(S.step, stepCtx);
       S.ui.body.appendChild(S.renderer.el);
       S.ui.body.scrollTop = 0;
-      drawBar();
+      drawBar(); updateBack();
       if (S.renderer.onShow) S.renderer.onShow();
     }
 
     function resolve(result) {
       var step = S.step;
       S.phase = "feedback";
-      if (result.skip) { S.passed++; return showStep(); }
-      if (result.skipped) { S.skipped++; S.passed++; return showStep(); }
+      // e = tutto cio' che questo passo ha cambiato nella sessione, per poterlo annullare con INDIETRO
+      var e = { step: step, passedInc: 0, applied: false, right: 0, total: 0, wrongStep: false, lv: null, part: null, review: null, retryCopy: null, skipped: false };
+      S.done.push(e);
+      if (result.skip) { S.passed++; e.passedInc = 1; return showStep(); }
+      if (result.skipped) { S.skipped++; S.passed++; e.skipped = true; e.passedInc = 1; return showStep(); }
 
       var total = result.total || 1, right = Math.max(0, Math.min(total, result.right || 0));
       var ok = total === 1 ? right >= 0.5 : right / total >= 0.6;
       var firstTry = !step._retry;
-      if (firstTry) { S.right += right; S.items += total; }
-      if (!ok && firstTry) S.wrongSteps++;
+      if (firstTry) { S.right += right; S.items += total; e.applied = true; e.right = right; e.total = total; }
+      if (!ok && firstTry) { S.wrongSteps++; e.wrongStep = true; }
 
       // statistiche (non nel test d'ingresso): ripetizione spaziata, abilità, errori da ripassare
       if (cfg.mode !== "placement") {
@@ -660,24 +679,24 @@
         if (step._key && cfg.mode !== "exam") B.store.recordMistake(step._key, !ok);
       } else if (firstTry) {
         var lv = S.byLevel[step.lv] = S.byLevel[step.lv] || { right: 0, total: 0 };
-        lv.right += right; lv.total += total;
+        lv.right += right; lv.total += total; e.lv = step.lv;
       }
       if (step._part != null && firstTry) {
         var pt = S.byPart[step._part] = S.byPart[step._part] || { right: 0, total: 0 };
-        pt.right += right; pt.total += total;
+        pt.right += right; pt.total += total; e.part = step._part;
       }
       if (!ok || right < total) {
         var rv = result.review && result.review.length ? result.review : (result.expected ? [result.expected] : []);
-        if (cfg.quiet && rv.length) S.review.push({ title: step.title || step.q || step.s || step.s1 || step.en || "Esercizio", lines: rv, why: result.explain || step.why });
+        if (cfg.quiet && rv.length) { e.review = { title: step.title || step.q || step.s || step.s1 || step.en || "Esercizio", lines: rv, why: result.explain || step.why }; S.review.push(e.review); }
       }
 
-      if (cfg.quiet) { S.passed++; drawBar(); return showStep(); }
+      if (cfg.quiet) { S.passed++; e.passedInc = 1; drawBar(); return showStep(); }
 
-      if (ok) { S.passed++; B.sfx.ok(); }
+      if (ok) { S.passed++; e.passedInc = 1; B.sfx.ok(); }
       else {
         B.sfx.bad();
-        if (cfg.retry && firstTry && total === 1 && !result.noRetry) S.queue.push(Object.assign({}, step, { _retry: true }));
-        else S.passed++;
+        if (cfg.retry && firstTry && total === 1 && !result.noRetry) { e.retryCopy = Object.assign({}, step, { _retry: true }); S.queue.push(e.retryCopy); }
+        else { S.passed++; e.passedInc = 1; }
       }
       drawBar();
 
@@ -705,8 +724,33 @@
       S.ui.main.className = "btn big " + (ok ? "primary" : "danger");
       var after = step.sayAfter || result.sayAfter || (step.t === "gap" ? result.expected : null);
       if (after) setTimeout(function () { B.speech.speak(after); }, 250);
+      updateBack();
     }
 
+    // annulla cio' che un passo concluso aveva cambiato nella sessione (punteggio, errori, ripetizione in coda)
+    function undo(e) {
+      S.passed -= e.passedInc;
+      if (e.applied) { S.right -= e.right; S.items -= e.total; }
+      if (e.wrongStep) S.wrongSteps--;
+      if (e.skipped) S.skipped--;
+      if (e.lv && S.byLevel[e.lv]) { S.byLevel[e.lv].right -= e.right; S.byLevel[e.lv].total -= e.total; }
+      if (e.part != null && S.byPart[e.part]) { S.byPart[e.part].right -= e.right; S.byPart[e.part].total -= e.total; }
+      if (e.review) { var i = S.review.indexOf(e.review); if (i >= 0) S.review.splice(i, 1); }
+      if (e.retryCopy) { var j = S.queue.indexOf(e.retryCopy); if (j >= 0) S.queue.splice(j, 1); }
+    }
+    // INDIETRO: torna al passo precedente (se hai gia' risposto a quello attuale, la risposta viene annullata)
+    function goBack() {
+      if (S.phase !== "question" && S.phase !== "feedback") return;
+      if (!S.done.length) return;
+      B.speech.stop();
+      var cur = S.step;
+      if (S.phase === "feedback") undo(S.done.pop());
+      var prev = S.done.pop();
+      if (prev) { undo(prev); S.queue.unshift(cur); S.queue.unshift(prev.step); }
+      else S.queue.unshift(cur);
+      drawBar();
+      showStep();
+    }
     S.ui.main.addEventListener("click", function () {
       if (S.ui.main.disabled) return;
       if (S.phase === "done") return close();
@@ -729,7 +773,7 @@
     function finish() {
       B.speech.stop();
       clearInterval(S.timer);
-      S.phase = "done";
+      S.phase = "done"; updateBack();
       var secs = Math.round((Date.now() - S.t0) / 1000);
       var pct = S.items ? Math.round(100 * S.right / S.items) : 100;
       var xp = Math.round(S.right * (cfg.xpPer || 0)), bonus = 0;

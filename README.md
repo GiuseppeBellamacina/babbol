@@ -17,7 +17,8 @@ Account e progressi su Supabase. Anche i contenuti delle lezioni stanno su Supab
 | **Ripasso** | Ripetizione spaziata delle parole (intervalli di 1, 3, 7, 14, 30 e 60 giorni), esercizi sbagliati da rifare, allenamento per abilità. |
 | **Risorse** | Schede di grammatica (dalle lezioni), dizionario, flashcard, verbi irregolari, phrasal verbs, falsi amici, modi di dire, connettivi, pronuncia per italiani. |
 | **Progressi** | Minuti di studio al giorno, serie, punteggio per abilità, livello stimato, traguardi. Niente vite e niente attese: si studia quanto si vuole. |
-| **Voce** | Text-to-Speech del telefono (gratuito) con voci diverse per gli speaker dei dialoghi, e riconoscimento vocale per il parlato. Nessuna API a pagamento. |
+| **Voce** | Text-to-Speech del telefono (gratuito): nei dialoghi ogni speaker ha una voce maschile o femminile a seconda del nome (o del genere indicato nei contenuti), con accenti diversi; riconoscimento vocale per il parlato. Nessuna API a pagamento. |
+| **Durante gli esercizi** | Tasto **INDIETRO** per tornare ai passi precedenti (la risposta e il punteggio vengono annullati), tasto **suggerimento** per aprire grammatica, parole con traduzione ed esempi e frasi utili dell'unità (non nei test e negli esami), due regolatori di velocità della voce: normale e tartaruga (che spezza la frase in gruppi di parole con pause). |
 
 **Quanto ci vuole.** Cambridge stima circa 200 ore guidate per livello CEFR: da A2 a B2 sono 300-400 ore. Con 1 ora al giorno servono 10-12 mesi; con 2 ore circa 6. Il corso contiene circa 67 ore di materiale nuovo più 7 di esami: è lo scheletro completo, da affiancare a molta esposizione all'inglese (serie, podcast, letture) e da arricchire nel tempo con nuove unità pubblicate su Supabase.
 

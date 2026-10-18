@@ -85,8 +85,6 @@
 
   function settings() {
     var st = S.settings();
-    var rate = h("input", { type: "range", min: "0.6", max: "1.2", step: "0.05", value: st.rate, class: "range" });
-    rate.addEventListener("change", function () { S.setSetting("rate", parseFloat(rate.value)); });
     return h("div", { class: "card settings" },
       h("div", { class: "set-block" }, h("div", { class: "row-title" }, "Obiettivo giornaliero"),
         segmented([[15, "15'"], [30, "30'"], [60, "1 ora"], [90, "1h30"], [120, "2 ore"]], S.get().goal, function (v) { S.setGoal(v); UI.refresh(); }),
@@ -94,9 +92,7 @@
       h("div", { class: "set-block" }, h("div", { class: "row-title" }, "Accento principale della voce"),
         segmented([["en-GB", "Britannico"], ["en-US", "Americano"]], st.accent, function (v) { S.setSetting("accent", v); B.speech.speak("Hello, nice to meet you."); UI.refresh(); }),
         h("div", { class: "muted small" }, "Nei dialoghi le voci si alternano tra i due accenti.")),
-      h("div", { class: "set-block" }, h("div", { class: "row-title" }, "Velocità della voce"), rate,
-        h("div", { class: "row between muted small" }, h("span", null, "Lenta"), h("span", null, "Naturale")),
-        h("button", { class: "btn ghost small", onclick: function () { B.speech.speak("The quick brown fox jumps over the lazy dog."); } }, B.icon("speaker", 16), " Prova la voce")),
+      UI.speedControls(),
       h("div", { class: "set-block" }, h("div", { class: "row-title" }, "Tema"),
         segmented([["auto", "Auto"], ["light", "Chiaro"], ["dark", "Scuro"]], st.theme, function (v) { S.setSetting("theme", v); UI.applyTheme(); UI.refresh(); })),
       toggle("Insulti quando sbagli", "In inglese, volgari, con traduzione e consiglio", "roast"),
