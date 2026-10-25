@@ -321,6 +321,7 @@
     {
      "id": "b2-08-w01",
      "en": "emissions",
+     "photo": "emissions",
      "it": "emissioni",
      "ipa": "ɪˈmɪʃnz",
      "pos": "n",
@@ -345,6 +346,7 @@
     {
      "id": "b2-08-w03",
      "en": "deforestation",
+     "photo": "deforestation",
      "it": "deforestazione",
      "ipa": "ˌdiːˌfɒrɪˈsteɪʃn",
      "pos": "n",
@@ -357,6 +359,7 @@
     {
      "id": "b2-08-w04",
      "en": "drought",
+     "photo": "drought",
      "it": "siccità",
      "ipa": "draʊt",
      "pos": "n",
@@ -381,6 +384,7 @@
     {
      "id": "b2-08-w06",
      "en": "landfill",
+     "photo": "landfill",
      "it": "discarica",
      "ipa": "ˈlændfɪl",
      "pos": "n",
@@ -585,6 +589,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-b2-08",
      "title": "Is it up to us?",
      "genre": "opinion column",
      "text": "Every few months, a new headline tells us that we are running out of time. Politicians promise action, scientists repeat their warnings, and ordinary people are left wondering what, exactly, they are supposed to do. Should we cycle to work, give up meat, or simply hope that governments will sort it out?\n\nTake my neighbour, Hannah. She has not owned a car for ten years, she carries her own cup to the café, and she sorts her rubbish more carefully than anyone I know. Not only does she do all of this, but she also writes to her MP twice a year. Yet when I asked her recently whether it made any difference, she laughed. \"Honestly, I'm not sure,\" she said. \"What bothers me is that a single cargo ship can produce more pollution in a day than I will save in a lifetime.\"\n\nHannah has a point. According to one widely quoted study, a hundred companies have been responsible for more than seventy per cent of global emissions since 1988. It is these companies, rather than individual households, that decide how energy is produced and how goods are packaged. Rarely do ordinary consumers have a real choice: if the only affordable supermarket in town wraps every cucumber in plastic, there is very little a shopper can do about it.\n\nAnd yet it would be a mistake to conclude that personal habits do not matter. Such is the power of example that a single family fitting solar panels can encourage a whole street to follow. Local campaigns have persuaded councils to ban plastic bags, plant thousands of trees and open new cycle lanes. Hardly had one town introduced a charge for disposable cups when three neighbouring towns copied the idea. Change, in other words, often starts small and spreads quickly.\n\nThe most convincing argument, I think, is that individual and collective action are not rivals. It is when people care that politicians feel pressure to act, and it is only when laws change that the biggest polluters are forced to follow. Without public demand, governments have little incentive to introduce drastic measures; without government action, even the most committed citizen is fighting a losing battle.\n\nSo what should we do? Hannah's answer is characteristically practical. \"Do what you can, then vote for people who will do more,\" she says. \"And don't feel guilty about the rest.\" It is advice I find hard to improve on. Guilt, after all, has never saved a single forest, whereas habit, pressure and good legislation sometimes have. Perhaps what matters most is not whether our own efforts are perfect, but whether we are prepared to keep asking for better, from our leaders, from the businesses we buy from, and from ourselves.",

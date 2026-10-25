@@ -21,6 +21,7 @@
       "table": [["Parola", "Dove", "Esempio"], ["ever / never", "prima del participio", "I've never tried sushi."], ["just / already", "prima del participio", "We've just arrived."], ["yet", "in fondo alla frase", "Has he called yet?"]],
       "ex": [["I've never ridden a horse.", "Non sono mai salito su un cavallo."], ["We've just arrived at the hotel.", "Siamo appena arrivati in albergo."], ["I haven't seen the film yet.", "Non ho ancora visto il film."]] },
     { "t": "note", "title": "Present perfect o past simple?",
+      "svg": "tl-perfect",
       "body": "- **Past simple**: l'azione è **finita** e il momento è **indicato o chiaro**: yesterday, last week, in 2019, two years ago, when I was young. Anche la domanda **When...?** vuole il past simple.\n- **Present perfect**: il momento **non è indicato**, oppure si parla di **esperienze di vita** o di qualcosa che ha effetto adesso.\n\n- I **went** to Rome last year. (momento chiaro)\n- I **have been** to Rome. (esperienza, non dico quando)\n- **When did you go?** (When -> past simple)\n\n**Errore tipico degli italiani**: «I have seen that film last week». Con last week, yesterday, ago, in 2019 non si usa mai il present perfect: **I saw that film last week**.",
       "ex": [["I lost my keys yesterday.", "Ho perso le chiavi ieri."], ["I've lost my keys. Can you help me look for them?", "Ho perso le chiavi. Mi aiuti a cercarle?"], ["We moved here three years ago.", "Ci siamo trasferiti qui tre anni fa."]] },
     { "t": "note", "title": "for e since, been e gone",
@@ -86,6 +87,7 @@
    "minutes": 15,
    "steps": [
     { "t": "read", "title": "Twelve months, twelve firsts", "genre": "intervista",
+      "photo": "r-a2-06",
       "text": "Last January, my friend Hannah decided to do something new every month. Now the year is nearly over, and she has done twelve things she had never tried before. I asked her about it.\n\n\"The first thing was easy: I tried sushi,\" she laughs. \"It was my first time with raw fish, and I loved it!\" In March she took a pottery class. She has made six bowls so far, but she says they are all a bit crooked. In June she went to Wales and slept in a tent for the first time. \"It rained for two days and my tent leaked, but I haven't forgotten the stars on the last night.\"\n\nThe biggest challenge was in September, when she gave a talk in front of fifty people at work. \"I was terrified,\" she says. \"But I did it again last week, and it was much easier.\"\n\nWhat about December? Hannah hasn't decided yet. She is thinking about learning to swim, because she has always been afraid of deep water. \"I haven't told anybody my plan yet,\" she says, \"so please don't tell my mother!\"\n\nHer advice is simple: \"Start with something small. You don't have to climb a mountain. You've just got to say yes.\"",
       "qs": [
        { "q": "What did Hannah decide to do last January?", "opts": ["Do something new every month", "Change her job", "Travel round the world"], "a": 0, "why": "«...decided to do something new every month»." },

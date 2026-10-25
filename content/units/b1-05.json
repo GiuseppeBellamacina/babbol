@@ -100,6 +100,7 @@
         },
         {
           "t": "note",
+          "svg": "conditionals",
           "title": "Quale tipo scegliere?",
           "body": "Chiediti: la situazione è **sempre vera**, **possibile** o **immaginaria**?\n- Sempre vera -> **zero**: If you boil water, it evaporates.\n- Possibile / realistica -> **first**: If I get a pay rise, I'll save more.\n- Immaginaria / improbabile -> **second**: If I got a pay rise, I would travel more.\n\nLa differenza è nell'attitudine di chi parla: «If I win the lottery, I'll buy a house» suona come se ci credessi; «If I won the lottery, I would buy a house» come un sogno.",
           "ex": [
@@ -435,6 +436,7 @@
         {
           "id": "b1-05-w11",
           "en": "pollution",
+          "photo": "pollution",
           "it": "inquinamento",
           "ipa": "pəˈluːʃn",
           "pos": "n",
@@ -585,6 +587,7 @@
       "steps": [
         {
           "t": "read",
+          "photo": "r-b1-05",
           "title": "The hidden price of cheap clothes",
           "genre": "article",
           "text": "A few months ago I counted the clothes in my wardrobe. There were sixty-three items, and I had worn only about twenty of them in the last year. I felt a little embarrassed, because most of those clothes had been cheap bargains: a five-pound T-shirt here, a ten-pound jumper there. If something costs so little, you don't think twice about buying it.\n\nBut cheap clothes have a hidden price. The fashion industry produces about a tenth of the world's carbon emissions, and a lot of what we buy ends up in the bin after only a few wears. According to some studies, a single cotton T-shirt needs about two thousand litres of water. If we all bought half as many clothes, the pollution from the industry would fall dramatically.\n\nSo what can we do? Some people say that we should simply stop shopping, but that isn't realistic for most of us. Instead, I decided to try a different approach. First, I set a monthly budget: forty pounds, and not a penny more. Second, I made a rule that I would only buy something if I could imagine wearing it at least thirty times. Finally, I started looking in second-hand shops and online markets. I was surprised by how many good things you can find there. Last week I bought a wool coat for eighteen pounds that would cost over a hundred in a normal shop.\n\nMy friend Laura thinks I'm being too strict. \"You'll get bored,\" she says, \"unless you allow yourself a treat now and then.\" She may be right, so I have agreed to buy one new item every season. In case I forget the rules, I've written them on a note inside the wardrobe door.\n\nI'm not trying to be perfect. But I now believe that if we spent more on fewer, better things, we would save money and help the planet at the same time.",

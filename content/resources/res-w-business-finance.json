@@ -1,0 +1,229 @@
+{
+ "id": "res-w-business-finance",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Affari e finanza",
+ "intro": "Venti parole utili sul tema «affari e finanza», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "bankrupt",
+   "it": "fallito",
+   "ipa": "ˈbæŋkrʌpt",
+   "pos": "adj",
+   "ex": [
+    "The firm went bankrupt after the crisis.",
+    "L'azienda è fallita dopo la crisi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "cash flow",
+   "it": "flusso di cassa",
+   "ipa": "kæʃ fləʊ",
+   "pos": "phr",
+   "ex": [
+    "Poor cash flow nearly closed the business.",
+    "Un flusso di cassa scarso ha quasi chiuso l'attività."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "competitor",
+   "it": "concorrente",
+   "ipa": "kəmˈpetɪtə",
+   "pos": "n",
+   "ex": [
+    "Our main competitor has lowered its prices.",
+    "Il nostro principale concorrente ha abbassato i prezzi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "customer base",
+   "it": "clientela",
+   "ipa": "ˈkʌstəmə beɪs",
+   "pos": "phr",
+   "ex": [
+    "The firm is trying to widen its customer base.",
+    "L'azienda cerca di ampliare la propria clientela."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "inflation",
+   "it": "inflazione",
+   "ipa": "ɪnˈfleɪʃn",
+   "pos": "n",
+   "ex": [
+    "Inflation makes everyday goods more expensive.",
+    "L'inflazione rende più cari i beni di uso quotidiano."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "interest rate",
+   "it": "tasso di interesse",
+   "ipa": "ˈɪntrəst reɪt",
+   "pos": "phr",
+   "ex": [
+    "The bank has raised the interest rate again.",
+    "La banca ha alzato di nuovo il tasso di interesse."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "invoice",
+   "it": "fattura",
+   "ipa": "ˈɪnvɔɪs",
+   "pos": "n",
+   "ex": [
+    "Please send the invoice by the end of the week.",
+    "Invii la fattura entro la fine della settimana, per favore."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "launch",
+   "it": "lanciare",
+   "ipa": "lɔːntʃ",
+   "pos": "v",
+   "ex": [
+    "The company will launch a new product in May.",
+    "L'azienda lancerà un nuovo prodotto a maggio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "loan",
+   "it": "prestito",
+   "ipa": "ləʊn",
+   "pos": "n",
+   "ex": [
+    "She applied for a bank loan to open a café.",
+    "Ha chiesto un prestito alla banca per aprire un bar."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "loss",
+   "it": "perdita",
+   "ipa": "lɒs",
+   "pos": "n",
+   "ex": [
+    "The shop closed after months of heavy losses.",
+    "Il negozio ha chiuso dopo mesi di forti perdite."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "merger",
+   "it": "fusione",
+   "ipa": "ˈmɜːdʒə",
+   "pos": "n",
+   "ex": [
+    "The merger created the largest bank in Europe.",
+    "La fusione ha creato la più grande banca d'Europa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "mortgage",
+   "it": "mutuo",
+   "ipa": "ˈmɔːɡɪdʒ",
+   "pos": "n",
+   "ex": [
+    "They took out a mortgage to buy the house.",
+    "Hanno acceso un mutuo per comprare la casa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "overheads",
+   "it": "spese generali",
+   "ipa": "ˈəʊvəhedz",
+   "pos": "n",
+   "ex": [
+    "High overheads make it hard to stay profitable.",
+    "Le spese generali elevate rendono difficile restare redditizi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "profit",
+   "it": "profitto",
+   "ipa": "ˈprɒfɪt",
+   "pos": "n",
+   "ex": [
+    "They made a small profit last year.",
+    "Hanno realizzato un piccolo profitto l'anno scorso."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "revenue",
+   "it": "ricavi",
+   "ipa": "ˈrevənjuː",
+   "pos": "n",
+   "ex": [
+    "The company's revenue grew by ten per cent.",
+    "I ricavi dell'azienda sono cresciuti del dieci per cento."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "shareholder",
+   "it": "azionista",
+   "ipa": "ˈʃeəhəʊldə",
+   "pos": "n",
+   "ex": [
+    "The shareholders approved the new plan.",
+    "Gli azionisti hanno approvato il nuovo piano."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "stock market",
+   "it": "borsa valori",
+   "ipa": "stɒk ˈmɑːkɪt",
+   "pos": "phr",
+   "ex": [
+    "The stock market fell sharply on Monday.",
+    "La borsa è scesa bruscamente lunedì."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "supplier",
+   "it": "fornitore",
+   "ipa": "səˈplaɪə",
+   "pos": "n",
+   "ex": [
+    "We are looking for a cheaper supplier.",
+    "Stiamo cercando un fornitore più economico."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "tax",
+   "it": "imposta",
+   "ipa": "tæks",
+   "pos": "n",
+   "ex": [
+    "You pay tax on all your income.",
+    "Si pagano le tasse su tutto il reddito."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "turnover",
+   "it": "fatturato",
+   "ipa": "ˈtɜːnˌəʊvə",
+   "pos": "n",
+   "ex": [
+    "Annual turnover reached two million pounds.",
+    "Il fatturato annuo ha raggiunto i due milioni di sterline."
+   ],
+   "lv": "B2"
+  }
+ ]
+}

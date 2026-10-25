@@ -55,6 +55,7 @@
     plus: '<path d="M12 5v14M5 12h14"/>',
     info: '<circle cx="12" cy="12" r="8.5"/><path d="M12 11v5.5M12 7.5h.01"/>',
     speed: '<path d="M4 17a8 8 0 1 1 16 0"/><path d="M12 17l4-5"/><circle cx="12" cy="17" r="1.2"/>',
+    image: '<rect x="3.5" y="5" width="17" height="14" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M4 17l5-4.5 3.5 3 3-2.5L20 17"/>',
     search: '<circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/>',
     warn: '<path d="M12 3.5L21.5 20h-19z"/><path d="M12 10v4.5M12 17.5h.01"/>'
   };
@@ -77,11 +78,34 @@
    * Immagine di un vocabolo o di un esercizio: emoji (oggetti semplici) oppure SVG (scene complesse, www/img/v).
    * Le emoji sono ammesse solo qui, mai nei testi o nell'interfaccia.
    */
+  // Foto (www/img/p/<id>.webp, scaricate e ridotte da tools/photos.js). Ripiego a tre livelli:
+  // 1) il file incluso nell'app, 2) lo stesso file nel repository su GitHub (utile per le foto aggiunte dopo, con i contenuti
+  // aggiornati da Supabase senza una nuova versione dell'app), 3) un segnaposto. Offline o file mancante: mai un'immagine rotta.
+  B.photo = function (id, cls, alt) {
+    var img = B.h("img", { class: "pic photo " + (cls || ""), src: "img/p/" + id + ".webp", alt: alt || "", loading: "lazy" });
+    var stage = 0;
+    img.addEventListener("error", function () {
+      if (stage === 0 && navigator.onLine !== false && B.config.photoBase) { stage = 1; img.src = B.config.photoBase + id + ".webp"; return; }
+      stage = 2;
+      var ph = B.h("div", { class: "photo-ph " + (cls || ""), role: "img", "aria-label": alt || "Foto non disponibile" }, B.icon("image", 26), B.h("span", null, "Foto non disponibile"));
+      if (img.parentNode) img.parentNode.replaceChild(ph, img);
+    });
+    return img;
+  };
+  // una o due foto di uno step (photo: "id" oppure photos: ["id", "id"]); con due compaiono le etichette A e B per il confronto
+  B.photoBlock = function (step) {
+    var ids = step.photos || (step.photo ? [step.photo] : null);
+    if (!ids || !ids.length) return null;
+    return B.h("div", { class: "photos n" + ids.length }, ids.map(function (id, i) {
+      return B.h("figure", null, B.photo(id, "", step.alt || ""), ids.length > 1 ? B.h("span", { class: "tag" }, String.fromCharCode(65 + i)) : null);
+    }));
+  };
   B.pic = function (o, cls) {
     if (!o) return null;
+    if (o.photo) return B.photo(o.photo, cls, o.en || o.alt || "");
     if (o.emoji) return B.h("span", { class: "pic emoji-pic " + (cls || ""), "aria-hidden": "true" }, o.emoji);
     if (o.img) return B.h("img", { class: "pic " + (cls || ""), src: "img/v/" + o.img + ".svg", alt: "" });
     return null;
   };
-  B.hasPic = function (o) { return !!(o && (o.emoji || o.img)); };
+  B.hasPic = function (o) { return !!(o && (o.emoji || o.img || o.photo)); };
 })(window.B);

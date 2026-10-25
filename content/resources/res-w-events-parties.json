@@ -1,0 +1,236 @@
+{
+ "id": "res-w-events-parties",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Eventi e feste",
+ "intro": "Venti parole utili sul tema «eventi e feste», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "anniversary",
+   "it": "anniversario",
+   "ipa": "ˌænɪˈvɜːsəri",
+   "pos": "n",
+   "ex": [
+    "It is our tenth wedding anniversary.",
+    "È il nostro decimo anniversario di matrimonio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "balloon",
+   "it": "palloncino",
+   "ipa": "bəˈluːn",
+   "pos": "n",
+   "ex": [
+    "The children played with colourful balloons.",
+    "I bambini giocavano con dei palloncini colorati."
+   ],
+   "lv": "B1",
+   "emoji": "🎈"
+  },
+  {
+   "en": "bride",
+   "it": "sposa",
+   "ipa": "braɪd",
+   "pos": "n",
+   "ex": [
+    "The bride wore a long white dress.",
+    "La sposa indossava un lungo abito bianco."
+   ],
+   "lv": "B1",
+   "emoji": "👰"
+  },
+  {
+   "en": "celebrate",
+   "it": "festeggiare",
+   "ipa": "ˈselɪbreɪt",
+   "pos": "v",
+   "ex": [
+    "We celebrate our anniversary every year.",
+    "Festeggiamo il nostro anniversario ogni anno."
+   ],
+   "lv": "B1",
+   "emoji": "🎉"
+  },
+  {
+   "en": "crowd",
+   "it": "folla",
+   "ipa": "kraʊd",
+   "pos": "n",
+   "ex": [
+    "A large crowd gathered in the square.",
+    "Una grande folla si è radunata nella piazza."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "dance floor",
+   "it": "pista da ballo",
+   "ipa": "ˈdɑːns flɔː",
+   "pos": "phr",
+   "ex": [
+    "The dance floor was full by ten.",
+    "La pista da ballo era piena alle dieci."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "decorations",
+   "it": "decorazioni",
+   "ipa": "ˌdekəˈreɪʃnz",
+   "pos": "n",
+   "ex": [
+    "We put up decorations in the garden.",
+    "Abbiamo messo le decorazioni in giardino."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "dress code",
+   "it": "abbigliamento richiesto",
+   "ipa": "dres kəʊd",
+   "pos": "phr",
+   "ex": [
+    "The dress code for the party is smart casual.",
+    "Il codice di abbigliamento della festa è elegante ma informale."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "festival",
+   "it": "festival",
+   "ipa": "ˈfestɪvl",
+   "pos": "n",
+   "ex": [
+    "We went to a music festival in July.",
+    "Siamo andati a un festival musicale a luglio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "fireworks",
+   "it": "fuochi d'artificio",
+   "ipa": "ˈfaɪəwɜːks",
+   "pos": "n",
+   "ex": [
+    "The fireworks start at midnight.",
+    "I fuochi d'artificio iniziano a mezzanotte."
+   ],
+   "lv": "B1",
+   "emoji": "🎆"
+  },
+  {
+   "en": "gift",
+   "it": "regalo",
+   "ipa": "ɡɪft",
+   "pos": "n",
+   "ex": [
+    "She gave me a small gift from Spain.",
+    "Mi ha dato un piccolo regalo dalla Spagna."
+   ],
+   "lv": "B1",
+   "emoji": "🎁"
+  },
+  {
+   "en": "groom",
+   "it": "sposo",
+   "ipa": "ɡruːm",
+   "pos": "n",
+   "ex": [
+    "The groom was very nervous.",
+    "Lo sposo era molto agitato."
+   ],
+   "lv": "B1",
+   "emoji": "🤵"
+  },
+  {
+   "en": "guest",
+   "it": "ospite",
+   "ipa": "ɡest",
+   "pos": "n",
+   "ex": [
+    "Our guests arrive at seven.",
+    "I nostri ospiti arrivano alle sette."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "host",
+   "it": "ospitare",
+   "ipa": "həʊst",
+   "pos": "v",
+   "ex": [
+    "They hosted a big party for her birthday.",
+    "Hanno organizzato una grande festa per il suo compleanno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "invitation",
+   "it": "invito",
+   "ipa": "ˌɪnvɪˈteɪʃn",
+   "pos": "n",
+   "ex": [
+    "I got an invitation to their wedding.",
+    "Ho ricevuto un invito al loro matrimonio."
+   ],
+   "lv": "B1",
+   "emoji": "💌"
+  },
+  {
+   "en": "live music",
+   "it": "musica dal vivo",
+   "ipa": "laɪv ˈmjuːzɪk",
+   "pos": "phr",
+   "ex": [
+    "The bar has live music on Fridays.",
+    "Il bar ha musica dal vivo il venerdì."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "throw a party",
+   "it": "organizzare una festa",
+   "ipa": "θrəʊ ə ˈpɑːti",
+   "pos": "phr",
+   "ex": [
+    "They threw a party to say goodbye.",
+    "Hanno organizzato una festa per salutarsi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "toast",
+   "it": "brindisi",
+   "ipa": "təʊst",
+   "pos": "n",
+   "ex": [
+    "He made a toast to the happy couple.",
+    "Ha fatto un brindisi agli sposi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "turn up",
+   "it": "presentarsi",
+   "ipa": "tɜːn ʌp",
+   "pos": "phr",
+   "ex": [
+    "Only ten guests turned up.",
+    "Si sono presentati solo dieci ospiti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "wedding",
+   "it": "matrimonio",
+   "ipa": "ˈwedɪŋ",
+   "pos": "n",
+   "ex": [
+    "The wedding was held in a small church.",
+    "Il matrimonio si è tenuto in una piccola chiesa."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

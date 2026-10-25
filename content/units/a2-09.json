@@ -77,6 +77,7 @@
     },
     {
      "t": "note",
+     "svg": "prep-time",
      "title": "Preposizioni di tempo: at, on, in",
      "body": "- **at**: ore e momenti precisi: at 6.45, at noon, at night, at the weekend.\n- **on**: giorni e date: on Monday, on 5 May, on Friday morning.\n- **in**: mesi, stagioni, anni, parti del giorno: in June, in winter, in 2027, in the morning / in the afternoon / in the evening.\n\nAttenzione: **at night** ma **in the morning**; **on Friday morning** (se c'è un giorno, si usa on).\n\nAltre due, spesso confuse in italiano:\n- **by** = **entro**: Be at the station by eight. (alle otto o prima)\n- **until** = **fino a**: I'll wait until eight. (resto fino alle otto)\n\nSi dice **for** per la durata: The flight takes two hours / I waited for an hour.",
      "table": [
@@ -369,6 +370,7 @@
     {
      "id": "a2-09-w02",
      "en": "platform",
+     "photo": "platform",
      "it": "binario",
      "ipa": "ˈplætfɔːm",
      "pos": "n",
@@ -381,6 +383,7 @@
     {
      "id": "a2-09-w03",
      "en": "timetable",
+     "photo": "timetable",
      "it": "orario (dei treni)",
      "ipa": "ˈtaɪmteɪbl",
      "pos": "n",
@@ -440,6 +443,7 @@
     {
      "id": "a2-09-w08",
      "en": "gate",
+     "photo": "gate",
      "it": "uscita d'imbarco, gate",
      "ipa": "ɡeɪt",
      "pos": "n",
@@ -451,6 +455,7 @@
     {
      "id": "a2-09-w09",
      "en": "boarding pass",
+     "photo": "boarding-pass",
      "it": "carta d'imbarco",
      "ipa": "ˈbɔːdɪŋ pɑːs",
      "pos": "n",
@@ -474,6 +479,7 @@
     {
      "id": "a2-09-w11",
      "en": "passenger",
+     "photo": "passenger",
      "it": "passeggero",
      "ipa": "ˈpæsɪndʒə",
      "pos": "n",
@@ -615,6 +621,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-a2-09",
      "title": "Plans for Edinburgh",
      "genre": "email",
      "text": "Hi Maya,\n\nThanks for your message. I'm so excited about our trip! I've checked the timetable and bought the tickets. Our train leaves from London King's Cross at 8.30 on Saturday morning, so we have to be at the station by eight. The journey takes four and a half hours, and the train arrives in Edinburgh at one o'clock. A single ticket was cheaper than I expected: only forty-five pounds, because I bought it three weeks before.\n\nThere's one problem. The weather forecast isn't good. If it rains on Saturday, we'll visit the castle and the museums instead of walking in the hills. And if the trains are late, I'll text you as soon as I know. Please do the same!\n\nWhen we get to Edinburgh, we'll go to the hotel first and leave our bags. Then we'll have lunch near the station. I'll wait for you at the entrance to platform 4 until you arrive. If you're not there at ten past eight, I'll call you.\n\nCan you bring your camera? I'll bring the snacks!\n\nSee you on Saturday,\nLeo",

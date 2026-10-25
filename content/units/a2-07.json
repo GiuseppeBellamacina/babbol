@@ -101,6 +101,7 @@
     },
     {
      "t": "note",
+     "svg": "modals-obligation",
      "title": "Don't have to o mustn't? Attenzione",
      "body": "Qui gli italiani sbagliano più spesso, perché in italiano «non devi» può voler dire due cose diverse. In inglese sono diverse:\n- **don't have to** = **non è necessario** (puoi farlo, ma non sei obbligato). You don't have to pay: it's free.\n- **mustn't** = **è vietato / non farlo mai**. You mustn't smoke here.\n\nConfronta:\n- You **don't have to** take the tablets. (se non vuoi, non importa)\n- You **mustn't** take more than two tablets. (è pericoloso)\n\nLa negativa di **have to** richiede sempre do/does: «You haven't to go» e «You don't must go» sono sbagliati.\nPer dire che una cosa è **vietata** puoi usare anche **can't**: You can't park here.",
      "ex": [
@@ -431,6 +432,7 @@
     {
      "id": "a2-07-w08",
      "en": "pharmacy",
+     "photo": "pharmacy",
      "it": "farmacia",
      "ipa": "ˈfɑːməsi",
      "pos": "n",
@@ -455,6 +457,7 @@
     {
      "id": "a2-07-w10",
      "en": "medicine",
+     "photo": "medicine",
      "it": "medicina, farmaco",
      "ipa": "ˈmedsn",
      "pos": "n",
@@ -608,6 +611,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-a2-07",
      "title": "Three days in bed",
      "genre": "blog",
      "text": "Hi, I'm Hannah. Last Tuesday I woke up with a terrible sore throat and a headache. By lunchtime I had a fever too, so I called my GP's surgery. The receptionist was kind, but the first free appointment was on Thursday! She told me to ring back at eight o'clock the next morning for an emergency slot, because some patients can't wait.\n\nIn the meantime, I went to the pharmacy near my flat. The pharmacist asked me a lot of questions about my symptoms and checked my temperature with a thermometer. She said I didn't have to see a doctor yet. \"You should drink lots of water, rest and take paracetamol,\" she told me. \"But you must see a doctor if the fever lasts more than three days.\" She also explained that I mustn't give the medicine to my little nephew, because the dose is only for adults.\n\nI stayed in bed for three days. My friend Tom brought me soup and a pile of magazines. I couldn't taste anything, but I was very happy to see him. On Friday I felt a bit better and I could finally eat some toast.\n\nThe best advice? Don't go to work when you are ill. You don't have to be a hero: your colleagues don't want your cold!",

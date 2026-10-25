@@ -555,6 +555,7 @@
     {
      "id": "b2-10-w10",
      "en": "lecturer",
+     "emoji": "🧑‍🏫",
      "it": "docente universitario",
      "ipa": "ˈlektʃərə",
      "pos": "n",
@@ -709,6 +710,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-b2-10",
      "title": "Can a machine teach?",
      "genre": "newspaper feature",
      "text": "Ten years ago, a classroom without a blackboard would have seemed strange. Today, in many schools, the blackboard has been replaced by a tablet, and the teacher's red pen by software that corrects homework in seconds. Supporters of educational technology argue that this is not a gimmick but a revolution. Critics reply that we are rushing into something we do not fully understand.\n\nConsider the case of Wexford Academy, a secondary school in the north of England that introduced an artificial intelligence tutor two years ago. Each pupil receives exercises adapted to their level: a student who struggles with fractions is offered more practice, whereas one who has mastered them moves on to harder problems. According to the head teacher, maths results have improved by almost fifteen per cent. Teachers, who once spent their evenings marking, now have more time to talk to individual pupils. \"The software does the repetitive work,\" she says, \"so we can do the human work.\"\n\nNevertheless, not everyone is convinced. Dr Helen Marsh, a researcher in education, points out that most studies have been short and carried out by the companies that sell the products. \"Although the early results look encouraging, we simply do not have enough independent evidence,\" she says. She also worries about privacy. Every answer a pupil types is recorded, and nobody can say with certainty where that data will end up in ten years' time.\n\nAnother concern is plagiarism and dependence. Since chatbots can write a passable essay in a few seconds, some teachers have returned to handwritten exams, while others have gone in the opposite direction and encourage pupils to use the tools openly, provided that they explain how. Neither approach is perfect. Banning technology is difficult to enforce, and allowing it without limits risks producing students who can never think for themselves.\n\nPerhaps the most balanced view comes from a teacher at the school, Mr Okafor. Despite being enthusiastic about the new tools, he insists that they should remain assistants, not replacements. \"A machine can tell a child that an answer is wrong,\" he says, \"but it cannot notice that she is upset, or that she is afraid to ask a question.\" Learning, he argues, is not just the transfer of information; it is a relationship.\n\nIf he is right, the real challenge is not whether schools should use technology, but how. The most successful classrooms, researchers suggest, are those where teachers decide when a tool is useful and when it is not. Technology, in other words, is a very good servant but a poor master, and the sooner schools and parents understand this, the better the results are likely to be.",

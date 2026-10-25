@@ -1,0 +1,238 @@
+{
+ "id": "res-w-nature-landscape",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Natura e paesaggio",
+ "intro": "Venti parole utili sul tema «natura e paesaggio», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "beach",
+   "it": "spiaggia",
+   "ipa": "biːtʃ",
+   "pos": "n",
+   "ex": [
+    "The beach is empty in the morning.",
+    "La spiaggia è vuota la mattina."
+   ],
+   "lv": "A2",
+   "emoji": "🏖️"
+  },
+  {
+   "en": "cave",
+   "it": "grotta",
+   "ipa": "keɪv",
+   "pos": "n",
+   "ex": [
+    "We explored a cave near the sea.",
+    "Abbiamo esplorato una grotta vicino al mare."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "cliff",
+   "it": "scogliera",
+   "ipa": "klɪf",
+   "pos": "n",
+   "ex": [
+    "Do not go near the edge of the cliff.",
+    "Non avvicinarti al bordo della scogliera."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "desert",
+   "it": "deserto",
+   "ipa": "ˈdezət",
+   "pos": "n",
+   "ex": [
+    "It is very hot in the desert.",
+    "Nel deserto fa molto caldo."
+   ],
+   "lv": "A2",
+   "emoji": "🏜️"
+  },
+  {
+   "en": "field",
+   "it": "campo",
+   "ipa": "fiːld",
+   "pos": "n",
+   "ex": [
+    "The cows are in the field.",
+    "Le mucche sono nel campo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "flower",
+   "it": "fiore",
+   "ipa": "ˈflaʊə",
+   "pos": "n",
+   "ex": [
+    "She picked a yellow flower.",
+    "Ha colto un fiore giallo."
+   ],
+   "lv": "A2",
+   "emoji": "🌸"
+  },
+  {
+   "en": "forest",
+   "it": "foresta",
+   "ipa": "ˈfɒrɪst",
+   "pos": "n",
+   "ex": [
+    "You can get lost in this forest.",
+    "Ci si può perdere in questa foresta."
+   ],
+   "lv": "A2",
+   "emoji": "🌲"
+  },
+  {
+   "en": "grass",
+   "it": "erba",
+   "ipa": "ɡrɑːs",
+   "pos": "n",
+   "ex": [
+    "The children sat on the grass.",
+    "I bambini si sono seduti sull'erba."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "hill",
+   "it": "collina",
+   "ipa": "hɪl",
+   "pos": "n",
+   "ex": [
+    "We walked up the hill at sunrise.",
+    "Siamo saliti sulla collina all'alba."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "island",
+   "it": "isola",
+   "ipa": "ˈaɪlənd",
+   "pos": "n",
+   "ex": [
+    "They live on a small island.",
+    "Vivono su una piccola isola."
+   ],
+   "lv": "A2",
+   "emoji": "🏝️"
+  },
+  {
+   "en": "lake",
+   "it": "lago",
+   "ipa": "leɪk",
+   "pos": "n",
+   "ex": [
+    "We swam in the lake last summer.",
+    "Abbiamo nuotato nel lago l'estate scorsa."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "leaf",
+   "it": "foglia",
+   "ipa": "liːf",
+   "pos": "n",
+   "ex": [
+    "A red leaf fell from the tree.",
+    "Una foglia rossa è caduta dall'albero."
+   ],
+   "lv": "A2",
+   "emoji": "🍃"
+  },
+  {
+   "en": "path",
+   "it": "sentiero",
+   "ipa": "pɑːθ",
+   "pos": "n",
+   "ex": [
+    "Follow the path to the waterfall.",
+    "Segui il sentiero fino alla cascata."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "river",
+   "it": "fiume",
+   "ipa": "ˈrɪvə",
+   "pos": "n",
+   "ex": [
+    "The river is very wide here.",
+    "Il fiume è molto largo qui."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "rock",
+   "it": "roccia",
+   "ipa": "rɒk",
+   "pos": "n",
+   "ex": [
+    "He sat on a large rock.",
+    "Si è seduto su una grande roccia."
+   ],
+   "lv": "A2",
+   "emoji": "🪨"
+  },
+  {
+   "en": "sand",
+   "it": "sabbia",
+   "ipa": "sænd",
+   "pos": "n",
+   "ex": [
+    "The sand was hot under our feet.",
+    "La sabbia era calda sotto i piedi."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "sunrise",
+   "it": "alba",
+   "ipa": "ˈsʌnraɪz",
+   "pos": "n",
+   "ex": [
+    "We watched the sunrise from the top.",
+    "Abbiamo guardato l'alba dalla cima."
+   ],
+   "lv": "A2",
+   "emoji": "🌅"
+  },
+  {
+   "en": "sunset",
+   "it": "tramonto",
+   "ipa": "ˈsʌnset",
+   "pos": "n",
+   "ex": [
+    "The sunset over the sea was beautiful.",
+    "Il tramonto sul mare era bellissimo."
+   ],
+   "lv": "A2",
+   "emoji": "🌇"
+  },
+  {
+   "en": "valley",
+   "it": "valle",
+   "ipa": "ˈvæli",
+   "pos": "n",
+   "ex": [
+    "The village is in a green valley.",
+    "Il paese si trova in una valle verde."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "waterfall",
+   "it": "cascata",
+   "ipa": "ˈwɔːtəfɔːl",
+   "pos": "n",
+   "ex": [
+    "The waterfall is higher than I expected.",
+    "La cascata è più alta di quanto pensassi."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

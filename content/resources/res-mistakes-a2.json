@@ -1,0 +1,390 @@
+{
+ "id": "res-mistakes-a2",
+ "kind": "mistakes",
+ "lv": "A2",
+ "title": "Errori tipici: A2",
+ "intro": "Gli errori più comuni di chi parla italiano ai primi livelli: spesso sono traduzioni parola per parola.",
+ "items": [
+  {
+   "wrong": "I am agree with you.",
+   "right": "I agree with you.",
+   "why": "In inglese «agree» è già un verbo: non serve «to be». L'italiano dice «sono d'accordo» (essere + aggettivo) e per calco si traduce «I am agree».",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [
+    "I do agree with you."
+   ],
+   "more": [
+    "I agree you.",
+    "I am agreeing with you."
+   ]
+  },
+  {
+   "wrong": "I have 30 years.",
+   "right": "I am 30 years old.",
+   "why": "In inglese l'età si dice con «to be», non con «to have». Per calco da «ho 30 anni» molti dicono «I have 30 years».",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [
+    "I'm 30 years old.",
+    "I am 30.",
+    "I'm 30."
+   ],
+   "more": [
+    "I am 30 years."
+   ]
+  },
+  {
+   "wrong": "He said me that he was tired.",
+   "right": "He told me that he was tired.",
+   "why": "«Say» non vuole il complemento di persona senza «to»; con una persona si usa «tell». L'italiano «mi ha detto» usa lo stesso verbo in entrambi i casi.",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [
+    "He told me he was tired."
+   ],
+   "more": [
+    "He told that he was tired."
+   ]
+  },
+  {
+   "wrong": "I'm living here since 2019.",
+   "right": "I've lived here since 2019.",
+   "why": "Con «since» e «for» si usa il present perfect, non il presente continuo. In italiano «vivo qui dal 2019» è al presente, da cui l'errore.",
+   "topic": "tempi verbali",
+   "lv": "A2",
+   "alts": [
+    "I have lived here since 2019.",
+    "I've been living here since 2019.",
+    "I have been living here since 2019."
+   ],
+   "more": [
+    "I live here since 2019."
+   ]
+  },
+  {
+   "wrong": "Do you can help me?",
+   "right": "Can you help me?",
+   "why": "I verbi modali come «can» non vogliono «do» nelle domande: si invertono semplicemente con il soggetto. In italiano «puoi» è un verbo normale.",
+   "topic": "modali",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "Do you can to help me?"
+   ]
+  },
+  {
+   "wrong": "I need some informations.",
+   "right": "I need some information.",
+   "why": "«Information» è non numerabile e non ha il plurale. In italiano «informazioni» è plurale, quindi si tende a dire «informations».",
+   "topic": "countable/uncountable",
+   "lv": "A2",
+   "alts": [
+    "I need information."
+   ],
+   "more": [
+    "I need an information."
+   ]
+  },
+  {
+   "wrong": "She gave me good advices.",
+   "right": "She gave me good advice.",
+   "why": "«Advice» è non numerabile: niente «-s» e niente «a». In italiano «consigli» è numerabile.",
+   "topic": "countable/uncountable",
+   "lv": "A2",
+   "alts": [
+    "She gave me some good advice."
+   ],
+   "more": [
+    "She gave me a good advices."
+   ]
+  },
+  {
+   "wrong": "I like very much pizza.",
+   "right": "I like pizza very much.",
+   "why": "In inglese tra verbo e complemento non si inserisce un avverbio: «very much» va dopo il complemento. In italiano «mi piace molto la pizza» è naturale.",
+   "topic": "ordine delle parole",
+   "lv": "A2",
+   "alts": [
+    "I like pizza a lot.",
+    "I really like pizza."
+   ],
+   "more": [
+    "I like very much the pizza."
+   ]
+  },
+  {
+   "wrong": "Explain me the problem.",
+   "right": "Explain the problem to me.",
+   "why": "«Explain» vuole il complemento di persona con «to». In italiano «spiegami il problema» ha il pronome senza preposizione.",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "Explain the problem me."
+   ]
+  },
+  {
+   "wrong": "I make my homework every evening.",
+   "right": "I do my homework every evening.",
+   "why": "I compiti si «fanno» con «do», non con «make». L'italiano usa «fare» per tutto.",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [
+    "I do homework every evening.",
+    "I do the homework every evening."
+   ],
+   "more": [
+    "I do my homeworks every evening."
+   ]
+  },
+  {
+   "wrong": "It depends from the weather.",
+   "right": "It depends on the weather.",
+   "why": "Il verbo «depend» regge «on». L'italiano «dipende da» porta a tradurre «from».",
+   "topic": "preposizioni",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "It depend on the weather."
+   ]
+  },
+  {
+   "wrong": "My birthday is in 5 May.",
+   "right": "My birthday is on 5 May.",
+   "why": "Con le date precise si usa «on»; «in» è per mesi e anni. In italiano si usa «il» o niente.",
+   "topic": "preposizioni",
+   "lv": "A2",
+   "alts": [
+    "My birthday is on the 5th of May.",
+    "My birthday is on 5th May.",
+    "My birthday is on May 5th."
+   ],
+   "more": [
+    "My birthday is at 5 May."
+   ]
+  },
+  {
+   "wrong": "The people is very friendly here.",
+   "right": "The people are very friendly here.",
+   "why": "«People» è un plurale (senza «-s»). In italiano «la gente» è singolare, da cui il verbo al singolare.",
+   "topic": "plurali e singolari",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "The peoples are very friendly here."
+   ]
+  },
+  {
+   "wrong": "I am boring at the party.",
+   "right": "I am bored at the party.",
+   "why": "«Bored» descrive come ti senti; «boring» descrive ciò che annoia. L'italiano «annoiato / noioso» fa confondere le due forme.",
+   "topic": "altro",
+   "lv": "A2",
+   "alts": [
+    "I'm bored at the party."
+   ],
+   "more": [
+    "I am bore at the party."
+   ]
+  },
+  {
+   "wrong": "She don't like coffee.",
+   "right": "She doesn't like coffee.",
+   "why": "Alla terza persona singolare l'ausiliare è «does». In italiano il verbo si coniuga da solo, non c'è un ausiliare.",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [
+    "She does not like coffee."
+   ],
+   "more": [
+    "She doesn't likes coffee."
+   ]
+  },
+  {
+   "wrong": "This pizza is more better than that one.",
+   "right": "This pizza is better than that one.",
+   "why": "«Better» è già un comparativo: non si aggiunge «more». Per analogia con «più buono» si raddoppia.",
+   "topic": "altro",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "This pizza is gooder than that one."
+   ]
+  },
+  {
+   "wrong": "The life is expensive in London.",
+   "right": "Life is expensive in London.",
+   "why": "Con sostantivi astratti usati in senso generale non si usa l'articolo. In italiano «la vita è cara» richiede l'articolo.",
+   "topic": "articoli",
+   "lv": "A2",
+   "alts": [
+    "Living is expensive in London.",
+    "Life in London is expensive."
+   ],
+   "more": [
+    "Life are expensive in London."
+   ]
+  },
+  {
+   "wrong": "I know him since two years.",
+   "right": "I have known him for two years.",
+   "why": "Per una durata si usa «for» e il present perfect. «Since» indica il punto di partenza. L'italiano «da due anni» copre entrambi i casi.",
+   "topic": "tempi verbali",
+   "lv": "A2",
+   "alts": [
+    "I've known him for two years."
+   ],
+   "more": [
+    "I know him for two years."
+   ]
+  },
+  {
+   "wrong": "My actual boss is very kind.",
+   "right": "My current boss is very kind.",
+   "why": "«Actual» significa «vero, effettivo», non «attuale». Falso amico di «attuale» (= current).",
+   "topic": "falsi amici",
+   "lv": "A2",
+   "alts": [
+    "My present boss is very kind."
+   ],
+   "more": [
+    "My current boss are very kind."
+   ]
+  },
+  {
+   "wrong": "He is very sympathetic.",
+   "right": "He is very nice.",
+   "why": "«Sympathetic» significa «comprensivo», non «simpatico». Falso amico di «simpatico» (= nice, friendly).",
+   "topic": "falsi amici",
+   "lv": "A2",
+   "alts": [
+    "He is very friendly.",
+    "He's very nice.",
+    "He is very kind.",
+    "He is very likeable."
+   ],
+   "more": [
+    "He are very nice."
+   ]
+  },
+  {
+   "wrong": "There are a lot of persons in my family.",
+   "right": "There are a lot of people in my family.",
+   "why": "Il plurale normale di «person» nel parlare quotidiano è «people». «Persons» esiste ma suona formale e innaturale.",
+   "topic": "plurali e singolari",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "There is a lot of people in my family."
+   ]
+  },
+  {
+   "wrong": "I went to the shop for to buy bread.",
+   "right": "I went to the shop to buy bread.",
+   "why": "Lo scopo si esprime con «to + verbo», senza «for». Calco dell'italiano «per comprare».",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "I went to the shop for buy bread."
+   ]
+  },
+  {
+   "wrong": "She has long brown hairs.",
+   "right": "She has long brown hair.",
+   "why": "«Hair» (i capelli) è non numerabile. In italiano «capelli» è plurale.",
+   "topic": "countable/uncountable",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "She have long brown hair."
+   ]
+  },
+  {
+   "wrong": "Where you live?",
+   "right": "Where do you live?",
+   "why": "Le domande al presente semplice vogliono l'ausiliare «do». In italiano bastano la parola interrogativa e l'intonazione.",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "Where do you lives?"
+   ]
+  },
+  {
+   "wrong": "I am going to home now.",
+   "right": "I am going home now.",
+   "why": "«Home» è un avverbio qui: niente «to». L'italiano «vado a casa» ha la preposizione.",
+   "topic": "preposizioni",
+   "lv": "A2",
+   "alts": [
+    "I'm going home now."
+   ],
+   "more": [
+    "I am go home now."
+   ]
+  },
+  {
+   "wrong": "My sister is more tall than me.",
+   "right": "My sister is taller than me.",
+   "why": "Gli aggettivi corti formano il comparativo con «-er», non con «more». Calco di «più alta».",
+   "topic": "altro",
+   "lv": "A2",
+   "alts": [
+    "My sister is taller than I am."
+   ],
+   "more": [
+    "My sister is taller that me."
+   ]
+  },
+  {
+   "wrong": "I have a lot of works today.",
+   "right": "I have a lot of work today.",
+   "why": "«Work» nel senso di lavoro da fare è non numerabile. In italiano «lavori» si può usare al plurale.",
+   "topic": "countable/uncountable",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "I has a lot of work today."
+   ]
+  },
+  {
+   "wrong": "He is married with a doctor.",
+   "right": "He is married to a doctor.",
+   "why": "Dopo «married» si usa «to». L'italiano «sposato con» porta a tradurre «with».",
+   "topic": "preposizioni",
+   "lv": "A2",
+   "alts": [],
+   "more": [
+    "He is marry to a doctor."
+   ]
+  },
+  {
+   "wrong": "Yesterday I have seen Marco.",
+   "right": "Yesterday I saw Marco.",
+   "why": "Con un tempo passato definito («yesterday») si usa il past simple, non il present perfect. In italiano il passato prossimo funziona bene in questo caso.",
+   "topic": "tempi verbali",
+   "lv": "A2",
+   "alts": [
+    "I saw Marco yesterday."
+   ],
+   "more": [
+    "Yesterday I seen Marco."
+   ]
+  },
+  {
+   "wrong": "I don't have nothing to wear.",
+   "right": "I don't have anything to wear.",
+   "why": "In inglese la doppia negazione non esiste: con «don't» si usa «anything». L'italiano la richiede («non ho niente»).",
+   "topic": "verbi e costruzioni",
+   "lv": "A2",
+   "alts": [
+    "I have nothing to wear."
+   ],
+   "more": [
+    "I doesn't have anything to wear."
+   ]
+  }
+ ]
+}

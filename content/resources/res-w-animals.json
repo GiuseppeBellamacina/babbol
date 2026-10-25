@@ -1,0 +1,247 @@
+{
+ "id": "res-w-animals",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Animali",
+ "intro": "Venti parole utili sul tema «animali», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "bear",
+   "it": "orso",
+   "ipa": "beə",
+   "pos": "n",
+   "ex": [
+    "We saw a bear in the forest.",
+    "Abbiamo visto un orso nel bosco."
+   ],
+   "lv": "A2",
+   "emoji": "🐻"
+  },
+  {
+   "en": "bee",
+   "it": "ape",
+   "ipa": "biː",
+   "pos": "n",
+   "ex": [
+    "Bees make honey from flowers.",
+    "Le api fanno il miele dai fiori."
+   ],
+   "lv": "A2",
+   "emoji": "🐝"
+  },
+  {
+   "en": "butterfly",
+   "it": "farfalla",
+   "ipa": "ˈbʌtəflaɪ",
+   "pos": "n",
+   "ex": [
+    "A butterfly landed on the flower.",
+    "Una farfalla si è posata sul fiore."
+   ],
+   "lv": "A2",
+   "emoji": "🦋"
+  },
+  {
+   "en": "chicken",
+   "it": "gallina",
+   "ipa": "ˈtʃɪkɪn",
+   "pos": "n",
+   "ex": [
+    "The chickens give us fresh eggs.",
+    "Le galline ci danno uova fresche."
+   ],
+   "lv": "A2",
+   "emoji": "🐔"
+  },
+  {
+   "en": "cow",
+   "it": "mucca",
+   "ipa": "kaʊ",
+   "pos": "n",
+   "ex": [
+    "The cows are in the field.",
+    "Le mucche sono nel campo."
+   ],
+   "lv": "A2",
+   "emoji": "🐄"
+  },
+  {
+   "en": "duck",
+   "it": "anatra",
+   "ipa": "dʌk",
+   "pos": "n",
+   "ex": [
+    "Ducks were swimming on the lake.",
+    "Delle anatre nuotavano sul lago."
+   ],
+   "lv": "A2",
+   "emoji": "🦆"
+  },
+  {
+   "en": "elephant",
+   "it": "elefante",
+   "ipa": "ˈelɪfənt",
+   "pos": "n",
+   "ex": [
+    "The elephant is the biggest land animal.",
+    "L'elefante è il più grande animale terrestre."
+   ],
+   "lv": "A2",
+   "emoji": "🐘"
+  },
+  {
+   "en": "frog",
+   "it": "rana",
+   "ipa": "frɒɡ",
+   "pos": "n",
+   "ex": [
+    "The frog jumped into the pond.",
+    "La rana è saltata nello stagno."
+   ],
+   "lv": "A2",
+   "emoji": "🐸"
+  },
+  {
+   "en": "horse",
+   "it": "cavallo",
+   "ipa": "hɔːs",
+   "pos": "n",
+   "ex": [
+    "She rides a horse every Saturday.",
+    "Va a cavallo ogni sabato."
+   ],
+   "lv": "A2",
+   "emoji": "🐴"
+  },
+  {
+   "en": "lion",
+   "it": "leone",
+   "ipa": "ˈlaɪən",
+   "pos": "n",
+   "ex": [
+    "The lion slept under a tree.",
+    "Il leone dormiva sotto un albero."
+   ],
+   "lv": "A2",
+   "emoji": "🦁"
+  },
+  {
+   "en": "monkey",
+   "it": "scimmia",
+   "ipa": "ˈmʌŋki",
+   "pos": "n",
+   "ex": [
+    "The monkey jumped from tree to tree.",
+    "La scimmia saltava da un albero all'altro."
+   ],
+   "lv": "A2",
+   "emoji": "🐒"
+  },
+  {
+   "en": "mouse",
+   "it": "topo",
+   "ipa": "maʊs",
+   "pos": "n",
+   "ex": [
+    "A mouse ran across the kitchen.",
+    "Un topo ha attraversato la cucina di corsa."
+   ],
+   "lv": "A2",
+   "emoji": "🐭"
+  },
+  {
+   "en": "pet",
+   "it": "animale domestico",
+   "ipa": "pet",
+   "pos": "n",
+   "ex": [
+    "Do you have a pet at home?",
+    "Hai un animale domestico a casa?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "pig",
+   "it": "maiale",
+   "ipa": "pɪɡ",
+   "pos": "n",
+   "ex": [
+    "The farmer keeps two pigs.",
+    "Il contadino tiene due maiali."
+   ],
+   "lv": "A2",
+   "emoji": "🐖"
+  },
+  {
+   "en": "rabbit",
+   "it": "coniglio",
+   "ipa": "ˈræbɪt",
+   "pos": "n",
+   "ex": [
+    "The rabbit ate a carrot.",
+    "Il coniglio ha mangiato una carota."
+   ],
+   "lv": "A2",
+   "emoji": "🐰"
+  },
+  {
+   "en": "sheep",
+   "it": "pecora",
+   "ipa": "ʃiːp",
+   "pos": "n",
+   "ex": [
+    "There are a hundred sheep on the hill.",
+    "Ci sono cento pecore sulla collina."
+   ],
+   "lv": "A2",
+   "emoji": "🐑"
+  },
+  {
+   "en": "snake",
+   "it": "serpente",
+   "ipa": "sneɪk",
+   "pos": "n",
+   "ex": [
+    "Be careful, there may be a snake here.",
+    "Attenzione, qui potrebbe esserci un serpente."
+   ],
+   "lv": "A2",
+   "emoji": "🐍"
+  },
+  {
+   "en": "spider",
+   "it": "ragno",
+   "ipa": "ˈspaɪdə",
+   "pos": "n",
+   "ex": [
+    "There is a spider on the wall.",
+    "C'è un ragno sul muro."
+   ],
+   "lv": "A2",
+   "emoji": "🕷️"
+  },
+  {
+   "en": "tail",
+   "it": "coda",
+   "ipa": "teɪl",
+   "pos": "n",
+   "ex": [
+    "The dog wagged its tail.",
+    "Il cane scodinzolava."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "wolf",
+   "it": "lupo",
+   "ipa": "wʊlf",
+   "pos": "n",
+   "ex": [
+    "Wolves live and hunt in groups.",
+    "I lupi vivono e cacciano in branco."
+   ],
+   "lv": "A2",
+   "emoji": "🐺"
+  }
+ ]
+}

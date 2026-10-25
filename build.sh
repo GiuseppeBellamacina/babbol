@@ -31,6 +31,12 @@ rm -rf "$OUT"; mkdir -p "$OUT/gen" "$OUT/classes" "$ROOT/dist"
 echo "==> controllo del codice (sintassi JS)"
 for f in $(find "$ROOT/www/js" -name '*.js'); do node --check "$f"; done
 
+echo "==> versione"
+V_MANIFEST=$(grep -o 'android:versionName="[^"]*"' "$ROOT/android/AndroidManifest.xml" | cut -d'"' -f2)
+V_JS=$(grep -o 'VERSION: "[^"]*"' "$ROOT/www/js/core/boot.js" | cut -d'"' -f2)
+[ "$V_MANIFEST" = "$V_JS" ] || { echo "Versioni diverse: manifest $V_MANIFEST, boot.js $V_JS"; exit 1; }
+echo "versione $V_MANIFEST"
+
 echo "==> contenuti: validazione e snapshot"
 node "$ROOT/tools/content.js" validate
 node "$ROOT/tools/content.js" check-bundle

@@ -83,6 +83,7 @@ Ogni step valutato può avere `why`: spiegazione in italiano mostrata dopo la ri
 ### Non valutati
 ```jsonc
 { "t": "note", "title": "Quando si usa", "body": "Testo in italiano con **grassetto** e\n- elenchi",
+  "svg": "tl-present",                                              // facoltativo: schema in www/img/g/<nome>.svg (linee del tempo, strutture)
   "ex": [["I had already left.", "Ero già uscito."]],              // facoltativo, esempi ascoltabili
   "table": [["", "Affermativa", "Negativa"], ["I/you/he...", "had gone", "hadn't gone"]] }   // facoltativo
 { "t": "words" }                     // mostra le parole della lezione (4 per pagina)
@@ -95,6 +96,8 @@ Ogni step valutato può avere `why`: spiegazione in italiano mostrata dopo la ri
   "opts": ["...", "...", "...", "..."], "a": 0, "why": "..." }
 { "t": "gap", "s": "By the time we arrived, the film ___ .", "opts": ["had started", "has started", "started"], "a": 0,
   "it": "Quando siamo arrivati il film era già iniziato.", "why": "..." }
+// più spazi (2 o 3): ogni opzione ha una parte per spazio, separate da " / "
+{ "t": "gap", "s": "I had ___ egg and ___ apple.", "opts": ["an / an", "a / an", "an / a"], "a": 0, "it": "...", "why": "..." }
 { "t": "match", "pairs": [["make a decision", "prendere una decisione"], ["do research", "fare ricerca"]] }   // 4-6 coppie
 { "t": "dialog", "title": "Al check-in", "it": "Scegli la battuta giusta.",
   "lines": [["Agent", "Good morning. Can I see your passport?"],
@@ -178,5 +181,13 @@ Tipi di `kind` e campi degli `items`:
 | `idioms` | `en`, `it`, `lit`, `ex`, `lv` |
 | `connectors` | `en`, `it`, `use`, `ex`, `lv` |
 | `pron` | `title`, `sound`, `tip`, `words` |
+| `words` | `en`, `it`, `ipa`, `ex` (`[en, it]`), opzionali `emoji` / `img` / `photo` (uno solo). Parole nuove: non devono comparire nelle unità né in un'altra lista |
+| `collocations` | `en`, `it`, opzionali `group`, `ex`, `lv` |
+| `mistakes` | `wrong`, `right`, `why`, `topic`, opzionali `alts` (altre correzioni valide), `more` (altre versioni sbagliate), `lv` |
+| `sayit` | `written`, `spoken` (solo parole inglesi, lette dalla voce), `it`, `group`, opzionali `alts`, `note` |
+| `phrases` | `en`, `it`, `group` (la situazione), opzionali `ex`, `lv`, `alts` |
+| `photos` | «Descrivi la foto»: `q`, `it`, `lv`, `hints` (almeno 3), `model` (A2 30, B1 55, B2 90 parole minime) e `photo` **oppure** `photos` (due foto A/B, solo B2) |
+
+Foto: `"photo": "<id>"` si può usare su una parola (campo `photo` del vocabolario), su uno step `read`, `speakTask`, `write`; `"photos": ["<id>", "<id>"]` per il confronto. Gli id stanno in `content/photos.json` (vedi `docs/IMAGES.md`). Una nota di grammatica può avere `"svg": "<nome>"` (file in `www/img/g/`).
 
 Le schede di grammatica non sono una risorsa a parte: l'app le ricava dalle `note` delle lezioni `grammar`.

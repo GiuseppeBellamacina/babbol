@@ -87,6 +87,7 @@
    "minutes": 15,
    "steps": [
     { "t": "read", "title": "Meet my flatmates", "genre": "blog",
+      "photo": "r-a2-10",
       "text": "I moved to Glasgow in September, and I share a flat with two people I didn't know before. After three months I can say one thing: I'm very lucky.\n\nFiona is from Aberdeen and she studies medicine. She's hard-working and very reliable. She always pays the bills on time, and she never forgets to buy milk. She isn't shy, but she speaks quietly, so you sometimes can't hear her in the kitchen.\n\nBen is from Leeds. He works in a bar, so he comes home late and sleeps until noon. Some people say he's lazy, but that isn't true: he's just tired! He is also the most generous person I know. Last week he cooked dinner for all of us and refused to take any money.\n\nWhat about me? My flatmates say I'm cheerful, but a bit bossy. I think they're right. I always tell them when the bathroom is dirty, and nobody likes that!\n\nOf course, we don't agree on everything. Ben plays the guitar badly and very loudly, and Fiona listens to the radio all day. But we get on well, and every Sunday we have dinner together. Who cooks? Ben, of course.",
       "qs": [
        { "q": "Where is Fiona from?", "opts": ["Aberdeen", "Leeds", "Glasgow"], "a": 0, "why": "«Fiona is from Aberdeen»." },

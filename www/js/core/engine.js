@@ -43,7 +43,7 @@
     return Object.assign({ t: "mc", opts: opts, a: opts.indexOf(w[field]), wordId: w.id, _skill: "vocab" }, base);
   }
   var WORD_STEPS = {
-    pic: function (w) { return mcWord({ q: "Che cos'è?", img: w.img, emoji: w.emoji, speakOnPick: true, sayAfter: w.en }, w, "en"); },
+    pic: function (w) { return mcWord({ q: "Che cos'è?", img: w.img, emoji: w.emoji, photo: w.photo, speakOnPick: true, sayAfter: w.en }, w, "en"); },
     itEn: function (w) { return mcWord({ q: "Come si dice in inglese?", text: w.it, speakOnPick: true, sayAfter: w.en }, w, "en"); },
     enIt: function (w) { return mcWord({ q: "Che cosa significa?", text: w.en, sub: "/" + w.ipa + "/", say: w.en }, w, "it"); },
     listen: function (w) { return mcWord({ q: "Ascolta e scegli il significato", say: w.en, hide: true }, w, "it"); },

@@ -17,6 +17,7 @@
       "steps": [
         {
           "t": "note",
+          "svg": "passive",
           "title": "Come si forma il passivo",
           "body": "Il passivo si forma con **be (al tempo giusto) + participio passato**. Il tempo del verbo be è lo stesso che avrebbe il verbo attivo.\n- **Present simple**: Cheese **is made** from milk.\n- **Past simple**: The telephone **was invented** in 1876.\n- **Present perfect**: My order **has been delivered**.\n- **Will**: Your parcel **will be sent** tomorrow.\n- **Verbi modali**: Receipts **must be kept**. / Faulty goods **can be returned**.\n\nL'oggetto della frase attiva diventa il soggetto del passivo: *They make these shoes in Italy* -> *These shoes are made in Italy*.\n\nNegative e domande si fanno con l'ausiliare be (o con il modale): The shop **isn't** open. / **Was** the parcel **sent**? / **Can** it **be repaired**?",
           "table": [
@@ -424,6 +425,7 @@
         {
           "id": "b1-06-w10",
           "en": "recipe",
+          "photo": "recipe",
           "it": "ricetta (di cucina)",
           "ipa": "ˈresəpi",
           "pos": "n",
@@ -591,6 +593,7 @@
       "steps": [
         {
           "t": "read",
+          "photo": "r-b1-06",
           "title": "Three delicious mistakes",
           "genre": "articolo",
           "text": "Some of the foods we eat every day were invented by mistake. Here are three famous stories, although historians are not always sure that they are completely true.\n\nThe first is the ice lolly. In 1905 an eleven-year-old boy in California left a glass of fruit soda outside with a wooden stick in it. The night was very cold, and the next morning the drink had frozen. The boy pulled the stick out, licked the frozen soda and loved it. Years later, when he was an adult, he decided to sell the idea, and a famous summer treat was born. Today, ice lollies are sold in almost every country in the world, and millions are eaten every summer.\n\nThe second story is about chocolate biscuits. In the 1930s the owner of a small hotel in Massachusetts was making biscuits for her guests. She ran out of baking chocolate, so she cut a chocolate bar into small pieces and mixed them into the dough. She expected the pieces to melt completely, but they stayed solid. The guests were delighted, and the recipe was printed on the packets of a chocolate company a few years later. Nowadays, the biscuits are baked in kitchens everywhere.\n\nThe last story is the most surprising. According to one version, a customer in a restaurant in New York complained that his fried potatoes were too thick. The chef was annoyed, so he cut the potatoes as thin as paper, fried them until they were hard and added a lot of salt. He thought the customer would hate them. Instead, the man was thrilled and asked for more. Thin crisps were soon being served to every table, and later they were sold in bags in shops. Some historians say that a similar recipe had been published in a cookbook years before, but the restaurant story is still the most popular one.\n\nWhat do these stories have in common? In each case a problem was turned into an opportunity. Perhaps the next big food idea is being created in a kitchen near you right now, by someone who has simply made a mistake.",

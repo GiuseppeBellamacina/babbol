@@ -1,0 +1,231 @@
+{
+ "id": "res-w-house-furniture",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Casa e mobili",
+ "intro": "Venti parole utili sul tema «casa e mobili», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "armchair",
+   "it": "poltrona",
+   "ipa": "ˈɑːmtʃeə",
+   "pos": "n",
+   "ex": [
+    "Grandpa sleeps in the armchair after lunch.",
+    "Il nonno dorme in poltrona dopo pranzo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "balcony",
+   "it": "balcone",
+   "ipa": "ˈbælkəni",
+   "pos": "n",
+   "ex": [
+    "We have breakfast on the balcony.",
+    "Facciamo colazione sul balcone."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "bathtub",
+   "it": "vasca da bagno",
+   "ipa": "ˈbɑːθtʌb",
+   "pos": "n",
+   "ex": [
+    "I like a hot bath in the bathtub.",
+    "Mi piace un bagno caldo nella vasca."
+   ],
+   "lv": "A2",
+   "emoji": "🛁"
+  },
+  {
+   "en": "carpet",
+   "it": "tappeto",
+   "ipa": "ˈkɑːpɪt",
+   "pos": "n",
+   "ex": [
+    "There is a soft carpet in the bedroom.",
+    "C'è un tappeto morbido in camera da letto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "ceiling",
+   "it": "soffitto",
+   "ipa": "ˈsiːlɪŋ",
+   "pos": "n",
+   "ex": [
+    "The ceiling in this room is very high.",
+    "Il soffitto di questa stanza è molto alto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "cupboard",
+   "it": "credenza",
+   "ipa": "ˈkʌbəd",
+   "pos": "n",
+   "ex": [
+    "The plates are in the cupboard.",
+    "I piatti sono nella credenza."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "curtain",
+   "it": "tenda",
+   "ipa": "ˈkɜːtn",
+   "pos": "n",
+   "ex": [
+    "Please close the curtains, the sun is strong.",
+    "Chiudi le tende, per favore, il sole è forte."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "dishwasher",
+   "it": "lavastoviglie",
+   "ipa": "ˈdɪʃwɒʃə",
+   "pos": "n",
+   "ex": [
+    "The dishwasher is full of plates.",
+    "La lavastoviglie è piena di piatti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "drawer",
+   "it": "cassetto",
+   "ipa": "drɔː",
+   "pos": "n",
+   "ex": [
+    "Your socks are in the second drawer.",
+    "I tuoi calzini sono nel secondo cassetto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "floor",
+   "it": "pavimento",
+   "ipa": "flɔː",
+   "pos": "n",
+   "ex": [
+    "The kitchen floor is always clean.",
+    "Il pavimento della cucina è sempre pulito."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "garage",
+   "it": "garage",
+   "ipa": "ˈɡærɑːʒ",
+   "pos": "n",
+   "ex": [
+    "The car is in the garage.",
+    "La macchina è in garage."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "garden",
+   "it": "giardino",
+   "ipa": "ˈɡɑːdn",
+   "pos": "n",
+   "ex": [
+    "The children play in the garden.",
+    "I bambini giocano in giardino."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "lamp",
+   "it": "lampada",
+   "ipa": "læmp",
+   "pos": "n",
+   "ex": [
+    "Turn on the lamp, it is dark.",
+    "Accendi la lampada, è buio."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "mirror",
+   "it": "specchio",
+   "ipa": "ˈmɪrə",
+   "pos": "n",
+   "ex": [
+    "There is a big mirror in the hall.",
+    "C'è un grande specchio nell'ingresso."
+   ],
+   "lv": "A2",
+   "emoji": "🪞"
+  },
+  {
+   "en": "move house",
+   "it": "traslocare",
+   "ipa": "muːv haʊs",
+   "pos": "phr",
+   "ex": [
+    "They moved house last month.",
+    "Hanno traslocato il mese scorso."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "rent",
+   "it": "affitto",
+   "ipa": "rent",
+   "pos": "n",
+   "ex": [
+    "The rent is very high in this area.",
+    "L'affitto è molto alto in questa zona."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "shelf",
+   "it": "scaffale",
+   "ipa": "ʃelf",
+   "pos": "n",
+   "ex": [
+    "The books are on the top shelf.",
+    "I libri sono sullo scaffale più alto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "stairs",
+   "it": "scale",
+   "ipa": "steəz",
+   "pos": "n",
+   "ex": [
+    "Our flat is up three flights of stairs.",
+    "Il nostro appartamento è su tre rampe di scale."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "tidy up",
+   "it": "mettere in ordine",
+   "ipa": "ˈtaɪdi ʌp",
+   "pos": "phr",
+   "ex": [
+    "Please tidy up your room before dinner.",
+    "Metti in ordine la tua stanza prima di cena."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "wall",
+   "it": "parete",
+   "ipa": "wɔːl",
+   "pos": "n",
+   "ex": [
+    "We painted the wall white.",
+    "Abbiamo dipinto la parete di bianco."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

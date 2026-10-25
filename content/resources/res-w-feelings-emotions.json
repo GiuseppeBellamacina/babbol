@@ -1,0 +1,229 @@
+{
+ "id": "res-w-feelings-emotions",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Sentimenti ed emozioni",
+ "intro": "Venti parole utili sul tema «sentimenti ed emozioni», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "amused",
+   "it": "divertito",
+   "ipa": "əˈmjuːzd",
+   "pos": "adj",
+   "ex": [
+    "She was amused by his silly joke.",
+    "Era divertita dalla sua battuta sciocca."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "annoyed",
+   "it": "infastidito",
+   "ipa": "əˈnɔɪd",
+   "pos": "adj",
+   "ex": [
+    "He was annoyed by the loud music.",
+    "Era infastidito dalla musica alta."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "anxious",
+   "it": "ansioso",
+   "ipa": "ˈæŋkʃəs",
+   "pos": "adj",
+   "ex": [
+    "She was anxious about the test results.",
+    "Era in ansia per i risultati del test."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "bored",
+   "it": "annoiato",
+   "ipa": "bɔːd",
+   "pos": "adj",
+   "ex": [
+    "The children got bored during the long drive.",
+    "I bambini si sono annoiati durante il lungo viaggio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "burst into tears",
+   "it": "scoppiare in lacrime",
+   "ipa": "bɜːst ˈɪntə tɪəz",
+   "pos": "phr",
+   "ex": [
+    "She burst into tears at the airport.",
+    "È scoppiata in lacrime all'aeroporto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "calm down",
+   "it": "calmarsi",
+   "ipa": "kɑːm daʊn",
+   "pos": "phr",
+   "ex": [
+    "Please calm down and tell me what happened.",
+    "Calmati e dimmi cosa è successo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cheer up",
+   "it": "tirarsi su",
+   "ipa": "tʃɪər ʌp",
+   "pos": "phr",
+   "ex": [
+    "Cheer up, things will get better soon.",
+    "Tirati su, le cose andranno meglio presto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "confident",
+   "it": "sicuro di sé",
+   "ipa": "ˈkɒnfɪdənt",
+   "pos": "adj",
+   "ex": [
+    "I feel confident about the interview.",
+    "Mi sento sicuro per il colloquio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "embarrassed",
+   "it": "imbarazzato",
+   "ipa": "ɪmˈbærəst",
+   "pos": "adj",
+   "ex": [
+    "He felt embarrassed when he forgot her name.",
+    "Si è sentito imbarazzato quando ha dimenticato il suo nome."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "fed up",
+   "it": "stufo",
+   "ipa": "fed ʌp",
+   "pos": "phr",
+   "ex": [
+    "I am fed up with this noisy street.",
+    "Sono stufo di questa strada rumorosa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "furious",
+   "it": "furioso",
+   "ipa": "ˈfjʊəriəs",
+   "pos": "adj",
+   "ex": [
+    "He was furious when he saw the damage.",
+    "Era furioso quando ha visto i danni."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "get along",
+   "it": "andare d'accordo",
+   "ipa": "ɡet əˈlɒŋ",
+   "pos": "phr",
+   "ex": [
+    "The two brothers get along very well.",
+    "I due fratelli vanno molto d'accordo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "grateful",
+   "it": "riconoscente",
+   "ipa": "ˈɡreɪtfl",
+   "pos": "adj",
+   "ex": [
+    "I am grateful for your help.",
+    "Ti sono riconoscente per il tuo aiuto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "lonely",
+   "it": "solo",
+   "ipa": "ˈləʊnli",
+   "pos": "adj",
+   "ex": [
+    "He felt lonely in the new city.",
+    "Si sentiva solo nella nuova città."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "miserable",
+   "it": "infelice",
+   "ipa": "ˈmɪzrəbl",
+   "pos": "adj",
+   "ex": [
+    "The rain made everyone feel miserable.",
+    "La pioggia metteva tutti di cattivo umore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "nervous",
+   "it": "agitato",
+   "ipa": "ˈnɜːvəs",
+   "pos": "adj",
+   "ex": [
+    "I always feel nervous before an exam.",
+    "Mi sento sempre agitato prima di un esame."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "relieved",
+   "it": "sollevato",
+   "ipa": "rɪˈliːvd",
+   "pos": "adj",
+   "ex": [
+    "I was relieved when the test was over.",
+    "Mi sono sentito sollevato quando il test è finito."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "stressed",
+   "it": "stressato",
+   "ipa": "strest",
+   "pos": "adj",
+   "ex": [
+    "I feel stressed when I have too much work.",
+    "Mi sento stressato quando ho troppo lavoro."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "thrilled",
+   "it": "entusiasta",
+   "ipa": "θrɪld",
+   "pos": "adj",
+   "ex": [
+    "They were thrilled to win the prize.",
+    "Erano entusiasti di vincere il premio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "upset",
+   "it": "sconvolto",
+   "ipa": "ʌpˈset",
+   "pos": "adj",
+   "ex": [
+    "She was upset by the bad news.",
+    "Era sconvolta dalla brutta notizia."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

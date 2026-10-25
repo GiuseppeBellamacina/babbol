@@ -1,0 +1,129 @@
+{
+  "id": "res-photos-a2",
+  "kind": "photos",
+  "lv": "A2",
+  "title": "Descrivi la foto: A2",
+  "intro": "Guarda la foto e parla per circa un minuto: cosa vedi, dove sono le persone, cosa stanno facendo. Poi confronta con la risposta modello.",
+  "items": [
+    {
+      "id": "beach",
+      "lv": "A2",
+      "photo": "beach",
+      "q": "Describe the photo. What can you see? Where are the people? What are they doing?",
+      "it": "Descrivi il mare, le persone in acqua e quelle sulla spiaggia in lontananza. Di' che tempo fa.",
+      "hints": [
+        "I can see...",
+        "There are a lot of people...",
+        "In the picture...",
+        "The weather is..."
+      ],
+      "model": "In the picture I can see the sea. The water is blue and the sun is bright. There are a lot of people on the beach in the distance. Two people are in the water. There is a small boat on the right. The sky is clear and the weather is hot and sunny. It looks like a nice summer day.",
+      "min": 30
+    },
+    {
+      "id": "street-shops",
+      "lv": "A2",
+      "photo": "street-shops",
+      "q": "Describe the photo. What kind of place is it? Who can you see? What are they doing?",
+      "it": "Descrivi la strada con i negozi e le persone che camminano. Di' cosa indossano alcune persone.",
+      "hints": [
+        "I can see...",
+        "There are shops...",
+        "On the left / on the right...",
+        "The people are walking..."
+      ],
+      "model": "This is a street in a city. There are a lot of shops on both sides of the road. Many people are walking in the street. On the right, a woman is wearing a red top and a man is wearing a black t-shirt. The buildings are tall and there are signs above the shops. The sky is white, so I think it is cloudy.",
+      "min": 30
+    },
+    {
+      "id": "park-walk",
+      "lv": "A2",
+      "photo": "park-walk",
+      "q": "Describe the photo. Where are the people? What are they doing? What is the weather like?",
+      "it": "Descrivi il parco, l'acqua e le due persone che camminano in primo piano.",
+      "hints": [
+        "I can see...",
+        "There is a lake / a path...",
+        "In the front...",
+        "The weather is..."
+      ],
+      "model": "In the picture there is a big park. There is green grass and a path. Two people are walking on the path. One is wearing a red jacket and the other is wearing a brown jacket. Behind the park there is blue water, and on the other side there are hills and some houses. There are only a few people. The sky is grey and it is quiet.",
+      "min": 30
+    },
+    {
+      "id": "cafe-terrace",
+      "lv": "A2",
+      "photo": "cafe-terrace",
+      "q": "Describe the photo. Where are the people? What are they doing? What can you see on the street?",
+      "it": "Descrivi la terrazza del caffè: tavolini, sedie e persone sedute. Cosa stanno facendo?",
+      "hints": [
+        "I can see...",
+        "There are tables and chairs...",
+        "They are sitting / talking...",
+        "In the picture..."
+      ],
+      "model": "This is a cafe in a city street. There are a lot of tables and chairs outside. Many people are sitting at the tables. Some people are talking and some are drinking. On the left, a man is walking in the street. The chairs are made of wood and metal. I think the people are relaxing. It looks like a nice place.",
+      "min": 30
+    },
+    {
+      "id": "supermarket",
+      "lv": "A2",
+      "photo": "supermarket",
+      "q": "Describe the photo. What can you see? Where is this place? What are the things on the shelves?",
+      "it": "Descrivi il corridoio del supermercato: scaffali, prodotti, persone. Dove ti trovi?",
+      "hints": [
+        "I can see...",
+        "There are shelves...",
+        "On the left / on the right...",
+        "It is a..."
+      ],
+      "model": "This is a supermarket. I can see a long aisle with shelves on both sides. There are a lot of products on the shelves. On the left there are bottles and boxes. On the right there are brown bottles and big boxes on the floor. There is one person at the end of the aisle. The floor is clean and the lights are on.",
+      "min": 30
+    },
+    {
+      "id": "bus-stop",
+      "lv": "A2",
+      "photo": "bus-stop",
+      "q": "Describe the photo. Who can you see? What are they doing? What is the weather like?",
+      "it": "Descrivi la fermata dell'autobus, le persone che aspettano e il tempo. Cosa indossano?",
+      "hints": [
+        "I can see...",
+        "There is / There are...",
+        "They are waiting for...",
+        "The weather is..."
+      ],
+      "model": "In the picture there is a bus stop. A group of people are standing near it. They are waiting for the bus. They are wearing coats and hats, so I think it is very cold. There is snow on the ground behind them. There are some trees without leaves and a big brick building. It is winter.",
+      "min": 30
+    },
+    {
+      "id": "market",
+      "lv": "A2",
+      "photo": "market",
+      "q": "Describe the photo. What is this place? What can you see? What are the people doing?",
+      "it": "Descrivi il mercato all'aperto: le bancarelle, la frutta e la verdura, le persone e gli alberi.",
+      "hints": [
+        "I can see...",
+        "There are stalls...",
+        "They are buying / selling...",
+        "In the background..."
+      ],
+      "model": "This is an outdoor market. There are some stalls with fruit and vegetables. I can see oranges, green vegetables and many boxes. Some people are standing in front of the stalls. A man is wearing an orange shirt and a woman is wearing a blue top. They are talking. In the background there are big green trees and two white buildings.",
+      "min": 30
+    },
+    {
+      "id": "suitcase",
+      "lv": "A2",
+      "photo": "suitcase",
+      "q": "Describe the photo. What can you see? Where are the things? What colour are they?",
+      "it": "Descrivi le valigie: quante sono, di che colore, dove sono. Cosa c'è dietro?",
+      "hints": [
+        "I can see...",
+        "There are four...",
+        "They are old / brown...",
+        "Behind the suitcases..."
+      ],
+      "model": "In the picture I can see some old suitcases. There are four or five of them. They are brown and one is grey. They are on the ground, and the big ones are on top of the small ones. Behind them there is a wall of red bricks and a big window. Through the window I can see something red. There are no people.",
+      "min": 30
+    }
+  ]
+}

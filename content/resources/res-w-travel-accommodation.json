@@ -1,0 +1,232 @@
+{
+ "id": "res-w-travel-accommodation",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Viaggi e alloggio",
+ "intro": "Venti parole utili sul tema «viaggi e alloggio», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "airline",
+   "it": "compagnia aerea",
+   "ipa": "ˈeəlaɪn",
+   "pos": "n",
+   "ex": [
+    "This airline has cheap flights to Spain.",
+    "Questa compagnia aerea ha voli economici per la Spagna."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "backpack",
+   "it": "zaino",
+   "ipa": "ˈbækpæk",
+   "pos": "n",
+   "ex": [
+    "He travelled with only a small backpack.",
+    "Ha viaggiato con un piccolo zaino."
+   ],
+   "lv": "B1",
+   "emoji": "🎒"
+  },
+  {
+   "en": "campsite",
+   "it": "campeggio",
+   "ipa": "ˈkæmpsaɪt",
+   "pos": "n",
+   "ex": [
+    "The campsite is near a beautiful lake.",
+    "Il campeggio è vicino a un bel lago."
+   ],
+   "lv": "B1",
+   "emoji": "⛺"
+  },
+  {
+   "en": "check out",
+   "it": "lasciare l'albergo",
+   "ipa": "tʃek aʊt",
+   "pos": "phr",
+   "ex": [
+    "We must check out before eleven.",
+    "Dobbiamo lasciare la camera prima delle undici."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cruise",
+   "it": "crociera",
+   "ipa": "kruːz",
+   "pos": "n",
+   "ex": [
+    "They went on a cruise around the Greek islands.",
+    "Hanno fatto una crociera intorno alle isole greche."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "currency",
+   "it": "valuta",
+   "ipa": "ˈkʌrənsi",
+   "pos": "n",
+   "ex": [
+    "What is the local currency here?",
+    "Qual è la valuta locale qui?"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "customs",
+   "it": "dogana",
+   "ipa": "ˈkʌstəmz",
+   "pos": "n",
+   "ex": [
+    "We waited in a long queue at customs.",
+    "Abbiamo aspettato in una lunga fila alla dogana."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "double room",
+   "it": "camera doppia",
+   "ipa": "ˈdʌbl ruːm",
+   "pos": "phr",
+   "ex": [
+    "We booked a double room with a sea view.",
+    "Abbiamo prenotato una camera doppia con vista mare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "ferry",
+   "it": "traghetto",
+   "ipa": "ˈferi",
+   "pos": "n",
+   "ex": [
+    "The ferry leaves every two hours.",
+    "Il traghetto parte ogni due ore."
+   ],
+   "lv": "B1",
+   "emoji": "⛴️"
+  },
+  {
+   "en": "guidebook",
+   "it": "guida turistica",
+   "ipa": "ˈɡaɪdbʊk",
+   "pos": "n",
+   "ex": [
+    "The guidebook recommends a quiet restaurant.",
+    "La guida consiglia un ristorante tranquillo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "hostel",
+   "it": "ostello",
+   "ipa": "ˈhɒstl",
+   "pos": "n",
+   "ex": [
+    "Young travellers often stay in a hostel.",
+    "I giovani viaggiatori spesso dormono in ostello."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "miss",
+   "it": "perdere (un mezzo)",
+   "ipa": "mɪs",
+   "pos": "v",
+   "ex": [
+    "Hurry up or we will miss the train.",
+    "Sbrigati o perderemo il treno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "receptionist",
+   "it": "addetto alla reception",
+   "ipa": "rɪˈsepʃənɪst",
+   "pos": "n",
+   "ex": [
+    "The receptionist gave us a map of the town.",
+    "L'addetta alla reception ci ha dato una mappa della città."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "reservation",
+   "it": "prenotazione",
+   "ipa": "ˌrezəˈveɪʃn",
+   "pos": "n",
+   "ex": [
+    "I made a reservation for two nights.",
+    "Ho fatto una prenotazione per due notti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "resort",
+   "it": "località turistica",
+   "ipa": "rɪˈzɔːt",
+   "pos": "n",
+   "ex": [
+    "We stayed at a seaside resort.",
+    "Abbiamo soggiornato in una località di mare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "seat belt",
+   "it": "cintura di sicurezza",
+   "ipa": "siːt belt",
+   "pos": "phr",
+   "ex": [
+    "Please fasten your seat belt.",
+    "Allacciate la cintura di sicurezza, per favore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "set off",
+   "it": "partire",
+   "ipa": "set ɒf",
+   "pos": "phr",
+   "ex": [
+    "We set off at dawn to avoid the traffic.",
+    "Siamo partiti all'alba per evitare il traffico."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "single room",
+   "it": "camera singola",
+   "ipa": "ˈsɪŋɡl ruːm",
+   "pos": "phr",
+   "ex": [
+    "A single room costs sixty pounds a night.",
+    "Una camera singola costa sessanta sterline a notte."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "tour guide",
+   "it": "guida turistica",
+   "ipa": "tʊə ɡaɪd",
+   "pos": "phr",
+   "ex": [
+    "The tour guide spoke very clearly.",
+    "La guida turistica parlava molto chiaramente."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "visa",
+   "it": "visto",
+   "ipa": "ˈviːzə",
+   "pos": "n",
+   "ex": [
+    "You need a visa to enter the country.",
+    "Serve un visto per entrare nel paese."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

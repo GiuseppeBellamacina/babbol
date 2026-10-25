@@ -340,6 +340,7 @@
         {
           "id": "b1-04-w01",
           "en": "device",
+          "emoji": "📱",
           "it": "dispositivo",
           "ipa": "dɪˈvaɪs",
           "pos": "n",
@@ -352,6 +353,7 @@
         {
           "id": "b1-04-w02",
           "en": "battery",
+          "photo": "battery",
           "it": "batteria",
           "ipa": "ˈbætri",
           "pos": "n",
@@ -364,6 +366,7 @@
         {
           "id": "b1-04-w03",
           "en": "charger",
+          "photo": "charger",
           "it": "caricabatterie",
           "ipa": "ˈtʃɑːdʒə",
           "pos": "n",
@@ -598,6 +601,7 @@
       "steps": [
         {
           "t": "read",
+          "photo": "r-b1-04",
           "title": "Is a smart home really smarter?",
           "genre": "blog",
           "text": "Last week my brother installed a so-called smart home system in his flat. The lights, the heating and even the coffee machine are now controlled by an app. When I visited on Sunday, he was very proud. \"In ten years,\" he told me, \"every home will have one.\" I'm not so sure.\n\nI admit that the idea is attractive. You may be stuck in traffic, but your heating will already be warming up the living room, and by the time you arrive the lights will be on. My brother says he's going to save about thirty pounds a month on energy bills. Experts agree that homes like his might use up to a fifth less electricity.\n\nHowever, there are some problems. First of all, it all depends on your internet connection. On Sunday afternoon my brother's wifi dropped for ten minutes and suddenly nothing worked: the lights wouldn't turn on and the heating switched itself off. Then there is the question of privacy. A smart speaker is listening all the time, waiting to hear its name, and nobody can be completely sure where the recordings go. Finally, there is the cost. The system cost him nearly eight hundred pounds, and he will need to pay for updates every year.\n\nTechnology will probably keep changing our houses, but I think we should take it slowly. Next month I'm going to try a smart light bulb, which costs only ten pounds. If I like it, I may buy a few more. If not, I'll go back to the old switch, which has never crashed, never needed an update and never asked for my password. Perhaps in twenty years I'll be sitting in a house that answers my questions, and I'll wonder why I was so suspicious. But for now, I prefer to be in charge.",

@@ -322,6 +322,7 @@
     {
      "id": "b2-07-w01",
      "en": "masterpiece",
+     "photo": "masterpiece",
      "it": "capolavoro",
      "ipa": "ˈmɑːstəpiːs",
      "pos": "n",
@@ -345,6 +346,7 @@
     {
      "id": "b2-07-w03",
      "en": "landmark",
+     "photo": "landmark",
      "it": "monumento simbolo, punto di riferimento",
      "ipa": "ˈlændmɑːk",
      "pos": "n",
@@ -585,6 +587,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-b2-07",
      "title": "Is the Mona Lisa worth the queue?",
      "genre": "magazine feature",
      "text": "Every morning at the Louvre, long before the doors open, a queue begins to form. Most of the people in it, many of whom have travelled thousands of miles, are heading for a single painting. They will spend, on average, fifty minutes in line and less than a minute in front of the Mona Lisa, which is smaller than most visitors expect and is protected by glass and a rope. Many leave disappointed, having seen the picture mainly through a forest of raised phones.\n\nCritics of mass tourism, a group that includes museum directors as well as residents, argue that this experience has little to do with art. Visitors tick off famous names rather than looking, and the result, they say, is tiredness and a vague sense of having missed something. Dr Helen Marsh, a curator at a small gallery in Edinburgh, which receives fewer than forty thousand visitors a year, puts it bluntly. \"A masterpiece needs time. Rushed through in sixty seconds, it stops being a work of art and becomes a souvenir.\"\n\nSome cities are trying to change the habit. Florence, hit by crowds that have doubled in a decade, now promotes lesser-known museums on its tourist cards. Visitors holding these cards get discounts at churches and workshops outside the centre. In Lisbon, where the old tram lines are packed all summer, a new scheme encourages travellers to explore the northern districts, known for street art and family-run cafés. Early figures, published last spring, suggest that the plan is working: attendance at several small museums has risen by almost a third.\n\nTravellers can do their part. Experts recommend, first, choosing a single major sight rather than trying to see everything, and booking a time slot well in advance. Second, they suggest spending longer in fewer rooms, a habit that psychologists say improves memory. And third, visiting smaller places, where you can often stand in front of a painting for ten minutes without being pushed. \"I once saw a Rembrandt in a provincial town, with only a guard for company,\" Dr Marsh recalls. \"Forty minutes later, I realised I had forgotten to check my phone.\"\n\nNot everyone is convinced. Some argue that the queue itself is part of the experience, a shared ritual that connects strangers, and that nobody has the right to tell visitors how to enjoy art. Others point out that the smaller museums, lacking the budget of the big ones, may not cope with a sudden flood of visitors. Both points are fair. Perhaps the sensible compromise is to do both: see the famous picture briefly, then spend the afternoon somewhere quieter, giving your eyes, and your feet, a rest. Yet the central message is hard to dispute: a place, like a painting, rewards those who look slowly.",

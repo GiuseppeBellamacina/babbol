@@ -1,0 +1,231 @@
+{
+ "id": "res-w-shopping-online",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Acquisti online",
+ "intro": "Venti parole utili sul tema «acquisti online», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "basket",
+   "it": "carrello (online)",
+   "ipa": "ˈbɑːskɪt",
+   "pos": "n",
+   "ex": [
+    "I added two books to my basket.",
+    "Ho aggiunto due libri al carrello."
+   ],
+   "lv": "B1",
+   "emoji": "🧺"
+  },
+  {
+   "en": "brand",
+   "it": "marca",
+   "ipa": "brænd",
+   "pos": "n",
+   "ex": [
+    "This brand makes good, cheap trainers.",
+    "Questa marca produce scarpe da ginnastica buone ed economiche."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cheap",
+   "it": "economico",
+   "ipa": "tʃiːp",
+   "pos": "adj",
+   "ex": [
+    "The hotel was cheap but very clean.",
+    "L'albergo era economico ma molto pulito."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "checkout",
+   "it": "cassa",
+   "ipa": "ˈtʃekaʊt",
+   "pos": "n",
+   "ex": [
+    "Go to the checkout to pay for your order.",
+    "Vai alla cassa per pagare l'ordine."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "credit card",
+   "it": "carta di credito",
+   "ipa": "ˈkredɪt kɑːd",
+   "pos": "phr",
+   "ex": [
+    "Can I pay by credit card?",
+    "Posso pagare con la carta di credito?"
+   ],
+   "lv": "B1",
+   "emoji": "💳"
+  },
+  {
+   "en": "discount",
+   "it": "sconto",
+   "ipa": "ˈdɪskaʊnt",
+   "pos": "n",
+   "ex": [
+    "You get a ten per cent discount on your first order.",
+    "Hai uno sconto del dieci per cento sul primo ordine."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "exchange",
+   "it": "cambiare",
+   "ipa": "ɪksˈtʃeɪndʒ",
+   "pos": "v",
+   "ex": [
+    "Can I exchange this shirt for a bigger one?",
+    "Posso cambiare questa camicia con una più grande?"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "expensive",
+   "it": "costoso",
+   "ipa": "ɪkˈspensɪv",
+   "pos": "adj",
+   "ex": [
+    "That coat is too expensive for me.",
+    "Quel cappotto è troppo costoso per me."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "fake",
+   "it": "falso",
+   "ipa": "feɪk",
+   "pos": "adj",
+   "ex": [
+    "Be careful, this website sells fake watches.",
+    "Attenzione, questo sito vende orologi falsi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "gift card",
+   "it": "carta regalo",
+   "ipa": "ɡɪft kɑːd",
+   "pos": "phr",
+   "ex": [
+    "She gave me a gift card for a bookshop.",
+    "Mi ha regalato una carta regalo per una libreria."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "in stock",
+   "it": "disponibile",
+   "ipa": "ɪn stɒk",
+   "pos": "phr",
+   "ex": [
+    "The blue model is not in stock at the moment.",
+    "Il modello blu al momento non è disponibile."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "order",
+   "it": "ordinare",
+   "ipa": "ˈɔːdə",
+   "pos": "v",
+   "ex": [
+    "I ordered a new phone case online.",
+    "Ho ordinato online una nuova custodia per il telefono."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "payment",
+   "it": "pagamento",
+   "ipa": "ˈpeɪmənt",
+   "pos": "n",
+   "ex": [
+    "The payment was refused by the bank.",
+    "Il pagamento è stato rifiutato dalla banca."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "review",
+   "it": "recensione",
+   "ipa": "rɪˈvjuː",
+   "pos": "n",
+   "ex": [
+    "I always read the reviews before I buy.",
+    "Leggo sempre le recensioni prima di comprare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "sale",
+   "it": "saldi",
+   "ipa": "seɪl",
+   "pos": "n",
+   "ex": [
+    "Everything is half price in the sale.",
+    "Tutto è a metà prezzo nei saldi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "secure",
+   "it": "sicuro",
+   "ipa": "sɪˈkjʊə",
+   "pos": "adj",
+   "ex": [
+    "Only use secure websites to pay.",
+    "Usa solo siti sicuri per pagare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "shipping",
+   "it": "spedizione",
+   "ipa": "ˈʃɪpɪŋ",
+   "pos": "n",
+   "ex": [
+    "Shipping to Italy takes about five days.",
+    "La spedizione verso l'Italia richiede circa cinque giorni."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "size",
+   "it": "taglia",
+   "ipa": "saɪz",
+   "pos": "n",
+   "ex": [
+    "Do you have this jumper in a larger size?",
+    "Avete questo maglione in una taglia più grande?"
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "sold out",
+   "it": "esaurito",
+   "ipa": "səʊld aʊt",
+   "pos": "phr",
+   "ex": [
+    "The concert tickets were sold out in an hour.",
+    "I biglietti del concerto sono andati esauriti in un'ora."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "voucher",
+   "it": "buono sconto",
+   "ipa": "ˈvaʊtʃə",
+   "pos": "n",
+   "ex": [
+    "I have a voucher for the new bookshop.",
+    "Ho un buono per la nuova libreria."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

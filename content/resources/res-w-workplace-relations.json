@@ -1,0 +1,229 @@
+{
+ "id": "res-w-workplace-relations",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Rapporti sul lavoro",
+ "intro": "Venti parole utili sul tema «rapporti sul lavoro», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "appraisal",
+   "it": "valutazione del personale",
+   "ipa": "əˈpreɪzl",
+   "pos": "n",
+   "ex": [
+    "My annual appraisal is next week.",
+    "La mia valutazione annuale è la settimana prossima."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "boss",
+   "it": "capo",
+   "ipa": "bɒs",
+   "pos": "n",
+   "ex": [
+    "My boss is away until Thursday.",
+    "Il mio capo è via fino a giovedì."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "conflict",
+   "it": "conflitto",
+   "ipa": "ˈkɒnflɪkt",
+   "pos": "n",
+   "ex": [
+    "The two colleagues had a conflict over money.",
+    "I due colleghi hanno avuto un conflitto per questioni di soldi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "contract",
+   "it": "contratto",
+   "ipa": "ˈkɒntrækt",
+   "pos": "n",
+   "ex": [
+    "He signed a two-year contract.",
+    "Ha firmato un contratto biennale."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "cooperate",
+   "it": "collaborare",
+   "ipa": "kəʊˈɒpəreɪt",
+   "pos": "v",
+   "ex": [
+    "The departments must cooperate more closely.",
+    "I reparti devono collaborare più strettamente."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "delegate",
+   "it": "delegare",
+   "ipa": "ˈdelɪɡeɪt",
+   "pos": "v",
+   "ex": [
+    "A good leader knows how to delegate tasks.",
+    "Un buon capo sa come delegare i compiti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "dismiss",
+   "it": "licenziare",
+   "ipa": "dɪsˈmɪs",
+   "pos": "v",
+   "ex": [
+    "The company dismissed three workers last month.",
+    "L'azienda ha licenziato tre lavoratori il mese scorso."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "employee",
+   "it": "dipendente",
+   "ipa": "ɪmˈplɔɪiː",
+   "pos": "n",
+   "ex": [
+    "The company has two hundred employees.",
+    "L'azienda ha duecento dipendenti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "get along with",
+   "it": "andare d'accordo con",
+   "ipa": "ɡet əˈlɒŋ wɪð",
+   "pos": "phr",
+   "ex": [
+    "I get along with all my colleagues except one.",
+    "Vado d'accordo con tutti i colleghi tranne uno."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "job description",
+   "it": "descrizione del lavoro",
+   "ipa": "dʒɒb dɪˈskrɪpʃn",
+   "pos": "phr",
+   "ex": [
+    "Read the job description carefully before you apply.",
+    "Leggi con attenzione la descrizione del lavoro prima di candidarti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "negotiate",
+   "it": "negoziare",
+   "ipa": "nɪˈɡəʊʃieɪt",
+   "pos": "v",
+   "ex": [
+    "She negotiated a better salary.",
+    "Ha negoziato uno stipendio migliore."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "raise",
+   "it": "aumento di stipendio",
+   "ipa": "reɪz",
+   "pos": "n",
+   "ex": [
+    "I asked my boss for a raise.",
+    "Ho chiesto un aumento al mio capo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "recruit",
+   "it": "assumere",
+   "ipa": "rɪˈkruːt",
+   "pos": "v",
+   "ex": [
+    "The firm plans to recruit ten new staff.",
+    "L'azienda prevede di assumere dieci nuovi dipendenti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "remote",
+   "it": "a distanza",
+   "ipa": "rɪˈməʊt",
+   "pos": "adj",
+   "ex": [
+    "Many staff now do remote work two days a week.",
+    "Molti dipendenti ora lavorano a distanza due giorni a settimana."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "resignation",
+   "it": "dimissioni",
+   "ipa": "ˌrezɪɡˈneɪʃn",
+   "pos": "n",
+   "ex": [
+    "She handed in her resignation on Monday.",
+    "Ha presentato le dimissioni lunedì."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "staff",
+   "it": "personale",
+   "ipa": "stɑːf",
+   "pos": "n",
+   "ex": [
+    "The staff are friendly and helpful.",
+    "Il personale è cordiale e disponibile."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "supervisor",
+   "it": "supervisore",
+   "ipa": "ˈsuːpəvaɪzə",
+   "pos": "n",
+   "ex": [
+    "Ask your supervisor for permission first.",
+    "Chiedi prima il permesso al tuo supervisore."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "teamwork",
+   "it": "lavoro di squadra",
+   "ipa": "ˈtiːmwɜːk",
+   "pos": "n",
+   "ex": [
+    "Good teamwork made the project a success.",
+    "Il buon lavoro di squadra ha reso il progetto un successo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "trainee",
+   "it": "tirocinante",
+   "ipa": "ˌtreɪˈniː",
+   "pos": "n",
+   "ex": [
+    "The trainee learns fast and asks good questions.",
+    "Il tirocinante impara in fretta e fa buone domande."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "working hours",
+   "it": "orario di lavoro",
+   "ipa": "ˈwɜːkɪŋ ˈaʊəz",
+   "pos": "phr",
+   "ex": [
+    "Our working hours are flexible.",
+    "Il nostro orario di lavoro è flessibile."
+   ],
+   "lv": "B2"
+  }
+ ]
+}

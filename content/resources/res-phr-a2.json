@@ -1,0 +1,729 @@
+{
+ "id": "res-phr-a2",
+ "kind": "phrases",
+ "lv": "A2",
+ "title": "Frasi utili: A2",
+ "intro": "Frasi pronte per le situazioni di tutti i giorni: al ristorante, in viaggio, in negozio, al telefono.",
+ "items": [
+  {
+   "en": "Could we have a table for two, please?",
+   "it": "Potremmo avere un tavolo per due, per favore?",
+   "group": "Al ristorante",
+   "ex": [
+    "We'd like a table by the window. Could we have a table for two, please?",
+    "Vorremmo un tavolo vicino alla finestra. Potremmo avere un tavolo per due, per favore?"
+   ]
+  },
+  {
+   "en": "Can I see the menu, please?",
+   "it": "Posso vedere il menù, per favore?",
+   "group": "Al ristorante",
+   "ex": [
+    "Waiter: Here you are. A: Thanks. Can I see the menu, please?",
+    "Cameriere: Ecco a lei. A: Grazie. Posso vedere il menù, per favore?"
+   ]
+  },
+  {
+   "en": "I'll have the soup, please.",
+   "it": "Prendo la zuppa, per favore.",
+   "group": "Al ristorante",
+   "ex": [
+    "A: Are you ready to order? B: I'll have the soup, please.",
+    "A: Siete pronti per ordinare? B: Prendo la zuppa, per favore."
+   ]
+  },
+  {
+   "en": "What do you recommend?",
+   "it": "Che cosa mi consiglia?",
+   "group": "Al ristorante",
+   "ex": [
+    "I don't know the local dishes. What do you recommend?",
+    "Non conosco i piatti locali. Che cosa mi consiglia?"
+   ]
+  },
+  {
+   "en": "I'm allergic to nuts.",
+   "it": "Sono allergico alla frutta secca.",
+   "group": "Al ristorante",
+   "ex": [
+    "I'm allergic to nuts. Is there any in this cake?",
+    "Sono allergico alla frutta secca. C'è in questa torta?"
+   ]
+  },
+  {
+   "en": "Could we have the bill, please?",
+   "it": "Potremmo avere il conto, per favore?",
+   "group": "Al ristorante",
+   "ex": [
+    "The meal was lovely. Could we have the bill, please?",
+    "Il pasto era buonissimo. Potremmo avere il conto, per favore?"
+   ]
+  },
+  {
+   "en": "Is service included?",
+   "it": "Il servizio è incluso?",
+   "group": "Al ristorante",
+   "ex": [
+    "Is service included, or should I leave a tip?",
+    "Il servizio è incluso, o devo lasciare la mancia?"
+   ]
+  },
+  {
+   "en": "Can we pay by card?",
+   "it": "Possiamo pagare con la carta?",
+   "group": "Al ristorante",
+   "ex": [
+    "I haven't got any cash. Can we pay by card?",
+    "Non ho contanti. Possiamo pagare con la carta?"
+   ]
+  },
+  {
+   "en": "I have a reservation under the name Rossi.",
+   "it": "Ho una prenotazione a nome Rossi.",
+   "group": "In albergo",
+   "ex": [
+    "Good evening. I have a reservation under the name Rossi.",
+    "Buonasera. Ho una prenotazione a nome Rossi."
+   ]
+  },
+  {
+   "en": "What time is breakfast?",
+   "it": "A che ora è la colazione?",
+   "group": "In albergo",
+   "ex": [
+    "What time is breakfast? I have an early train.",
+    "A che ora è la colazione? Ho un treno presto."
+   ]
+  },
+  {
+   "en": "Is there Wi-Fi in the rooms?",
+   "it": "C'è il Wi-Fi nelle camere?",
+   "group": "In albergo",
+   "ex": [
+    "Is there Wi-Fi in the rooms, or only in the lobby?",
+    "C'è il Wi-Fi nelle camere o solo nella hall?"
+   ]
+  },
+  {
+   "en": "The air conditioning isn't working.",
+   "it": "L'aria condizionata non funziona.",
+   "group": "In albergo",
+   "ex": [
+    "Excuse me, the air conditioning isn't working in my room.",
+    "Mi scusi, l'aria condizionata non funziona nella mia camera."
+   ]
+  },
+  {
+   "en": "Could I have an extra towel, please?",
+   "it": "Potrei avere un asciugamano in più, per favore?",
+   "group": "In albergo",
+   "ex": [
+    "Room 12 here. Could I have an extra towel, please?",
+    "Qui camera 12. Potrei avere un asciugamano in più, per favore?"
+   ]
+  },
+  {
+   "en": "What time is check-out?",
+   "it": "A che ora bisogna lasciare la camera?",
+   "group": "In albergo",
+   "ex": [
+    "What time is check-out tomorrow?",
+    "A che ora bisogna lasciare la camera domani?"
+   ]
+  },
+  {
+   "en": "Could you call me a taxi, please?",
+   "it": "Potrebbe chiamarmi un taxi, per favore?",
+   "group": "In albergo",
+   "ex": [
+    "My flight is at seven. Could you call me a taxi, please?",
+    "Il mio volo è alle sette. Potrebbe chiamarmi un taxi, per favore?"
+   ]
+  },
+  {
+   "en": "Can I leave my luggage here until this afternoon?",
+   "it": "Posso lasciare qui i bagagli fino a questo pomeriggio?",
+   "group": "In albergo",
+   "ex": [
+    "We check out at ten. Can I leave my luggage here until this afternoon?",
+    "Lasciamo la camera alle dieci. Posso lasciare qui i bagagli fino a questo pomeriggio?"
+   ]
+  },
+  {
+   "en": "Where is the check-in desk for this flight?",
+   "it": "Dov'è il banco del check-in per questo volo?",
+   "group": "In aeroporto",
+   "ex": [
+    "Excuse me, where is the check-in desk for this flight?",
+    "Mi scusi, dov'è il banco del check-in per questo volo?"
+   ]
+  },
+  {
+   "en": "I'd like a window seat, please.",
+   "it": "Vorrei un posto vicino al finestrino, per favore.",
+   "group": "In aeroporto",
+   "ex": [
+    "I'd like a window seat, please, if there is one.",
+    "Vorrei un posto vicino al finestrino, per favore, se c'è."
+   ]
+  },
+  {
+   "en": "Which gate does the flight leave from?",
+   "it": "Da quale gate parte il volo?",
+   "group": "In aeroporto",
+   "ex": [
+    "Which gate does the flight leave from? I can't see it on the screen.",
+    "Da quale gate parte il volo? Non lo vedo sullo schermo."
+   ]
+  },
+  {
+   "en": "My flight has been delayed.",
+   "it": "Il mio volo è in ritardo.",
+   "group": "In aeroporto",
+   "ex": [
+    "I'm going to be late. My flight has been delayed.",
+    "Farò tardi. Il mio volo è in ritardo."
+   ]
+  },
+  {
+   "en": "I've lost my suitcase.",
+   "it": "Ho perso la valigia.",
+   "group": "In aeroporto",
+   "ex": [
+    "I've lost my suitcase. Who can I talk to?",
+    "Ho perso la valigia. Con chi posso parlare?"
+   ]
+  },
+  {
+   "en": "Do I have to take my laptop out of the bag?",
+   "it": "Devo tirare fuori il portatile dalla borsa?",
+   "group": "In aeroporto",
+   "ex": [
+    "Do I have to take my laptop out of the bag at security?",
+    "Devo tirare fuori il portatile dalla borsa ai controlli?"
+   ]
+  },
+  {
+   "en": "Is this the right queue for passport control?",
+   "it": "È questa la fila giusta per il controllo passaporti?",
+   "group": "In aeroporto",
+   "ex": [
+    "Sorry, is this the right queue for passport control?",
+    "Scusi, è questa la fila giusta per il controllo passaporti?"
+   ]
+  },
+  {
+   "en": "Boarding starts in twenty minutes.",
+   "it": "L'imbarco inizia fra venti minuti.",
+   "group": "In aeroporto",
+   "ex": [
+    "Don't go far. Boarding starts in twenty minutes.",
+    "Non allontanarti. L'imbarco inizia fra venti minuti."
+   ]
+  },
+  {
+   "en": "Excuse me, how do I get to the station?",
+   "it": "Scusi, come arrivo alla stazione?",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "Excuse me, how do I get to the station? I'm lost.",
+    "Scusi, come arrivo alla stazione? Mi sono perso."
+   ]
+  },
+  {
+   "en": "Is it far from here?",
+   "it": "È lontano da qui?",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "The museum? Is it far from here?",
+    "Il museo? È lontano da qui?"
+   ]
+  },
+  {
+   "en": "Go straight on and turn left at the traffic lights.",
+   "it": "Vada dritto e giri a sinistra al semaforo.",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "Go straight on and turn left at the traffic lights. You can't miss it.",
+    "Vada dritto e giri a sinistra al semaforo. Non può sbagliare."
+   ]
+  },
+  {
+   "en": "It's on the right, next to the bank.",
+   "it": "È sulla destra, accanto alla banca.",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "The chemist's? It's on the right, next to the bank.",
+    "La farmacia? È sulla destra, accanto alla banca."
+   ]
+  },
+  {
+   "en": "It's about ten minutes on foot.",
+   "it": "Ci vogliono circa dieci minuti a piedi.",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "It's about ten minutes on foot. Don't take the bus.",
+    "Ci vogliono circa dieci minuti a piedi. Non prenda l'autobus."
+   ]
+  },
+  {
+   "en": "Could you show me on the map?",
+   "it": "Potrebbe mostrarmelo sulla mappa?",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "I don't understand. Could you show me on the map?",
+    "Non capisco. Potrebbe mostrarmelo sulla mappa?"
+   ]
+  },
+  {
+   "en": "I think I'm lost.",
+   "it": "Credo di essermi perso.",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "I think I'm lost. Where are we on this map?",
+    "Credo di essermi perso. Dove siamo su questa mappa?"
+   ]
+  },
+  {
+   "en": "Is there a supermarket near here?",
+   "it": "C'è un supermercato qui vicino?",
+   "group": "Per strada e indicazioni",
+   "ex": [
+    "Is there a supermarket near here? We need some water.",
+    "C'è un supermercato qui vicino? Ci serve dell'acqua."
+   ]
+  },
+  {
+   "en": "Hello, this is Marco speaking.",
+   "it": "Pronto, sono Marco.",
+   "group": "Al telefono",
+   "ex": [
+    "Hello, this is Marco speaking. Is Anna there?",
+    "Pronto, sono Marco. C'è Anna?"
+   ]
+  },
+  {
+   "en": "Can I speak to Mr Brown, please?",
+   "it": "Posso parlare con il signor Brown, per favore?",
+   "group": "Al telefono",
+   "ex": [
+    "Good morning. Can I speak to Mr Brown, please?",
+    "Buongiorno. Posso parlare con il signor Brown, per favore?"
+   ]
+  },
+  {
+   "en": "Could you hold on a moment, please?",
+   "it": "Potrebbe attendere un momento, per favore?",
+   "group": "Al telefono",
+   "ex": [
+    "Could you hold on a moment, please? I'll find him.",
+    "Potrebbe attendere un momento, per favore? Lo cerco."
+   ]
+  },
+  {
+   "en": "I'm afraid he's not here at the moment.",
+   "it": "Temo che al momento non ci sia.",
+   "group": "Al telefono",
+   "ex": [
+    "I'm afraid he's not here at the moment. Can I take a message?",
+    "Temo che al momento non ci sia. Posso prendere un messaggio?"
+   ]
+  },
+  {
+   "en": "Can I leave a message?",
+   "it": "Posso lasciare un messaggio?",
+   "group": "Al telefono",
+   "ex": [
+    "He's busy. Can I leave a message?",
+    "È occupato. Posso lasciare un messaggio?"
+   ]
+  },
+  {
+   "en": "Could you call me back later?",
+   "it": "Potrebbe richiamarmi più tardi?",
+   "group": "Al telefono",
+   "ex": [
+    "I'm driving now. Could you call me back later?",
+    "Sto guidando adesso. Potrebbe richiamarmi più tardi?"
+   ]
+  },
+  {
+   "en": "I think you've got the wrong number.",
+   "it": "Credo che abbia sbagliato numero.",
+   "group": "Al telefono",
+   "ex": [
+    "Sorry, I think you've got the wrong number.",
+    "Mi dispiace, credo che abbia sbagliato numero."
+   ]
+  },
+  {
+   "en": "The line is very bad. Can you hear me?",
+   "it": "La linea è molto disturbata. Mi sente?",
+   "group": "Al telefono",
+   "ex": [
+    "The line is very bad. Can you hear me?",
+    "La linea è molto disturbata. Mi sente?"
+   ]
+  },
+  {
+   "en": "I don't feel very well.",
+   "it": "Non mi sento molto bene.",
+   "group": "Dal medico",
+   "ex": [
+    "I don't feel very well. I think I have a temperature.",
+    "Non mi sento molto bene. Credo di avere la febbre."
+   ]
+  },
+  {
+   "en": "I've got a headache.",
+   "it": "Ho mal di testa.",
+   "group": "Dal medico",
+   "ex": [
+    "I've got a headache and a sore throat.",
+    "Ho mal di testa e mal di gola."
+   ]
+  },
+  {
+   "en": "It hurts here.",
+   "it": "Mi fa male qui.",
+   "group": "Dal medico",
+   "ex": [
+    "It hurts here, when I move my arm.",
+    "Mi fa male qui, quando muovo il braccio."
+   ]
+  },
+  {
+   "en": "I've had a cough for three days.",
+   "it": "Ho la tosse da tre giorni.",
+   "group": "Dal medico",
+   "ex": [
+    "I've had a cough for three days and it isn't getting better.",
+    "Ho la tosse da tre giorni e non migliora."
+   ]
+  },
+  {
+   "en": "I need to make an appointment.",
+   "it": "Devo prendere un appuntamento.",
+   "group": "Dal medico",
+   "ex": [
+    "I need to make an appointment with the doctor.",
+    "Devo prendere un appuntamento con il dottore."
+   ]
+  },
+  {
+   "en": "How often should I take this medicine?",
+   "it": "Con che frequenza devo prendere questa medicina?",
+   "group": "Dal medico",
+   "ex": [
+    "How often should I take this medicine? Before or after meals?",
+    "Con che frequenza devo prendere questa medicina? Prima o dopo i pasti?"
+   ]
+  },
+  {
+   "en": "I'm allergic to penicillin.",
+   "it": "Sono allergico alla penicillina.",
+   "group": "Dal medico",
+   "ex": [
+    "Before you prescribe it: I'm allergic to penicillin.",
+    "Prima di prescriverla: sono allergico alla penicillina."
+   ]
+  },
+  {
+   "en": "Do I need a prescription for this?",
+   "it": "Mi serve la ricetta per questo?",
+   "group": "Dal medico",
+   "ex": [
+    "Do I need a prescription for this, or can I buy it here?",
+    "Mi serve la ricetta per questo o posso comprarlo qui?"
+   ]
+  },
+  {
+   "en": "How much is this?",
+   "it": "Quanto costa questo?",
+   "group": "In negozio",
+   "ex": [
+    "How much is this jacket? There's no price on it.",
+    "Quanto costa questa giacca? Non c'è il prezzo."
+   ]
+  },
+  {
+   "en": "Do you have this in a larger size?",
+   "it": "Ce l'avete in una taglia più grande?",
+   "group": "In negozio",
+   "ex": [
+    "It's a bit tight. Do you have this in a larger size?",
+    "È un po' stretto. Ce l'avete in una taglia più grande?"
+   ]
+  },
+  {
+   "en": "Can I try this on?",
+   "it": "Posso provarlo?",
+   "group": "In negozio",
+   "ex": [
+    "Can I try this on? Where are the changing rooms?",
+    "Posso provarlo? Dove sono i camerini?"
+   ]
+  },
+  {
+   "en": "I'm just looking, thank you.",
+   "it": "Sto solo guardando, grazie.",
+   "group": "In negozio",
+   "ex": [
+    "A: Can I help you? B: I'm just looking, thank you.",
+    "A: Posso aiutarla? B: Sto solo guardando, grazie."
+   ]
+  },
+  {
+   "en": "I'll take it.",
+   "it": "Lo prendo.",
+   "group": "In negozio",
+   "ex": [
+    "It fits perfectly. I'll take it.",
+    "Mi sta perfettamente. Lo prendo."
+   ]
+  },
+  {
+   "en": "Do you accept credit cards?",
+   "it": "Accettate carte di credito?",
+   "group": "In negozio",
+   "ex": [
+    "Do you accept credit cards, or only cash?",
+    "Accettate carte di credito o solo contanti?"
+   ]
+  },
+  {
+   "en": "Can I have a receipt, please?",
+   "it": "Posso avere lo scontrino, per favore?",
+   "group": "In negozio",
+   "ex": [
+    "Can I have a receipt, please? It's a present.",
+    "Posso avere lo scontrino, per favore? È un regalo."
+   ]
+  },
+  {
+   "en": "Is there a discount on this?",
+   "it": "C'è uno sconto su questo?",
+   "group": "In negozio",
+   "ex": [
+    "Is there a discount on this? It's last year's model.",
+    "C'è uno sconto su questo? È il modello dell'anno scorso."
+   ]
+  },
+  {
+   "en": "Could you speak more slowly, please?",
+   "it": "Potrebbe parlare più lentamente, per favore?",
+   "group": "Quando non capisci",
+   "ex": [
+    "Sorry, I didn't catch that. Could you speak more slowly, please?",
+    "Scusi, non ho capito. Potrebbe parlare più lentamente, per favore?"
+   ]
+  },
+  {
+   "en": "Could you repeat that, please?",
+   "it": "Potrebbe ripeterlo, per favore?",
+   "group": "Quando non capisci",
+   "ex": [
+    "Could you repeat that, please? The music is loud.",
+    "Potrebbe ripeterlo, per favore? La musica è alta."
+   ]
+  },
+  {
+   "en": "I don't understand.",
+   "it": "Non capisco.",
+   "group": "Quando non capisci",
+   "ex": [
+    "I'm sorry, I don't understand. I'm learning English.",
+    "Mi dispiace, non capisco. Sto imparando l'inglese."
+   ]
+  },
+  {
+   "en": "What does this word mean?",
+   "it": "Che cosa significa questa parola?",
+   "group": "Quando non capisci",
+   "ex": [
+    "What does this word mean? It's not in my dictionary.",
+    "Che cosa significa questa parola? Non è nel mio dizionario."
+   ]
+  },
+  {
+   "en": "How do you spell that?",
+   "it": "Come si scrive?",
+   "group": "Quando non capisci",
+   "ex": [
+    "A: My surname is Bellamacina. B: How do you spell that?",
+    "A: Il mio cognome è Bellamacina. B: Come si scrive?"
+   ]
+  },
+  {
+   "en": "How do you say \"scontrino\" in English?",
+   "it": "Come si dice \"scontrino\" in inglese?",
+   "group": "Quando non capisci",
+   "ex": [
+    "How do you say \"scontrino\" in English? Receipt?",
+    "Come si dice \"scontrino\" in inglese? Receipt?"
+   ]
+  },
+  {
+   "en": "Do you speak Italian?",
+   "it": "Parla italiano?",
+   "group": "Quando non capisci",
+   "ex": [
+    "Excuse me, do you speak Italian? My English is limited.",
+    "Mi scusi, parla italiano? Il mio inglese è limitato."
+   ]
+  },
+  {
+   "en": "Can you write it down, please?",
+   "it": "Può scriverlo, per favore?",
+   "group": "Quando non capisci",
+   "ex": [
+    "I can't follow the address. Can you write it down, please?",
+    "Non riesco a seguire l'indirizzo. Può scriverlo, per favore?"
+   ]
+  },
+  {
+   "en": "Nice to meet you.",
+   "it": "Piacere di conoscerti.",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "A: This is my friend Tom. B: Nice to meet you.",
+    "A: Questo è il mio amico Tom. B: Piacere di conoscerti."
+   ]
+  },
+  {
+   "en": "I'm from Italy, from a small town near Turin.",
+   "it": "Sono italiano, di una cittadina vicino a Torino.",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "I'm from Italy, from a small town near Turin.",
+    "Sono italiano, di una cittadina vicino a Torino."
+   ]
+  },
+  {
+   "en": "What do you do for a living?",
+   "it": "Che lavoro fai?",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "What do you do for a living? B: I'm a nurse.",
+    "Che lavoro fai? B: Sono infermiera."
+   ]
+  },
+  {
+   "en": "How long have you lived here?",
+   "it": "Da quanto tempo vivi qui?",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "How long have you lived here? It's a lovely area.",
+    "Da quanto tempo vivi qui? È una bella zona."
+   ]
+  },
+  {
+   "en": "Where are you from?",
+   "it": "Di dove sei?",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "Your accent is interesting. Where are you from?",
+    "Il tuo accento è interessante. Di dove sei?"
+   ]
+  },
+  {
+   "en": "I've just started learning English.",
+   "it": "Ho appena iniziato a studiare inglese.",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "I've just started learning English, so please be patient.",
+    "Ho appena iniziato a studiare inglese, quindi abbi pazienza."
+   ]
+  },
+  {
+   "en": "Would you like to have a coffee sometime?",
+   "it": "Ti va di prendere un caffè qualche volta?",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "It was great to talk. Would you like to have a coffee sometime?",
+    "È stato bello chiacchierare. Ti va di prendere un caffè qualche volta?"
+   ]
+  },
+  {
+   "en": "Let's keep in touch.",
+   "it": "Teniamoci in contatto.",
+   "group": "Presentarsi e fare conoscenza",
+   "ex": [
+    "I'm leaving tomorrow, but let's keep in touch.",
+    "Parto domani, ma teniamoci in contatto."
+   ]
+  },
+  {
+   "en": "A return ticket to Oxford, please.",
+   "it": "Un biglietto di andata e ritorno per Oxford, per favore.",
+   "group": "Trasporti",
+   "ex": [
+    "A: A return ticket to Oxford, please. B: That's twenty pounds.",
+    "A: Un biglietto di andata e ritorno per Oxford, per favore. B: Sono venti sterline."
+   ]
+  },
+  {
+   "en": "What time does the next train leave?",
+   "it": "A che ora parte il prossimo treno?",
+   "group": "Trasporti",
+   "ex": [
+    "What time does the next train leave for Leeds?",
+    "A che ora parte il prossimo treno per Leeds?"
+   ]
+  },
+  {
+   "en": "Which platform does it leave from?",
+   "it": "Da che binario parte?",
+   "group": "Trasporti",
+   "ex": [
+    "Which platform does it leave from? I can't find it.",
+    "Da che binario parte? Non lo trovo."
+   ]
+  },
+  {
+   "en": "Does this bus go to the city centre?",
+   "it": "Questo autobus va in centro?",
+   "group": "Trasporti",
+   "ex": [
+    "Excuse me, does this bus go to the city centre?",
+    "Mi scusi, questo autobus va in centro?"
+   ]
+  },
+  {
+   "en": "Where do I change?",
+   "it": "Dove devo cambiare?",
+   "group": "Trasporti",
+   "ex": [
+    "I'm going to the airport. Where do I change?",
+    "Vado all'aeroporto. Dove devo cambiare?"
+   ]
+  },
+  {
+   "en": "Could you tell me when we get to the museum?",
+   "it": "Potrebbe dirmi quando arriviamo al museo?",
+   "group": "Trasporti",
+   "ex": [
+    "I'm new here. Could you tell me when we get to the museum?",
+    "Sono nuovo qui. Potrebbe dirmi quando arriviamo al museo?"
+   ]
+  },
+  {
+   "en": "I missed my train.",
+   "it": "Ho perso il treno.",
+   "group": "Trasporti",
+   "ex": [
+    "I missed my train. When is the next one?",
+    "Ho perso il treno. Quando passa il prossimo?"
+   ]
+  },
+  {
+   "en": "Is this seat taken?",
+   "it": "Questo posto è occupato?",
+   "group": "Trasporti",
+   "ex": [
+    "A: Is this seat taken? B: No, please sit down.",
+    "A: Questo posto è occupato? B: No, si sieda pure."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "id": "res-w-sport-fitness",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Sport e fitness",
+ "intro": "Venti parole utili sul tema «sport e fitness», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "athlete",
+   "it": "atleta",
+   "ipa": "ˈæθliːt",
+   "pos": "n",
+   "ex": [
+    "The athletes train every morning.",
+    "Gli atleti si allenano ogni mattina."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "champion",
+   "it": "campione",
+   "ipa": "ˈtʃæmpiən",
+   "pos": "n",
+   "ex": [
+    "She became the national champion at sixteen.",
+    "È diventata campionessa nazionale a sedici anni."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "coach",
+   "it": "allenatore",
+   "ipa": "kəʊtʃ",
+   "pos": "n",
+   "ex": [
+    "Our coach is very strict.",
+    "Il nostro allenatore è molto severo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "draw",
+   "it": "pareggio",
+   "ipa": "drɔː",
+   "pos": "n",
+   "ex": [
+    "The match ended in a draw.",
+    "La partita è finita in pareggio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "goalkeeper",
+   "it": "portiere",
+   "ipa": "ˈɡəʊlkiːpə",
+   "pos": "n",
+   "ex": [
+    "The goalkeeper saved a penalty.",
+    "Il portiere ha parato un rigore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "gym",
+   "it": "palestra",
+   "ipa": "dʒɪm",
+   "pos": "n",
+   "ex": [
+    "I go to the gym three times a week.",
+    "Vado in palestra tre volte a settimana."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "healthy",
+   "it": "sano",
+   "ipa": "ˈhelθi",
+   "pos": "adj",
+   "ex": [
+    "A healthy diet gives you more energy.",
+    "Una dieta sana ti dà più energia."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "jogging",
+   "it": "corsa leggera",
+   "ipa": "ˈdʒɒɡɪŋ",
+   "pos": "n",
+   "ex": [
+    "I go jogging in the park on Sundays.",
+    "La domenica faccio jogging nel parco."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "muscle",
+   "it": "muscolo",
+   "ipa": "ˈmʌsl",
+   "pos": "n",
+   "ex": [
+    "Swimming is good for your muscles.",
+    "Il nuoto fa bene ai muscoli."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "opponent",
+   "it": "avversario",
+   "ipa": "əˈpəʊnənt",
+   "pos": "n",
+   "ex": [
+    "His opponent was much taller than him.",
+    "Il suo avversario era molto più alto di lui."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "race",
+   "it": "gara",
+   "ipa": "reɪs",
+   "pos": "n",
+   "ex": [
+    "She trained hard for the race.",
+    "Si è allenata duramente per la gara."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "referee",
+   "it": "arbitro",
+   "ipa": "ˌrefəˈriː",
+   "pos": "n",
+   "ex": [
+    "The referee blew the whistle.",
+    "L'arbitro ha fischiato."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "score",
+   "it": "segnare",
+   "ipa": "skɔː",
+   "pos": "v",
+   "ex": [
+    "He scored two goals in the second half.",
+    "Ha segnato due gol nel secondo tempo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "stadium",
+   "it": "stadio",
+   "ipa": "ˈsteɪdiəm",
+   "pos": "n",
+   "ex": [
+    "The stadium holds sixty thousand people.",
+    "Lo stadio contiene sessantamila persone."
+   ],
+   "lv": "B1",
+   "emoji": "🏟️"
+  },
+  {
+   "en": "stretch",
+   "it": "allungare i muscoli",
+   "ipa": "stretʃ",
+   "pos": "v",
+   "ex": [
+    "Always stretch before you run.",
+    "Fai sempre stretching prima di correre."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "swimming pool",
+   "it": "piscina",
+   "ipa": "ˈswɪmɪŋ puːl",
+   "pos": "phr",
+   "ex": [
+    "The swimming pool opens at seven.",
+    "La piscina apre alle sette."
+   ],
+   "lv": "B1",
+   "emoji": "🏊"
+  },
+  {
+   "en": "take up",
+   "it": "iniziare (un'attività)",
+   "ipa": "teɪk ʌp",
+   "pos": "phr",
+   "ex": [
+    "I took up yoga last year.",
+    "Ho iniziato yoga l'anno scorso."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "tournament",
+   "it": "torneo",
+   "ipa": "ˈtʊənəmənt",
+   "pos": "n",
+   "ex": [
+    "Our team won the tournament.",
+    "La nostra squadra ha vinto il torneo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "warm up",
+   "it": "riscaldarsi",
+   "ipa": "wɔːm ʌp",
+   "pos": "phr",
+   "ex": [
+    "The players warm up for twenty minutes.",
+    "I giocatori si riscaldano per venti minuti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "workout",
+   "it": "allenamento",
+   "ipa": "ˈwɜːkaʊt",
+   "pos": "n",
+   "ex": [
+    "I do a short workout before breakfast.",
+    "Faccio un breve allenamento prima di colazione."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

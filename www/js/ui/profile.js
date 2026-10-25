@@ -135,6 +135,17 @@
       }, true));
   }
 
+  // autore e licenza di ogni foto (obbligo delle licenze CC BY e CC BY-SA); i link sono in CREDITS.md nel repository
+  function credits() {
+    var c = B.data.credits || {}, ids = Object.keys(c).sort();
+    var root = h("div", { class: "list" }, h("p", { class: "muted" }, "Le foto vengono da Wikimedia Commons, con licenze che ne permettono il riuso. Sono state ridimensionate e convertite; le condizioni di ogni licenza restano quelle dell'originale."));
+    ids.forEach(function (id) {
+      root.appendChild(h("div", { class: "card credit" }, B.photo(id, "credit-pic", c[id][0]),
+        h("div", { class: "grow" }, h("div", { class: "row-title" }, c[id][0]), h("div", { class: "muted small" }, c[id][1] + " - " + c[id][2]))));
+    });
+    return root;
+  }
+
   UI.register("profile", function () {
     var root = h("div", { class: "list profile" });
     root.appendChild(hero());
@@ -149,7 +160,11 @@
     root.appendChild(startLevel());
     root.appendChild(UI.sectionTitle("Account"));
     root.appendChild(account());
-    root.appendChild(h("p", { class: "muted center small" }, "Babbol " + B.VERSION + " · contenuti rev. " + R.rev() + " · " + R.units().length + " unità, " + R.allWords().length + " parole"));
+    root.appendChild(UI.sectionTitle("App"));
+    root.appendChild(h("div", { class: "card settings" },
+      action("Cerca aggiornamenti", "Versione installata: " + B.update.version(), function () { B.update.manualCheck(); }),
+      action("Crediti delle foto", Object.keys(B.data.credits || {}).length + " foto da Wikimedia Commons", function () { UI.push("Crediti delle foto", credits); })));
+    root.appendChild(h("p", { class: "muted center small" }, "Babbol " + B.update.version() + " · contenuti rev. " + R.rev() + " · " + R.units().length + " unità, " + R.allWords().length + " parole"));
     return root;
   });
 })(window.B);

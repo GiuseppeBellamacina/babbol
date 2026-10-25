@@ -1,0 +1,234 @@
+{
+ "id": "res-w-kitchen-cooking",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Cucina e cucinare",
+ "intro": "Venti parole utili sul tema «cucina e cucinare», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "bake",
+   "it": "cuocere al forno",
+   "ipa": "beɪk",
+   "pos": "v",
+   "ex": [
+    "I bake a cake every weekend.",
+    "Preparo una torta ogni fine settimana."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "boil",
+   "it": "bollire",
+   "ipa": "bɔɪl",
+   "pos": "v",
+   "ex": [
+    "Boil the water before you add the rice.",
+    "Fai bollire l'acqua prima di aggiungere il riso."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "bowl",
+   "it": "ciotola",
+   "ipa": "bəʊl",
+   "pos": "n",
+   "ex": [
+    "He ate a bowl of cereal.",
+    "Ha mangiato una ciotola di cereali."
+   ],
+   "lv": "A2",
+   "emoji": "🥣"
+  },
+  {
+   "en": "chop",
+   "it": "tagliare a pezzi",
+   "ipa": "tʃɒp",
+   "pos": "v",
+   "ex": [
+    "Chop the tomatoes into small pieces.",
+    "Taglia i pomodori a pezzetti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "cooker",
+   "it": "fornello",
+   "ipa": "ˈkʊkə",
+   "pos": "n",
+   "ex": [
+    "Do not leave the cooker on.",
+    "Non lasciare i fornelli accesi."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "cup",
+   "it": "tazza",
+   "ipa": "kʌp",
+   "pos": "n",
+   "ex": [
+    "Would you like a cup of tea?",
+    "Vuoi una tazza di tè?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "fork",
+   "it": "forchetta",
+   "ipa": "fɔːk",
+   "pos": "n",
+   "ex": [
+    "I need a clean fork, please.",
+    "Mi serve una forchetta pulita, per favore."
+   ],
+   "lv": "A2",
+   "emoji": "🍴"
+  },
+  {
+   "en": "fridge",
+   "it": "frigorifero",
+   "ipa": "frɪdʒ",
+   "pos": "n",
+   "ex": [
+    "There is some milk in the fridge.",
+    "C'è del latte nel frigorifero."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "fry",
+   "it": "friggere",
+   "ipa": "fraɪ",
+   "pos": "v",
+   "ex": [
+    "Fry the onions for five minutes.",
+    "Friggi le cipolle per cinque minuti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "kettle",
+   "it": "bollitore",
+   "ipa": "ˈketl",
+   "pos": "n",
+   "ex": [
+    "Put the kettle on, I want some tea.",
+    "Metti su il bollitore, vorrei del tè."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "knife",
+   "it": "coltello",
+   "ipa": "naɪf",
+   "pos": "n",
+   "ex": [
+    "Be careful, this knife is very sharp.",
+    "Attenzione, questo coltello è molto affilato."
+   ],
+   "lv": "A2",
+   "emoji": "🔪"
+  },
+  {
+   "en": "mix",
+   "it": "mescolare",
+   "ipa": "mɪks",
+   "pos": "v",
+   "ex": [
+    "Mix the eggs and the sugar together.",
+    "Mescola insieme le uova e lo zucchero."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "oven",
+   "it": "forno",
+   "ipa": "ˈʌvn",
+   "pos": "n",
+   "ex": [
+    "Put the pizza in the oven for ten minutes.",
+    "Metti la pizza nel forno per dieci minuti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "pan",
+   "it": "padella",
+   "ipa": "pæn",
+   "pos": "n",
+   "ex": [
+    "Heat some oil in a pan.",
+    "Scalda un po' d'olio in una padella."
+   ],
+   "lv": "A2",
+   "emoji": "🍳"
+  },
+  {
+   "en": "plate",
+   "it": "piatto",
+   "ipa": "pleɪt",
+   "pos": "n",
+   "ex": [
+    "She put the pasta on a plate.",
+    "Ha messo la pasta su un piatto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "saucepan",
+   "it": "pentolino",
+   "ipa": "ˈsɔːspən",
+   "pos": "n",
+   "ex": [
+    "Boil the milk in a small saucepan.",
+    "Fai bollire il latte in un pentolino."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "slice",
+   "it": "fetta",
+   "ipa": "slaɪs",
+   "pos": "n",
+   "ex": [
+    "Would you like a slice of bread?",
+    "Vuoi una fetta di pane?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "spoon",
+   "it": "cucchiaio",
+   "ipa": "spuːn",
+   "pos": "n",
+   "ex": [
+    "Use a spoon to eat the soup.",
+    "Usa un cucchiaio per mangiare la zuppa."
+   ],
+   "lv": "A2",
+   "emoji": "🥄"
+  },
+  {
+   "en": "toaster",
+   "it": "tostapane",
+   "ipa": "ˈtəʊstə",
+   "pos": "n",
+   "ex": [
+    "The toaster is on the kitchen table.",
+    "Il tostapane è sul tavolo della cucina."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "wash up",
+   "it": "lavare i piatti",
+   "ipa": "wɒʃ ʌp",
+   "pos": "phr",
+   "ex": [
+    "I wash up after every meal.",
+    "Lavo i piatti dopo ogni pasto."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

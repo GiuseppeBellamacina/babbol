@@ -1,0 +1,230 @@
+{
+ "id": "res-w-jobs",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Lavori e professioni",
+ "intro": "Venti parole utili sul tema «lavori e professioni», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "architect",
+   "it": "architetto",
+   "ipa": "ˈɑːkɪtekt",
+   "pos": "n",
+   "ex": [
+    "The architect designed a modern house.",
+    "L'architetto ha progettato una casa moderna."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "builder",
+   "it": "muratore",
+   "ipa": "ˈbɪldə",
+   "pos": "n",
+   "ex": [
+    "The builders start work at seven.",
+    "I muratori iniziano a lavorare alle sette."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "cashier",
+   "it": "cassiere",
+   "ipa": "kæˈʃɪə",
+   "pos": "n",
+   "ex": [
+    "The cashier gave me the receipt.",
+    "La cassiera mi ha dato lo scontrino."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "chef",
+   "it": "cuoco",
+   "ipa": "ʃef",
+   "pos": "n",
+   "ex": [
+    "The chef came out to say hello.",
+    "Lo chef è uscito a salutare."
+   ],
+   "lv": "A2",
+   "emoji": "👨‍🍳"
+  },
+  {
+   "en": "dentist",
+   "it": "dentista",
+   "ipa": "ˈdentɪst",
+   "pos": "n",
+   "ex": [
+    "I have an appointment with the dentist.",
+    "Ho un appuntamento dal dentista."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "electrician",
+   "it": "elettricista",
+   "ipa": "ɪˌlekˈtrɪʃn",
+   "pos": "n",
+   "ex": [
+    "We called an electrician to fix the lights.",
+    "Abbiamo chiamato un elettricista per riparare le luci."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "engineer",
+   "it": "ingegnere",
+   "ipa": "ˌendʒɪˈnɪə",
+   "pos": "n",
+   "ex": [
+    "My brother is an engineer.",
+    "Mio fratello è ingegnere."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "farmer",
+   "it": "agricoltore",
+   "ipa": "ˈfɑːmə",
+   "pos": "n",
+   "ex": [
+    "The farmer gets up at five.",
+    "L'agricoltore si alza alle cinque."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "firefighter",
+   "it": "vigile del fuoco",
+   "ipa": "ˈfaɪəfaɪtə",
+   "pos": "n",
+   "ex": [
+    "The firefighters arrived in five minutes.",
+    "I vigili del fuoco sono arrivati in cinque minuti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "hairdresser",
+   "it": "parrucchiere",
+   "ipa": "ˈheədresə",
+   "pos": "n",
+   "ex": [
+    "My hairdresser is very friendly.",
+    "Il mio parrucchiere è molto simpatico."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "lawyer",
+   "it": "avvocato",
+   "ipa": "ˈlɔɪə",
+   "pos": "n",
+   "ex": [
+    "The lawyer explained the contract to us.",
+    "L'avvocato ci ha spiegato il contratto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "mechanic",
+   "it": "meccanico",
+   "ipa": "məˈkænɪk",
+   "pos": "n",
+   "ex": [
+    "The mechanic checked our car.",
+    "Il meccanico ha controllato la nostra auto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "nurse",
+   "it": "infermiere",
+   "ipa": "nɜːs",
+   "pos": "n",
+   "ex": [
+    "The nurse was kind and patient.",
+    "L'infermiera era gentile e paziente."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "photographer",
+   "it": "fotografo",
+   "ipa": "fəˈtɒɡrəfə",
+   "pos": "n",
+   "ex": [
+    "The photographer took pictures at the wedding.",
+    "Il fotografo ha scattato foto al matrimonio."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "pilot",
+   "it": "pilota",
+   "ipa": "ˈpaɪlət",
+   "pos": "n",
+   "ex": [
+    "The pilot welcomed us on board.",
+    "Il pilota ci ha dato il benvenuto a bordo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "plumber",
+   "it": "idraulico",
+   "ipa": "ˈplʌmə",
+   "pos": "n",
+   "ex": [
+    "The plumber fixed the leak quickly.",
+    "L'idraulico ha riparato la perdita in fretta."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "police officer",
+   "it": "agente di polizia",
+   "ipa": "pəˈliːs ˈɒfɪsə",
+   "pos": "phr",
+   "ex": [
+    "A police officer helped us find the street.",
+    "Un agente di polizia ci ha aiutato a trovare la via."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "teacher",
+   "it": "insegnante",
+   "ipa": "ˈtiːtʃə",
+   "pos": "n",
+   "ex": [
+    "My teacher gives us a lot of homework.",
+    "La mia insegnante ci dà molti compiti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "vet",
+   "it": "veterinario",
+   "ipa": "vet",
+   "pos": "n",
+   "ex": [
+    "The vet checked our dog's leg.",
+    "Il veterinario ha controllato la zampa del nostro cane."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "waiter",
+   "it": "cameriere",
+   "ipa": "ˈweɪtə",
+   "pos": "n",
+   "ex": [
+    "The waiter brought us the menu.",
+    "Il cameriere ci ha portato il menù."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

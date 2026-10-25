@@ -1,0 +1,229 @@
+{
+ "id": "res-w-arts-literature",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Arte e letteratura",
+ "intro": "Venti parole utili sul tema «arte e letteratura», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "author",
+   "it": "autore",
+   "ipa": "ˈɔːθə",
+   "pos": "n",
+   "ex": [
+    "The author signed copies after the talk.",
+    "L'autore ha firmato delle copie dopo l'incontro."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "bestseller",
+   "it": "bestseller",
+   "ipa": "ˌbestˈselə",
+   "pos": "n",
+   "ex": [
+    "The book became an international bestseller.",
+    "Il libro è diventato un bestseller internazionale."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "chapter",
+   "it": "capitolo",
+   "ipa": "ˈtʃæptə",
+   "pos": "n",
+   "ex": [
+    "The first chapter was rather slow.",
+    "Il primo capitolo era piuttosto lento."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "character",
+   "it": "personaggio",
+   "ipa": "ˈkærəktə",
+   "pos": "n",
+   "ex": [
+    "My favourite character dies at the end.",
+    "Il mio personaggio preferito muore alla fine."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "comedy",
+   "it": "commedia",
+   "ipa": "ˈkɒmədi",
+   "pos": "n",
+   "ex": [
+    "We saw a funny comedy at the theatre.",
+    "Abbiamo visto una commedia divertente a teatro."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "creative",
+   "it": "creativo",
+   "ipa": "kriˈeɪtɪv",
+   "pos": "adj",
+   "ex": [
+    "She has a very creative way of teaching.",
+    "Ha un modo di insegnare molto creativo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "drama",
+   "it": "teatro, dramma",
+   "ipa": "ˈdrɑːmə",
+   "pos": "n",
+   "ex": [
+    "She studied drama at a famous school.",
+    "Ha studiato teatro in una scuola famosa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "gallery",
+   "it": "galleria d'arte",
+   "ipa": "ˈɡæləri",
+   "pos": "n",
+   "ex": [
+    "The gallery is showing a new exhibition.",
+    "La galleria presenta una nuova mostra."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "inspire",
+   "it": "ispirare",
+   "ipa": "ɪnˈspaɪə",
+   "pos": "v",
+   "ex": [
+    "The village inspired many of his paintings.",
+    "Il villaggio ha ispirato molti dei suoi dipinti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "landscape",
+   "it": "paesaggio dipinto",
+   "ipa": "ˈlændskeɪp",
+   "pos": "n",
+   "ex": [
+    "He is famous for his landscape paintings.",
+    "È famoso per i suoi dipinti di paesaggi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "novel",
+   "it": "romanzo",
+   "ipa": "ˈnɒvl",
+   "pos": "n",
+   "ex": [
+    "I am reading a novel set in Victorian London.",
+    "Sto leggendo un romanzo ambientato nella Londra vittoriana."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "painter",
+   "it": "pittore",
+   "ipa": "ˈpeɪntə",
+   "pos": "n",
+   "ex": [
+    "The painter worked in his studio all day.",
+    "Il pittore ha lavorato nel suo studio tutto il giorno."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "plot",
+   "it": "trama",
+   "ipa": "plɒt",
+   "pos": "n",
+   "ex": [
+    "The plot of the film is hard to follow.",
+    "La trama del film è difficile da seguire."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "poem",
+   "it": "poesia",
+   "ipa": "ˈpəʊɪm",
+   "pos": "n",
+   "ex": [
+    "We studied a poem by Wordsworth at school.",
+    "A scuola abbiamo studiato una poesia di Wordsworth."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "poet",
+   "it": "poeta",
+   "ipa": "ˈpəʊɪt",
+   "pos": "n",
+   "ex": [
+    "The poet read his work to a small audience.",
+    "Il poeta ha letto le sue opere a un piccolo pubblico."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "portrait",
+   "it": "ritratto",
+   "ipa": "ˈpɔːtrət",
+   "pos": "n",
+   "ex": [
+    "She painted a portrait of her grandmother.",
+    "Ha dipinto un ritratto di sua nonna."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "sculpture",
+   "it": "scultura",
+   "ipa": "ˈskʌlptʃə",
+   "pos": "n",
+   "ex": [
+    "A bronze sculpture stands in the square.",
+    "Una scultura di bronzo si trova nella piazza."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "sketch",
+   "it": "schizzo",
+   "ipa": "sketʃ",
+   "pos": "n",
+   "ex": [
+    "He made a quick sketch of the church.",
+    "Ha fatto un rapido schizzo della chiesa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "stage",
+   "it": "palcoscenico",
+   "ipa": "steɪdʒ",
+   "pos": "n",
+   "ex": [
+    "The actors came onto the stage.",
+    "Gli attori sono saliti sul palcoscenico."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "translate",
+   "it": "tradurre",
+   "ipa": "trænzˈleɪt",
+   "pos": "v",
+   "ex": [
+    "The novel has been translated into thirty languages.",
+    "Il romanzo è stato tradotto in trenta lingue."
+   ],
+   "lv": "B2"
+  }
+ ]
+}

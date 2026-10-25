@@ -130,6 +130,7 @@
     },
     {
      "t": "note",
+     "svg": "tl-past",
      "title": "Past continuous e while / when",
      "body": "Il **past continuous** (**was / were + verbo in -ing**) descrive un'azione **in corso** in un momento del passato, lo «sfondo» della storia (in italiano spesso l'imperfetto: «stavo dormendo»).\n\n- I **was sleeping** at ten o'clock. (stavo dormendo)\n- They **were walking** along the beach.\n\nSi usa insieme al past simple: l'azione lunga è al continuous, quella breve che la interrompe è al simple.\n- **While** we **were having** lunch, it started to rain.\n- It started to rain **when** we **were having** lunch.\n- I **was walking** home **when** I met an old friend.\n\n**While** si usa con l'azione lunga (past continuous). **When** si usa soprattutto con l'azione breve (past simple), ma può introdurre anche l'azione lunga.\nAttenzione: se un'azione ne segue un'altra, usa il simple: **When** I arrived, I called Anna.",
      "table": [
@@ -384,6 +385,7 @@
     {
      "id": "a2-02-w02",
      "en": "passport",
+     "photo": "passport",
      "it": "passaporto",
      "ipa": "ˈpɑːspɔːt",
      "pos": "n",
@@ -407,6 +409,7 @@
     {
      "id": "a2-02-w04",
      "en": "luggage",
+     "photo": "luggage",
      "it": "bagagli",
      "ipa": "ˈlʌɡɪdʒ",
      "pos": "n",
@@ -419,6 +422,7 @@
     {
      "id": "a2-02-w05",
      "en": "flight",
+     "photo": "flight",
      "it": "volo",
      "ipa": "flaɪt",
      "pos": "n",
@@ -454,6 +458,7 @@
     {
      "id": "a2-02-w08",
      "en": "accommodation",
+     "photo": "accommodation",
      "it": "alloggio, sistemazione",
      "ipa": "əˌkɒməˈdeɪʃn",
      "pos": "n",
@@ -466,6 +471,7 @@
     {
      "id": "a2-02-w09",
      "en": "sightseeing",
+     "photo": "sightseeing",
      "it": "giro turistico",
      "ipa": "ˈsaɪtsiːɪŋ",
      "pos": "n",
@@ -478,6 +484,7 @@
     {
      "id": "a2-02-w10",
      "en": "souvenir",
+     "photo": "souvenir",
      "it": "souvenir, ricordo",
      "ipa": "ˌsuːvəˈnɪə",
      "pos": "n",
@@ -628,6 +635,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-a2-02",
      "title": "Lisbon, rain and sun cream",
      "genre": "blog",
      "text": "Last August my sister Chiara and I spent a week in Lisbon. We booked a small flat near the river because the hotels were too expensive. Our flight was late, so we arrived at midnight and I was so tired that I fell asleep in the taxi.\n\nOn the first morning we got lost. We were looking for a famous tram stop when it started to rain, so we ran into a tiny café. While we were drinking coffee, an old man at the next table showed us the way on his phone. He was very kind and he even told us about a restaurant that tourists never visit.\n\nThe best day was Wednesday. We took a train to the seaside and spent the whole afternoon on the beach. I forgot my sun cream and I came home with a terrible sunburn! Chiara laughed at me while I was putting yoghurt on my back. In the evening we ate grilled fish and listened to live music in the street.\n\nOn the last day we bought some souvenirs for our parents. At the airport I couldn't find my passport for ten minutes, but it was in my coat pocket all the time. I loved Lisbon and I want to go back next year, but this time with sun cream.",

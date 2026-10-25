@@ -169,6 +169,95 @@
         }).map(function (s) { s.a = s.opts.indexOf(s._connector); return s; });
       }
     },
+    // parole per tema: foto o emoji, pronuncia, traduzione e frase d'uso; quiz misto (significato, scrittura, ascolto, immagine)
+    words: {
+      icon: "cards", search: function (x, q) { return has(q, x.en, x.it); },
+      row: function (x) {
+        return h("button", { class: "card word-card", onclick: function () { B.speech.speak(x.en); } },
+          B.hasPic(x) ? h("div", { class: "wc-pic" }, B.pic(x)) : null,
+          h("div", { class: "grow" },
+            h("div", { class: "word-en" }, x.en, " ", x.pos ? h("span", { class: "word-pos" }, x.pos) : null, " ", B.icon("speaker", 14, "mini"), " ", lvTag(x.lv)),
+            x.ipa ? h("div", { class: "word-ipa" }, "/" + x.ipa + "/") : null, h("div", { class: "word-it" }, x.it),
+            x.ex ? h("div", { class: "hint-ex" }, x.ex[0], h("div", { class: "muted small" }, x.ex[1])) : null));
+      },
+      quiz: function (items) {
+        return B.sample(items, 10).map(function (x, i) {
+          var wrongs = B.sample(items.filter(function (o) { return o !== x; }), 6);
+          if (i % 4 === 0) return { t: "type", q: "Scrivi in inglese", text: x.it, answers: [x.en].concat(x.alts || []), sayAfter: x.en, word: true, _skill: "vocab" };
+          if (i % 4 === 1) return mcStep({ q: "Che cosa significa?", text: x.en, sub: x.ipa ? "/" + x.ipa + "/" : null, say: x.en }, x.it, wrongs.map(function (o) { return o.it; }));
+          if (i % 4 === 2 && B.hasPic(x)) return mcStep({ q: "Che cos'è?", emoji: x.emoji, photo: x.photo, img: x.img, sayAfter: x.en }, x.en, wrongs.map(function (o) { return o.en; }));
+          return mcStep({ q: "Ascolta e scegli il significato", say: x.en, hide: true }, x.it, wrongs.map(function (o) { return o.it; }));
+        });
+      }
+    },
+    // collocazioni (make a decision, take a break...): quiz sul verbo giusto
+    collocations: {
+      icon: "swap", search: function (x, q) { return has(q, x.en, x.it, x.group); },
+      row: function (x) { return card(x.en, x.it, x.ex, x.lv, x.group ? "Gruppo: " + x.group : null); },
+      quiz: function (items) {
+        var groups = B.uniq(items.map(function (x) { return x.group; }).filter(Boolean));
+        return B.sample(items, 10).map(function (x) {
+          var g = x.group && x.en.indexOf(x.group + " ") === 0 && groups.length >= 3 ? x.group : null;
+          if (g) return mcStep({ q: "Quale verbo completa la collocazione?", text: "___ " + x.en.slice(g.length + 1), sub: x.it, sayAfter: x.en }, g, B.sample(groups.filter(function (o) { return o !== g; }), 3));
+          return mcStep({ q: "Che cosa significa?", text: x.en, say: x.en, sayAfter: x.en }, x.it, B.sample(items.filter(function (o) { return o !== x; }), 4).map(function (o) { return o.it; }));
+        });
+      }
+    },
+    // errori tipici degli italiani: sbagliato -> corretto, con la spiegazione
+    mistakes: {
+      icon: "warn", search: function (x, q) { return has(q, x.wrong, x.right, x.topic); },
+      row: function (x) {
+        return h("div", { class: "card mistake" },
+          h("div", { class: "ms-wrong" }, B.icon("x", 16), h("span", null, x.wrong)),
+          h("button", { class: "ms-right", onclick: function () { B.speech.speak(x.right); } }, B.icon("check", 16), h("span", null, x.right), " ", B.icon("speaker", 14, "mini")),
+          h("div", { class: "muted small" }, x.why), x.topic || x.lv ? h("div", { class: "ms-tags" }, x.topic ? h("span", { class: "chip" }, x.topic) : null, lvTag(x.lv)) : null);
+      },
+      quiz: function (items) {
+        return B.sample(items, 10).map(function (x, i) {
+          if (i % 5 < 3) return { t: "fix", q: "Correggi l'errore e riscrivi la frase", s: x.wrong, answers: [x.right].concat(x.alts || []), why: x.why, sayAfter: x.right, _skill: "grammar" };
+          return mcStep({ q: "Qual è la frase corretta?", why: x.why, sayAfter: x.right, _skill: "grammar" }, x.right, [x.wrong].concat(x.more || []));
+        });
+      }
+    },
+    // come si dicono numeri, date, orari, prezzi, indirizzi: da leggere e da scrivere sotto dettatura
+    sayit: {
+      icon: "clock", search: function (x, q) { return has(q, x.written, x.spoken, x.group); },
+      row: function (x) {
+        return h("button", { class: "card sayit", onclick: function () { B.speech.speak(x.spoken); } },
+          h("div", { class: "si-w" }, x.written), h("div", { class: "grow" }, h("div", { class: "si-s" }, x.spoken, " ", B.icon("speaker", 14, "mini")), h("div", { class: "muted small" }, x.it + (x.note ? " - " + x.note : ""))));
+      },
+      quiz: function (items) {
+        return B.sample(items, 10).map(function (x, i) {
+          if (i % 2 === 0) return { t: "type", q: "Ascolta e scrivi", say: x.spoken, hide: true, answers: [x.written].concat(x.alts || []), sayAfter: x.spoken, word: true, _skill: "listening" };
+          return mcStep({ q: "Come si legge?", text: x.written, sayAfter: x.spoken, _skill: "listening" }, x.spoken, B.sample(items.filter(function (o) { return o !== x; }), 4).map(function (o) { return o.spoken; }));
+        });
+      }
+    },
+    // frasi utili per situazione (aeroporto, ristorante, telefono...)
+    phrases: {
+      icon: "chat", search: function (x, q) { return has(q, x.en, x.it, x.group); },
+      row: function (x) { return card(x.en, x.it, x.ex, x.lv, x.group); },
+      quiz: function (items) {
+        return B.sample(items, 10).map(function (x, i) {
+          var wrongs = B.sample(items.filter(function (o) { return o !== x; }), 4);
+          if (i % 3 === 0) return { t: "speak", en: x.en, it: x.it };
+          if (i % 3 === 1) return mcStep({ q: "Che cosa significa?", text: x.en, say: x.en }, x.it, wrongs.map(function (o) { return o.it; }));
+          return mcStep({ q: "Come si dice in inglese?", text: x.it, sayAfter: x.en }, x.en, wrongs.map(function (o) { return o.en; }));
+        });
+      }
+    },
+    // "Descrivi la foto" (stile esame di parlato Cambridge): una o due foto, domanda, aiuti e risposta modello
+    photos: {
+      icon: "image", search: function (x, q) { return has(q, x.q, x.lv); },
+      row: function (x) {
+        var ids = x.photos || [x.photo];
+        return h("button", { class: "card photo-task", onclick: function () {
+          B.session.start({ mode: "practice", title: "Descrivi la foto", xpPer: 2, bonus: 5, retry: false, steps: [{ t: "speakTask", q: x.q, it: x.it, hints: x.hints, model: x.model, min: x.min || 30, photo: x.photo, photos: x.photos, _skill: "speaking" }] });
+        } },
+          h("div", { class: "pt-pics" }, ids.map(function (id) { return B.photo(id, "pt-pic", ""); })),
+          h("div", { class: "grow" }, h("div", { class: "row-title" }, x.q), h("div", { class: "muted small" }, (x.photos ? "Confronta due foto" : "Descrivi una foto") + " · " + x.lv)));
+      }
+    },
     pron: {
       icon: "mic", search: function (x, q) { return has(q, x.title, x.sound); },
       row: function (p) {
@@ -203,6 +292,21 @@
     return root;
   }
 
+  var GROUP_NAMES = { words: "Parole per tema", phrases: "Frasi utili per situazione", photos: "Descrivi la foto", mistakes: "Errori tipici degli italiani", sayit: "Numeri, date, orari e prezzi", collocations: "Collocazioni" };
+  // elenco di più risorse dello stesso tipo
+  function groupPage(list, K) {
+    var root = h("div", { class: "list" });
+    var byLevel = {};
+    list.forEach(function (res) { var lv = res.lv || ""; (byLevel[lv] = byLevel[lv] || []).push(res); });
+    Object.keys(byLevel).sort().forEach(function (lv) {
+      if (lv) root.appendChild(UI.sectionTitle(lv));
+      byLevel[lv].forEach(function (res) {
+        root.appendChild(UI.rowCard(K.icon, res.title, res.items.length + " voci", null, function () { UI.push(res.title, function () { return resourcePage(res); }); }));
+      });
+    });
+    return root;
+  }
+
   function resourcePage(res) {
     var K = KINDS[res.kind];
     var root = h("div", { class: "list" }), body = h("div", { class: "res-body" });
@@ -220,15 +324,35 @@
     return root;
   }
 
+  B.resources = {
+    open: function (id) {
+      var res = R.resource(id);
+      if (res && KINDS[res.kind]) UI.push(res.title, function () { return resourcePage(res); });
+      return !!res;
+    }
+  };
+
   UI.register("resources", function () {
     var root = h("div", { class: "list" });
     root.appendChild(UI.sectionTitle("Studia e consulta", "Tutto quello che serve oltre alle lezioni"));
     root.appendChild(UI.rowCard("puzzle", "Grammatica", R.grammarSheets().length + " argomenti, dall'A2 al B2", null, function () { UI.push("Grammatica", grammarList); }));
     root.appendChild(UI.rowCard("search", "Dizionario", R.allWords().length + " parole del corso", null, function () { UI.push("Dizionario", dictionary); }));
     root.appendChild(UI.rowCard("cards", "Flashcard", "Mazzi da 20 parole, le più deboli prima", null, function () { UI.push("Flashcard", flashcards); }));
+    var byKind = {}, order = [];
     R.resources().forEach(function (res) {
       if (!KINDS[res.kind]) return;
-      root.appendChild(UI.rowCard(KINDS[res.kind].icon, res.title, res.items.length + " voci", null, function () { UI.push(res.title, function () { return resourcePage(res); }); }));
+      if (!byKind[res.kind]) { byKind[res.kind] = []; order.push(res.kind); }
+      byKind[res.kind].push(res);
+    });
+    order.forEach(function (kind) {
+      var list = byKind[kind], K = KINDS[kind];
+      if (list.length === 1) {
+        var res = list[0];
+        root.appendChild(UI.rowCard(K.icon, res.title, res.items.length + " voci", null, function () { UI.push(res.title, function () { return resourcePage(res); }); }));
+      } else {
+        var total = list.reduce(function (a, r) { return a + r.items.length; }, 0), name = GROUP_NAMES[kind] || kind;
+        root.appendChild(UI.rowCard(K.icon, name, list.length + " elenchi, " + total + " voci", null, function () { UI.push(name, function () { return groupPage(list, K); }); }));
+      }
     });
     return root;
   });

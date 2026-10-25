@@ -1,0 +1,230 @@
+{
+ "id": "res-w-science-research",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Scienza e ricerca",
+ "intro": "Venti parole utili sul tema «scienza e ricerca», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "analyse",
+   "it": "analizzare",
+   "ipa": "ˈænəlaɪz",
+   "pos": "v",
+   "ex": [
+    "We need time to analyse all the data.",
+    "Ci serve tempo per analizzare tutti i dati."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "chemical",
+   "it": "sostanza chimica",
+   "ipa": "ˈkemɪkl",
+   "pos": "n",
+   "ex": [
+    "The factory stores dangerous chemicals.",
+    "La fabbrica conserva sostanze chimiche pericolose."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "discovery",
+   "it": "scoperta",
+   "ipa": "dɪˈskʌvəri",
+   "pos": "n",
+   "ex": [
+    "The discovery of penicillin saved millions of lives.",
+    "La scoperta della penicillina ha salvato milioni di vite."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "evidence",
+   "it": "prove",
+   "ipa": "ˈevɪdəns",
+   "pos": "n",
+   "ex": [
+    "There is no evidence that the drug works.",
+    "Non ci sono prove che il farmaco funzioni."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "experiment",
+   "it": "esperimento",
+   "ipa": "ɪkˈsperɪmənt",
+   "pos": "n",
+   "ex": [
+    "The students carried out an experiment in the lab.",
+    "Gli studenti hanno condotto un esperimento in laboratorio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "gene",
+   "it": "gene",
+   "ipa": "dʒiːn",
+   "pos": "n",
+   "ex": [
+    "Scientists have found a gene linked to the disease.",
+    "Gli scienziati hanno trovato un gene legato alla malattia."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "laboratory",
+   "it": "laboratorio",
+   "ipa": "ləˈbɒrətri",
+   "pos": "n",
+   "ex": [
+    "She works in a chemistry laboratory.",
+    "Lavora in un laboratorio di chimica."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "measure",
+   "it": "misurare",
+   "ipa": "ˈmeʒə",
+   "pos": "v",
+   "ex": [
+    "The device measures temperature very accurately.",
+    "Lo strumento misura la temperatura con grande precisione."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "microscope",
+   "it": "microscopio",
+   "ipa": "ˈmaɪkrəskəʊp",
+   "pos": "n",
+   "ex": [
+    "Cells are too small to see without a microscope.",
+    "Le cellule sono troppo piccole per essere viste senza microscopio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "orbit",
+   "it": "orbita",
+   "ipa": "ˈɔːbɪt",
+   "pos": "n",
+   "ex": [
+    "The satellite is in orbit around the Earth.",
+    "Il satellite è in orbita attorno alla Terra."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "outcome",
+   "it": "esito",
+   "ipa": "ˈaʊtkʌm",
+   "pos": "n",
+   "ex": [
+    "The outcome of the trial surprised everyone.",
+    "L'esito della sperimentazione ha sorpreso tutti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "particle",
+   "it": "particella",
+   "ipa": "ˈpɑːtɪkl",
+   "pos": "n",
+   "ex": [
+    "Dust particles float in the air.",
+    "Particelle di polvere fluttuano nell'aria."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "prove",
+   "it": "dimostrare",
+   "ipa": "pruːv",
+   "pos": "v",
+   "ex": [
+    "The test proved that the method was safe.",
+    "Il test ha dimostrato che il metodo era sicuro."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "researcher",
+   "it": "ricercatore",
+   "ipa": "rɪˈsɜːtʃə",
+   "pos": "n",
+   "ex": [
+    "The researchers published their results last week.",
+    "I ricercatori hanno pubblicato i risultati la settimana scorsa."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "sample",
+   "it": "campione",
+   "ipa": "ˈsɑːmpl",
+   "pos": "n",
+   "ex": [
+    "They tested a sample of the river water.",
+    "Hanno analizzato un campione dell'acqua del fiume."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "scientist",
+   "it": "scienziato",
+   "ipa": "ˈsaɪəntɪst",
+   "pos": "n",
+   "ex": [
+    "The scientist explained her results simply.",
+    "La scienziata ha spiegato i suoi risultati in modo semplice."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "survey",
+   "it": "sondaggio",
+   "ipa": "ˈsɜːveɪ",
+   "pos": "n",
+   "ex": [
+    "A survey of a thousand adults was carried out.",
+    "È stato condotto un sondaggio su mille adulti."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "technology",
+   "it": "tecnologia",
+   "ipa": "tekˈnɒlədʒi",
+   "pos": "n",
+   "ex": [
+    "New technology is changing the way we work.",
+    "La nuova tecnologia sta cambiando il nostro modo di lavorare."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "theory",
+   "it": "teoria",
+   "ipa": "ˈθɪəri",
+   "pos": "n",
+   "ex": [
+    "Einstein's theory changed modern physics.",
+    "La teoria di Einstein ha cambiato la fisica moderna."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "vaccine",
+   "it": "vaccino",
+   "ipa": "ˈvæksiːn",
+   "pos": "n",
+   "ex": [
+    "The vaccine was tested on thousands of volunteers.",
+    "Il vaccino è stato testato su migliaia di volontari."
+   ],
+   "lv": "B2",
+   "emoji": "💉"
+  }
+ ]
+}

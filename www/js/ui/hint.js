@@ -11,6 +11,7 @@
   // ---------------------------------------------------------------- scheda di teoria
   B.noteCard = function (n) {
     var card = h("div", { class: "card note-card" }, h("h3", null, n.title), B.rich(n.body));
+    if (n.svg) card.appendChild(h("img", { class: "note-svg", src: "img/g/" + n.svg + ".svg", alt: n.title }));
     if (n.table) {
       var t = h("table", { class: "gtable" });
       n.table.forEach(function (row, i) { t.appendChild(h("tr", null, row.map(function (c) { return h(i === 0 ? "th" : "td", null, c); }))); });
@@ -71,25 +72,28 @@
   };
 
   // ---------------------------------------------------------------- velocità della voce
-  // Due regolatori: voce normale (0.6-1.4) e "tartaruga" (0.25-0.9, parlato spezzato a gruppi di parole con pause).
+  // Tre regolatori: voce normale (0.6-1.4), "tartaruga" (0.25-0.9) e pausa tra le parole della tartaruga (0-800 ms).
   UI.speedControls = function (sample) {
     var S = B.store, st = S.settings();
     sample = sample || "The quick brown fox jumps over the lazy dog.";
-    function slider(label, key, min, max, def, test) {
-      var val = h("span", { class: "speed-val" }), inp = h("input", { type: "range", min: String(min), max: String(max), step: "0.05", value: st[key] || def, class: "range" });
-      function show() { val.textContent = parseFloat(inp.value).toFixed(2) + "x"; }
-      inp.addEventListener("input", show);
-      inp.addEventListener("change", function () { S.setSetting(key, parseFloat(inp.value)); });
+    function slider(label, key, min, max, def, test, opt) {
+      opt = opt || {};
+      var cur = st[key] == null ? def : st[key];
+      var val = h("span", { class: "speed-val" }), inp = h("input", { type: "range", min: String(min), max: String(max), step: String(opt.step || 0.05), value: cur, class: "range" });
+      function show() { val.textContent = opt.ms ? Math.round(inp.value) + " ms" : parseFloat(inp.value).toFixed(2) + "x"; }
+      // la velocità vale subito: un ascolto in corso riparte dalla frase corrente con la nuova velocità
+      inp.addEventListener("input", function () { show(); S.setSetting(key, parseFloat(inp.value)); B.speech.refresh(); });
       show();
       return h("div", { class: "set-block" },
         h("div", { class: "row between" }, h("div", { class: "row-title" }, label), val), inp,
-        h("div", { class: "row between muted small" }, h("span", null, "Più lenta"), h("span", null, "Più veloce")),
+        h("div", { class: "row between muted small" }, h("span", null, opt.lo || "Più lenta"), h("span", null, opt.hi || "Più veloce")),
         h("button", { class: "btn ghost small", onclick: function () { S.setSetting(key, parseFloat(inp.value)); test(); } }, B.icon("speaker", 16), " Prova"));
     }
     return h("div", { class: "speed" },
       slider("Voce normale", "rate", 0.6, 1.4, 0.95, function () { B.speech.speak(sample); }),
-      slider("Tartaruga (lenta)", "slowRate", 0.25, 0.9, 0.55, function () { B.speech.slow(sample); }),
-      h("p", { class: "muted small" }, "La tartaruga divide la frase in gruppi di parole con una pausa in mezzo: è lenta anche se il telefono ignora la velocità."));
+      slider("Tartaruga: velocità di ogni parola", "slowRate", 0.25, 0.9, 0.55, function () { B.speech.slow(sample); }),
+      slider("Tartaruga: pausa tra le parole", "slowGap", 0, 800, 350, function () { B.speech.slow(sample); }, { ms: true, step: 50, lo: "Parole attaccate", hi: "Molto staccate" }),
+      h("p", { class: "muted small" }, "La tartaruga dice una parola alla volta, con una pausa in mezzo (più lunga dopo virgola e punto): le parole restano ben staccate anche se il telefono ignora la velocità."));
   };
   UI.speedSheet = function (sample) {
     return UI.modal({ icon: "speed", title: "Velocità della voce", body: UI.speedControls(sample), buttons: [{ label: "FATTO", value: true, cls: "primary" }] });

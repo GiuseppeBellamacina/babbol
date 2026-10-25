@@ -1,0 +1,129 @@
+{
+  "id": "res-photos-b1",
+  "kind": "photos",
+  "lv": "B1",
+  "title": "Descrivi la foto: B1",
+  "intro": "Guarda la foto e parla per circa un minuto: descrivi la scena, ipotizza cosa pensano o provano le persone e di' la tua opinione. Poi confronta con il modello.",
+  "items": [
+    {
+      "id": "hiking",
+      "lv": "B1",
+      "photo": "hiking",
+      "q": "Describe the photo. Say what the people are doing and why you think they like it. Would you like to be there?",
+      "it": "Descrivi i due escursionisti e il paesaggio, ipotizza perché amano camminare in montagna e di' se ti piacerebbe essere lì.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "They might be...",
+        "I would / wouldn't like to..."
+      ],
+      "model": "In the foreground there is a dry grassy hillside, and two people are walking up it with big backpacks. In the background there are tall pine trees and a rocky mountain under a blue sky with some clouds. It looks like they are on a long hike, and they might be walking for several days. I think they like it because they can enjoy fresh air and quiet, away from everyday life. Personally, I would like to be there, although I would need good boots and plenty of water. The path looks quite steep and tiring.",
+      "min": 55
+    },
+    {
+      "id": "street-musicians",
+      "lv": "B1",
+      "photo": "street-musicians",
+      "q": "Describe the photo. Say what the people are doing and why you think they are doing it. Would you stop to listen?",
+      "it": "Descrivi i due musicisti e il luogo, ipotizza perché suonano lì e di' se ti fermeresti ad ascoltare.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "They might be playing because...",
+        "I would / wouldn't stop..."
+      ],
+      "model": "In the foreground there are two men playing music. One of them is older and he is playing the violin. He is wearing a hat and a warm grey jacket. The other man is wearing dark clothes and he is playing a kind of guitar. Behind them there is a stone wall with arches, and I can see a city in the distance. They might be playing for tourists, perhaps because they want to earn some money. It looks cold, so I think they really love music. I would stop and listen for a few minutes, because live music makes a place feel special.",
+      "min": 55
+    },
+    {
+      "id": "festival-crowd",
+      "lv": "B1",
+      "photo": "festival-crowd",
+      "q": "Describe the photo. Say what the people are doing and why you think they chose to be there. Would you enjoy it?",
+      "it": "Descrivi il pubblico seduto sull'erba davanti al palco, ipotizza perché si trovano lì e di' se ti piacerebbe esserci.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "They might be...",
+        "I would / wouldn't like to..."
+      ],
+      "model": "In the foreground there is a group of people sitting on the grass. Some of them are on blankets and others are on folding chairs. They are looking towards a big stage in the background, which has a green roof, and there are tall trees behind it. It looks like an outdoor concert or a music festival, and it must be a warm day because people are wearing t-shirts. I think they like it because they can relax with friends and enjoy the music in the open air. I would like to be there, although I wouldn't like the crowds if it was very busy.",
+      "min": 55
+    },
+    {
+      "id": "cyclists-city",
+      "lv": "B1",
+      "photo": "cyclists-city",
+      "q": "Describe the photo. Say what the person is doing and why you think they chose to travel like this. Would you do the same?",
+      "it": "Descrivi la persona in bicicletta all'incrocio e la strada, ipotizza perché ha scelto la bici e di' se faresti lo stesso.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "She might be...",
+        "I would / wouldn't..."
+      ],
+      "model": "In the foreground there is a person on a bike. She is wearing a grey jacket and she has a bag across her body, and there is a basket on the back of the bike. She is waiting at a crossing, probably for the traffic to stop. In the background there is a path with trees and a woman walking a dark dog. The leaves are yellow and orange, so I think it is autumn. She might be going to work or doing some shopping. I think she chose the bike because it is cheap and good for the environment. I would do the same if the roads were safe.",
+      "min": 55
+    },
+    {
+      "id": "cafe-laptops",
+      "lv": "B1",
+      "photo": "cafe-laptops",
+      "q": "Describe the photo. Say what the man is doing and why you think he is working here. Would you like to work in a place like this?",
+      "it": "Descrivi l'uomo con il portatile e lo spazio intorno, ipotizza perché lavora lì e di' se ti piacerebbe lavorare in un posto simile.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "He might be...",
+        "I would / wouldn't like to..."
+      ],
+      "model": "In the middle of the photo there is a young man sitting at a wooden table. He is wearing a dark hat and a light blue sweater, and he is working on a laptop. In the foreground there is a large green plant, and in the background there are other tables and some small private rooms with glass walls. It looks like a shared workspace or a cafe. He might be a freelancer, or maybe he prefers to work away from home. I think the place is quiet and comfortable, so I would like to work there, because it seems more relaxing than a normal office.",
+      "min": 55
+    },
+    {
+      "id": "beach-cleanup",
+      "lv": "B1",
+      "photo": "beach-cleanup",
+      "q": "Describe the photo. Say what the people are doing and why you think they are doing it. Would you like to take part?",
+      "it": "Descrivi le persone che raccolgono i rifiuti sulla spiaggia, ipotizza perché lo fanno e di' se parteciperesti.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "They might be volunteers...",
+        "I would / wouldn't like to..."
+      ],
+      "model": "In the foreground there is a group of people on a sandy beach. Some of them are crouching down and picking things up from the sand, and a woman in a red cap is holding a large black bag. In the background there are boats on the water, palm trees and some tents. It looks like a beach clean-up, and they might be volunteers who want to protect the environment. Most of them are wearing hats and masks, so it must be very sunny. I think it is a great idea, and I would like to take part, because it is a simple way to help.",
+      "min": 55
+    },
+    {
+      "id": "fishing-lake",
+      "lv": "B1",
+      "photo": "fishing-lake",
+      "q": "Describe the photo. Say what the people are doing and why you think they enjoy it. Would you like to try it?",
+      "it": "Descrivi le tre sagome che pescano al tramonto, ipotizza perché amano farlo e di' se vorresti provare.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "They might be...",
+        "I would / wouldn't like to..."
+      ],
+      "model": "In the foreground there are three people on a kind of pier next to the water. We can only see their dark shapes because the sun is behind them. Two of them are standing, and one of them is holding a fishing rod up high. The other person is sitting down. In the background there is a city in the distance, and the whole sky is a beautiful orange colour. It looks like sunset. They might be friends or family, and I think they enjoy it because it is peaceful. I would like to try it, although I might get bored if I didn't catch anything.",
+      "min": 55
+    },
+    {
+      "id": "commuters",
+      "lv": "B1",
+      "photo": "commuters",
+      "q": "Describe the photo. Say what the people are doing and how you think they feel. Would you like to travel like this every day?",
+      "it": "Descrivi le persone sulla banchina mentre passa il treno, ipotizza come si sentono e di' se vorresti viaggiare così ogni giorno.",
+      "hints": [
+        "In the foreground / in the background...",
+        "It looks like...",
+        "They might be feeling...",
+        "I would / wouldn't like to..."
+      ],
+      "model": "In the foreground there are two people standing on a station platform. One is a man in a green t-shirt and dark shorts, and he is carrying a black backpack. Next to him there is a woman with grey hair, who is wearing a long red dress. They are waiting behind the yellow line while a train is passing, or maybe stopping, behind them. In the background there are trees and a sign above the platform. They might be going to work, and they don't look in a hurry, so I think they feel calm. I wouldn't like to travel like this every day because I would find it boring.",
+      "min": 55
+    }
+  ]
+}

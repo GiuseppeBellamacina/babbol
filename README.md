@@ -15,10 +15,11 @@ Account e progressi su Supabase. Anche i contenuti delle lezioni stanno su Supab
 | **Esami** | Simulazioni in stile A2 Key, B1 Preliminary e B2 First, con parti a tempo, punteggio per parte e stima indicativa della scala Cambridge. |
 | **Esercizi** | Scelta multipla, completamento, traduzione scritta, frasi da riordinare, key word transformation, word formation, correzione di errori, cloze (a scelta, aperto, word formation), testi con domande, ascolti a più voci, dettati, dialoghi da completare, frasi da ripetere a voce, risposte orali libere, testi scritti con autovalutazione e testo modello. |
 | **Ripasso** | Ripetizione spaziata delle parole (intervalli di 1, 3, 7, 14, 30 e 60 giorni), esercizi sbagliati da rifare, allenamento per abilità. |
-| **Risorse** | Schede di grammatica (dalle lezioni), dizionario, flashcard, verbi irregolari, phrasal verbs, falsi amici, modi di dire, connettivi, pronuncia per italiani. |
+| **Risorse** | Schede di grammatica (dalle lezioni), dizionario, flashcard, verbi irregolari, phrasal verbs, falsi amici, modi di dire, connettivi, pronuncia per italiani; in più 24 liste di parole per tema (480 parole nuove), collocazioni, errori tipici degli italiani, come si dicono numeri/orari/prezzi, frasi utili per situazione e «Descrivi la foto» (stile Cambridge, con due foto da confrontare al B2). Ogni elenco ha un quiz veloce. |
+| **Foto e schemi** | Circa 100 foto libere (Wikimedia Commons, incluse nell'app, ridotte a circa 25 KB l'una) per parole, testi di lettura e descrizioni; 13 schemi SVG (linee del tempo, strutture) nelle note di grammatica. Crediti in [CREDITS.md](CREDITS.md) e nel Profilo. Scelta e criteri in [docs/IMAGES.md](docs/IMAGES.md). |
 | **Progressi** | Minuti di studio al giorno, serie, punteggio per abilità, livello stimato, traguardi. Niente vite e niente attese: si studia quanto si vuole. |
 | **Voce** | Text-to-Speech del telefono (gratuito): nei dialoghi ogni speaker ha una voce maschile o femminile a seconda del nome (o del genere indicato nei contenuti), con accenti diversi; riconoscimento vocale per il parlato. Nessuna API a pagamento. |
-| **Durante gli esercizi** | Tasto **INDIETRO** per tornare ai passi precedenti (la risposta e il punteggio vengono annullati), tasto **suggerimento** per aprire grammatica, parole con traduzione ed esempi e frasi utili dell'unità (non nei test e negli esami), due regolatori di velocità della voce: normale e tartaruga (che spezza la frase in gruppi di parole con pause). |
+| **Durante gli esercizi** | Tasto **INDIETRO** per tornare ai passi precedenti (la risposta e il punteggio vengono annullati), tasto **suggerimento** per aprire grammatica, parole con traduzione ed esempi e frasi utili dell'unità (non nei test e negli esami), regolatori della voce: velocità normale, velocità della tartaruga e pausa tra le parole; la tartaruga dice una parola alla volta, ben staccata, anche negli ascolti. Negli ascolti il lettore ha pausa/riprendi, frase avanti e indietro e uno slider di posizione; se cambi velocità mentre ascolti, la frase in corso riparte subito con la nuova velocità (negli esami restano gli ascolti contati e non si naviga a ascolti finiti). |
 
 **Quanto ci vuole.** Cambridge stima circa 200 ore guidate per livello CEFR: da A2 a B2 sono 300-400 ore. Con 1 ora al giorno servono 10-12 mesi; con 2 ore circa 6. Il corso contiene circa 67 ore di materiale nuovo più 7 di esami: è lo scheletro completo, da affiancare a molta esposizione all'inglese (serie, podcast, letture) e da arricchire nel tempo con nuove unità pubblicate su Supabase.
 
@@ -38,7 +39,7 @@ www/                       l'app (HTML/CSS/JS senza dipendenze), caricata nella 
     speech.js              voce: ponte Android o fallback del browser
   js/ui/                   schermate (auth, percorso, ripasso, risorse, profilo) e runner delle sessioni
 content/                   SORGENTE dei contenuti (JSON): unità, esami, test d'ingresso, risorse
-android/                   guscio nativo: WebView + TTS + riconoscimento vocale + deep link delle email
+android/                   guscio nativo: WebView + TTS + riconoscimento vocale + deep link delle email + aggiornamento dell'app
 supabase/migrations/       schema del database (applicato al progetto "babbol")
 tools/                     content.js (valida/pubblica), e2e.js (test), make-icon.js (icone dalla mascotte), svg-preview.js, docker/Dockerfile
 docs/                      CONTENT_SCHEMA.md, CURRICULUM.md, AUTHORING.md, DATA_MODEL.md
@@ -75,6 +76,17 @@ docker run --rm -v "$PWD":/app babbol-build ./build.sh                          
 
 Su Windows con Git Bash usa `MSYS_NO_PATHCONV=1` e `"$(pwd -W)"` al posto di `"$PWD"`.
 Screenshot e APK finiscono nella cartella del progetto (`build/shots/`, `dist/`).
+
+## Aggiornamento dell'app dall'app
+
+All'avvio l'app (solo su Android) chiede a GitHub l'ultima release, con una sola richiesta e senza account. Se la versione è più recente di quella installata, mostra una finestra con le novità: **AGGIORNA ORA** scarica `babbol.apk`, ne controlla dimensione e SHA-256 e apre l'installatore di Android, che chiede conferma. **PIÙ TARDI** rimanda per 12 ore la stessa versione. Dal Profilo, **Cerca aggiornamenti** controlla a richiesta.
+
+- **Come pubblicare una versione** che le app riconoscono: tag uguale al numero di versione (`1.2.1`), allegato chiamato esattamente `babbol.apk`, versione del manifest (`android:versionName`, `versionCode` più alto) e di `www/js/core/boot.js` coerenti: `build.sh` si ferma se non lo sono.
+- **Note della release**: sono quelle mostrate nella finestra (elenco con `- `, grassetto con `**`). Il testo dopo `**Installazione` non viene mostrato.
+- **Sicurezza**: Android installa l'aggiornamento solo se l'APK è firmato con la stessa chiave di quello installato (`android/debug.keystore`, vedi sotto). Il guscio scarica solo da `github.com/GiuseppeBellamacina/babbol/releases/download/`.
+- **Primo aggiornamento**: chi ha una versione senza questa funzione (fino alla 1.1.x) deve installare a mano la prima volta; da lì in poi si aggiorna dall'app.
+- **Permesso**: la prima volta Android chiede di consentire a Babbol di installare app; l'app apre da sola la schermata giusta.
+- Se l'installazione automatica non riesce, c'è il pulsante per scaricare l'APK dal browser.
 
 ## Aggiornare i contenuti senza aggiornare l'app
 

@@ -434,6 +434,7 @@
     {
      "id": "a2-03-w05",
      "en": "vegetables",
+     "emoji": "🥕",
      "it": "verdure",
      "ipa": "ˈvedʒtəbəlz",
      "pos": "n",
@@ -446,6 +447,7 @@
     {
      "id": "a2-03-w06",
      "en": "groceries",
+     "emoji": "🛒",
      "it": "spesa (alimentari)",
      "ipa": "ˈɡrəʊsəriz",
      "pos": "n",
@@ -505,6 +507,7 @@
     {
      "id": "a2-03-w11",
      "en": "dessert",
+     "photo": "dessert",
      "it": "dolce, dessert",
      "ipa": "dɪˈzɜːt",
      "pos": "n",
@@ -517,6 +520,7 @@
     {
      "id": "a2-03-w12",
      "en": "menu",
+     "photo": "menu",
      "it": "carta, lista dei piatti",
      "ipa": "ˈmenjuː",
      "pos": "n",
@@ -553,6 +557,7 @@
     {
      "id": "a2-03-w15",
      "en": "receipt",
+     "photo": "receipt",
      "it": "scontrino, ricevuta",
      "ipa": "rɪˈsiːt",
      "pos": "n",
@@ -671,6 +676,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-a2-03",
      "title": "My Saturday market",
      "genre": "blog",
      "text": "I moved to Manchester in March, and the biggest surprise was food shopping. At home in Parma I buy bread every morning, a little cheese from the same shop and fresh vegetables twice a week. Here, at first, I did one big shop every Sunday at the supermarket. It was quick, but I always bought too much and I threw away a lot of food.\n\nLast month I changed my routine. Now I go to the Saturday market near my flat. There aren't many stalls, only about ten, but everything is fresh and the sellers are friendly. I buy a few vegetables, some eggs from a local farm and a loaf of bread. I don't buy much meat because it is expensive, so we eat fish once a week instead.\n\nI spend about 25 pounds a week, which is less than before. I also use a small basket, not a trolley, so I can't buy too much!\n\nThe only problem is the weather. There isn't any shelter at the market, and last Saturday it rained for two hours. Still, I met a lovely woman who sells honey, and she gave me some advice about the best bakery in town. I'm going there tomorrow.",

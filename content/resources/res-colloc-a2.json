@@ -1,0 +1,449 @@
+{
+ "id": "res-colloc-a2",
+ "kind": "collocations",
+ "lv": "A2",
+ "title": "Collocazioni A2",
+ "intro": "Le combinazioni di parole più comuni dell'inglese di base: impara il verbo giusto insieme al nome.",
+ "items": [
+  {
+   "en": "make a decision",
+   "it": "prendere una decisione",
+   "ex": [
+    "It is hard to make a decision about the trip.",
+    "È difficile prendere una decisione sul viaggio."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "make a mistake",
+   "it": "fare un errore",
+   "ex": [
+    "I made a mistake in the test.",
+    "Ho fatto un errore nel compito."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "make a phone call",
+   "it": "fare una telefonata",
+   "ex": [
+    "I need to make a phone call before lunch.",
+    "Devo fare una telefonata prima di pranzo."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "make friends",
+   "it": "fare amicizia",
+   "ex": [
+    "She made friends quickly at the new school.",
+    "Ha fatto amicizia in fretta nella nuova scuola."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "make a cake",
+   "it": "preparare una torta",
+   "ex": [
+    "We made a cake for Dad's birthday.",
+    "Abbiamo preparato una torta per il compleanno di papà."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "make noise",
+   "it": "fare rumore",
+   "ex": [
+    "Please do not make noise after ten.",
+    "Per favore non fate rumore dopo le dieci."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "make money",
+   "it": "guadagnare",
+   "ex": [
+    "He makes money by selling old furniture.",
+    "Guadagna vendendo mobili vecchi."
+   ],
+   "lv": "A2",
+   "group": "make"
+  },
+  {
+   "en": "do homework",
+   "it": "fare i compiti",
+   "ex": [
+    "I do my homework after dinner.",
+    "Faccio i compiti dopo cena."
+   ],
+   "lv": "A2",
+   "group": "do"
+  },
+  {
+   "en": "do the shopping",
+   "it": "fare la spesa",
+   "ex": [
+    "Sara does the shopping on Saturdays.",
+    "Sara fa la spesa il sabato."
+   ],
+   "lv": "A2",
+   "group": "do"
+  },
+  {
+   "en": "do the washing-up",
+   "it": "lavare i piatti",
+   "ex": [
+    "Who is doing the washing-up tonight?",
+    "Chi lava i piatti stasera?"
+   ],
+   "lv": "A2",
+   "group": "do"
+  },
+  {
+   "en": "do exercise",
+   "it": "fare esercizio fisico",
+   "ex": [
+    "I try to do exercise every morning.",
+    "Cerco di fare esercizio ogni mattina."
+   ],
+   "lv": "A2",
+   "group": "do"
+  },
+  {
+   "en": "do a course",
+   "it": "seguire un corso",
+   "ex": [
+    "She is doing a course in photography.",
+    "Sta seguendo un corso di fotografia."
+   ],
+   "lv": "A2",
+   "group": "do"
+  },
+  {
+   "en": "do your best",
+   "it": "fare del proprio meglio",
+   "ex": [
+    "Just do your best and don't worry.",
+    "Fai del tuo meglio e non preoccuparti."
+   ],
+   "lv": "A2",
+   "group": "do"
+  },
+  {
+   "en": "take a photo",
+   "it": "scattare una foto",
+   "ex": [
+    "Can you take a photo of us, please?",
+    "Puoi farci una foto, per favore?"
+   ],
+   "lv": "A2",
+   "group": "take"
+  },
+  {
+   "en": "take a bus",
+   "it": "prendere l'autobus",
+   "ex": [
+    "I take a bus to work every day.",
+    "Prendo l'autobus per andare al lavoro ogni giorno."
+   ],
+   "lv": "A2",
+   "group": "take"
+  },
+  {
+   "en": "take a break",
+   "it": "fare una pausa",
+   "ex": [
+    "Let's take a break and have a coffee.",
+    "Facciamo una pausa e prendiamo un caffè."
+   ],
+   "lv": "A2",
+   "group": "take"
+  },
+  {
+   "en": "take a taxi",
+   "it": "prendere un taxi",
+   "ex": [
+    "We took a taxi to the airport.",
+    "Abbiamo preso un taxi per l'aeroporto."
+   ],
+   "lv": "A2",
+   "group": "take"
+  },
+  {
+   "en": "take an exam",
+   "it": "sostenere un esame",
+   "ex": [
+    "He takes his last exam on Friday.",
+    "Sostiene l'ultimo esame venerdì."
+   ],
+   "lv": "A2",
+   "group": "take"
+  },
+  {
+   "en": "take a seat",
+   "it": "accomodarsi",
+   "ex": [
+    "Please take a seat and wait here.",
+    "Si accomodi e aspetti qui, per favore."
+   ],
+   "lv": "A2",
+   "group": "take"
+  },
+  {
+   "en": "have a shower",
+   "it": "fare la doccia",
+   "ex": [
+    "I have a shower every morning.",
+    "Faccio la doccia ogni mattina."
+   ],
+   "lv": "A2",
+   "group": "have"
+  },
+  {
+   "en": "have breakfast",
+   "it": "fare colazione",
+   "ex": [
+    "We have breakfast at seven o'clock.",
+    "Facciamo colazione alle sette."
+   ],
+   "lv": "A2",
+   "group": "have"
+  },
+  {
+   "en": "have fun",
+   "it": "divertirsi",
+   "ex": [
+    "The children had fun at the beach.",
+    "I bambini si sono divertiti in spiaggia."
+   ],
+   "lv": "A2",
+   "group": "have"
+  },
+  {
+   "en": "have a party",
+   "it": "fare una festa",
+   "ex": [
+    "They are having a party on Saturday.",
+    "Fanno una festa sabato."
+   ],
+   "lv": "A2",
+   "group": "have"
+  },
+  {
+   "en": "have a look",
+   "it": "dare un'occhiata",
+   "ex": [
+    "Let me have a look at your homework.",
+    "Fammi dare un'occhiata ai tuoi compiti."
+   ],
+   "lv": "A2",
+   "group": "have"
+  },
+  {
+   "en": "have a cold",
+   "it": "avere il raffreddore",
+   "ex": [
+    "I can't come, I have a cold.",
+    "Non posso venire, ho il raffreddore."
+   ],
+   "lv": "A2",
+   "group": "have"
+  },
+  {
+   "en": "get up",
+   "it": "alzarsi",
+   "ex": [
+    "I get up at half past six.",
+    "Mi alzo alle sei e mezza."
+   ],
+   "lv": "A2",
+   "group": "get"
+  },
+  {
+   "en": "get a job",
+   "it": "trovare un lavoro",
+   "ex": [
+    "He got a job in a restaurant.",
+    "Ha trovato un lavoro in un ristorante."
+   ],
+   "lv": "A2",
+   "group": "get"
+  },
+  {
+   "en": "get home",
+   "it": "arrivare a casa",
+   "ex": [
+    "We got home very late last night.",
+    "Siamo arrivati a casa molto tardi ieri sera."
+   ],
+   "lv": "A2",
+   "group": "get"
+  },
+  {
+   "en": "get a present",
+   "it": "ricevere un regalo",
+   "ex": [
+    "I got a present from my aunt.",
+    "Ho ricevuto un bel regalo da mia zia."
+   ],
+   "lv": "A2",
+   "group": "get"
+  },
+  {
+   "en": "go shopping",
+   "it": "andare a fare compere",
+   "ex": [
+    "Let's go shopping on Saturday afternoon.",
+    "Andiamo a fare compere sabato pomeriggio."
+   ],
+   "lv": "A2",
+   "group": "go"
+  },
+  {
+   "en": "go for a walk",
+   "it": "fare una passeggiata",
+   "ex": [
+    "They go for a walk after dinner.",
+    "Fanno una passeggiata dopo cena."
+   ],
+   "lv": "A2",
+   "group": "go"
+  },
+  {
+   "en": "go on holiday",
+   "it": "andare in vacanza",
+   "ex": [
+    "We go on holiday in August.",
+    "Andiamo in vacanza ad agosto."
+   ],
+   "lv": "A2",
+   "group": "go"
+  },
+  {
+   "en": "go to bed",
+   "it": "andare a letto",
+   "ex": [
+    "The kids go to bed at nine.",
+    "I bambini vanno a letto alle nove."
+   ],
+   "lv": "A2",
+   "group": "go"
+  },
+  {
+   "en": "go swimming",
+   "it": "andare a nuotare",
+   "ex": [
+    "I go swimming every Tuesday.",
+    "Vado a nuotare ogni martedì."
+   ],
+   "lv": "A2",
+   "group": "go"
+  },
+  {
+   "en": "pay the bill",
+   "it": "pagare il conto",
+   "ex": [
+    "I'll pay the bill, you paid last time.",
+    "Pago io il conto, tu hai pagato l'ultima volta."
+   ],
+   "lv": "A2",
+   "group": "pay"
+  },
+  {
+   "en": "play football",
+   "it": "giocare a calcio",
+   "ex": [
+    "My brother plays football on Sundays.",
+    "Mio fratello gioca a calcio la domenica."
+   ],
+   "lv": "A2",
+   "group": "play"
+  },
+  {
+   "en": "play the guitar",
+   "it": "suonare la chitarra",
+   "ex": [
+    "She plays the guitar in a small band.",
+    "Suona la chitarra in una piccola band."
+   ],
+   "lv": "A2",
+   "group": "play"
+  },
+  {
+   "en": "catch a bus",
+   "it": "prendere l'autobus (al volo)",
+   "ex": [
+    "I had to run to catch a bus.",
+    "Ho dovuto correre per prendere l'autobus."
+   ],
+   "lv": "A2",
+   "group": "catch"
+  },
+  {
+   "en": "keep a secret",
+   "it": "mantenere un segreto",
+   "ex": [
+    "Can you keep a secret?",
+    "Sai mantenere un segreto?"
+   ],
+   "lv": "A2",
+   "group": "keep"
+  },
+  {
+   "en": "heavy rain",
+   "it": "pioggia forte",
+   "ex": [
+    "There was heavy rain all night.",
+    "C'è stata pioggia forte tutta la notte."
+   ],
+   "lv": "A2",
+   "group": "adjective + noun"
+  },
+  {
+   "en": "fast food",
+   "it": "cibo da fast food",
+   "ex": [
+    "Fast food is quick but not very healthy.",
+    "Il fast food è veloce ma poco sano."
+   ],
+   "lv": "A2",
+   "group": "adjective + noun"
+  },
+  {
+   "en": "afraid of",
+   "it": "avere paura di",
+   "ex": [
+    "My little sister is afraid of dogs.",
+    "La mia sorellina ha paura dei cani."
+   ],
+   "lv": "A2",
+   "group": "preposition"
+  },
+  {
+   "en": "good at",
+   "it": "bravo in",
+   "ex": [
+    "He is very good at maths.",
+    "È molto bravo in matematica."
+   ],
+   "lv": "A2",
+   "group": "preposition"
+  },
+  {
+   "en": "interested in",
+   "it": "interessato a",
+   "ex": [
+    "I am interested in old films.",
+    "Sono interessato ai vecchi film."
+   ],
+   "lv": "A2",
+   "group": "preposition"
+  }
+ ]
+}

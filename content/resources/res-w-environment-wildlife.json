@@ -1,0 +1,231 @@
+{
+ "id": "res-w-environment-wildlife",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Ambiente e fauna",
+ "intro": "Venti parole utili sul tema «ambiente e fauna», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "climate",
+   "it": "clima",
+   "ipa": "ˈklaɪmət",
+   "pos": "n",
+   "ex": [
+    "The climate here is mild all year.",
+    "Il clima qui è mite tutto l'anno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cut down",
+   "it": "abbattere",
+   "ipa": "kʌt daʊn",
+   "pos": "phr",
+   "ex": [
+    "They cut down the old trees near the road.",
+    "Hanno abbattuto i vecchi alberi vicino alla strada."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "damage",
+   "it": "danneggiare",
+   "ipa": "ˈdæmɪdʒ",
+   "pos": "v",
+   "ex": [
+    "Plastic bags damage marine life.",
+    "I sacchetti di plastica danneggiano la vita marina."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "ecosystem",
+   "it": "ecosistema",
+   "ipa": "ˈiːkəʊsɪstəm",
+   "pos": "n",
+   "ex": [
+    "A coral reef is a fragile ecosystem.",
+    "Una barriera corallina è un ecosistema fragile."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "energy",
+   "it": "energia",
+   "ipa": "ˈenədʒi",
+   "pos": "n",
+   "ex": [
+    "Solar panels save a lot of energy.",
+    "I pannelli solari fanno risparmiare molta energia."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "extinct",
+   "it": "estinto",
+   "ipa": "ɪkˈstɪŋkt",
+   "pos": "adj",
+   "ex": [
+    "Dinosaurs became extinct millions of years ago.",
+    "I dinosauri si sono estinti milioni di anni fa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "flood",
+   "it": "alluvione",
+   "ipa": "flʌd",
+   "pos": "n",
+   "ex": [
+    "The flood destroyed several bridges.",
+    "L'alluvione ha distrutto diversi ponti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "fuel",
+   "it": "carburante",
+   "ipa": "ˈfjuːəl",
+   "pos": "n",
+   "ex": [
+    "Fuel is more expensive than last year.",
+    "Il carburante costa più dell'anno scorso."
+   ],
+   "lv": "B1",
+   "emoji": "⛽"
+  },
+  {
+   "en": "glacier",
+   "it": "ghiacciaio",
+   "ipa": "ˈɡlæsiə",
+   "pos": "n",
+   "ex": [
+    "The glacier is getting smaller every year.",
+    "Il ghiacciaio diventa più piccolo ogni anno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "global warming",
+   "it": "riscaldamento globale",
+   "ipa": "ˌɡləʊbl ˈwɔːmɪŋ",
+   "pos": "phr",
+   "ex": [
+    "Global warming is melting the glaciers.",
+    "Il riscaldamento globale sta sciogliendo i ghiacciai."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "litter",
+   "it": "rifiuti abbandonati",
+   "ipa": "ˈlɪtə",
+   "pos": "n",
+   "ex": [
+    "There was litter all over the beach.",
+    "C'erano rifiuti abbandonati su tutta la spiaggia."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "pesticide",
+   "it": "pesticida",
+   "ipa": "ˈpestɪsaɪd",
+   "pos": "n",
+   "ex": [
+    "The farm does not use any pesticides.",
+    "L'azienda agricola non usa pesticidi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "plastic",
+   "it": "plastica",
+   "ipa": "ˈplæstɪk",
+   "pos": "n",
+   "ex": [
+    "We should use less plastic.",
+    "Dovremmo usare meno plastica."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "pollute",
+   "it": "inquinare",
+   "ipa": "pəˈluːt",
+   "pos": "v",
+   "ex": [
+    "The factory polluted the river for years.",
+    "La fabbrica ha inquinato il fiume per anni."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "protect",
+   "it": "proteggere",
+   "ipa": "prəˈtekt",
+   "pos": "v",
+   "ex": [
+    "We must protect our rivers and lakes.",
+    "Dobbiamo proteggere i nostri fiumi e laghi."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "reserve",
+   "it": "riserva naturale",
+   "ipa": "rɪˈzɜːv",
+   "pos": "n",
+   "ex": [
+    "The nature reserve is open to visitors.",
+    "La riserva naturale è aperta ai visitatori."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "rubbish",
+   "it": "spazzatura",
+   "ipa": "ˈrʌbɪʃ",
+   "pos": "n",
+   "ex": [
+    "Please take the rubbish out tonight.",
+    "Porta fuori la spazzatura stasera, per favore."
+   ],
+   "lv": "B1",
+   "emoji": "🗑️"
+  },
+  {
+   "en": "solar",
+   "it": "solare",
+   "ipa": "ˈsəʊlə",
+   "pos": "adj",
+   "ex": [
+    "Many houses now use solar power.",
+    "Molte case ora usano l'energia solare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "species",
+   "it": "specie",
+   "ipa": "ˈspiːʃiːz",
+   "pos": "n",
+   "ex": [
+    "Scientists found a new species of frog.",
+    "Gli scienziati hanno scoperto una nuova specie di rana."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "wildlife",
+   "it": "fauna selvatica",
+   "ipa": "ˈwaɪldlaɪf",
+   "pos": "n",
+   "ex": [
+    "The park is full of wildlife.",
+    "Il parco è pieno di fauna selvatica."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

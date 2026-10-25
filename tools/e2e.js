@@ -227,10 +227,26 @@ async function play(page, cfgExpr, mode, seen, arg) {
   // niente riconoscimento vocale del browser: gli step "parla" vanno in modalità manuale (FATTO)
   await ctx.addInitScript(() => { delete window.webkitSpeechRecognition; delete window.SpeechRecognition; });
   await ctx.route(API + "/**", server.handle);
+  const gh = { tag: "1.1.2", calls: 0 };
+  const ghHandler = (route) => {
+    gh.calls++;
+    const rel = (t) => "https://github.com/GiuseppeBellamacina/babbol/releases/download/" + t + "/babbol.apk";
+    route.fulfill({ status: 200, contentType: "application/json", headers: cors(), body: JSON.stringify({
+      tag_name: gh.tag, html_url: "https://github.com/GiuseppeBellamacina/babbol/releases/tag/" + gh.tag,
+      body: "## Novità\n\n- **Voci** diverse per ogni speaker.\n- Tartaruga più chiara.\n\n**Installazione:** scarica babbol.apk sul telefono e aprilo.",
+      assets: [{ name: "notes.txt", browser_download_url: "https://example.invalid/x" }, { name: "babbol.apk", browser_download_url: rel(gh.tag), size: 571924, digest: "sha256:" + "a".repeat(64) }]
+    }) });
+  };
+  await ctx.route("https://api.github.com/**", ghHandler);
+  // repository su GitHub: serve la foto "remote-only" (solo lì), niente per le altre
+  await ctx.route("https://raw.githubusercontent.com/**", (route) => {
+    if (/remote-only\.webp$/.test(route.request().url())) route.fulfill({ status: 200, contentType: "image/webp", headers: cors(), body: fs.readFileSync(path.join(ROOT, "www", "img", "p", "passport.webp")) });
+    else route.abort();
+  });
   const page = await ctx.newPage();
   const errors = [];
   page.on("pageerror", (e) => errors.push("pageerror: " + e.message));
-  page.on("console", (m) => { if (m.type() === "error" && !/status of (400|401|404)/.test(m.text())) errors.push("console: " + m.text()); });
+  page.on("console", (m) => { if (m.type() === "error" && !/status of (400|401|404)|net::ERR_FILE_NOT_FOUND|net::ERR_FAILED/.test(m.text())) errors.push("console: " + m.text()); });
   page.on("dialog", (d) => d.dismiss());
   const shot = (name) => page.screenshot({ path: path.join(SHOTS, name + ".png") });
   const noEmoji = async (where) => {
@@ -377,6 +393,24 @@ async function play(page, cfgExpr, mode, seen, arg) {
   ok(await page.locator(".note-step").count() === 1, "si può tornare a rileggere la teoria");
   await page.evaluate(() => B.session._state().close());
 
+  // gap con due spazi: un'opzione = una parte per spazio ("an / an"), ognuna nel suo spazio; la voce legge la frase completa
+  await page.evaluate(() => {
+    window.__spoken = []; const orig = B.speech.speak; B.speech.speak = function (t) { window.__spoken.push(String(t)); };
+    window.__origSpeak = orig;
+    B.session.start({ mode: "practice", title: "t", xpPer: 1, retry: false, steps: [
+      { t: "gap", s: "I had ___ egg and ___ apple for breakfast.", opts: ["an / a", "a / an", "an / an"], a: 2, it: "A colazione ho mangiato un uovo e una mela.", why: "Egg e apple iniziano con un suono vocalico: an." }] });
+  });
+  await page.locator(".opt", { hasText: /^a \/ an$/ }).click();
+  const filled = await page.locator(".q-text.sentence .blank").allInnerTexts();
+  ok(filled.length === 2 && filled[0].trim() === "a" && filled[1].trim() === "an", "gap con due spazi: ogni parte nel suo spazio (" + JSON.stringify(filled.map((x) => x.trim())) + ")");
+  await page.locator(".opt", { hasText: /^an \/ an$/ }).click();
+  ok((await page.locator(".q-text.sentence .blank").allInnerTexts()).every((x) => x.trim() === "an"), "scegliendo \"an / an\" entrambi gli spazi diventano «an»");
+  await page.locator(".s-foot .btn:not(.back)").click();
+  await page.waitForTimeout(500);
+  const said = await page.evaluate(() => window.__spoken.slice());
+  ok(said.some((t) => t === "I had an egg and an apple for breakfast.") && said.every((t) => !/_/.test(t)), "la voce legge la frase completa, senza «underscore» (" + JSON.stringify(said) + ")");
+  await page.evaluate(() => { B.speech.speak = window.__origSpeak; B.session._state().close(); });
+
   // il suggerimento: nelle lezioni c'è, nei test e negli esami no
   await page.evaluate((u) => B.session.start(B.engine.lessonSession(u + "-reading")), firstUnit);
   ok(await page.locator(".hint-btn").count() === 1, "nelle lezioni c'è il tasto suggerimento");
@@ -400,9 +434,9 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await page.evaluate(() => B.session.start({ mode: "practice", title: "t", xpPer: 1, steps: [{ t: "speak", en: "Nice to meet you." }] }));
   await page.locator(".audio-row .speaker.tiny").click();
   await page.waitForSelector(".speed");
-  ok(await page.locator(".speed input[type=range]").count() === 2, "due regolatori: voce normale e tartaruga");
+  ok(await page.locator(".speed input[type=range]").count() === 3, "tre regolatori: voce normale, velocità della tartaruga, pausa tra le parole");
   await page.waitForTimeout(400); await shot("14-speed");
-  await page.locator(".speed input[type=range]").nth(1).evaluate((el) => { el.value = "0.3"; el.dispatchEvent(new Event("change")); });
+  await page.locator(".speed input[type=range]").nth(1).evaluate((el) => { el.value = "0.3"; el.dispatchEvent(new Event("input")); el.dispatchEvent(new Event("change")); });
   ok(await page.evaluate(() => Math.abs(B.store.settings().slowRate - 0.3) < 0.001 && Math.abs(B.store.settings().rate - 0.95) < 0.001), "la velocità lenta si regola da sola (0.3) senza toccare la normale");
   await page.evaluate(() => B.ui.closeModal(true));
   await page.evaluate(() => B.session._state().close());
@@ -448,6 +482,90 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await page.evaluate(() => { B.store.setSetting("theme", "dark"); B.ui.applyTheme(); B.ui.goTab("home"); });
   await shot("11-home-dark");
   await page.evaluate(() => { B.store.setSetting("theme", "auto"); B.ui.applyTheme(); });
+
+  // ---------------------------------------------------------------- nuove risorse
+  console.log("Nuove risorse");
+  await page.evaluate(() => B.ui.goTab("resources"));
+  ok(await page.locator(".screen .row-card").count() <= 20, "scheda Risorse: gli elenchi dello stesso tipo sono raggruppati (" + (await page.locator(".screen .row-card").count()) + " righe)");
+  const kindsInfo = await page.evaluate(() => { const by = {}; B.repo.resources().forEach((r) => { (by[r.kind] = by[r.kind] || []).push(r.id); }); return by; });
+  for (const kind of ["words", "collocations", "mistakes", "sayit", "phrases"]) {
+    const ids = kindsInfo[kind];
+    if (!ids) { console.log("  (nessuna risorsa di tipo " + kind + " ancora presente)"); continue; }
+    await page.evaluate((id) => { B.ui.goTab("resources"); B.resources.open(id); }, ids[0]);
+    await page.waitForSelector(".res-body");
+    await noEmoji("risorsa " + kind);
+    ok(await page.locator(".res-body .card").count() > 5, kind + ": elenco con le voci (" + (await page.locator(".res-body .card").count()) + ")");
+    if (kind === "words") await shot("21-words-list");
+    await page.locator(".btn.blue", { hasText: "Quiz veloce" }).click();
+    await page.waitForSelector(".session");
+    let guard = 0; while ((await solveStep(page, "right")) !== "closed") { if (++guard > 60) throw new Error("quiz infinito " + kind); }
+    ok(true, kind + ": quiz veloce giocato fino in fondo");
+  }
+  // ogni lista di parole: nessuna parola ripetuta nelle unità (lo controlla il validatore) e ogni foto/emoji mostrata
+  if (kindsInfo.words) {
+    const wl = await page.evaluate(() => B.repo.resources().filter((r) => r.kind === "words").map((r) => r.items.length));
+    ok(wl.length >= 20 && wl.every((n) => n >= 15), "parole per tema: " + wl.length + " liste, " + wl.reduce((a, b) => a + b, 0) + " parole");
+  }
+  // "Descrivi la foto": una foto (A2/B1) e due foto da confrontare (B2), con le foto visibili nella sessione
+  const photoIds = kindsInfo.photos || [];
+  for (const id of photoIds) {
+    const info = await page.evaluate((i) => { const r = B.repo.resource(i); return { two: !!(r.items[0].photos), n: r.items.length }; }, id);
+    await page.evaluate((i) => { B.ui.goTab("resources"); B.resources.open(i); }, id);
+    await page.waitForSelector(".card.photo-task");
+    ok(await page.locator(".card.photo-task").count() === info.n, "Descrivi la foto: " + info.n + " consegne con anteprima (" + id + ")");
+    await page.locator(".card.photo-task").first().click();
+    await page.waitForSelector(".session .photos");
+    await page.waitForFunction(() => Array.from(document.querySelectorAll(".session .photos img.photo")).every((i) => i.complete && i.naturalWidth > 0), null, { timeout: 8000 });
+    ok(await page.locator(".session .photos img.photo").count() === (info.two ? 2 : 1) && (!info.two || (await page.locator(".session .photos .tag").allInnerTexts()).join("") === "AB"), "consegna con " + (info.two ? "due foto A/B" : "una foto") + " caricata");
+    if (id === photoIds[photoIds.length - 1] || photoIds.indexOf(id) === 0) await shot("22-photo-task-" + id);
+    let g2 = 0; while ((await solveStep(page, "right")) !== "closed") { if (++g2 > 20) throw new Error("sessione foto infinita"); }
+  }
+  // schemi di grammatica: visibili nelle note e nelle schede
+  await page.evaluate(() => { const ss = B.engine.lessonSession("a2-01-grammar"); ss.steps = ss.steps.filter((x) => x.svg); B.session.start(ss); });
+  ok(await page.locator(".note-step .note-svg").count() === 1, "schema di grammatica nella nota (linea del tempo)");
+  await page.waitForFunction(() => { const i = document.querySelector(".note-step .note-svg"); return i && i.complete && i.naturalWidth > 0; });
+  await shot("23-grammar-diagram");
+  await page.evaluate(() => B.session._state().close());
+  // lettura con foto di apertura
+  await page.evaluate(() => B.session.start(B.engine.lessonSession("a2-02-reading")));
+  await page.waitForSelector(".reading .photos img.photo");
+  await page.waitForFunction(() => { const i = document.querySelector(".reading .photos img.photo"); return i && i.complete && i.naturalWidth > 0; });
+  ok(true, "testo di lettura con la foto di apertura");
+  await shot("24-reading-photo");
+  await page.evaluate(() => B.session._state().close());
+
+  // ---------------------------------------------------------------- foto
+  console.log("Foto");
+  const loaded = (sel) => page.waitForFunction((q) => { const i = document.querySelector(q); return i && i.complete && i.naturalWidth > 0; }, sel, { timeout: 8000 });
+  await page.evaluate(() => { const d = document.createElement("div"); d.id = "photo-test"; document.body.appendChild(d); d.appendChild(B.photo("market", "t-local")); d.appendChild(B.photo("remote-only", "t-remote")); d.appendChild(B.photo("nowhere", "t-missing")); });
+  await loaded("#photo-test img.t-local");
+  ok(await page.evaluate(() => document.querySelector("#photo-test img.t-local").getAttribute("src") === "img/p/market.webp"), "foto: si usa il file incluso nell'app");
+  await loaded("#photo-test img.t-remote");
+  ok(await page.evaluate(() => /raw\.githubusercontent\.com\/.*\/remote-only\.webp$/.test(document.querySelector("#photo-test img.t-remote").src)), "foto mancante nell'app: ripiego sul repository su GitHub");
+  await page.waitForSelector("#photo-test .photo-ph.t-missing");
+  ok(await page.evaluate(() => !document.querySelector("#photo-test img.t-missing") && /non disponibile/.test(document.querySelector("#photo-test .photo-ph").innerText)), "foto introvabile ovunque: segnaposto al posto dell'immagine rotta");
+  await page.evaluate(() => { document.getElementById("photo-test").remove(); });
+  // coppia A/B e foto singola
+  await page.evaluate(() => { const d = document.createElement("div"); d.id = "photo-test"; document.body.appendChild(d); d.appendChild(B.photoBlock({ photos: ["market", "commuters"] })); d.appendChild(B.photoBlock({ photo: "passport" })); });
+  ok(await page.evaluate(() => { const t = Array.from(document.querySelectorAll("#photo-test .photos.n2 .tag")).map((x) => x.textContent).join(""); return t === "AB" && document.querySelectorAll("#photo-test .photos.n1 .tag").length === 0; }), "due foto da confrontare con le etichette A e B; una sola foto senza etichette");
+  await page.evaluate(() => { document.getElementById("photo-test").remove(); });
+  // esercizio con foto (domanda con immagine) e parola con foto nella scheda delle parole
+  await page.evaluate(() => B.session.start({ mode: "practice", title: "t", xpPer: 1, steps: [
+    { t: "mc", q: "Che cos'è?", photo: "passport", opts: ["passport", "ticket", "wallet"], a: 0 },
+    { t: "learn", words: [{ id: "x1", en: "passport", it: "passaporto", ipa: "ˈpɑːspɔːt", pos: "n", photo: "passport", ex: ["Show your passport.", "Mostra il passaporto."] }] }] }));
+  await loaded(".q-pic img.photo");
+  await shot("18-photo-question");
+  await page.locator(".opt", { hasText: /^passport$/ }).click(); await page.locator(".s-foot .btn:not(.back)").click(); await page.locator(".s-foot .btn:not(.back)").click();
+  await loaded(".word-pic img.photo");
+  await shot("19-photo-word");
+  await page.evaluate(() => B.session._state().close());
+  // crediti nel Profilo
+  await page.evaluate(() => B.ui.goTab("profile"));
+  await page.locator(".set-row", { hasText: "Crediti delle foto" }).click();
+  await page.waitForSelector(".card.credit");
+  ok(await page.locator(".card.credit").count() >= 4 && /Wilfredor/.test(await page.locator(".screen").innerText()) && /CC0/.test(await page.locator(".screen").innerText()), "Profilo > Crediti delle foto: titolo, autore e licenza di ogni foto");
+  await shot("20-credits");
+  await page.evaluate(() => B.ui.pop());
 
   // ---------------------------------------------------------------- sincronizzazione
   console.log("Sincronizzazione");
@@ -527,16 +645,22 @@ async function play(page, cfgExpr, mode, seen, arg) {
   console.log("Ponte Android");
   const ctx3 = await browser.newContext({ viewport: { width: 390, height: 800 } });
   await ctx3.route(API + "/**", server.handle);
+  await ctx3.route("https://api.github.com/**", ghHandler);
+  ok(gh.calls === 0, "senza il guscio Android (browser) l'app non controlla gli aggiornamenti: nessuna richiesta a GitHub");
   await ctx3.addInitScript(() => {
     window.__bridge = [];
     window.AndroidBridge = {
       speak: (t, l, r) => window.__bridge.push(["speak", t, l]),
       speakQueued: (t, l, r) => window.__bridge.push(["speakQueued", t, l]),
-      speakVoice: (t, l, r, p, id, q, g, v) => { window.__bridge.push(["speakVoice", t, l, p, id, q, g, v, r]); if (id) setTimeout(() => window.__onTtsDone(id), 5); },
+      speakVoice: (t, l, r, p, id, q, g, v) => { window.__bridge.push(["speakVoice", t, l, p, id, q, g, v, r]); window.__lastId = id; if (id && !window.__hold) setTimeout(() => window.__onTtsDone(id), 5); },
       silence: (ms) => window.__bridge.push(["silence", ms]),
       stopSpeaking: () => window.__bridge.push(["stop"]),
       listen: (l) => { window.__bridge.push(["listen", l]); setTimeout(() => window.__onSpeech(JSON.stringify({ ok: true, results: [window.__say || ""] })), 10); },
-      setStatusBar: (d) => window.__bridge.push(["bar", d])
+      setStatusBar: (d) => window.__bridge.push(["bar", d]),
+      getVersionName: () => "1.1.2",
+      downloadUpdate: (u, sha) => window.__bridge.push(["downloadUpdate", u, sha]),
+      cancelUpdate: () => window.__bridge.push(["cancelUpdate"]),
+      openReleasePage: (u) => window.__bridge.push(["openReleasePage", u])
     };
   });
   const p3 = await ctx3.newPage();
@@ -558,11 +682,71 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await p3.evaluate(() => { window.__bridge.length = 0; B.speech.playLines([["Anna", "Where is it?", "m"], ["Luca", "It is here.", "f"]]); });
   const g3 = await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice").map((c) => c[6]).join(""));
   ok(g3 === "mf", "il genere indicato nei contenuti ha la precedenza sul nome (" + g3 + ")");
-  // parlato lento: frasi a gruppi di parole, pause tra i gruppi e velocità "tartaruga" (regolabile)
-  await p3.evaluate(() => { window.__bridge.length = 0; B.store.setSetting("slowRate", 0.4); B.speech.slow("I would like to book a table for four people please"); });
+  // lettore navigabile: una frase alla volta, pausa, avanti/indietro, velocità cambiata a metà ascolto
+  const spoken = () => p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice").map((c) => c[1] + "@" + c[8]));
+  await p3.evaluate(() => {
+    window.__hold = true; window.__bridge.length = 0;
+    window.__tr = B.speech.track([["Tom", "Hello there. How are you?"], ["Sarah", "Fine, thanks. See Mr. Doyle at 9.30."]]);
+    window.__tr.play();
+  });
+  ok(await p3.evaluate(() => window.__tr.n === 4), "lettore: il testo è diviso in 4 frasi (Mr. e 9.30 non spezzano)");
+  ok((await spoken()).length === 1 && (await spoken())[0].startsWith("Hello there."), "lettore: parte dalla prima frase");
+  await p3.evaluate(() => window.__onTtsDone(window.__lastId));
+  ok((await p3.evaluate(() => window.__tr.i)) === 1 && (await spoken()).length === 2, "lettore: finita una frase passa alla successiva");
+  await p3.evaluate(() => { window.__bridge.length = 0; window.__tr.pause(); });
+  ok((await p3.evaluate(() => window.__tr.state)) === "paused" && (await p3.evaluate(() => window.__bridge.some((c) => c[0] === "stop"))), "lettore: pausa ferma la voce");
+  await p3.evaluate(() => window.__onTtsDone("seq-vecchio"));
+  ok((await p3.evaluate(() => window.__tr.i)) === 1, "lettore: un avviso di fine vecchio non fa avanzare");
+  await p3.evaluate(() => { window.__bridge.length = 0; window.__tr.seek(3); });
+  ok((await p3.evaluate(() => window.__tr.i)) === 3 && (await spoken()).length === 0, "lettore: in pausa lo slider sposta la posizione senza parlare");
+  await p3.evaluate(() => window.__tr.play());
+  ok((await spoken())[0].startsWith("See Mr. Doyle at 9.30."), "lettore: riprende dalla frase scelta");
+  await p3.evaluate(() => { window.__bridge.length = 0; window.__tr.seek(0); });
+  ok((await spoken()).length === 1 && (await spoken())[0].startsWith("Hello there."), "lettore: spostandosi mentre parla riparte dalla nuova frase");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.store.setSetting("rate", 1.3); B.speech.refresh(); });
+  await p3.waitForTimeout(400);
+  const live = await spoken();
+  ok(live.length === 1 && live[0] === "Hello there.@1.3", "lettore: cambiando velocità mentre ascolta, la frase riparte subito a 1.3 (" + live.join("|") + ")");
+  await p3.evaluate(() => { window.__bridge.length = 0; window.__tr.slow = true; window.__tr.refresh(); });
+  await p3.waitForTimeout(400);
+  ok(await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice").length === 2), "lettore: passando a Lento mentre ascolta, la frase riparte parola per parola");
+  await p3.evaluate(() => { window.__hold = false; window.__tr.slow = false; window.__tr.seek(3); });
+  await p3.waitForTimeout(100);
+  ok((await p3.evaluate(() => window.__tr.state)) === "done", "lettore: arrivato in fondo è finito");
+  await p3.evaluate(() => { window.__tr.dispose(); window.__bridge.length = 0; B.store.setSetting("rate", 0.95); });
+  // lo stesso lettore dentro un esercizio di ascolto: pausa/riprendi, frase avanti e indietro, slider
+  await p3.evaluate(() => { window.__hold = true; B.session.start(B.engine.lessonSession("a2-01-listening")); });
+  await p3.waitForSelector(".listening .player .btn.play");
+  const pb = p3.locator(".listening .player .btn.play");
+  ok(!(await p3.locator(".player-nav").isVisible()), "ascolto: prima di partire non c'è la barra di posizione");
+  await pb.click();
+  ok(/^pausa$/i.test((await pb.innerText()).trim()) && await p3.locator(".player-nav").isVisible(), "ascolto: dopo il via il pulsante diventa Pausa e compare la barra");
+  await pb.click();
+  ok(/^riprendi$/i.test((await pb.innerText()).trim()), "ascolto: in pausa il pulsante dice Riprendi");
+  await p3.locator(".player-nav .btn").nth(1).click();
+  ok(/Frase 2 di/.test(await p3.locator(".listening .player .muted.small").first().innerText()), "ascolto: il pulsante avanti passa alla frase 2");
+  await p3.locator(".player-nav .btn").nth(0).click();
+  ok(/Frase 1 di/.test(await p3.locator(".listening .player .muted.small").first().innerText()), "ascolto: il pulsante indietro torna alla frase 1");
+  await p3.evaluate(() => { const r = document.querySelector(".player-nav .range"); r.value = r.max; r.dispatchEvent(new Event("change")); });
+  ok(await p3.evaluate(() => { const r = document.querySelector(".player-nav .range"); return document.querySelector(".player .muted.small").textContent === "Frase " + (+r.max + 1) + " di " + (+r.max + 1); }), "ascolto: lo slider porta all'ultima frase");
+  await p3.evaluate(() => { window.__hold = false; B.session._state().close(); });
+
+  // parlato lento: UNA parola alla volta, con pausa in mezzo (più lunga dopo virgola e punto), velocità e pausa regolabili
+  await p3.evaluate(() => { window.__bridge.length = 0; B.store.setSetting("slowRate", 0.4); B.store.setSetting("slowGap", 500); B.speech.slow("I would like to book a table for four people please"); });
   const sl = await p3.evaluate(() => window.__bridge.slice());
-  ok(sl.filter((c) => c[0] === "speakVoice").length >= 3 && sl.filter((c) => c[0] === "silence").length >= 2, "tartaruga: frase spezzata in gruppi con pause (" + sl.filter((c) => c[0] === "speakVoice").length + " gruppi)");
-  ok(sl.filter((c) => c[0] === "speakVoice").every((c) => Math.abs(c[8] - 0.4) < 0.001), "tartaruga: usa la velocità regolata dall'utente (0.4)");
+  const words = sl.filter((c) => c[0] === "speakVoice"), gaps = sl.filter((c) => c[0] === "silence");
+  ok(words.length === 11 && words.every((c) => !/\s/.test(c[1])), "tartaruga: 11 parole, ognuna detta da sola (" + words.map((c) => c[1]).join("|") + ")");
+  ok(gaps.length === 10 && gaps.every((c) => c[1] === 500), "tartaruga: una pausa di 500 ms (impostata) tra una parola e l'altra");
+  ok(words.every((c) => Math.abs(c[8] - 0.4) < 0.001), "tartaruga: usa la velocità regolata dall'utente (0.4)");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.speech.slow("Well, I think so. Thanks"); });
+  const g4 = await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "silence").map((c) => c[1]));
+  ok(JSON.stringify(g4) === JSON.stringify([500 + 250, 500, 500, 500 + 450]), "pause più lunghe dopo la virgola (+250 ms) e dopo il punto (+450 ms) (" + JSON.stringify(g4) + ")");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.store.setSetting("slowGap", 0); B.speech.slow("one two three"); });
+  ok(await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "silence").length === 0 && window.__bridge.filter((c) => c[0] === "speakVoice").length === 3), "pausa 0: parole separate ma senza silenzio in mezzo");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.store.setSetting("slowGap", 350); B.speech.playLines([["Tom", "Could you repeat that, please?"], ["Sarah", "Of course."]], null, { slow: true }); });
+  const ls = await p3.evaluate(() => window.__bridge.filter((c) => c[0] === "speakVoice").map((c) => c[1] + ":" + c[6]));
+  ok(ls.join(" ") === "Could:m you:m repeat:m that,:m please?:m Of:f course.:f", "ascolti con la tartaruga: ogni parola separata, e la voce resta quella dello speaker (" + ls.join(" ") + ")");
+  await p3.evaluate(() => { B.store.setSetting("slowRate", 0.55); });
   await p3.evaluate(() => { window.__bridge.length = 0; B.speech.speak("Hello"); });
   ok(await p3.evaluate(() => Math.abs(window.__bridge.filter((c) => c[0] === "speakVoice")[0][8] - B.store.settings().rate) < 0.001), "la voce normale usa la velocità normale, indipendente da quella lenta");
   await p3.evaluate(() => B.session.start({ mode: "practice", title: "t", steps: [{ t: "speak", en: "Nice to meet you." }], xpPer: 1 }));
@@ -571,6 +755,88 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await p3.waitForSelector(".s-foot.good");
   ok(true, "riconoscimento vocale nativo: frase giusta accettata");
   await p3.evaluate(() => B.session._state().close());
+  // ---------------------------------------------------------------- aggiornamento dall'app
+  console.log("Aggiornamento dall'app");
+  const modalOpen = () => p3.evaluate(() => document.getElementById("modal").classList.contains("open"));
+  const modalText = () => p3.locator(".modal").innerText();
+  const clickBtn = (t) => p3.locator(".modal .btn", { hasText: t }).click();
+  const bridge = (name) => p3.evaluate((n) => window.__bridge.filter((c) => c[0] === n), name);
+  ok(gh.calls >= 1 && !(await modalOpen()), "stessa versione di GitHub: una richiesta all'avvio e nessuna finestra");
+  ok(await p3.evaluate(() => B.update.newer("1.10.0", "1.9.9") && B.update.newer("1.1.3", "1.1.2") && B.update.newer("2.0", "1.9.9") && !B.update.newer("1.1.2", "1.1.2") && !B.update.newer("1.1", "1.1.0") && !B.update.newer("1.0.9", "1.1")), "confronto delle versioni (1.10.0 > 1.9.9, uguali e più vecchie no)");
+  ok(await p3.evaluate(() => B.update.version() === "1.1.2"), "la versione installata arriva dal guscio Android (manifest)");
+
+  // versione più vecchia su GitHub: niente
+  gh.tag = "1.0.0";
+  await p3.evaluate(() => B.update.checkAtStart());
+  ok(!(await modalOpen()), "versione più vecchia su GitHub: nessuna finestra");
+
+  // versione nuova: finestra con le novità (senza il testo sull'installazione) e pulsante per aggiornare
+  gh.tag = "9.9.9";
+  await p3.evaluate(() => B.update.checkAtStart());
+  await p3.waitForSelector(".modal.open");
+  const t1 = await modalText();
+  ok(/Nuova versione disponibile/.test(t1) && /9\.9\.9/.test(t1) && /1\.1\.2/.test(t1) && /0\.5 MB/.test(t1), "versione nuova: finestra con numero, versione installata e dimensione");
+  ok(/Voci/.test(t1) && /Tartaruga più chiara/.test(t1) && !/Installazione/.test(t1) && !/scarica babbol\.apk/.test(t1), "mostra le novità della release, senza le istruzioni di installazione manuale");
+  await p3.waitForTimeout(300); await p3.screenshot({ path: path.join(SHOTS, "16-update-prompt.png") });
+  await clickBtn("AGGIORNA ORA");
+  await p3.waitForSelector(".modal .bar");
+  const d1 = await bridge("downloadUpdate");
+  ok(d1.length === 1 && d1[0][1] === "https://github.com/GiuseppeBellamacina/babbol/releases/download/9.9.9/babbol.apk" && d1[0][2] === "a".repeat(64), "AGGIORNA ORA: il guscio riceve l'indirizzo dell'APK (allegato babbol.apk) e il suo SHA-256");
+  await p3.evaluate(() => window.__onUpdateProgress(40));
+  ok(await p3.evaluate(() => document.querySelector(".modal .bar-fill").style.width === "40%") && /40%/.test(await modalText()), "barra di avanzamento durante il download (40%)");
+  await p3.waitForTimeout(300); await p3.screenshot({ path: path.join(SHOTS, "17-update-progress.png") });
+  await clickBtn("ANNULLA");
+  ok((await bridge("cancelUpdate")).length === 1 && !(await modalOpen()), "ANNULLA ferma il download e chiude la finestra");
+
+  // download riuscito: la finestra si chiude e Android apre l'installatore
+  await p3.evaluate(() => B.update.manualCheck());
+  await p3.waitForSelector(".modal.open"); await clickBtn("AGGIORNA ORA");
+  await p3.evaluate(() => window.__onUpdateReady());
+  ok(!(await modalOpen()) && /installazione/i.test(await p3.locator(".toast", { hasText: "installazione" }).innerText()), "download finito: si chiude la finestra e si chiede di confermare l'installazione");
+
+  // errori: permesso, rete/file (alternativa dal browser), riprova
+  await p3.evaluate(() => B.update.manualCheck());
+  await p3.waitForSelector(".modal.open"); await clickBtn("AGGIORNA ORA");
+  await p3.evaluate(() => window.__onUpdateError("permission"));
+  await p3.waitForSelector(".modal .btn");
+  const te = await modalText();
+  ok(/installare app/.test(te) && /RIPROVA/.test(te) && !/BROWSER/.test(te), "senza il permesso di installare app: spiega cosa attivare e offre RIPROVA");
+  const dlBefore = (await bridge("downloadUpdate")).length;
+  await clickBtn("RIPROVA");
+  ok((await bridge("downloadUpdate")).length === dlBefore + 1, "RIPROVA rilancia il download");
+  await p3.evaluate(() => window.__onUpdateError("checksum"));
+  await p3.waitForSelector(".modal .btn", { hasText: "SCARICA DAL BROWSER" });
+  ok(/non corrisponde/.test(await modalText()), "file non valido (checksum): messaggio chiaro");
+  await clickBtn("SCARICA DAL BROWSER");
+  const op = await bridge("openReleasePage");
+  ok(op.length === 1 && op[0][1] === "https://github.com/GiuseppeBellamacina/babbol/releases/tag/9.9.9", "alternativa: apre la pagina della release nel browser");
+
+  // PIÙ TARDI: per la stessa versione non richiede subito, ma dal Profilo si può controllare
+  await p3.evaluate(() => { localStorage.removeItem("babbol.update.v1"); B.update.checkAtStart(); });
+  await p3.waitForSelector(".modal.open"); await clickBtn("PIÙ TARDI");
+  ok(!(await modalOpen()), "PIÙ TARDI chiude la finestra");
+  await p3.evaluate(() => B.update.checkAtStart()); await p3.waitForTimeout(300);
+  ok(!(await modalOpen()), "dopo PIÙ TARDI non richiede la stessa versione all'avvio successivo (per 12 ore)");
+  gh.tag = "9.9.10";
+  await p3.evaluate(() => B.update.checkAtStart());
+  await p3.waitForSelector(".modal.open");
+  ok(/9\.9\.10/.test(await modalText()), "se esce una versione ancora più nuova, avvisa di nuovo");
+  await clickBtn("PIÙ TARDI");
+
+  // Profilo: versione installata e controllo a richiesta
+  await p3.evaluate(() => B.ui.goTab("profile"));
+  ok(/Cerca aggiornamenti/.test(await p3.locator(".screen").innerText()) && /Versione installata: 1.1.2/.test(await p3.locator(".screen").innerText()), "Profilo: «Cerca aggiornamenti» con la versione installata");
+  gh.tag = "1.1.2";
+  await p3.locator(".set-row", { hasText: "Cerca aggiornamenti" }).click();
+  await p3.waitForSelector(".toast", { hasText: "ultima versione" });
+  ok(/ultima versione \(1\.1\.2\)/.test(await p3.locator(".toast", { hasText: "ultima versione" }).innerText()) && !(await modalOpen()), "controllo a richiesta senza novità: «Hai già l'ultima versione»");
+  gh.tag = "9.9.11";
+  await p3.locator(".set-row", { hasText: "Cerca aggiornamenti" }).click();
+  await p3.waitForSelector(".modal.open");
+  ok(/9\.9\.11/.test(await modalText()), "controllo a richiesta con una versione nuova: mostra la finestra anche se rimandata prima");
+  await clickBtn("PIÙ TARDI");
+  // il guscio rifiuta indirizzi che non siano di una release del progetto (verificato nel codice Java: RELEASES + "download/")
+
   ok(err3.length === 0, "nessun errore con il ponte nativo " + (err3.length ? JSON.stringify(err3) : ""));
   await ctx3.close();
 

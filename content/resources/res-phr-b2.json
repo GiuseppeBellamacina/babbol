@@ -1,0 +1,657 @@
+{
+ "id": "res-phr-b2",
+ "kind": "phrases",
+ "lv": "B2",
+ "title": "Frasi utili: B2",
+ "intro": "Espressioni diplomatiche e idiomatiche per riunioni, discussioni, email formali, presentazioni e networking.",
+ "items": [
+  {
+   "en": "Let's make a start, shall we?",
+   "it": "Cominciamo, vi va?",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "Let's make a start, shall we? We have a lot to cover.",
+    "Cominciamo, vi va? Abbiamo molto da trattare."
+   ]
+  },
+  {
+   "en": "I'd like to table a proposal.",
+   "it": "Vorrei presentare una proposta.",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "I'd like to table a proposal on the new schedule.",
+    "Vorrei presentare una proposta sul nuovo calendario."
+   ]
+  },
+  {
+   "en": "Shall we move on to the next item on the agenda?",
+   "it": "Passiamo al punto successivo dell'ordine del giorno?",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "We've covered costs. Shall we move on to the next item on the agenda?",
+    "Abbiamo trattato i costi. Passiamo al punto successivo dell'ordine del giorno?"
+   ]
+  },
+  {
+   "en": "We'd be willing to meet you halfway.",
+   "it": "Saremmo disposti a venirvi incontro.",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "On price, we'd be willing to meet you halfway.",
+    "Sul prezzo, saremmo disposti a venirvi incontro."
+   ]
+  },
+  {
+   "en": "That's our final offer, I'm afraid.",
+   "it": "Temo che questa sia la nostra offerta definitiva.",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "That's our final offer, I'm afraid. We can't go lower.",
+    "Temo che questa sia la nostra offerta definitiva. Non possiamo scendere di più."
+   ]
+  },
+  {
+   "en": "Could we take that offline?",
+   "it": "Potremmo parlarne separatamente?",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "This is too detailed for everyone. Could we take that offline?",
+    "Questo è troppo dettagliato per tutti. Potremmo parlarne separatamente?"
+   ]
+  },
+  {
+   "en": "I'll circulate the minutes by tomorrow.",
+   "it": "Farò girare il verbale entro domani.",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "I'll circulate the minutes by tomorrow morning.",
+    "Farò girare il verbale entro domani mattina."
+   ]
+  },
+  {
+   "en": "Let's park that for now and come back to it.",
+   "it": "Mettiamolo da parte per ora e ci torniamo.",
+   "group": "Riunioni e trattative",
+   "ex": [
+    "Let's park that for now and come back to it after lunch.",
+    "Mettiamolo da parte per ora e ci torniamo dopo pranzo."
+   ]
+  },
+  {
+   "en": "The key point here is that costs are rising.",
+   "it": "Il punto chiave è che i costi stanno salendo.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "The key point here is that costs are rising faster than income.",
+    "Il punto chiave è che i costi stanno salendo più in fretta delle entrate."
+   ]
+  },
+  {
+   "en": "That's all very well, but it doesn't solve the problem.",
+   "it": "Va tutto bene, ma non risolve il problema.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "A: We'll hire a consultant. B: That's all very well, but it doesn't solve the problem.",
+    "A: Assumeremo un consulente. B: Va tutto bene, ma non risolve il problema."
+   ]
+  },
+  {
+   "en": "On the one hand it saves time; on the other, it costs more.",
+   "it": "Da un lato fa risparmiare tempo; dall'altro costa di più.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "Automation is tricky: on the one hand it saves time; on the other, it costs more.",
+    "L'automazione è delicata: da un lato fa risparmiare tempo; dall'altro costa di più."
+   ]
+  },
+  {
+   "en": "The evidence points in the opposite direction.",
+   "it": "I dati indicano il contrario.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "You say it works, but the evidence points in the opposite direction.",
+    "Tu dici che funziona, ma i dati indicano il contrario."
+   ]
+  },
+  {
+   "en": "Let me play devil's advocate for a moment.",
+   "it": "Lasciatemi fare l'avvocato del diavolo per un momento.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "Let me play devil's advocate for a moment: what if it fails?",
+    "Lasciatemi fare l'avvocato del diavolo per un momento: e se fallisse?"
+   ]
+  },
+  {
+   "en": "That argument doesn't hold water.",
+   "it": "Questo ragionamento non regge.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "That argument doesn't hold water. The numbers don't add up.",
+    "Questo ragionamento non regge. I numeri non tornano."
+   ]
+  },
+  {
+   "en": "What it boils down to is trust.",
+   "it": "In fin dei conti è una questione di fiducia.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "What it boils down to is trust, not money.",
+    "In fin dei conti è una questione di fiducia, non di denaro."
+   ]
+  },
+  {
+   "en": "I'd go as far as to say it's a mistake.",
+   "it": "Direi addirittura che è un errore.",
+   "group": "Discutere e argomentare",
+   "ex": [
+    "I'd go as far as to say it's a mistake to wait.",
+    "Direi addirittura che è un errore aspettare."
+   ]
+  },
+  {
+   "en": "That's a good question. Let me think for a moment.",
+   "it": "È una bella domanda. Lasciatemi pensare un momento.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "Q: Why did sales fall? A: That's a good question. Let me think for a moment.",
+    "D: Perché le vendite sono calate? R: È una bella domanda. Lasciatemi pensare un momento."
+   ]
+  },
+  {
+   "en": "Let me put it another way.",
+   "it": "Lasciatemi dirlo in un altro modo.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "Let me put it another way: we can't afford it.",
+    "Lasciatemi dirlo in un altro modo: non possiamo permettercelo."
+   ]
+  },
+  {
+   "en": "What I mean is that we need more time.",
+   "it": "Quello che intendo è che ci serve più tempo.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "What I mean is that we need more time, not more people.",
+    "Quello che intendo è che ci serve più tempo, non più persone."
+   ]
+  },
+  {
+   "en": "If I understand you correctly, you're saying we should wait.",
+   "it": "Se ho capito bene, stai dicendo che dovremmo aspettare.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "If I understand you correctly, you're saying we should wait until June.",
+    "Se ho capito bene, stai dicendo che dovremmo aspettare fino a giugno."
+   ]
+  },
+  {
+   "en": "Bear with me while I check the figures.",
+   "it": "Abbiate pazienza mentre controllo i numeri.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "Bear with me while I check the figures on my laptop.",
+    "Abbiate pazienza mentre controllo i numeri sul portatile."
+   ]
+  },
+  {
+   "en": "I'd need to look into that before I commit.",
+   "it": "Dovrei approfondire prima di impegnarmi.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "I'd need to look into that before I commit to a date.",
+    "Dovrei approfondire prima di impegnarmi su una data."
+   ]
+  },
+  {
+   "en": "Let me get back to you on that.",
+   "it": "Lasciate che vi risponda su questo più tardi.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "I don't have the data to hand. Let me get back to you on that.",
+    "Non ho i dati sottomano. Lasciate che vi risponda su questo più tardi."
+   ]
+  },
+  {
+   "en": "To put it in a nutshell, we're running out of time.",
+   "it": "In poche parole, stiamo finendo il tempo.",
+   "group": "Prendere tempo e riformulare",
+   "ex": [
+    "To put it in a nutshell, we're running out of time and money.",
+    "In poche parole, stiamo finendo tempo e denaro."
+   ]
+  },
+  {
+   "en": "With all due respect, I see it differently.",
+   "it": "Con tutto il rispetto, io la vedo diversamente.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "With all due respect, I see it differently. May I explain?",
+    "Con tutto il rispetto, io la vedo diversamente. Posso spiegare?"
+   ]
+  },
+  {
+   "en": "I take your point, although I wonder if it's realistic.",
+   "it": "Capisco il tuo punto, anche se mi chiedo se sia realistico.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "I take your point, although I wonder if it's realistic in a month.",
+    "Capisco il tuo punto, anche se mi chiedo se sia realistico in un mese."
+   ]
+  },
+  {
+   "en": "I may be wrong, but I thought we had agreed on Monday.",
+   "it": "Potrei sbagliarmi, ma pensavo avessimo concordato lunedì.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "I may be wrong, but I thought we had agreed on Monday for the launch.",
+    "Potrei sbagliarmi, ma pensavo avessimo concordato lunedì per il lancio."
+   ]
+  },
+  {
+   "en": "Perhaps we could look at it from another angle.",
+   "it": "Forse potremmo guardarla da un'altra prospettiva.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "We keep going round in circles. Perhaps we could look at it from another angle.",
+    "Giriamo in tondo. Forse potremmo guardarla da un'altra prospettiva."
+   ]
+  },
+  {
+   "en": "I'm not sure that's entirely fair.",
+   "it": "Non sono sicuro che sia del tutto giusto.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "I'm not sure that's entirely fair to the new staff.",
+    "Non sono sicuro che sia del tutto giusto verso i nuovi assunti."
+   ]
+  },
+  {
+   "en": "I don't want to be difficult, but this isn't what we agreed.",
+   "it": "Non voglio essere pignolo, ma non è quanto concordato.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "I don't want to be difficult, but this isn't what we agreed in the contract.",
+    "Non voglio essere pignolo, ma non è quanto concordato nel contratto."
+   ]
+  },
+  {
+   "en": "Let's not lose sight of what we all want.",
+   "it": "Non perdiamo di vista ciò che vogliamo tutti.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "Let's not lose sight of what we all want: a good result.",
+    "Non perdiamo di vista ciò che vogliamo tutti: un buon risultato."
+   ]
+  },
+  {
+   "en": "I hear what you're saying, but I have reservations.",
+   "it": "Capisco quello che dici, ma ho delle riserve.",
+   "group": "Gestire un disaccordo con tatto",
+   "ex": [
+    "I hear what you're saying, but I have reservations about the budget.",
+    "Capisco quello che dici, ma ho delle riserve sul budget."
+   ]
+  },
+  {
+   "en": "I am writing with regard to your recent order.",
+   "it": "Le scrivo in merito al suo recente ordine.",
+   "group": "Email formali",
+   "ex": [
+    "I am writing with regard to your recent order, number 4417.",
+    "Le scrivo in merito al suo recente ordine, numero 4417."
+   ]
+  },
+  {
+   "en": "I would be grateful if you could confirm receipt.",
+   "it": "Le sarei grato se potesse confermare la ricezione.",
+   "group": "Email formali",
+   "ex": [
+    "I would be grateful if you could confirm receipt of this message.",
+    "Le sarei grato se potesse confermare la ricezione di questo messaggio."
+   ]
+  },
+  {
+   "en": "Further to our conversation yesterday, I have attached the contract.",
+   "it": "A seguito della nostra conversazione di ieri, allego il contratto.",
+   "group": "Email formali",
+   "ex": [
+    "Further to our conversation yesterday, I have attached the contract for your review.",
+    "A seguito della nostra conversazione di ieri, allego il contratto per la sua revisione."
+   ]
+  },
+  {
+   "en": "Please do not hesitate to contact me should you need anything else.",
+   "it": "Non esiti a contattarmi se avesse bisogno di altro.",
+   "group": "Email formali",
+   "ex": [
+    "Thank you for your time. Please do not hesitate to contact me should you need anything else.",
+    "La ringrazio per il tempo dedicato. Non esiti a contattarmi se avesse bisogno di altro."
+   ]
+  },
+  {
+   "en": "I regret to inform you that the position has been filled.",
+   "it": "Mi dispiace informarla che la posizione è stata coperta.",
+   "group": "Email formali",
+   "ex": [
+    "Dear Ms Reed, I regret to inform you that the position has been filled.",
+    "Gentile signora Reed, mi dispiace informarla che la posizione è stata coperta."
+   ]
+  },
+  {
+   "en": "Apologies for any inconvenience this may have caused.",
+   "it": "Ci scusiamo per qualsiasi disagio causato.",
+   "group": "Email formali",
+   "ex": [
+    "The system was down. Apologies for any inconvenience this may have caused.",
+    "Il sistema era fuori uso. Ci scusiamo per qualsiasi disagio causato."
+   ]
+  },
+  {
+   "en": "I would appreciate a response at your earliest convenience.",
+   "it": "Gradirei una risposta appena possibile.",
+   "group": "Email formali",
+   "ex": [
+    "I would appreciate a response at your earliest convenience, as the deadline is close.",
+    "Gradirei una risposta appena possibile, dato che la scadenza è vicina."
+   ]
+  },
+  {
+   "en": "Yours sincerely, Anna Hughes",
+   "it": "Distinti saluti, Anna Hughes",
+   "group": "Email formali",
+   "ex": [
+    "The letter began \"Dear Mr Wells\" and ended \"Yours sincerely, Anna Hughes\".",
+    "La lettera iniziava con \"Egregio signor Wells\" e finiva con \"Distinti saluti, Anna Hughes\"."
+   ]
+  },
+  {
+   "en": "Thank you all for coming this morning.",
+   "it": "Grazie a tutti per essere venuti stamattina.",
+   "group": "Presentazioni",
+   "ex": [
+    "Good morning. Thank you all for coming this morning.",
+    "Buongiorno. Grazie a tutti per essere venuti stamattina."
+   ]
+  },
+  {
+   "en": "I'd like to start by giving you an overview.",
+   "it": "Vorrei iniziare con una panoramica.",
+   "group": "Presentazioni",
+   "ex": [
+    "I'd like to start by giving you an overview of the project.",
+    "Vorrei iniziare con una panoramica del progetto."
+   ]
+  },
+  {
+   "en": "This brings me to my next point.",
+   "it": "Questo mi porta al punto successivo.",
+   "group": "Presentazioni",
+   "ex": [
+    "Costs are only half the story. This brings me to my next point.",
+    "I costi sono solo metà della storia. Questo mi porta al punto successivo."
+   ]
+  },
+  {
+   "en": "As you can see from this graph, sales have doubled.",
+   "it": "Come potete vedere da questo grafico, le vendite sono raddoppiate.",
+   "group": "Presentazioni",
+   "ex": [
+    "As you can see from this graph, sales have doubled since March.",
+    "Come potete vedere da questo grafico, le vendite sono raddoppiate da marzo."
+   ]
+  },
+  {
+   "en": "Let me draw your attention to the figures on the right.",
+   "it": "Lasciate che richiami la vostra attenzione sulle cifre a destra.",
+   "group": "Presentazioni",
+   "ex": [
+    "Let me draw your attention to the figures on the right of the slide.",
+    "Lasciate che richiami la vostra attenzione sulle cifre a destra della diapositiva."
+   ]
+  },
+  {
+   "en": "To sum up, we have three main priorities.",
+   "it": "Per riassumere, abbiamo tre priorità principali.",
+   "group": "Presentazioni",
+   "ex": [
+    "To sum up, we have three main priorities for next year.",
+    "Per riassumere, abbiamo tre priorità principali per l'anno prossimo."
+   ]
+  },
+  {
+   "en": "I'll be happy to take any questions.",
+   "it": "Risponderò volentieri alle vostre domande.",
+   "group": "Presentazioni",
+   "ex": [
+    "That's all from me. I'll be happy to take any questions.",
+    "Per me è tutto. Risponderò volentieri alle vostre domande."
+   ]
+  },
+  {
+   "en": "That's outside the scope of today's talk.",
+   "it": "Questo esula dallo scopo dell'intervento di oggi.",
+   "group": "Presentazioni",
+   "ex": [
+    "That's outside the scope of today's talk, but I'll gladly discuss it later.",
+    "Questo esula dallo scopo dell'intervento di oggi, ma ne discuterò volentieri dopo."
+   ]
+  },
+  {
+   "en": "Have you been to one of these events before?",
+   "it": "È già stato a uno di questi eventi?",
+   "group": "Small talk e networking",
+   "ex": [
+    "Have you been to one of these events before? It's my first.",
+    "È già stato a uno di questi eventi? È il mio primo."
+   ]
+  },
+  {
+   "en": "So, what brings you to this conference?",
+   "it": "Allora, cosa la porta a questa conferenza?",
+   "group": "Small talk e networking",
+   "ex": [
+    "A: So, what brings you to this conference? B: My boss sent me.",
+    "A: Allora, cosa la porta a questa conferenza? B: Mi ha mandato il mio capo."
+   ]
+  },
+  {
+   "en": "I couldn't help overhearing that you work in logistics.",
+   "it": "Non ho potuto fare a meno di sentire che lavori nella logistica.",
+   "group": "Small talk e networking",
+   "ex": [
+    "I couldn't help overhearing that you work in logistics. So do I.",
+    "Non ho potuto fare a meno di sentire che lavori nella logistica. Anch'io."
+   ]
+  },
+  {
+   "en": "It's a small world!",
+   "it": "Il mondo è piccolo!",
+   "group": "Small talk e networking",
+   "ex": [
+    "You know my cousin? It's a small world!",
+    "Conosci mio cugino? Il mondo è piccolo!"
+   ]
+  },
+  {
+   "en": "We should catch up properly sometime.",
+   "it": "Dovremmo metterci in pari con calma, prima o poi.",
+   "group": "Small talk e networking",
+   "ex": [
+    "It's been years. We should catch up properly sometime.",
+    "Sono passati anni. Dovremmo metterci in pari con calma, prima o poi."
+   ]
+  },
+  {
+   "en": "Here's my card. Do drop me a line.",
+   "it": "Ecco il mio biglietto. Scrivimi pure.",
+   "group": "Small talk e networking",
+   "ex": [
+    "Here's my card. Do drop me a line if you're ever in Milan.",
+    "Ecco il mio biglietto. Scrivimi pure se passi da Milano."
+   ]
+  },
+  {
+   "en": "I'd better circulate; it was lovely talking to you.",
+   "it": "Meglio che faccia un giro; è stato un piacere parlare con lei.",
+   "group": "Small talk e networking",
+   "ex": [
+    "I'd better circulate; it was lovely talking to you.",
+    "Meglio che faccia un giro; è stato un piacere parlare con lei."
+   ]
+  },
+  {
+   "en": "How are you finding the city so far?",
+   "it": "Come trovi la città finora?",
+   "group": "Small talk e networking",
+   "ex": [
+    "A: How are you finding the city so far? B: Busier than I expected.",
+    "A: Come trovi la città finora? B: Più trafficata di quanto pensassi."
+   ]
+  },
+  {
+   "en": "It's highly unlikely that they'll agree.",
+   "it": "È molto improbabile che accettino.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "It's highly unlikely that they'll agree to those terms.",
+    "È molto improbabile che accettino quelle condizioni."
+   ]
+  },
+  {
+   "en": "There's a fair chance it will rain tomorrow.",
+   "it": "Ci sono buone probabilità che domani piova.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "There's a fair chance it will rain tomorrow, so bring a coat.",
+    "Ci sono buone probabilità che domani piova, quindi porta un cappotto."
+   ]
+  },
+  {
+   "en": "I have my doubts about whether it will work.",
+   "it": "Ho i miei dubbi che funzionerà.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "I have my doubts about whether it will work in practice.",
+    "Ho i miei dubbi che funzionerà nella pratica."
+   ]
+  },
+  {
+   "en": "It could well be that he forgot.",
+   "it": "Potrebbe benissimo darsi che se ne sia dimenticato.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "He hasn't replied. It could well be that he forgot.",
+    "Non ha risposto. Potrebbe benissimo darsi che se ne sia dimenticato."
+   ]
+  },
+  {
+   "en": "I wouldn't be surprised if they cancelled.",
+   "it": "Non mi sorprenderebbe se annullassero.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "With so few bookings, I wouldn't be surprised if they cancelled.",
+    "Con così poche prenotazioni, non mi sorprenderebbe se annullassero."
+   ]
+  },
+  {
+   "en": "Chances are that prices will go up.",
+   "it": "È probabile che i prezzi aumentino.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "Chances are that prices will go up again in spring.",
+    "È probabile che i prezzi aumentino di nuovo in primavera."
+   ]
+  },
+  {
+   "en": "I'm not entirely convinced it's worth the risk.",
+   "it": "Non sono del tutto convinto che valga il rischio.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "It's a big investment, and I'm not entirely convinced it's worth the risk.",
+    "È un grosso investimento e non sono del tutto convinto che valga il rischio."
+   ]
+  },
+  {
+   "en": "There's no way of knowing for sure.",
+   "it": "Non c'è modo di saperlo con certezza.",
+   "group": "Esprimere dubbi e probabilità",
+   "ex": [
+    "There's no way of knowing for sure until the results come in.",
+    "Non c'è modo di saperlo con certezza finché non arrivano i risultati."
+   ]
+  },
+  {
+   "en": "Can we find some common ground?",
+   "it": "Possiamo trovare un terreno comune?",
+   "group": "Mediare e concludere",
+   "ex": [
+    "We're both tired. Can we find some common ground?",
+    "Siamo entrambi stanchi. Possiamo trovare un terreno comune?"
+   ]
+  },
+  {
+   "en": "Perhaps a compromise would work for both sides.",
+   "it": "Forse un compromesso andrebbe bene per entrambe le parti.",
+   "group": "Mediare e concludere",
+   "ex": [
+    "Perhaps a compromise would work for both sides: half now, half in June.",
+    "Forse un compromesso andrebbe bene per entrambe le parti: metà adesso, metà a giugno."
+   ]
+  },
+  {
+   "en": "Let me summarise where we've got to.",
+   "it": "Lasciatemi riassumere a che punto siamo.",
+   "group": "Mediare e concludere",
+   "ex": [
+    "Let me summarise where we've got to before we finish.",
+    "Lasciatemi riassumere a che punto siamo prima di finire."
+   ]
+  },
+  {
+   "en": "So, are we all agreed on the next steps?",
+   "it": "Quindi, siamo tutti d'accordo sui prossimi passi?",
+   "group": "Mediare e concludere",
+   "ex": [
+    "That was a long discussion. So, are we all agreed on the next steps?",
+    "È stata una lunga discussione. Quindi, siamo tutti d'accordo sui prossimi passi?"
+   ]
+  },
+  {
+   "en": "I think we're getting somewhere.",
+   "it": "Penso che stiamo facendo progressi.",
+   "group": "Mediare e concludere",
+   "ex": [
+    "I think we're getting somewhere at last.",
+    "Penso che stiamo finalmente facendo progressi."
+   ]
+  },
+  {
+   "en": "Let's put this behind us and move forward.",
+   "it": "Lasciamocelo alle spalle e andiamo avanti.",
+   "group": "Mediare e concludere",
+   "ex": [
+    "Let's put this behind us and move forward together.",
+    "Lasciamocelo alle spalle e andiamo avanti insieme."
+   ]
+  },
+  {
+   "en": "Shall we shake on it?",
+   "it": "Ci stringiamo la mano su questo?",
+   "group": "Mediare e concludere",
+   "ex": [
+    "That sounds fair to me. Shall we shake on it?",
+    "Mi sembra giusto. Ci stringiamo la mano su questo?"
+   ]
+  },
+  {
+   "en": "To wrap things up, I'll send a written summary.",
+   "it": "Per concludere, manderò un riepilogo scritto.",
+   "group": "Mediare e concludere",
+   "ex": [
+    "To wrap things up, I'll send a written summary today.",
+    "Per concludere, manderò oggi un riepilogo scritto."
+   ]
+  }
+ ]
+}

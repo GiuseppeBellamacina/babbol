@@ -1,0 +1,381 @@
+{
+ "id": "res-sayit-money",
+ "kind": "sayit",
+ "title": "Prezzi, indirizzi e misure: come si dicono",
+ "intro": "Come leggere prezzi, indirizzi, e-mail, siti web, misure e temperature in inglese britannico.",
+ "items": [
+  {
+   "written": "£12.50",
+   "spoken": "twelve pounds fifty",
+   "it": "prezzo in sterline",
+   "group": "Prezzi",
+   "alts": [
+    "12.50",
+    "£12.5",
+    "£12.50"
+   ],
+   "note": "Anche twelve pounds and fifty pence."
+  },
+  {
+   "written": "£5",
+   "spoken": "five pounds",
+   "it": "prezzo in sterline",
+   "group": "Prezzi",
+   "alts": [
+    "5 pounds",
+    "£5.00"
+   ],
+   "note": "Informale: a fiver."
+  },
+  {
+   "written": "£1,200",
+   "spoken": "one thousand two hundred pounds",
+   "it": "prezzo in sterline",
+   "group": "Prezzi",
+   "alts": [
+    "£1200",
+    "1200 pounds"
+   ],
+   "note": "Anche twelve hundred pounds."
+  },
+  {
+   "written": "99p",
+   "spoken": "ninety-nine pence",
+   "it": "prezzo in pence",
+   "group": "Prezzi",
+   "alts": [
+    "£0.99",
+    "99 pence"
+   ],
+   "note": "Informale: ninety-nine p."
+  },
+  {
+   "written": "€3.20",
+   "spoken": "three euros twenty",
+   "it": "prezzo in euro",
+   "group": "Prezzi",
+   "alts": [
+    "3.20",
+    "€3.2"
+   ],
+   "note": "Anche three euros and twenty cents."
+  },
+  {
+   "written": "€15",
+   "spoken": "fifteen euros",
+   "it": "prezzo in euro",
+   "group": "Prezzi",
+   "alts": [
+    "15 euros",
+    "€15.00"
+   ]
+  },
+  {
+   "written": "$9.99",
+   "spoken": "nine dollars ninety-nine",
+   "it": "prezzo in dollari",
+   "group": "Prezzi",
+   "alts": [
+    "9.99",
+    "$9.99"
+   ],
+   "note": "Anche nine ninety-nine."
+  },
+  {
+   "written": "25c",
+   "spoken": "twenty-five cents",
+   "it": "centesimi di dollaro",
+   "group": "Prezzi",
+   "alts": [
+    "$0.25",
+    "25 cents"
+   ],
+   "note": "Anche a quarter negli USA."
+  },
+  {
+   "written": "12 Baker Street",
+   "spoken": "twelve Baker Street",
+   "it": "indirizzo",
+   "group": "Indirizzi",
+   "alts": [],
+   "note": "Il numero civico va prima della via."
+  },
+  {
+   "written": "221B Baker Street",
+   "spoken": "two two one B Baker Street",
+   "it": "indirizzo con lettera",
+   "group": "Indirizzi",
+   "alts": [
+    "221 B Baker Street"
+   ],
+   "note": "Anche two hundred and twenty-one B Baker Street."
+  },
+  {
+   "written": "Flat 4B",
+   "spoken": "flat four B",
+   "it": "appartamento",
+   "group": "Indirizzi",
+   "alts": [
+    "flat 4 B",
+    "Flat 4b"
+   ],
+   "note": "Negli USA si dice apartment."
+  },
+  {
+   "written": "SW1A 1AA",
+   "spoken": "S W one A one A A",
+   "it": "codice postale britannico",
+   "group": "Indirizzi",
+   "alts": [
+    "SW1A1AA",
+    "SW1A 1AA"
+   ],
+   "note": "Il codice si legge lettera per lettera e cifra per cifra."
+  },
+  {
+   "written": "M1 4BT",
+   "spoken": "M one four B T",
+   "it": "codice postale di Manchester",
+   "group": "Indirizzi",
+   "alts": [
+    "M14BT",
+    "M1 4BT"
+   ]
+  },
+  {
+   "written": "john.smith@mail.com",
+   "spoken": "john dot smith at mail dot com",
+   "it": "indirizzo e-mail",
+   "group": "E-mail e siti web",
+   "alts": [],
+   "note": "@ si dice at e il punto si dice dot."
+  },
+  {
+   "written": "info@babbol.it",
+   "spoken": "info at babbol dot it",
+   "it": "indirizzo e-mail",
+   "group": "E-mail e siti web",
+   "alts": []
+  },
+  {
+   "written": "user_name@mail.com",
+   "spoken": "user underscore name at mail dot com",
+   "it": "e-mail con trattino basso",
+   "group": "E-mail e siti web",
+   "alts": [],
+   "note": "Il trattino alto - si dice dash o hyphen."
+  },
+  {
+   "written": "www.bbc.co.uk",
+   "spoken": "triple w dot B B C dot co dot U K",
+   "it": "sito web",
+   "group": "E-mail e siti web",
+   "alts": [
+    "bbc.co.uk"
+   ],
+   "note": "Anche double u double u double u."
+  },
+  {
+   "written": "bbc.co.uk/news",
+   "spoken": "B B C dot co dot U K slash news",
+   "it": "indirizzo web con percorso",
+   "group": "E-mail e siti web",
+   "alts": [
+    "www.bbc.co.uk/news"
+   ],
+   "note": "La barra / si dice slash."
+  },
+  {
+   "written": "#love",
+   "spoken": "hashtag love",
+   "it": "hashtag",
+   "group": "E-mail e siti web",
+   "alts": [
+    "#love"
+   ],
+   "note": "In inglese britannico il simbolo # si chiama hash."
+  },
+  {
+   "written": "5 km",
+   "spoken": "five kilometres",
+   "it": "distanza",
+   "group": "Misure",
+   "alts": [
+    "5km",
+    "5 kilometres"
+   ],
+   "note": "Informale: five k."
+  },
+  {
+   "written": "180 cm",
+   "spoken": "one hundred and eighty centimetres",
+   "it": "altezza",
+   "group": "Misure",
+   "alts": [
+    "180cm",
+    "180 centimetres"
+   ],
+   "note": "Anche a hundred and eighty."
+  },
+  {
+   "written": "6 ft 2 in",
+   "spoken": "six foot two",
+   "it": "altezza in piedi e pollici",
+   "group": "Misure",
+   "alts": [
+    "6ft 2",
+    "6'2",
+    "6 foot 2"
+   ],
+   "note": "In Gran Bretagna le persone si misurano ancora in piedi."
+  },
+  {
+   "written": "70 kg",
+   "spoken": "seventy kilograms",
+   "it": "peso",
+   "group": "Misure",
+   "alts": [
+    "70kg",
+    "70 kilos"
+   ],
+   "note": "Informale: seventy kilos."
+  },
+  {
+   "written": "2.5 l",
+   "spoken": "two point five litres",
+   "it": "capacità",
+   "group": "Misure",
+   "alts": [
+    "2.5l",
+    "2.5 litres"
+   ]
+  },
+  {
+   "written": "30 m2",
+   "spoken": "thirty square metres",
+   "it": "superficie",
+   "group": "Misure",
+   "alts": [
+    "30 m²",
+    "30m2",
+    "30 sq m"
+   ]
+  },
+  {
+   "written": "100 km/h",
+   "spoken": "a hundred kilometres per hour",
+   "it": "velocità",
+   "group": "Misure",
+   "alts": [
+    "100 kph",
+    "100 km/h"
+   ],
+   "note": "In Gran Bretagna i limiti sono in miglia: thirty miles per hour."
+  },
+  {
+   "written": "30 mph",
+   "spoken": "thirty miles per hour",
+   "it": "velocità in miglia",
+   "group": "Misure",
+   "alts": [
+    "30mph",
+    "30 mph"
+   ]
+  },
+  {
+   "written": "20°C",
+   "spoken": "twenty degrees Celsius",
+   "it": "temperatura",
+   "group": "Temperature",
+   "alts": [
+    "20 °C",
+    "20C",
+    "20 degrees"
+   ],
+   "note": "Anche twenty degrees centigrade."
+  },
+  {
+   "written": "-5°C",
+   "spoken": "minus five degrees",
+   "it": "temperatura sotto zero",
+   "group": "Temperature",
+   "alts": [
+    "-5 °C",
+    "minus 5",
+    "-5C"
+   ],
+   "note": "Anche five degrees below zero."
+  },
+  {
+   "written": "98.6°F",
+   "spoken": "ninety-eight point six degrees Fahrenheit",
+   "it": "temperatura in Fahrenheit",
+   "group": "Temperature",
+   "alts": [
+    "98.6 °F",
+    "98.6F"
+   ]
+  },
+  {
+   "written": "BA 249",
+   "spoken": "B A two four nine",
+   "it": "numero di volo",
+   "group": "Voli e viaggi",
+   "alts": [
+    "BA249",
+    "BA 249"
+   ],
+   "note": "Le sigle si leggono lettera per lettera."
+  },
+  {
+   "written": "FR1234",
+   "spoken": "F R one two three four",
+   "it": "numero di volo",
+   "group": "Voli e viaggi",
+   "alts": [
+    "FR 1234"
+   ]
+  },
+  {
+   "written": "Gate B12",
+   "spoken": "gate B twelve",
+   "it": "uscita d'imbarco",
+   "group": "Voli e viaggi",
+   "alts": [
+    "gate b12",
+    "Gate B 12"
+   ]
+  },
+  {
+   "written": "14A",
+   "spoken": "fourteen A",
+   "it": "posto in aereo",
+   "group": "Voli e viaggi",
+   "alts": [
+    "seat 14A",
+    "14 A"
+   ]
+  },
+  {
+   "written": "Room 305",
+   "spoken": "room three oh five",
+   "it": "numero di camera d'albergo",
+   "group": "Voli e viaggi",
+   "alts": [
+    "room 305"
+   ],
+   "note": "Anche room three hundred and five."
+  },
+  {
+   "written": "bus 73",
+   "spoken": "number seventy-three bus",
+   "it": "numero dell'autobus",
+   "group": "Voli e viaggi",
+   "alts": [
+    "the 73",
+    "bus 73"
+   ],
+   "note": "Anche the seventy-three."
+  }
+ ]
+}

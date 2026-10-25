@@ -17,6 +17,7 @@
       "steps": [
         {
           "t": "note",
+          "svg": "reported",
           "title": "Affermazioni: il passo indietro dei tempi",
           "body": "Il **discorso diretto** riporta le parole esatte: «I'm tired,» she said. Il **discorso indiretto** le riferisce: She said (that) she **was** tired.\n\nSe il verbo che introduce (said, told) è al **passato**, il verbo del discorso diretto fa di solito un passo indietro:\n- present simple -> **past simple**\n- present continuous -> **past continuous**\n- past simple e present perfect -> **past perfect**\n- will -> **would**; can -> **could**; must -> **had to**\n\nCambiano anche **pronomi** (I -> he/she) e **espressioni di tempo e luogo**:\n- now -> **then**; today -> **that day**; tomorrow -> **the next day / the following day**; yesterday -> **the day before**; ago -> **before**; here -> **there**; this -> **that**.\n\n**That** dopo said/told si può omettere.",
           "table": [
@@ -349,6 +350,7 @@
         {
           "id": "b1-07-w02",
           "en": "journalist",
+          "photo": "journalist",
           "it": "giornalista",
           "ipa": "ˈdʒɜːnəlɪst",
           "pos": "n",
@@ -360,6 +362,7 @@
         {
           "id": "b1-07-w03",
           "en": "advert",
+          "photo": "advert",
           "it": "pubblicità (singola)",
           "ipa": "ˈædvɜːt",
           "pos": "n",
@@ -610,6 +613,7 @@
       "steps": [
         {
           "t": "read",
+          "photo": "r-b1-07",
           "title": "How do you follow the news?",
           "genre": "articolo",
           "text": "Twenty years ago most people read a newspaper at breakfast or watched the evening news on television. Today everything has changed. Last month we stopped four people in a busy shopping street and asked them how they follow the news. Here is what they told us.\n\nMarta, a 29-year-old graphic designer, said that she didn't buy newspapers any more. She explained that she read the headlines on her phone while she was waiting for the bus. However, she admitted that she often stopped after the first paragraph and sometimes got the wrong idea about a story. She said she wanted to read more carefully, but she never had enough time.\n\nFrank, who is 67 and retired, told us that he had bought the same newspaper every morning for forty years. He said he enjoyed reading it slowly with a cup of tea, and that he would never change his habit. When we asked him whether he trusted the internet, he laughed and replied that he didn't trust anything without a journalist's name under it.\n\nPriya, a 19-year-old student, told us that she got most of her news from video clips on social media. She said they were quick, funny and easy to understand. Then she added that her friends often shared stories that turned out to be rumours, so she always checked a second source before she believed anything.\n\nFinally, Tom, a 42-year-old taxi driver, said that the radio was on in his car all day. He told us that he listened to a news bulletin every hour and to a phone-in programme in the afternoon. He added that he had learned more from the drivers who called the programme than from any website.\n\nSo what is the best way to follow the news? Perhaps there isn't one. But all four agreed on one thing: they wanted information they could trust, and they were prepared to spend a little time to find it.",

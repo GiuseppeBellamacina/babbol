@@ -24,12 +24,13 @@
       h("button", { class: "speaker tiny", "aria-label": "Regola la velocità", onclick: function () { B.ui.speedSheet(text); } }, B.icon("speed", 18)));
   }
   function picture(step) {
-    return h("div", { class: "q-pic" + (step.img && !step.emoji ? " scene" : "") }, B.pic(step));
+    return h("div", { class: "q-pic" + ((step.img && !step.emoji) || step.photo ? " scene" : "") }, B.pic(step));
   }
   function title(text) { return h("h2", { class: "q-title" }, text || ""); }
   function header(step, defTitle) {
     var el = h("div", { class: "q-head" }, title(step.q || defTitle));
     if (B.hasPic(step)) el.appendChild(picture(step));
+    if (step.photos) el.appendChild(B.photoBlock(step));
     if (step.say) el.appendChild(speakerButtons(step.say));
     if (step.text && !step.hide) el.appendChild(h("div", { class: "q-text" }, step.text));
     if (step.sub) el.appendChild(h("div", { class: "q-sub" }, step.sub));
@@ -38,7 +39,17 @@
   // frase con lo spazio vuoto ___ sostituito da un nodo (testo scelto o campo)
   function sentenceWith(s, node) {
     var parts = String(s).split("___");
+    if (Array.isArray(node)) {
+      var out = [parts[0]];
+      for (var i = 1; i < parts.length; i++) out.push(node[i - 1], parts[i]);
+      return h("div", { class: "q-text sentence" }, out);
+    }
     return h("div", { class: "q-text sentence" }, parts[0], node, parts.slice(1).join("___"));
+  }
+  // sostituisce i ___ nell'ordine con le parti date
+  function fillBlanks(s, parts) {
+    var i = 0;
+    return String(s).replace(/___/g, function () { var p = parts[i++]; return p == null ? "___" : p; });
   }
   function input(opts) {
     opts = opts || {};
@@ -82,34 +93,59 @@
     };
   }
 
-  // lettore audio per listen/dictation: conta gli ascolti (negli esami max 2)
+  // lettore audio per listen/dictation: pausa, frase avanti/indietro, slider, velocità cambiabile mentre si ascolta.
+  // Conta gli ascolti completi (negli esami max 2): dopo l'ultimo non si può più navigare.
   function audioPlayer(lines, maxPlays, state) {
     state = state || {};
-    var plays = state._plays || 0, playing = false;
+    var plays = state._plays || 0;
+    var c = B.speech.track(lines, { onChange: upd });
     var label = h("span", null, "Ascolta");
+    var icon = h("span", { class: "ico" }, B.icon("play", 20));
     var count = h("div", { class: "muted small center" });
-    var btn = h("button", { class: "btn blue play" }, B.icon("play", 20), label);
-    var slowBtn = h("button", { class: "btn ghost small" }, B.icon("turtle", 18), " Lento");
+    var btn = h("button", { class: "btn blue play" }, icon, label);
+    var slowBtn = h("button", { class: "btn ghost small", "aria-pressed": "false" }, B.icon("turtle", 18), " Lento");
     var speedBtn = h("button", { class: "btn ghost small", "aria-label": "Regola la velocità", onclick: function () { B.ui.speedSheet(lines.map(function (l) { return l[1]; }).join(" ").split(" ").slice(0, 14).join(" ")); } }, B.icon("speed", 18));
+    var prev = h("button", { class: "btn ghost small", "aria-label": "Frase precedente" }, B.icon("back", 18));
+    var next = h("button", { class: "btn ghost small", "aria-label": "Frase successiva" }, B.icon("chevron", 18));
+    var bar = h("input", { type: "range", class: "range", min: "0", max: String(Math.max(0, c.n - 1)), step: "1", value: "0", "aria-label": "Posizione" });
+    var pos = h("div", { class: "muted small center" });
+    var nav = h("div", { class: "row center gap player-nav" }, prev, bar, next);
+    var navBox = h("div", null, nav, pos);
+    navBox.style.display = "none";
+
+    function over() { return !!maxPlays && plays >= maxPlays && c.state === "done"; }
     function upd() {
+      var st = c.state;
       count.textContent = maxPlays ? "Ascolti: " + plays + " / " + maxPlays : (plays ? "Ascoltato " + plays + (plays === 1 ? " volta" : " volte") : "");
-      var over = maxPlays && plays >= maxPlays;
-      btn.disabled = over || playing; slowBtn.disabled = over || playing;
       state._plays = plays;
-      label.textContent = playing ? "In riproduzione" : over ? "Ascolti finiti" : plays ? "Riascolta" : "Ascolta";
+      label.textContent = st === "playing" ? "Pausa" : st === "paused" ? "Riprendi" : over() ? "Ascolti finiti" : st === "done" ? "Riascolta" : "Ascolta";
+      icon.innerHTML = ""; icon.appendChild(B.icon(st === "playing" ? "pause" : "play", 20));
+      btn.disabled = over();
+      slowBtn.disabled = over();
+      slowBtn.classList.toggle("on", c.slow); slowBtn.setAttribute("aria-pressed", String(c.slow));
+      navBox.style.display = st === "idle" ? "none" : "";
+      var lock = over();
+      prev.disabled = lock || c.i <= 0; next.disabled = lock || c.i >= c.n - 1; bar.disabled = lock;
+      bar.value = String(c.i);
+      pos.textContent = "Frase " + (c.i + 1) + " di " + c.n;
     }
-    function play(slow) {
-      if (maxPlays && plays >= maxPlays) return;
-      plays++; playing = true; upd();
-      B.speech.playLines(lines, function () { playing = false; upd(); }, slow ? { slow: true } : null);
-      // sicurezza: se il motore non segnala la fine, si riabilita comunque
-      var chars = lines.reduce(function (a, l) { return a + l[1].length; }, 0);
-      setTimeout(function () { if (playing) { playing = false; upd(); } }, 2000 + chars * 110 / (slow ? Math.max(0.3, B.speech.slowRate()) * 0.8 : 1));
+    // un nuovo ascolto (dall'inizio o dopo la fine) conta; pausa e ripresa no
+    function start() {
+      if (c.state === "idle" || c.state === "done") { if (maxPlays && plays >= maxPlays) return; plays++; }
+      c.play();
     }
-    btn.addEventListener("click", function () { play(false); });
-    slowBtn.addEventListener("click", function () { play(true); });
+    btn.addEventListener("click", function () { if (c.state === "playing") c.pause(); else if (c.state === "paused") c.play(); else start(); });
+    slowBtn.addEventListener("click", function () {
+      c.slow = !c.slow;
+      if (c.state === "idle" || c.state === "done") start(); else { upd(); c.refresh(); }
+    });
+    function go(k) { if (c.state === "done") c.state = "paused"; c.seek(k); }
+    prev.addEventListener("click", function () { go(c.i - 1); });
+    next.addEventListener("click", function () { go(c.i + 1); });
+    bar.addEventListener("input", function () { pos.textContent = "Frase " + (parseInt(bar.value, 10) + 1) + " di " + c.n; });
+    bar.addEventListener("change", function () { go(parseInt(bar.value, 10)); });
     upd();
-    return { el: h("div", { class: "player" }, h("div", { class: "row center gap" }, btn, maxPlays ? null : slowBtn, speedBtn), count), play: play };
+    return { el: h("div", { class: "player" }, h("div", { class: "row center gap" }, btn, maxPlays ? null : slowBtn, speedBtn), navBox, count), play: start };
   }
 
   // domande di comprensione (read/listen): scelta o risposta scritta
@@ -174,6 +210,7 @@
 
   Renderers.note = function (step, ctx) {
     var el = h("div", { class: "note-step" }, h("div", { class: "note-kicker" }, B.icon("bulb", 18), " Teoria"), title(step.title), B.rich(step.body));
+    if (step.svg) el.appendChild(h("img", { class: "note-svg", src: "img/g/" + step.svg + ".svg", alt: step.title }));
     if (step.table) {
       var t = h("table", { class: "gtable" });
       step.table.forEach(function (row, i) {
@@ -207,14 +244,22 @@
   };
 
   Renderers.gap = function (step, ctx) {
-    var blank = h("span", { class: "blank" }, "     ");
-    var el = h("div", { class: "mc" }, title(step.q || "Completa la frase"), sentenceWith(step.s, blank));
+    var n = (step.s.match(/___/g) || []).length;
+    var blanks = [];
+    for (var b = 0; b < n; b++) blanks.push(h("span", { class: "blank" }, "     "));
+    var el = h("div", { class: "mc" }, title(step.q || "Completa la frase"), sentenceWith(step.s, n > 1 ? blanks : blanks[0]));
     if (step.it) el.appendChild(h("div", { class: "q-sub" }, step.it));
-    var g = optionGroup(step.opts, step.a, { onPick: function (i, label) { blank.textContent = label; ctx.ready(true); } });
+    // un'opzione = una parte per spazio, separate da " / "
+    function split(label) { return n > 1 ? String(label).split(" / ") : [label]; }
+    var g = optionGroup(step.opts, step.a, { onPick: function (i, label) {
+      var parts = split(label);
+      blanks.forEach(function (el2, k) { el2.textContent = parts[k] != null ? parts[k] : "     "; });
+      ctx.ready(true);
+    } });
     el.appendChild(g.el);
     return { el: el, check: function () {
       g.lock(!ctx.quiet);
-      return { right: g.correct() ? 1 : 0, total: 1, expected: step.s.replace("___", step.opts[step.a]), explain: step.why };
+      return { right: g.correct() ? 1 : 0, total: 1, expected: fillBlanks(step.s, split(step.opts[step.a])), explain: step.why };
     } };
   };
 
@@ -396,6 +441,7 @@
   Renderers.read = function (step, ctx) {
     var el = h("div", { class: "reading" }, title(step.title || "Leggi il testo"));
     if (step.genre) el.appendChild(h("div", { class: "genre" }, step.genre));
+    if (step.photo || step.photos) el.appendChild(B.photoBlock(step));
     el.appendChild(h("div", { class: "card passage" }, B.rich(step.text)));
     el.appendChild(h("h4", null, "Domande"));
     var qs = questions(step.qs, ctx);
@@ -514,6 +560,7 @@
   Renderers.speakTask = function (step, ctx) {
     var el = h("div", { class: "speak task" }, h("div", { class: "q-head" }, title("Rispondi a voce"),
       h("div", { class: "q-text" }, step.q), step.it ? h("div", { class: "q-sub" }, step.it) : null));
+    if (step.photo || step.photos) el.appendChild(B.photoBlock(step));
     if (step.hints) el.appendChild(h("ul", { class: "hints" }, step.hints.map(function (x) { return h("li", null, x); })));
     var said = [], transcript = h("div", { class: "transcript-live" });
     var status = h("div", { class: "speak-status" }, B.speech.canListen() ? "Tocca il microfono e parla (puoi farlo più volte)." : "Parla ad alta voce, poi confronta con il modello.");
@@ -546,6 +593,7 @@
   // --- scrittura libera: conteggio parole, frasi utili, poi modello + checklist di autovalutazione
   Renderers.write = function (step, ctx) {
     var el = h("div", { class: "write" }, h("div", { class: "q-head" }, title("Scrivi"), h("div", { class: "q-text left" }, step.q), step.it ? h("div", { class: "q-sub left" }, step.it) : null));
+    if (step.photo || step.photos) el.appendChild(B.photoBlock(step));
     var area = input({ multi: true, rows: 9, ph: "Scrivi qui il tuo testo (" + step.min + "-" + step.max + " parole)" });
     var counter = h("div", { class: "counter" });
     function upd() {

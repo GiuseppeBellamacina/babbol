@@ -1,0 +1,355 @@
+{
+ "id": "res-sayit-time",
+ "kind": "sayit",
+ "title": "Ore e date: come si dicono",
+ "intro": "Come dire l'ora, le date, i giorni e le durate in inglese britannico.",
+ "items": [
+  {
+   "written": "3:00",
+   "spoken": "three o'clock",
+   "it": "le tre in punto",
+   "group": "Orologio",
+   "alts": [
+    "3.00",
+    "3 o'clock"
+   ]
+  },
+  {
+   "written": "3:05",
+   "spoken": "five past three",
+   "it": "le tre e cinque",
+   "group": "Orologio",
+   "alts": [
+    "3.05"
+   ]
+  },
+  {
+   "written": "3:10",
+   "spoken": "ten past three",
+   "it": "le tre e dieci",
+   "group": "Orologio",
+   "alts": [
+    "3.10"
+   ]
+  },
+  {
+   "written": "3:15",
+   "spoken": "a quarter past three",
+   "it": "le tre e un quarto",
+   "group": "Orologio",
+   "alts": [
+    "3.15"
+   ],
+   "note": "Si può dire anche three fifteen."
+  },
+  {
+   "written": "3:20",
+   "spoken": "twenty past three",
+   "it": "le tre e venti",
+   "group": "Orologio",
+   "alts": [
+    "3.20"
+   ]
+  },
+  {
+   "written": "3:25",
+   "spoken": "twenty-five past three",
+   "it": "le tre e venticinque",
+   "group": "Orologio",
+   "alts": [
+    "3.25"
+   ]
+  },
+  {
+   "written": "3:30",
+   "spoken": "half past three",
+   "it": "le tre e mezza",
+   "group": "Orologio",
+   "alts": [
+    "3.30"
+   ],
+   "note": "In parlato anche half three; si può dire anche three thirty."
+  },
+  {
+   "written": "3:35",
+   "spoken": "twenty-five to four",
+   "it": "le quattro meno venticinque",
+   "group": "Orologio",
+   "alts": [
+    "3.35"
+   ],
+   "note": "Dopo la mezz'ora si dice to e si nomina l'ora successiva."
+  },
+  {
+   "written": "3:45",
+   "spoken": "a quarter to four",
+   "it": "le quattro meno un quarto",
+   "group": "Orologio",
+   "alts": [
+    "3.45"
+   ],
+   "note": "Anche three forty-five."
+  },
+  {
+   "written": "3:50",
+   "spoken": "ten to four",
+   "it": "le quattro meno dieci",
+   "group": "Orologio",
+   "alts": [
+    "3.50"
+   ]
+  },
+  {
+   "written": "7:45",
+   "spoken": "seven forty-five",
+   "it": "stile digitale",
+   "group": "Orologio",
+   "alts": [
+    "7.45"
+   ],
+   "note": "Stile informale: a quarter to eight."
+  },
+  {
+   "written": "12:00 noon",
+   "spoken": "twelve noon",
+   "it": "mezzogiorno",
+   "group": "Orologio",
+   "alts": [
+    "noon",
+    "12 noon",
+    "12:00"
+   ],
+   "note": "Anche midday."
+  },
+  {
+   "written": "00:00",
+   "spoken": "midnight",
+   "it": "mezzanotte",
+   "group": "Orologio",
+   "alts": [
+    "12 midnight",
+    "0:00"
+   ],
+   "note": "Anche twelve midnight."
+  },
+  {
+   "written": "9:30 a.m.",
+   "spoken": "nine thirty in the morning",
+   "it": "le nove e mezza del mattino",
+   "group": "Mattina, pomeriggio e sera",
+   "alts": [
+    "9.30am",
+    "9:30 am",
+    "9:30am"
+   ],
+   "note": "A.m. significa prima di mezzogiorno."
+  },
+  {
+   "written": "3:30 p.m.",
+   "spoken": "half past three in the afternoon",
+   "it": "le tre e mezza del pomeriggio",
+   "group": "Mattina, pomeriggio e sera",
+   "alts": [
+    "3.30pm",
+    "3:30 pm",
+    "3:30pm"
+   ]
+  },
+  {
+   "written": "6 p.m.",
+   "spoken": "six o'clock in the evening",
+   "it": "le sei di sera",
+   "group": "Mattina, pomeriggio e sera",
+   "alts": [
+    "6pm",
+    "6 pm",
+    "6:00 p.m."
+   ],
+   "note": "P.m. significa dopo mezzogiorno."
+  },
+  {
+   "written": "14:30",
+   "spoken": "fourteen thirty",
+   "it": "orario a 24 ore",
+   "group": "Formato 24 ore",
+   "alts": [],
+   "note": "Nell'uso comune: half past two."
+  },
+  {
+   "written": "08:15",
+   "spoken": "oh eight fifteen",
+   "it": "orario a 24 ore",
+   "group": "Formato 24 ore",
+   "alts": [
+    "8:15"
+   ],
+   "note": "Lo zero iniziale si dice oh."
+  },
+  {
+   "written": "18:05",
+   "spoken": "eighteen oh five",
+   "it": "orario a 24 ore",
+   "group": "Formato 24 ore",
+   "alts": []
+  },
+  {
+   "written": "23:59",
+   "spoken": "twenty-three fifty-nine",
+   "it": "orario a 24 ore",
+   "group": "Formato 24 ore",
+   "alts": []
+  },
+  {
+   "written": "5 March",
+   "spoken": "the fifth of March",
+   "it": "data in stile britannico",
+   "group": "Date",
+   "alts": [
+    "5th March",
+    "March 5th",
+    "5 march"
+   ],
+   "note": "Stile americano: March fifth."
+  },
+  {
+   "written": "1 January",
+   "spoken": "the first of January",
+   "it": "capodanno",
+   "group": "Date",
+   "alts": [
+    "1st January",
+    "January 1st"
+   ]
+  },
+  {
+   "written": "21 June 2025",
+   "spoken": "the twenty-first of June twenty twenty-five",
+   "it": "data completa",
+   "group": "Date",
+   "alts": [
+    "21st June 2025",
+    "June 21st 2025"
+   ]
+  },
+  {
+   "written": "5/3/2024",
+   "spoken": "the fifth of March twenty twenty-four",
+   "it": "data numerica britannica",
+   "group": "Date",
+   "alts": [
+    "05/03/2024",
+    "5.3.2024"
+   ],
+   "note": "Attenzione: in inglese americano 5/3 significa 3 maggio."
+  },
+  {
+   "written": "Monday 12th May",
+   "spoken": "Monday the twelfth of May",
+   "it": "giorno e data",
+   "group": "Date",
+   "alts": [
+    "Monday 12 May",
+    "Mon 12th May"
+   ]
+  },
+  {
+   "written": "2030",
+   "spoken": "twenty thirty",
+   "it": "anno nel futuro",
+   "group": "Date",
+   "alts": [],
+   "note": "Anche two thousand and thirty."
+  },
+  {
+   "written": "20th century",
+   "spoken": "the twentieth century",
+   "it": "il Novecento",
+   "group": "Date",
+   "alts": [
+    "the 20th century"
+   ]
+  },
+  {
+   "written": "Mon-Fri",
+   "spoken": "Monday to Friday",
+   "it": "da lunedì a venerdì",
+   "group": "Giorni e orari",
+   "alts": [
+    "Mon - Fri",
+    "Monday to Friday",
+    "Mon to Fri"
+   ],
+   "note": "Negli USA anche Monday through Friday."
+  },
+  {
+   "written": "9-5",
+   "spoken": "nine to five",
+   "it": "orario di lavoro",
+   "group": "Giorni e orari",
+   "alts": [
+    "9 to 5",
+    "9-5"
+   ],
+   "note": "Indica anche il lavoro d'ufficio tradizionale."
+  },
+  {
+   "written": "10:00-12:00",
+   "spoken": "from ten to twelve",
+   "it": "dalle dieci alle dodici",
+   "group": "Giorni e orari",
+   "alts": [
+    "10-12",
+    "10.00-12.00",
+    "10:00 - 12:00"
+   ]
+  },
+  {
+   "written": "24/7",
+   "spoken": "twenty-four seven",
+   "it": "sempre aperto",
+   "group": "Giorni e orari",
+   "alts": [
+    "24 7",
+    "24-7"
+   ],
+   "note": "Vuol dire ventiquattro ore su ventiquattro, sette giorni su sette."
+  },
+  {
+   "written": "45 min",
+   "spoken": "forty-five minutes",
+   "it": "durata",
+   "group": "Durate",
+   "alts": [
+    "45 mins",
+    "45 minutes"
+   ]
+  },
+  {
+   "written": "2 hrs 30 mins",
+   "spoken": "two hours thirty minutes",
+   "it": "durata",
+   "group": "Durate",
+   "alts": [
+    "2h 30",
+    "2 hours 30 minutes"
+   ],
+   "note": "Anche two and a half hours."
+  },
+  {
+   "written": "3 weeks",
+   "spoken": "three weeks",
+   "it": "durata",
+   "group": "Durate",
+   "alts": []
+  },
+  {
+   "written": "10 mins ago",
+   "spoken": "ten minutes ago",
+   "it": "tempo fa",
+   "group": "Durate",
+   "alts": [
+    "10 minutes ago"
+   ]
+  }
+ ]
+}

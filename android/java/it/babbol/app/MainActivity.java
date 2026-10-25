@@ -4,7 +4,9 @@ import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.graphics.Color;
+import android.content.pm.PackageManager;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.speech.tts.TextToSpeech;
@@ -25,6 +27,12 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -57,6 +65,11 @@ public class MainActivity extends Activity {
     private long lastBackAt = 0;
     private int utterance = 0;
     private boolean voiceOverridden = false;
+    private static final String RELEASES = "https://github.com/GiuseppeBellamacina/babbol/releases/";
+    private volatile boolean updateCancelled = false;
+    private volatile boolean updateBusy = false;
+    private String lastVoiceKey = "";
+    private Voice lastVoice = null;
     private boolean pageReady = false;
     private String pendingAuthUrl = null;
 
@@ -117,6 +130,7 @@ public class MainActivity extends Activity {
         });
         setContentView(web);
         takeAuthUrl(getIntent());
+        UpdateProvider.apk(this).delete();
         web.loadUrl(START_URL);
     }
 
@@ -248,6 +262,13 @@ public class MainActivity extends Activity {
         if (gender == null || gender.isEmpty()) {
             return false;
         }
+        // nel parlato lento si chiama una volta per parola: si riusa la scelta fatta per la stessa voce
+        String key = langTag + "|" + gender + "|" + variant;
+        if (key.equals(lastVoiceKey) && lastVoice != null) {
+            tts.setVoice(lastVoice);
+            voiceOverridden = true;
+            return true;
+        }
         try {
             Set<Voice> all = tts.getVoices();
             if (all == null) {
@@ -286,7 +307,10 @@ public class MainActivity extends Activity {
                     return a.getName().compareTo(b.getName());
                 }
             });
-            tts.setVoice(pool.get(Math.abs(variant) % pool.size()));
+            Voice chosen = pool.get(Math.abs(variant) % pool.size());
+            tts.setVoice(chosen);
+            lastVoiceKey = key;
+            lastVoice = chosen;
             voiceOverridden = true;
             return true;
         } catch (RuntimeException e) {
@@ -372,6 +396,77 @@ public class MainActivity extends Activity {
             });
         }
 
+        /** Versione installata (versionName del manifest). */
+        @JavascriptInterface
+        public String getVersionName() {
+            try {
+                return getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
+            } catch (PackageManager.NameNotFoundException e) {
+                return "";
+            }
+        }
+
+        /**
+         * Scarica la nuova versione (solo da una release del progetto) e apre l'installatore.
+         * Esiti alla pagina: __onUpdateProgress(pct), __onUpdateReady(), __onUpdateError(codice).
+         */
+        @JavascriptInterface
+        public void downloadUpdate(final String url, final String sha256) {
+            if (url == null || !url.startsWith(RELEASES + "download/")) {
+                updateError("url");
+                return;
+            }
+            if (updateBusy) {
+                return;
+            }
+            if (!canInstallPackages()) {
+                // da Android 8 l'utente deve consentire a Babbol di installare app: si apre la schermata giusta
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        try {
+                            startActivity(new Intent("android.settings.MANAGE_UNKNOWN_APP_SOURCES", Uri.parse("package:" + getPackageName())));
+                        } catch (ActivityNotFoundException e) {
+                            // resta il messaggio
+                        }
+                    }
+                });
+                updateError("permission");
+                return;
+            }
+            updateBusy = true;
+            updateCancelled = false;
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    fetchUpdate(url, sha256);
+                }
+            }).start();
+        }
+
+        @JavascriptInterface
+        public void cancelUpdate() {
+            updateCancelled = true;
+        }
+
+        /** Apre nel browser la pagina della release (alternativa se l'aggiornamento automatico non riesce). */
+        @JavascriptInterface
+        public void openReleasePage(final String url) {
+            if (url == null || !url.startsWith(RELEASES)) {
+                return;
+            }
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+                    } catch (ActivityNotFoundException e) {
+                        toast("Nessun browser disponibile.");
+                    }
+                }
+            });
+        }
+
         @JavascriptInterface
         public void setStatusBar(final boolean dark) {
             runOnUiThread(new Runnable() {
@@ -414,6 +509,133 @@ public class MainActivity extends Activity {
             return;
         }
         runJs("window.__onSpeech(" + out.toString() + ")");
+    }
+
+    // ---------------------------------------------------------------- aggiornamento dell'app
+
+    private boolean canInstallPackages() {
+        if (Build.VERSION.SDK_INT < 26) {
+            return true;
+        }
+        try {
+            // PackageManager.canRequestPackageInstalls() esiste dall'API 26; l'android.jar di build è l'API 23
+            Object r = getPackageManager().getClass().getMethod("canRequestPackageInstalls").invoke(getPackageManager());
+            return Boolean.TRUE.equals(r);
+        } catch (Exception e) {
+            return true;
+        }
+    }
+
+    private void updateJs(String call) {
+        runJs("window.__" + call);
+    }
+
+    private void updateError(String code) {
+        updateBusy = false;
+        updateJs("onUpdateError && window.__onUpdateError(" + JSONObject.quote(code) + ")");
+    }
+
+    /** Scarica l'APK in cache/updates, ne controlla dimensione e SHA-256 (se noto) e apre l'installatore. */
+    private void fetchUpdate(String url, String sha256) {
+        HttpURLConnection c = null;
+        InputStream in = null;
+        FileOutputStream out = null;
+        File dir = UpdateProvider.dir(this);
+        File tmp = new File(dir, UpdateProvider.NAME + ".part");
+        try {
+            dir.mkdirs();
+            c = (HttpURLConnection) new URL(url).openConnection();
+            c.setConnectTimeout(15000);
+            c.setReadTimeout(30000);
+            c.setInstanceFollowRedirects(true);
+            if (c.getResponseCode() != 200) {
+                updateError("network");
+                return;
+            }
+            long total = c.getContentLength();
+            in = c.getInputStream();
+            out = new FileOutputStream(tmp);
+            MessageDigest md = MessageDigest.getInstance("SHA-256");
+            byte[] buf = new byte[32768];
+            long got = 0;
+            int lastPct = -1;
+            int n;
+            while ((n = in.read(buf)) > 0) {
+                if (updateCancelled) {
+                    updateBusy = false;
+                    return;
+                }
+                out.write(buf, 0, n);
+                md.update(buf, 0, n);
+                got += n;
+                if (total > 0) {
+                    int pct = (int) (got * 100 / total);
+                    if (pct != lastPct) {
+                        lastPct = pct;
+                        updateJs("onUpdateProgress && window.__onUpdateProgress(" + pct + ")");
+                    }
+                }
+            }
+            out.close();
+            out = null;
+            if (got < 100000 || (total > 0 && got != total)) {
+                updateError("size");
+                return;
+            }
+            if (sha256 != null && sha256.length() == 64) {
+                StringBuilder hex = new StringBuilder();
+                for (byte b : md.digest()) {
+                    hex.append(String.format(Locale.ROOT, "%02x", b));
+                }
+                if (!hex.toString().equalsIgnoreCase(sha256)) {
+                    updateError("checksum");
+                    return;
+                }
+            }
+            File apk = UpdateProvider.apk(this);
+            apk.delete();
+            if (!tmp.renameTo(apk)) {
+                updateError("size");
+                return;
+            }
+            updateBusy = false;
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    installUpdate();
+                }
+            });
+        } catch (Exception e) {
+            updateError("network");
+        } finally {
+            try {
+                if (out != null) {
+                    out.close();
+                }
+                if (in != null) {
+                    in.close();
+                }
+            } catch (Exception ignored) {
+                // niente da fare
+            }
+            if (c != null) {
+                c.disconnect();
+            }
+            tmp.delete();
+        }
+    }
+
+    /** Apre l'installatore di sistema sull'APK scaricato: l'utente conferma e Android sostituisce l'app (stessa firma). */
+    private void installUpdate() {
+        try {
+            Intent i = new Intent(Intent.ACTION_VIEW);
+            i.setDataAndType(Uri.parse("content://" + UpdateProvider.AUTHORITY + "/" + UpdateProvider.NAME), "application/vnd.android.package-archive");
+            i.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION | Intent.FLAG_ACTIVITY_NEW_TASK);
+            startActivity(i);
+            updateJs("onUpdateReady && window.__onUpdateReady()");
+        } catch (ActivityNotFoundException e) {
+            updateError("installer");
+        }
     }
 
     /** Il tasto indietro è gestito dalla pagina (chiude schermate/sessioni); esce solo dalla home. */

@@ -1,0 +1,231 @@
+{
+ "id": "res-w-computers-internet",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Computer e internet",
+ "intro": "Venti parole utili sul tema «computer e internet», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "attachment",
+   "it": "allegato",
+   "ipa": "əˈtætʃmənt",
+   "pos": "n",
+   "ex": [
+    "I opened the attachment but it was empty.",
+    "Ho aperto l'allegato ma era vuoto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "browser",
+   "it": "browser",
+   "ipa": "ˈbraʊzə",
+   "pos": "n",
+   "ex": [
+    "This page does not work in my browser.",
+    "Questa pagina non funziona nel mio browser."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cable",
+   "it": "cavo",
+   "ipa": "ˈkeɪbl",
+   "pos": "n",
+   "ex": [
+    "This cable is too short for the printer.",
+    "Questo cavo è troppo corto per la stampante."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "click",
+   "it": "cliccare",
+   "ipa": "klɪk",
+   "pos": "v",
+   "ex": [
+    "Click here to open the file.",
+    "Clicca qui per aprire il file."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "delete",
+   "it": "cancellare",
+   "ipa": "dɪˈliːt",
+   "pos": "v",
+   "ex": [
+    "Please delete the old files from your desktop.",
+    "Cancella i vecchi file dal desktop, per favore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "folder",
+   "it": "cartella",
+   "ipa": "ˈfəʊldə",
+   "pos": "n",
+   "ex": [
+    "Save the document in the blue folder.",
+    "Salva il documento nella cartella blu."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "hacker",
+   "it": "pirata informatico",
+   "ipa": "ˈhækə",
+   "pos": "n",
+   "ex": [
+    "A hacker stole thousands of passwords.",
+    "Un pirata informatico ha rubato migliaia di password."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "keyboard",
+   "it": "tastiera",
+   "ipa": "ˈkiːbɔːd",
+   "pos": "n",
+   "ex": [
+    "The keyboard on this tablet is very small.",
+    "La tastiera di questo tablet è molto piccola."
+   ],
+   "lv": "B1",
+   "emoji": "⌨️"
+  },
+  {
+   "en": "link",
+   "it": "collegamento",
+   "ipa": "lɪŋk",
+   "pos": "n",
+   "ex": [
+    "Click on the link to see the video.",
+    "Clicca sul collegamento per vedere il video."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "online",
+   "it": "online",
+   "ipa": "ˌɒnˈlaɪn",
+   "pos": "adj",
+   "ex": [
+    "I do most of my banking online.",
+    "Faccio quasi tutte le operazioni bancarie online."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "password",
+   "it": "password",
+   "ipa": "ˈpɑːswɜːd",
+   "pos": "n",
+   "ex": [
+    "Choose a password that is hard to guess.",
+    "Scegli una password difficile da indovinare."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "printer",
+   "it": "stampante",
+   "ipa": "ˈprɪntə",
+   "pos": "n",
+   "ex": [
+    "The printer is out of paper again.",
+    "La stampante ha di nuovo finito la carta."
+   ],
+   "lv": "B1",
+   "emoji": "🖨️"
+  },
+  {
+   "en": "scan",
+   "it": "scansionare",
+   "ipa": "skæn",
+   "pos": "v",
+   "ex": [
+    "Please scan the form and send it to me.",
+    "Scansiona il modulo e mandamelo, per favore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "screen",
+   "it": "schermo",
+   "ipa": "skriːn",
+   "pos": "n",
+   "ex": [
+    "The screen is too bright at night.",
+    "Lo schermo è troppo luminoso di notte."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "search engine",
+   "it": "motore di ricerca",
+   "ipa": "sɜːtʃ ˈendʒɪn",
+   "pos": "phr",
+   "ex": [
+    "I use a different search engine now.",
+    "Ora uso un altro motore di ricerca."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "spam",
+   "it": "posta indesiderata",
+   "ipa": "spæm",
+   "pos": "n",
+   "ex": [
+    "Most of my emails are spam.",
+    "La maggior parte delle mie email è posta indesiderata."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "upload",
+   "it": "caricare",
+   "ipa": "ˌʌpˈləʊd",
+   "pos": "v",
+   "ex": [
+    "I uploaded the photos to the shared folder.",
+    "Ho caricato le foto nella cartella condivisa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "username",
+   "it": "nome utente",
+   "ipa": "ˈjuːzəneɪm",
+   "pos": "n",
+   "ex": [
+    "Enter your username and your password.",
+    "Inserisci il tuo nome utente e la tua password."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "virus",
+   "it": "virus",
+   "ipa": "ˈvaɪrəs",
+   "pos": "n",
+   "ex": [
+    "My computer caught a virus last week.",
+    "Il mio computer ha preso un virus la settimana scorsa."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "website",
+   "it": "sito web",
+   "ipa": "ˈwebsaɪt",
+   "pos": "n",
+   "ex": [
+    "The company has a new website.",
+    "L'azienda ha un nuovo sito web."
+   ],
+   "lv": "B1"
+  }
+ ]
+}

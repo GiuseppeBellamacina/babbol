@@ -1,0 +1,382 @@
+{
+ "id": "res-mistakes-b2",
+ "kind": "mistakes",
+ "lv": "B2",
+ "title": "Errori tipici: B2",
+ "intro": "Errori sottili che restano anche a livello avanzato: inversioni, preposizioni dopo verbi e aggettivi, collocazioni e falsi amici.",
+ "items": [
+  {
+   "wrong": "I have lived in Rome until 2015.",
+   "right": "I lived in Rome until 2015.",
+   "why": "Un periodo chiuso nel passato, con un termine preciso, vuole il past simple. In italiano «ho vissuto» funziona.",
+   "topic": "tempi verbali",
+   "lv": "B2",
+   "alts": [
+    "I lived in Rome up to 2015."
+   ],
+   "more": [
+    "I living in Rome until 2015."
+   ]
+  },
+  {
+   "wrong": "Hardly I had arrived when it started to rain.",
+   "right": "Hardly had I arrived when it started to rain.",
+   "why": "Dopo avverbi negativi come «hardly» all'inizio si inverte ausiliare e soggetto. L'italiano non ha questa inversione.",
+   "topic": "ordine delle parole",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "Hardly had I arrived than it started to rain."
+   ]
+  },
+  {
+   "wrong": "Never I have seen such a mess.",
+   "right": "Never have I seen such a mess.",
+   "why": "«Never» a inizio frase richiede l'inversione ausiliare + soggetto. In italiano «mai ho visto» non inverte.",
+   "topic": "ordine delle parole",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "Never have I saw such a mess."
+   ]
+  },
+  {
+   "wrong": "She is capable to solve the problem.",
+   "right": "She is capable of solving the problem.",
+   "why": "«Capable» regge «of» + gerundio. L'italiano «capace di risolvere» porta a «to + infinito».",
+   "topic": "preposizioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "She is capable of solve the problem."
+   ]
+  },
+  {
+   "wrong": "He insisted to pay for dinner.",
+   "right": "He insisted on paying for dinner.",
+   "why": "«Insist» vuole «on» + gerundio. In italiano «insistere nel pagare» ha l'infinito.",
+   "topic": "preposizioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "He insisted on pay for dinner."
+   ]
+  },
+  {
+   "wrong": "They prevented me to enter.",
+   "right": "They prevented me from entering.",
+   "why": "«Prevent someone» vuole «from» + gerundio. L'italiano «impedirmi di entrare» ha l'infinito.",
+   "topic": "preposizioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "They prevented me from enter."
+   ]
+  },
+  {
+   "wrong": "I object to be treated like this.",
+   "right": "I object to being treated like this.",
+   "why": "«Object to» vuole il gerundio, perché «to» è una preposizione. Si scambia con l'infinito.",
+   "topic": "verbi e costruzioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "I object being treated like this."
+   ]
+  },
+  {
+   "wrong": "If I would have known, I would have told you.",
+   "right": "If I had known, I would have told you.",
+   "why": "Nel terzo condizionale la frase con «if» vuole il past perfect, non «would». In italiano si dice «se avessi saputo», e la tentazione è «would».",
+   "topic": "tempi verbali",
+   "lv": "B2",
+   "alts": [
+    "Had I known, I would have told you."
+   ],
+   "more": [
+    "If I had known, I would told you."
+   ]
+  },
+  {
+   "wrong": "He asked if could he borrow my car.",
+   "right": "He asked if he could borrow my car.",
+   "why": "Nelle domande indirette l'ordine è soggetto + verbo, senza inversione. Si trascina l'ordine della domanda diretta.",
+   "topic": "ordine delle parole",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "He asked if he can borrowed my car."
+   ]
+  },
+  {
+   "wrong": "The news are worrying.",
+   "right": "The news is worrying.",
+   "why": "«News» ha la «-s» ma è non numerabile e singolare. In italiano «le notizie» è plurale.",
+   "topic": "countable/uncountable",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "The new is worrying."
+   ]
+  },
+  {
+   "wrong": "She is responsible of the accounts.",
+   "right": "She is responsible for the accounts.",
+   "why": "«Responsible» regge «for». L'italiano «responsabile di» porta a «of».",
+   "topic": "preposizioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "She is responsible to the accounts."
+   ]
+  },
+  {
+   "wrong": "He is jealous for my success.",
+   "right": "He is jealous of my success.",
+   "why": "«Jealous» regge «of». L'errore tipico è tradurre «geloso di» con «for».",
+   "topic": "preposizioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "He is jealous to my success."
+   ]
+  },
+  {
+   "wrong": "I did a mistake in the report.",
+   "right": "I made a mistake in the report.",
+   "why": "La collocazione corretta è «make a mistake». L'italiano «fare un errore» usa «fare» per tutto.",
+   "topic": "verbi e costruzioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "I made a mistakes in the report."
+   ]
+  },
+  {
+   "wrong": "I have a great experience in sales.",
+   "right": "I have a lot of experience in sales.",
+   "why": "«Experience» nel senso di esperienza professionale è non numerabile e si quantifica con «a lot of». In italiano si dice «una grande esperienza».",
+   "topic": "countable/uncountable",
+   "lv": "B2",
+   "alts": [
+    "I have lots of experience in sales.",
+    "I have a great deal of experience in sales.",
+    "I have plenty of experience in sales.",
+    "I have extensive experience in sales."
+   ],
+   "more": [
+    "I have a lot of experiences in sales."
+   ]
+  },
+  {
+   "wrong": "Could you please to confirm your attendance?",
+   "right": "Could you please confirm your attendance?",
+   "why": "Dopo «could» (e «please») il verbo è all'infinito senza «to». Si aggiunge «to» per analogia con l'italiano «potrebbe per favore confermare».",
+   "topic": "modali",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "Could you please confirming your attendance?"
+   ]
+  },
+  {
+   "wrong": "Despite he was tired, he kept working.",
+   "right": "Although he was tired, he kept working.",
+   "why": "«Despite» è una preposizione: vuole un nome o un gerundio, non una frase. Con una frase si usa «although».",
+   "topic": "preposizioni",
+   "lv": "B2",
+   "alts": [
+    "Despite being tired, he kept working.",
+    "In spite of being tired, he kept working.",
+    "Despite the fact that he was tired, he kept working.",
+    "Even though he was tired, he kept working."
+   ],
+   "more": [
+    "Despite of being tired, he kept working."
+   ]
+  },
+  {
+   "wrong": "It's time we go home.",
+   "right": "It's time we went home.",
+   "why": "Dopo «it's time» + soggetto si usa il past simple con valore di presente. In italiano si usa il congiuntivo presente («è ora che andiamo»).",
+   "topic": "tempi verbali",
+   "lv": "B2",
+   "alts": [
+    "It is time we went home."
+   ],
+   "more": [
+    "It's time we would go home."
+   ]
+  },
+  {
+   "wrong": "I'd rather you don't smoke here.",
+   "right": "I'd rather you didn't smoke here.",
+   "why": "«I'd rather» + soggetto vuole il past simple. In italiano «preferirei che non fumassi» ha il congiuntivo imperfetto, ma si finisce per usare il presente.",
+   "topic": "tempi verbali",
+   "lv": "B2",
+   "alts": [
+    "I would rather you didn't smoke here."
+   ],
+   "more": [
+    "I'd rather you not to smoke here."
+   ]
+  },
+  {
+   "wrong": "He denied to have stolen the money.",
+   "right": "He denied having stolen the money.",
+   "why": "«Deny» vuole il gerundio, non l'infinito. In italiano «negò di aver rubato» ha l'infinito.",
+   "topic": "verbi e costruzioni",
+   "lv": "B2",
+   "alts": [
+    "He denied stealing the money.",
+    "He denied that he had stolen the money."
+   ],
+   "more": [
+    "He denied to steal the money."
+   ]
+  },
+  {
+   "wrong": "I regret to tell her the truth.",
+   "right": "I regret telling her the truth.",
+   "why": "«Regret» + gerundio indica il rammarico per qualcosa già fatto; con l'infinito significa «mi dispiace dover dire». Nel significato di «mi pento» serve -ing.",
+   "topic": "verbi e costruzioni",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "I regret tell her the truth."
+   ]
+  },
+  {
+   "wrong": "I lived in London for two years before to move to Paris.",
+   "right": "I lived in London for two years before moving to Paris.",
+   "why": "Dopo la preposizione «before» si usa il gerundio (o una frase intera). In italiano «prima di trasferirmi» ha l'infinito.",
+   "topic": "verbi e costruzioni",
+   "lv": "B2",
+   "alts": [
+    "I lived in London for two years before I moved to Paris."
+   ],
+   "more": [
+    "I lived in London for two years before moved to Paris."
+   ]
+  },
+  {
+   "wrong": "Not only he was late, but he also forgot the documents.",
+   "right": "Not only was he late, but he also forgot the documents.",
+   "why": "«Not only» a inizio frase richiede l'inversione ausiliare + soggetto.",
+   "topic": "ordine delle parole",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "Not only was he late, but he also forgetting the documents."
+   ]
+  },
+  {
+   "wrong": "My boss is a person very demanding.",
+   "right": "My boss is a very demanding person.",
+   "why": "In inglese l'aggettivo va prima del nome. L'italiano «una persona molto esigente» lo mette dopo.",
+   "topic": "ordine delle parole",
+   "lv": "B2",
+   "alts": [
+    "My boss is very demanding."
+   ],
+   "more": [
+    "My boss is a very demanding persons."
+   ]
+  },
+  {
+   "wrong": "The unemployment is rising in southern Europe.",
+   "right": "Unemployment is rising in southern Europe.",
+   "why": "I sostantivi astratti in senso generale non vogliono l'articolo. In italiano «la disoccupazione» lo richiede.",
+   "topic": "articoli",
+   "lv": "B2",
+   "alts": [
+    "Unemployment is rising in Southern Europe."
+   ],
+   "more": [
+    "Unemployment are rising in southern Europe."
+   ]
+  },
+  {
+   "wrong": "The manager announced us that the office would close.",
+   "right": "The manager told us that the office would close.",
+   "why": "«Announce» vuole «to» davanti alla persona; con il complemento di persona diretto si usa «tell». L'italiano «ci ha annunciato» non ha preposizione.",
+   "topic": "verbi e costruzioni",
+   "lv": "B2",
+   "alts": [
+    "The manager announced to us that the office would close."
+   ],
+   "more": [
+    "The manager told that the office would close to us."
+   ]
+  },
+  {
+   "wrong": "Actually the economy is recovering.",
+   "right": "Currently the economy is recovering.",
+   "why": "«Actually» significa «in realtà», non «attualmente». Falso amico di «attualmente» (= currently).",
+   "topic": "falsi amici",
+   "lv": "B2",
+   "alts": [
+    "At the moment the economy is recovering.",
+    "At present the economy is recovering.",
+    "Currently, the economy is recovering."
+   ],
+   "more": [
+    "Actually the economy are recovering."
+   ]
+  },
+  {
+   "wrong": "I assisted to a very interesting lecture.",
+   "right": "I attended a very interesting lecture.",
+   "why": "«Assist» significa «aiutare»; per «assistere a» si usa «attend». Falso amico di «assistere».",
+   "topic": "falsi amici",
+   "lv": "B2",
+   "alts": [
+    "I went to a very interesting lecture."
+   ],
+   "more": [
+    "I attended to a very interesting lecture."
+   ]
+  },
+  {
+   "wrong": "We may eventually go to the cinema tonight.",
+   "right": "We may possibly go to the cinema tonight.",
+   "why": "«Eventually» significa «alla fine», non «eventualmente». Falso amico di «eventualmente» (= possibly, perhaps).",
+   "topic": "falsi amici",
+   "lv": "B2",
+   "alts": [
+    "We might possibly go to the cinema tonight.",
+    "We may well go to the cinema tonight.",
+    "We might go to the cinema tonight.",
+    "We may go to the cinema tonight."
+   ],
+   "more": [
+    "We may possibly to go to the cinema tonight."
+   ]
+  },
+  {
+   "wrong": "Our waiter was very educated.",
+   "right": "Our waiter was very polite.",
+   "why": "«Educated» vuol dire «istruito», non «educato». Falso amico di «educato» (= polite, well-mannered).",
+   "topic": "falsi amici",
+   "lv": "B2",
+   "alts": [
+    "Our waiter was very well-mannered.",
+    "Our waiter was very courteous."
+   ],
+   "more": [
+    "Our waiter was very politely."
+   ]
+  },
+  {
+   "wrong": "The film was a flop, so I was deluded.",
+   "right": "The film was a flop, so I was disappointed.",
+   "why": "«Deluded» significa «illuso, ingannato»; per «deluso» si usa «disappointed». Falso amico di «deluso».",
+   "topic": "falsi amici",
+   "lv": "B2",
+   "alts": [],
+   "more": [
+    "The film was a flop, so I was disappointing."
+   ]
+  }
+ ]
+}

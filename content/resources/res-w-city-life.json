@@ -1,0 +1,233 @@
+{
+ "id": "res-w-city-life",
+ "kind": "words",
+ "lv": "B1",
+ "title": "Vita di città",
+ "intro": "Venti parole utili sul tema «vita di città», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "bridge",
+   "it": "ponte",
+   "ipa": "brɪdʒ",
+   "pos": "n",
+   "ex": [
+    "Cross the bridge and turn left.",
+    "Attraversa il ponte e gira a sinistra."
+   ],
+   "lv": "B1",
+   "emoji": "🌉"
+  },
+  {
+   "en": "bus stop",
+   "it": "fermata dell'autobus",
+   "ipa": "bʌs stɒp",
+   "pos": "phr",
+   "ex": [
+    "The bus stop is right outside my house.",
+    "La fermata dell'autobus è proprio davanti a casa mia."
+   ],
+   "lv": "B1",
+   "emoji": "🚏"
+  },
+  {
+   "en": "car park",
+   "it": "parcheggio",
+   "ipa": "ˈkɑː pɑːk",
+   "pos": "phr",
+   "ex": [
+    "The car park is full on Saturdays.",
+    "Il parcheggio è pieno il sabato."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "cost of living",
+   "it": "costo della vita",
+   "ipa": "kɒst əv ˈlɪvɪŋ",
+   "pos": "phr",
+   "ex": [
+    "The cost of living is high in big cities.",
+    "Il costo della vita è alto nelle grandi città."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "crossing",
+   "it": "attraversamento pedonale",
+   "ipa": "ˈkrɒsɪŋ",
+   "pos": "n",
+   "ex": [
+    "Wait at the crossing until the light is green.",
+    "Aspetta all'attraversamento finché il semaforo è verde."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "district",
+   "it": "zona",
+   "ipa": "ˈdɪstrɪkt",
+   "pos": "n",
+   "ex": [
+    "This district is famous for its restaurants.",
+    "Questa zona è famosa per i suoi ristoranti."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "fountain",
+   "it": "fontana",
+   "ipa": "ˈfaʊntɪn",
+   "pos": "n",
+   "ex": [
+    "Children were playing near the fountain.",
+    "I bambini giocavano vicino alla fontana."
+   ],
+   "lv": "B1",
+   "emoji": "⛲"
+  },
+  {
+   "en": "high street",
+   "it": "via principale",
+   "ipa": "haɪ striːt",
+   "pos": "phr",
+   "ex": [
+    "Most shops on the high street close at six.",
+    "La maggior parte dei negozi della via principale chiude alle sei."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "noise",
+   "it": "rumore",
+   "ipa": "nɔɪz",
+   "pos": "n",
+   "ex": [
+    "I cannot sleep because of the noise.",
+    "Non riesco a dormire a causa del rumore."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "pedestrian",
+   "it": "pedone",
+   "ipa": "pəˈdestriən",
+   "pos": "n",
+   "ex": [
+    "Drivers must stop for pedestrians.",
+    "Gli automobilisti devono fermarsi per i pedoni."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "public transport",
+   "it": "trasporto pubblico",
+   "ipa": "ˌpʌblɪk ˈtrænspɔːt",
+   "pos": "phr",
+   "ex": [
+    "Public transport is cheap and reliable here.",
+    "Il trasporto pubblico qui è economico e affidabile."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "rush hour",
+   "it": "ora di punta",
+   "ipa": "rʌʃ ˈaʊə",
+   "pos": "phr",
+   "ex": [
+    "The metro is crowded during rush hour.",
+    "La metropolitana è affollata nell'ora di punta."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "shopping centre",
+   "it": "centro commerciale",
+   "ipa": "ˈʃɒpɪŋ ˈsentə",
+   "pos": "phr",
+   "ex": [
+    "We spent the afternoon at the shopping centre.",
+    "Abbiamo passato il pomeriggio al centro commerciale."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "skyscraper",
+   "it": "grattacielo",
+   "ipa": "ˈskaɪskreɪpə",
+   "pos": "n",
+   "ex": [
+    "The office is on the top floor of a skyscraper.",
+    "L'ufficio è all'ultimo piano di un grattacielo."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "square",
+   "it": "piazza",
+   "ipa": "skweə",
+   "pos": "n",
+   "ex": [
+    "We met in the main square at noon.",
+    "Ci siamo incontrati nella piazza principale a mezzogiorno."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "suburb",
+   "it": "periferia",
+   "ipa": "ˈsʌbɜːb",
+   "pos": "n",
+   "ex": [
+    "They live in a quiet suburb of Milan.",
+    "Vivono in una tranquilla periferia di Milano."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "town centre",
+   "it": "centro città",
+   "ipa": "taʊn ˈsentə",
+   "pos": "phr",
+   "ex": [
+    "The town centre is closed to cars.",
+    "Il centro città è chiuso alle auto."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "town hall",
+   "it": "municipio",
+   "ipa": "ˌtaʊn ˈhɔːl",
+   "pos": "phr",
+   "ex": [
+    "The wedding will be in the town hall.",
+    "Il matrimonio si terrà in municipio."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "traffic jam",
+   "it": "ingorgo",
+   "ipa": "ˈtræfɪk dʒæm",
+   "pos": "phr",
+   "ex": [
+    "We were stuck in a traffic jam for an hour.",
+    "Siamo rimasti bloccati in un ingorgo per un'ora."
+   ],
+   "lv": "B1"
+  },
+  {
+   "en": "tram",
+   "it": "tram",
+   "ipa": "træm",
+   "pos": "n",
+   "ex": [
+    "I take the tram to the city centre.",
+    "Prendo il tram per andare in centro."
+   ],
+   "lv": "B1",
+   "emoji": "🚋"
+  }
+ ]
+}

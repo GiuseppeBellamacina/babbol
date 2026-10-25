@@ -1,0 +1,238 @@
+{
+ "id": "res-w-clothes",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Vestiti e accessori",
+ "intro": "Venti parole utili sul tema «vestiti e accessori», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "belt",
+   "it": "cintura",
+   "ipa": "belt",
+   "pos": "n",
+   "ex": [
+    "I need a belt for these jeans.",
+    "Mi serve una cintura per questi jeans."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "boots",
+   "it": "stivali",
+   "ipa": "buːts",
+   "pos": "n",
+   "ex": [
+    "Wear boots if you walk in the snow.",
+    "Metti gli stivali se cammini nella neve."
+   ],
+   "lv": "A2",
+   "emoji": "🥾"
+  },
+  {
+   "en": "button",
+   "it": "bottone",
+   "ipa": "ˈbʌtn",
+   "pos": "n",
+   "ex": [
+    "One button fell off my coat.",
+    "Mi è caduto un bottone dal cappotto."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "dress",
+   "it": "vestito",
+   "ipa": "dres",
+   "pos": "n",
+   "ex": [
+    "Her wedding dress was simple and elegant.",
+    "Il suo abito da sposa era semplice ed elegante."
+   ],
+   "lv": "A2",
+   "emoji": "👗"
+  },
+  {
+   "en": "fit",
+   "it": "stare bene (di misura)",
+   "ipa": "fɪt",
+   "pos": "v",
+   "ex": [
+    "These shoes do not fit me.",
+    "Queste scarpe non mi stanno bene."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "gloves",
+   "it": "guanti",
+   "ipa": "ɡlʌvz",
+   "pos": "n",
+   "ex": [
+    "I forgot my gloves on the bus.",
+    "Ho dimenticato i guanti sull'autobus."
+   ],
+   "lv": "A2",
+   "emoji": "🧤"
+  },
+  {
+   "en": "jumper",
+   "it": "maglione",
+   "ipa": "ˈdʒʌmpə",
+   "pos": "n",
+   "ex": [
+    "Put on a jumper, it is cold outside.",
+    "Mettiti un maglione, fuori fa freddo."
+   ],
+   "lv": "A2",
+   "emoji": "🧥"
+  },
+  {
+   "en": "pocket",
+   "it": "tasca",
+   "ipa": "ˈpɒkɪt",
+   "pos": "n",
+   "ex": [
+    "He put the keys in his pocket.",
+    "Ha messo le chiavi in tasca."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "sandals",
+   "it": "sandali",
+   "ipa": "ˈsændlz",
+   "pos": "n",
+   "ex": [
+    "I wear sandals all summer.",
+    "Porto i sandali tutta l'estate."
+   ],
+   "lv": "A2",
+   "emoji": "👡"
+  },
+  {
+   "en": "scarf",
+   "it": "sciarpa",
+   "ipa": "skɑːf",
+   "pos": "n",
+   "ex": [
+    "She wore a red scarf around her neck.",
+    "Portava una sciarpa rossa al collo."
+   ],
+   "lv": "A2",
+   "emoji": "🧣"
+  },
+  {
+   "en": "skirt",
+   "it": "gonna",
+   "ipa": "skɜːt",
+   "pos": "n",
+   "ex": [
+    "She chose a blue skirt for the party.",
+    "Ha scelto una gonna blu per la festa."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "sleeve",
+   "it": "manica",
+   "ipa": "sliːv",
+   "pos": "n",
+   "ex": [
+    "The sleeves are a bit short.",
+    "Le maniche sono un po' corte."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "socks",
+   "it": "calzini",
+   "ipa": "sɒks",
+   "pos": "n",
+   "ex": [
+    "I need a clean pair of socks.",
+    "Mi serve un paio di calzini puliti."
+   ],
+   "lv": "A2",
+   "emoji": "🧦"
+  },
+  {
+   "en": "suit",
+   "it": "completo",
+   "ipa": "suːt",
+   "pos": "n",
+   "ex": [
+    "My father wears a suit to work.",
+    "Mio padre porta il completo al lavoro."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "tie",
+   "it": "cravatta",
+   "ipa": "taɪ",
+   "pos": "n",
+   "ex": [
+    "He wore a tie for the interview.",
+    "Ha messo la cravatta per il colloquio."
+   ],
+   "lv": "A2",
+   "emoji": "👔"
+  },
+  {
+   "en": "trainers",
+   "it": "scarpe da ginnastica",
+   "ipa": "ˈtreɪnəz",
+   "pos": "n",
+   "ex": [
+    "He bought new trainers for the gym.",
+    "Ha comprato scarpe da ginnastica nuove per la palestra."
+   ],
+   "lv": "A2",
+   "emoji": "👟"
+  },
+  {
+   "en": "trousers",
+   "it": "pantaloni",
+   "ipa": "ˈtraʊzəz",
+   "pos": "n",
+   "ex": [
+    "These trousers are too long for me.",
+    "Questi pantaloni sono troppo lunghi per me."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "try on",
+   "it": "provare",
+   "ipa": "traɪ ɒn",
+   "pos": "phr",
+   "ex": [
+    "Can I try on this shirt, please?",
+    "Posso provare questa camicia, per favore?"
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "wardrobe",
+   "it": "armadio",
+   "ipa": "ˈwɔːdrəʊb",
+   "pos": "n",
+   "ex": [
+    "My jacket is in the wardrobe upstairs.",
+    "La mia giacca è nell'armadio di sopra."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "zip",
+   "it": "cerniera",
+   "ipa": "zɪp",
+   "pos": "n",
+   "ex": [
+    "The zip on my bag is broken.",
+    "La cerniera della mia borsa è rotta."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

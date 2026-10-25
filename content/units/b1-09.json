@@ -17,6 +17,7 @@
       "steps": [
         {
           "t": "note",
+          "svg": "modals-certainty",
           "title": "Deduzione al presente: quanto sei sicuro?",
           "body": "Usiamo i modali per dire quanto siamo **sicuri** di qualcosa, in base a indizi:\n- **must** = sono quasi certo che sia vero: He **must** be tired. (ha lavorato 12 ore)\n- **might / may / could** = è possibile, ma non ne sono sicuro: She **might** be at the gym.\n- **can't** = sono quasi certo che NON sia vero: That **can't** be Anna's car. (la sua è rossa)\n\n**Attenzione**: il contrario di «must» in questo senso è **can't**, non «mustn't». «He mustn't be tired» non si usa per dedurre.\nDopo il modale il verbo resta alla forma base, senza «to»: «She must to be sixty» è sbagliato.",
           "ex": [
@@ -346,6 +347,7 @@
         {
           "id": "b1-09-w03",
           "en": "bruise",
+          "photo": "bruise",
           "it": "livido",
           "ipa": "bruːz",
           "pos": "n",
@@ -414,6 +416,7 @@
         {
           "id": "b1-09-w09",
           "en": "check-up",
+          "photo": "check-up",
           "it": "controllo medico",
           "ipa": "ˈtʃek ʌp",
           "pos": "n",
@@ -449,6 +452,7 @@
         {
           "id": "b1-09-w12",
           "en": "blood pressure",
+          "photo": "blood-pressure",
           "it": "pressione sanguigna",
           "ipa": "ˈblʌd ˌpreʃə",
           "pos": "n",
@@ -575,6 +579,7 @@
       "steps": [
         {
           "t": "read",
+          "photo": "r-b1-09",
           "title": "One small change at a time",
           "genre": "blog",
           "text": "Three months ago my doctor gave me a shock. I had gone for a routine check-up, expecting to hear that everything was fine, but my blood pressure was higher than it should be. \"You're only thirty-eight,\" she said, \"but you sit at a desk all day, you sleep badly and you live on sandwiches. Your body must be sending you a message.\" I went home determined to change my life completely.\n\nThat was my first mistake. During the first week I got up at five to run, cooked every meal from scratch and threw away all the sweets in my kitchen. By Friday I was exhausted and dizzy, and on Saturday I sprained my ankle on a muddy path. I must have looked ridiculous, sitting on the pavement and checking an app that told me I had slept for only four hours. My sister, who is a physiotherapist, phoned that evening. \"You can't change everything at once,\" she said. \"You might feel motivated now, but you'll give up by the end of the month. Pick one thing.\"\n\nSo I did. I chose sleep. I decided that I had to be in bed by eleven, and that I mustn't look at my phone after half past ten. It sounds simple, but it was hard at the beginning. After two weeks, though, I noticed that I was less tired and didn't need three coffees before lunch. Then I added a ten-minute walk after dinner. Last month I started cooking one proper meal on Sundays, so that I have healthy lunches for the whole week.\n\nI'm not a different person yet. I still eat chocolate, and I don't have to run marathons to be healthy, whatever the internet says. But last week I went back for another check-up. My blood pressure still wasn't perfect, but it was much better, and my doctor looked pleasantly surprised. \"Whatever you're doing,\" she said, \"you'd better keep doing it.\"\n\nMy advice? Don't try to become an athlete overnight. Small habits are boring, but they work, and your ankle will thank you.",

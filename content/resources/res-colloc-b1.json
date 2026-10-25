@@ -1,0 +1,509 @@
+{
+ "id": "res-colloc-b1",
+ "kind": "collocations",
+ "lv": "B1",
+ "title": "Collocazioni B1",
+ "intro": "Combinazioni molto frequenti da usare ogni giorno: verbi, aggettivi e preposizioni che stanno naturalmente insieme.",
+ "items": [
+  {
+   "en": "make progress",
+   "it": "fare progressi",
+   "ex": [
+    "You are making progress in English.",
+    "Stai facendo progressi in inglese."
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "make an effort",
+   "it": "fare uno sforzo",
+   "ex": [
+    "She made an effort to arrive on time.",
+    "Ha fatto uno sforzo per arrivare in orario."
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "make a complaint",
+   "it": "presentare un reclamo",
+   "ex": [
+    "I want to make a complaint about the service.",
+    "Voglio presentare un reclamo sul servizio."
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "make an appointment",
+   "it": "fissare un appuntamento",
+   "ex": [
+    "I made an appointment with the dentist.",
+    "Ho fissato un appuntamento dal dentista."
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "make a suggestion",
+   "it": "fare una proposta",
+   "ex": [
+    "Can I make a suggestion about the schedule?",
+    "Posso fare una proposta sull'orario?"
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "make sense",
+   "it": "avere senso",
+   "ex": [
+    "Your explanation does not make sense to me.",
+    "La tua spiegazione non ha senso per me."
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "make a living",
+   "it": "guadagnarsi da vivere",
+   "ex": [
+    "He makes a living by teaching music.",
+    "Si guadagna da vivere insegnando musica."
+   ],
+   "lv": "B1",
+   "group": "make"
+  },
+  {
+   "en": "do the cleaning",
+   "it": "fare le pulizie",
+   "ex": [
+    "We do the cleaning together on Sundays.",
+    "Facciamo le pulizie insieme la domenica."
+   ],
+   "lv": "B1",
+   "group": "do"
+  },
+  {
+   "en": "do a favour",
+   "it": "fare un favore",
+   "ex": [
+    "Could you do me a favour and watch my bag?",
+    "Potresti farmi un favore e controllare la mia borsa?"
+   ],
+   "lv": "B1",
+   "group": "do"
+  },
+  {
+   "en": "do research",
+   "it": "fare ricerca",
+   "ex": [
+    "She is doing research on climate change.",
+    "Sta facendo ricerca sul cambiamento climatico."
+   ],
+   "lv": "B1",
+   "group": "do"
+  },
+  {
+   "en": "do damage",
+   "it": "fare danni",
+   "ex": [
+    "The storm did a lot of damage to the roof.",
+    "La tempesta ha fatto molti danni al tetto."
+   ],
+   "lv": "B1",
+   "group": "do"
+  },
+  {
+   "en": "do business",
+   "it": "fare affari",
+   "ex": [
+    "They do business with companies in Asia.",
+    "Fanno affari con aziende asiatiche."
+   ],
+   "lv": "B1",
+   "group": "do"
+  },
+  {
+   "en": "take advantage of",
+   "it": "approfittare di",
+   "ex": [
+    "Take advantage of the good weather and go out.",
+    "Approfitta del bel tempo ed esci."
+   ],
+   "lv": "B1",
+   "group": "take"
+  },
+  {
+   "en": "take part in",
+   "it": "partecipare a",
+   "ex": [
+    "Over fifty people took part in the race.",
+    "Più di cinquanta persone hanno partecipato alla gara."
+   ],
+   "lv": "B1",
+   "group": "take"
+  },
+  {
+   "en": "take care of",
+   "it": "prendersi cura di",
+   "ex": [
+    "Who takes care of your cat when you travel?",
+    "Chi si prende cura del tuo gatto quando viaggi?"
+   ],
+   "lv": "B1",
+   "group": "take"
+  },
+  {
+   "en": "take place",
+   "it": "avere luogo",
+   "ex": [
+    "The meeting will take place on Monday.",
+    "La riunione avrà luogo lunedì."
+   ],
+   "lv": "B1",
+   "group": "take"
+  },
+  {
+   "en": "take a risk",
+   "it": "correre un rischio",
+   "ex": [
+    "He took a risk and changed his job.",
+    "Ha corso un rischio e ha cambiato lavoro."
+   ],
+   "lv": "B1",
+   "group": "take"
+  },
+  {
+   "en": "take medicine",
+   "it": "prendere una medicina",
+   "ex": [
+    "You must take this medicine twice a day.",
+    "Devi prendere questa medicina due volte al giorno."
+   ],
+   "lv": "B1",
+   "group": "take"
+  },
+  {
+   "en": "have a chat",
+   "it": "fare due chiacchiere",
+   "ex": [
+    "We had a long chat over coffee.",
+    "Abbiamo fatto una lunga chiacchierata davanti a un caffè."
+   ],
+   "lv": "B1",
+   "group": "have"
+  },
+  {
+   "en": "have a good time",
+   "it": "passare un bel momento",
+   "ex": [
+    "I hope you have a good time in Rome.",
+    "Spero che ti diverta a Roma."
+   ],
+   "lv": "B1",
+   "group": "have"
+  },
+  {
+   "en": "have an accident",
+   "it": "avere un incidente",
+   "ex": [
+    "He had an accident on his way home.",
+    "Ha avuto un incidente mentre tornava a casa."
+   ],
+   "lv": "B1",
+   "group": "have"
+  },
+  {
+   "en": "have an argument",
+   "it": "litigare",
+   "ex": [
+    "They had an argument about money.",
+    "Hanno litigato per questioni di soldi."
+   ],
+   "lv": "B1",
+   "group": "have"
+  },
+  {
+   "en": "get a ticket",
+   "it": "comprare un biglietto",
+   "ex": [
+    "You can get a ticket online.",
+    "Puoi comprare un biglietto online."
+   ],
+   "lv": "B1",
+   "group": "get"
+  },
+  {
+   "en": "get better",
+   "it": "migliorare",
+   "ex": [
+    "Her English is getting better every week.",
+    "Il suo inglese migliora ogni settimana."
+   ],
+   "lv": "B1",
+   "group": "get"
+  },
+  {
+   "en": "get ready",
+   "it": "prepararsi",
+   "ex": [
+    "Get ready, we leave in ten minutes.",
+    "Preparati, partiamo tra dieci minuti."
+   ],
+   "lv": "B1",
+   "group": "get"
+  },
+  {
+   "en": "get angry",
+   "it": "arrabbiarsi",
+   "ex": [
+    "My father never gets angry with us.",
+    "Mio padre non si arrabbia mai con noi."
+   ],
+   "lv": "B1",
+   "group": "get"
+  },
+  {
+   "en": "go on a diet",
+   "it": "mettersi a dieta",
+   "ex": [
+    "She went on a diet after the holidays.",
+    "Si è messa a dieta dopo le vacanze."
+   ],
+   "lv": "B1",
+   "group": "go"
+  },
+  {
+   "en": "go out of fashion",
+   "it": "passare di moda",
+   "ex": [
+    "Those trousers went out of fashion years ago.",
+    "Quei pantaloni sono passati di moda anni fa."
+   ],
+   "lv": "B1",
+   "group": "go"
+  },
+  {
+   "en": "go wrong",
+   "it": "andare storto",
+   "ex": [
+    "Everything went wrong on the first day.",
+    "Tutto è andato storto il primo giorno."
+   ],
+   "lv": "B1",
+   "group": "go"
+  },
+  {
+   "en": "go bad",
+   "it": "andare a male",
+   "ex": [
+    "The milk has gone bad.",
+    "Il latte è andato a male."
+   ],
+   "lv": "B1",
+   "group": "go"
+  },
+  {
+   "en": "give advice",
+   "it": "dare consigli",
+   "ex": [
+    "Can you give me some advice about universities?",
+    "Puoi darmi qualche consiglio sulle università?"
+   ],
+   "lv": "B1",
+   "group": "give"
+  },
+  {
+   "en": "give a speech",
+   "it": "tenere un discorso",
+   "ex": [
+    "He gave a speech at his sister's wedding.",
+    "Ha tenuto un discorso al matrimonio di sua sorella."
+   ],
+   "lv": "B1",
+   "group": "give"
+  },
+  {
+   "en": "give up",
+   "it": "arrendersi",
+   "ex": [
+    "Don't give up, you are almost there.",
+    "Non arrenderti, ci sei quasi."
+   ],
+   "lv": "B1",
+   "group": "give"
+  },
+  {
+   "en": "keep in touch",
+   "it": "restare in contatto",
+   "ex": [
+    "Let's keep in touch by email.",
+    "Restiamo in contatto via email."
+   ],
+   "lv": "B1",
+   "group": "keep"
+  },
+  {
+   "en": "keep a promise",
+   "it": "mantenere una promessa",
+   "ex": [
+    "She always keeps her promises.",
+    "Mantiene sempre le sue promesse."
+   ],
+   "lv": "B1",
+   "group": "keep"
+  },
+  {
+   "en": "keep calm",
+   "it": "mantenere la calma",
+   "ex": [
+    "Keep calm and follow the instructions.",
+    "Mantieni la calma e segui le istruzioni."
+   ],
+   "lv": "B1",
+   "group": "keep"
+  },
+  {
+   "en": "pay attention",
+   "it": "fare attenzione",
+   "ex": [
+    "Please pay attention to the teacher.",
+    "Per favore fate attenzione all'insegnante."
+   ],
+   "lv": "B1",
+   "group": "pay"
+  },
+  {
+   "en": "pay a fine",
+   "it": "pagare una multa",
+   "ex": [
+    "He had to pay a fine for parking there.",
+    "Ha dovuto pagare una multa per aver parcheggiato lì."
+   ],
+   "lv": "B1",
+   "group": "pay"
+  },
+  {
+   "en": "pay by card",
+   "it": "pagare con la carta",
+   "ex": [
+    "Can I pay by card here?",
+    "Posso pagare con la carta qui?"
+   ],
+   "lv": "B1",
+   "group": "pay"
+  },
+  {
+   "en": "catch a cold",
+   "it": "prendere un raffreddore",
+   "ex": [
+    "Wear a hat or you will catch a cold.",
+    "Metti un cappello o prenderai un raffreddore."
+   ],
+   "lv": "B1",
+   "group": "catch"
+  },
+  {
+   "en": "catch a train",
+   "it": "prendere un treno",
+   "ex": [
+    "We must hurry to catch a train.",
+    "Dobbiamo sbrigarci per prendere l'ultimo treno."
+   ],
+   "lv": "B1",
+   "group": "catch"
+  },
+  {
+   "en": "break a record",
+   "it": "battere un record",
+   "ex": [
+    "The athlete broke the world record.",
+    "L'atleta ha battuto il record mondiale."
+   ],
+   "lv": "B1",
+   "group": "break"
+  },
+  {
+   "en": "break the law",
+   "it": "infrangere la legge",
+   "ex": [
+    "Driving without a licence breaks the law.",
+    "Guidare senza patente infrange la legge."
+   ],
+   "lv": "B1",
+   "group": "break"
+  },
+  {
+   "en": "save time",
+   "it": "risparmiare tempo",
+   "ex": [
+    "A dishwasher saves a lot of time.",
+    "La lavastoviglie fa risparmiare molto tempo."
+   ],
+   "lv": "B1",
+   "group": "save"
+  },
+  {
+   "en": "save money",
+   "it": "risparmiare denaro",
+   "ex": [
+    "I am saving money for a new bike.",
+    "Sto risparmiando per una bici nuova."
+   ],
+   "lv": "B1",
+   "group": "save"
+  },
+  {
+   "en": "set an alarm",
+   "it": "puntare la sveglia",
+   "ex": [
+    "I set an alarm for six o'clock.",
+    "Ho puntato la sveglia alle sei."
+   ],
+   "lv": "B1",
+   "group": "set"
+  },
+  {
+   "en": "play a role",
+   "it": "avere un ruolo",
+   "ex": [
+    "Music plays an important role in my life.",
+    "La musica ha un ruolo importante nella mia vita."
+   ],
+   "lv": "B1",
+   "group": "play"
+  },
+  {
+   "en": "strong coffee",
+   "it": "caffè forte",
+   "ex": [
+    "I need a strong coffee to wake up.",
+    "Ho bisogno di un caffè forte per svegliarmi."
+   ],
+   "lv": "B1",
+   "group": "adjective + noun"
+  },
+  {
+   "en": "close friend",
+   "it": "amico stretto",
+   "ex": [
+    "She is a close friend of my sister's.",
+    "È un'amica stretta di mia sorella."
+   ],
+   "lv": "B1",
+   "group": "adjective + noun"
+  },
+  {
+   "en": "tired of",
+   "it": "stufo di",
+   "ex": [
+    "I am tired of eating the same thing every day.",
+    "Sono stufo di mangiare la stessa cosa ogni giorno."
+   ],
+   "lv": "B1",
+   "group": "preposition"
+  }
+ ]
+}

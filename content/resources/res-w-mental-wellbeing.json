@@ -1,0 +1,229 @@
+{
+ "id": "res-w-mental-wellbeing",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Benessere mentale",
+ "intro": "Venti parole utili sul tema «benessere mentale», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "anxiety",
+   "it": "ansia",
+   "ipa": "æŋˈzaɪəti",
+   "pos": "n",
+   "ex": [
+    "He suffers from anxiety before public speaking.",
+    "Soffre d'ansia prima di parlare in pubblico."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "balance",
+   "it": "equilibrio",
+   "ipa": "ˈbæləns",
+   "pos": "n",
+   "ex": [
+    "It is hard to find a balance between work and life.",
+    "È difficile trovare un equilibrio tra lavoro e vita privata."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "cope",
+   "it": "farcela",
+   "ipa": "kəʊp",
+   "pos": "v",
+   "ex": [
+    "I cannot cope with so much work.",
+    "Non ce la faccio con così tanto lavoro."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "depression",
+   "it": "depressione",
+   "ipa": "dɪˈpreʃn",
+   "pos": "n",
+   "ex": [
+    "Depression can affect people of any age.",
+    "La depressione può colpire persone di ogni età."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "exhausted",
+   "it": "esausto",
+   "ipa": "ɪɡˈzɔːstɪd",
+   "pos": "adj",
+   "ex": [
+    "I was exhausted after the long journey.",
+    "Ero esausto dopo il lungo viaggio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "grief",
+   "it": "lutto",
+   "ipa": "ɡriːf",
+   "pos": "n",
+   "ex": [
+    "He was filled with grief after her death.",
+    "Era pieno di dolore dopo la sua morte."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "insomnia",
+   "it": "insonnia",
+   "ipa": "ɪnˈsɒmniə",
+   "pos": "n",
+   "ex": [
+    "Insomnia made it hard to concentrate.",
+    "L'insonnia rendeva difficile concentrarsi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "mindfulness",
+   "it": "consapevolezza",
+   "ipa": "ˈmaɪndflnəs",
+   "pos": "n",
+   "ex": [
+    "Mindfulness helps me stay calm at work.",
+    "La consapevolezza mi aiuta a restare calmo al lavoro."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "motivation",
+   "it": "motivazione",
+   "ipa": "ˌməʊtɪˈveɪʃn",
+   "pos": "n",
+   "ex": [
+    "I have lost all my motivation to study.",
+    "Ho perso ogni motivazione a studiare."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "open up",
+   "it": "confidarsi",
+   "ipa": "ˈəʊpən ʌp",
+   "pos": "phr",
+   "ex": [
+    "It took him months to open up to his friends.",
+    "Gli ci sono voluti mesi per confidarsi con gli amici."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "overwhelmed",
+   "it": "sopraffatto",
+   "ipa": "ˌəʊvəˈwelmd",
+   "pos": "adj",
+   "ex": [
+    "She felt overwhelmed by all her duties.",
+    "Si sentiva sopraffatta da tutti i suoi doveri."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "panic",
+   "it": "panico",
+   "ipa": "ˈpænɪk",
+   "pos": "n",
+   "ex": [
+    "There was panic when the lights went out.",
+    "C'è stato il panico quando si sono spente le luci."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "relax",
+   "it": "rilassarsi",
+   "ipa": "rɪˈlæks",
+   "pos": "v",
+   "ex": [
+    "A walk in the park helps me relax.",
+    "Una passeggiata nel parco mi aiuta a rilassarmi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "resilience",
+   "it": "resilienza",
+   "ipa": "rɪˈzɪliəns",
+   "pos": "n",
+   "ex": [
+    "Children show great resilience after a move.",
+    "I bambini mostrano grande resilienza dopo un trasloco."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "self-esteem",
+   "it": "autostima",
+   "ipa": "ˌself ɪˈstiːm",
+   "pos": "n",
+   "ex": [
+    "Praise can help build a child's self-esteem.",
+    "Le lodi possono aiutare a costruire l'autostima di un bambino."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "stress",
+   "it": "stress",
+   "ipa": "stres",
+   "pos": "n",
+   "ex": [
+    "Too much stress can make you ill.",
+    "Troppo stress può farti ammalare."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "support",
+   "it": "sostegno",
+   "ipa": "səˈpɔːt",
+   "pos": "n",
+   "ex": [
+    "Family support is very important in hard times.",
+    "Il sostegno della famiglia è molto importante nei momenti difficili."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "therapist",
+   "it": "terapeuta",
+   "ipa": "ˈθerəpɪst",
+   "pos": "n",
+   "ex": [
+    "My therapist taught me to breathe slowly.",
+    "Il mio terapeuta mi ha insegnato a respirare lentamente."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "therapy",
+   "it": "terapia",
+   "ipa": "ˈθerəpi",
+   "pos": "n",
+   "ex": [
+    "She started therapy to cope with her grief.",
+    "Ha iniziato una terapia per superare il suo lutto."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "wellbeing",
+   "it": "benessere",
+   "ipa": "ˈwelbiːɪŋ",
+   "pos": "n",
+   "ex": [
+    "Sleep is essential for your wellbeing.",
+    "Il sonno è essenziale per il tuo benessere."
+   ],
+   "lv": "B2"
+  }
+ ]
+}

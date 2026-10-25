@@ -15,6 +15,9 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const C = path.join(ROOT, "content");
 const IMG = path.join(ROOT, "www", "img", "v");
+const PHOTO_DIR = path.join(ROOT, "www", "img", "p");
+const GRAM_DIR = path.join(ROOT, "www", "img", "g");
+const PHOTO_MANIFEST = path.join(C, "photos.json");
 const EMOJI = /[\p{Extended_Pictographic}\u{1F1E6}-\u{1F1FF}️‍]/u;
 const KINDS = ["grammar", "vocab", "reading", "listening", "situation", "production", "test"];
 const LEVELS = ["A2", "B1", "B2"];
@@ -31,6 +34,23 @@ function load() {
   list(path.join(C, "exams")).forEach((f) => out.exams.push(Object.assign({ _file: "exams/" + f }, readJson(path.join(C, "exams", f)))));
   list(path.join(C, "resources")).forEach((f) => out.resources.push(Object.assign({ _file: "resources/" + f }, readJson(path.join(C, "resources", f)))));
   return out;
+}
+
+// ---------------------------------------------------------------- foto (campi "photo" e "photos" in qualsiasi punto)
+function photoRefs(all) {
+  const refs = [];  // { id, where, obj }
+  const walk = (obj, where) => {
+    JSON.stringify(obj, function (k, v) {
+      if (k === "photo" && typeof v === "string") refs.push({ id: v, where, obj: this });
+      if (k === "photos" && Array.isArray(v)) v.forEach((id) => refs.push({ id: String(id), where, obj: this, many: v.length }));
+      return v;
+    });
+  };
+  all.units.forEach((u) => walk(u, u._file));
+  all.exams.forEach((e) => walk(e, e._file));
+  if (all.placement) walk(all.placement, "placement.json");
+  all.resources.forEach((r) => walk(r, r._file));
+  return refs;
 }
 
 // ---------------------------------------------------------------- validazione
@@ -76,6 +96,7 @@ function validate(all) {
     switch (s.t) {
       case "note":
         if (!str(s.title) || !str(s.body)) err(where, "note: title/body");
+        if (s.svg && !fs.existsSync(path.join(GRAM_DIR, s.svg + ".svg"))) err(where, "note: manca lo schema www/img/g/" + s.svg + ".svg");
         if (s.ex && !(Array.isArray(s.ex) && s.ex.every((p) => arrStr(p, 2)))) err(where, "note: ex deve essere [[en,it],...]");
         if (s.table && !(Array.isArray(s.table) && s.table.every((r) => Array.isArray(r)))) err(where, "note: table");
         break;
@@ -91,6 +112,11 @@ function validate(all) {
         mcOk(s, where); break;
       case "gap":
         if (!str(s.s) || s.s.indexOf("___") < 0) err(where, "gap: s deve contenere ___");
+        else {
+          // più spazi: ogni opzione ha una parte per spazio, separate da " / " (es. "an / a")
+          const blanks = (s.s.match(/___/g) || []).length;
+          if (blanks > 1 && Array.isArray(s.opts) && s.opts.some((o) => String(o).split(" / ").length !== blanks)) err(where, "gap con " + blanks + " spazi: ogni opzione deve avere " + blanks + " parti separate da \" / \"");
+        }
         mcOk(s, where); break;
       case "match":
         if (!(Array.isArray(s.pairs) && s.pairs.length >= 3 && s.pairs.length <= 6 && s.pairs.every((p) => arrStr(p, 2)))) err(where, "match: 3-6 coppie [en,it]");
@@ -254,6 +280,18 @@ function validate(all) {
     });
   }
 
+  // foto: ogni riferimento deve avere il file in www/img/p e la voce nei crediti (content/photos.json)
+  const manifest = fs.existsSync(PHOTO_MANIFEST) ? JSON.parse(fs.readFileSync(PHOTO_MANIFEST, "utf8")) : {};
+  photoRefs(all).forEach((r) => {
+    if (!/^[a-z0-9][a-z0-9-]*$/.test(r.id)) err(r.where, "foto «" + r.id + "»: id non valido (minuscole, numeri, trattini)");
+    else {
+      if (!manifest[r.id]) err(r.where, "foto «" + r.id + "»: manca in content/photos.json (crediti)");
+      if (!fs.existsSync(path.join(PHOTO_DIR, r.id + ".webp"))) err(r.where, "foto «" + r.id + "»: manca www/img/p/" + r.id + ".webp");
+    }
+    if (r.many != null && r.many !== 2) err(r.where, "photos: servono esattamente 2 foto (confronto A/B)");
+    if (r.obj && (r.obj.img || r.obj.emoji) && r.obj.en) err(r.where, "parola «" + r.obj.en + "»: usa emoji, img oppure photo, non più di uno");
+  });
+
   // meta
   if (!Array.isArray(all.meta.levels) || all.meta.levels.map((x) => x.id).join() !== LEVELS.join()) err("meta.json", "levels deve essere A2,B1,B2");
   scanEmoji(all.meta, "meta.json");
@@ -310,20 +348,55 @@ function validate(all) {
   // risorse
   const RES = {
     verbs: ["base", "past", "pp", "it"], phrasal: ["en", "it"], falsefriends: ["en", "trap", "real", "fix"],
-    idioms: ["en", "it"], connectors: ["en", "it", "use"], pron: ["title", "sound", "tip"]
+    idioms: ["en", "it"], connectors: ["en", "it", "use"], pron: ["title", "sound", "tip"],
+    words: ["en", "it", "ipa"], collocations: ["en", "it"], mistakes: ["wrong", "right", "why"],
+    sayit: ["written", "spoken", "it"], phrases: ["en", "it"], photos: ["q", "it", "model"]
   };
+  // parole nuove: non devono ripetere quelle delle unità né quelle di un'altra lista
+  const unitWords = new Set();
+  all.units.forEach((u) => (u.lessons || []).forEach((l) => (l.words || []).forEach((w) => unitWords.add(String(w.en).toLowerCase()))));
+  const listWords = {};
+  const arrOf = (v) => Array.isArray(v) && v.every(str);
   all.resources.forEach((r) => {
     const where = r._file;
     scanEmoji(r, where);
     uniq(r.id, where);
     if (!RES[r.kind]) return err(where, "kind sconosciuto " + r.kind);
     if (!str(r.title) || !Array.isArray(r.items) || !r.items.length) return err(where, "title/items");
+    if (r.lv != null && LEVELS.indexOf(r.lv) < 0) err(where, "lv deve essere A2, B1 o B2");
     const seen = {};
     r.items.forEach((it, i) => {
-      RES[r.kind].forEach((k) => { if (!str(it[k])) err(where + ".items[" + i + "]", k + " mancante"); });
-      const key = String(it.en || it.base || it.title || "").toLowerCase();
-      if (seen[key]) err(where + ".items[" + i + "]", "duplicato " + key);
+      const w = where + ".items[" + i + "]";
+      RES[r.kind].forEach((k) => { if (!str(it[k])) err(w, k + " mancante"); });
+      const key = String(it.en || it.base || it.title || it.wrong || it.written || it.q || "").toLowerCase();
+      if (seen[key]) err(w, "duplicato " + key);
       seen[key] = 1;
+      if (it.lv != null && LEVELS.indexOf(it.lv) < 0) err(w, "lv deve essere A2, B1 o B2");
+      if (it.ex != null && !(Array.isArray(it.ex) && it.ex.length === 2 && it.ex.every(str))) err(w, "ex deve essere [inglese, italiano]");
+      if (it.alts != null && !arrOf(it.alts)) err(w, "alts deve essere un elenco di stringhe");
+      if (r.kind === "words") {
+        if (!it.ex) err(w, "words: manca la frase d'esempio ex");
+        if (unitWords.has(key)) err(w, "parola «" + it.en + "» già presente nelle unità");
+        if (listWords[key]) err(w, "parola «" + it.en + "» già in " + listWords[key]);
+        listWords[key] = where;
+        if (!/^[A-Za-z' -]+$/.test(it.en)) err(w, "words: en con caratteri strani");
+        if ((it.photo || it.img || it.emoji) && !(Number(!!it.photo) + Number(!!it.img) + Number(!!it.emoji) === 1)) err(w, "usa emoji, img oppure photo, non più di uno");
+      }
+      if (r.kind === "mistakes") {
+        if (it.wrong.trim() === it.right.trim()) err(w, "mistakes: wrong e right sono uguali");
+        if (it.more != null && !arrOf(it.more)) err(w, "mistakes: more deve essere un elenco di frasi sbagliate");
+      }
+      if (r.kind === "collocations" && it.group != null && !str(it.group)) err(w, "collocations: group");
+      if (r.kind === "phrases" && !str(it.group)) err(w, "phrases: manca group (la situazione)");
+      if (r.kind === "sayit" && !str(it.group)) err(w, "sayit: manca group");
+      if (r.kind === "photos") {
+        if (!!it.photo === !!it.photos) err(w, "photos: serve photo oppure photos (due foto), non entrambi");
+        if (!it.lv) err(w, "photos: manca lv");
+        if (!(Array.isArray(it.hints) && it.hints.length >= 3 && it.hints.every(str))) err(w, "photos: servono almeno 3 hints");
+        const need = { A2: 30, B1: 55, B2: 90 }[it.lv] || 30, n = words(it.model);
+        if (n < need) err(w, "photos: il modello ha " + n + " parole, per " + it.lv + " ne servono almeno " + need);
+        if (it.photos && it.lv === "A2") err(w, "photos: il confronto di due foto è per B2");
+      }
     });
   });
 
@@ -406,6 +479,10 @@ if (require.main === module) {
     console.log("Contenuti: " + JSON.stringify(n));
     if (errs.length) { console.log(errs.length + " errori:\n  " + errs.slice(0, 200).join("\n  ")); process.exit(1); }
     console.log("OK, nessun errore.");
+    const usedPhotos = new Set(photoRefs(all).map((r) => r.id));
+    const manifestAll = fs.existsSync(PHOTO_MANIFEST) ? JSON.parse(fs.readFileSync(PHOTO_MANIFEST, "utf8")) : {};
+    const unusedPhotos = Object.keys(manifestAll).filter((id) => !usedPhotos.has(id));
+    if (Object.keys(manifestAll).length) console.log("Foto: " + usedPhotos.size + " usate" + (unusedPhotos.length ? ", " + unusedPhotos.length + " non usate (pesano nell'APK senza servire): " + unusedPhotos.join(", ") : "") + ".");
     if (cmd === "validate") process.exit(0);
   }
   if (cmd === "bundle") {

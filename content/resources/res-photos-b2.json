@@ -1,0 +1,57 @@
+{
+  "id": "res-photos-b2",
+  "kind": "photos",
+  "lv": "B2",
+  "title": "Confronta due foto: B2",
+  "intro": "Guarda le due foto (A e B) e parla per circa un minuto: confrontale, ipotizza vantaggi e svantaggi e di' quale preferisci. Poi confronta con il modello.",
+  "items": [
+    {
+      "id": "train-vs-plane", "lv": "B2", "photos": ["b2-train", "b2-plane"],
+      "q": "Compare the two photographs and say what the advantages and disadvantages of each way of travelling might be. Which would you prefer?",
+      "it": "Confronta il treno (A) e l'aereo all'aeroporto (B): vantaggi e svantaggi di ciascun mezzo, e quale preferiresti.",
+      "hints": ["Whereas...", "On the one hand... on the other hand...", "They are both..., but...", "It must be... / it might be...", "I'd rather..."],
+      "model": "Both photographs show ways of travelling long distances, but they are very different. In the first one there is a long train crossing open countryside, whereas in the second there is a large plane parked at an airport, surrounded by buildings and equipment. On the one hand, the train must be a relaxing way to travel, because passengers can look out of the window and move around. It is probably slower, though, so it might not suit someone in a hurry. On the other hand, flying is much faster, but airports can be stressful, and there are usually long queues. If I had plenty of time, I'd rather take the train, as I find it far more enjoyable. However, if I were travelling abroad for a short break, I would probably fly.",
+      "min": 90
+    },
+    {
+      "id": "city-vs-countryside", "lv": "B2", "photos": ["b2-city", "b2-countryside"],
+      "q": "Compare the two photographs and say why people might choose to live in each of these places. Which would you prefer?",
+      "it": "Confronta la città vista dall'alto (A) e la campagna con le balle di paglia (B): perché si sceglie di vivere in ciascun posto, e dove preferiresti vivere.",
+      "hints": ["Whereas...", "People might choose... because...", "They are both..., but...", "It must be... / it could be...", "If I had the choice, I'd..."],
+      "model": "The first photograph shows a large modern city with tall buildings and a lot of green trees in the foreground, whereas the second shows a huge open field with round bales of straw. Although they are both beautiful in their own way, they obviously offer very different lifestyles. People might choose the city because there are more jobs, better public transport and plenty of things to do. On the other hand, it can be noisy and expensive. The countryside must be much quieter and more peaceful, so it could be ideal for someone who wants a slower pace of life. The downside is that services are probably further away. If I had the choice, I'd live somewhere in between, perhaps in a small town near the countryside, so that I could enjoy both.",
+      "min": 90
+    },
+    {
+      "id": "office-vs-home", "lv": "B2", "photos": ["b2-office", "b2-home-work"],
+      "q": "Compare the two photographs and say how the people working in these places might feel. Which would you rather work in?",
+      "it": "Confronta l'ufficio (A) e il grande tavolo di casa o di uno spazio condiviso (B): come potrebbero sentirsi le persone che ci lavorano, e dove preferiresti lavorare.",
+      "hints": ["Whereas...", "They might feel... because...", "They are both..., but...", "It must be... / he could be...", "I'd rather..."],
+      "model": "Both photographs show places where people could work, but the atmosphere is quite different. The first one shows a tidy office with white desks, a computer and shelves full of folders, and nobody is there at the moment. The second shows a wooden table with a laptop, two phones and headphones on it, while two people are walking around in a bright, open kitchen area. The office might feel more formal, so employees could feel more focused, although they might also feel a little restricted. In contrast, the second place looks much more relaxed, and people could feel more creative there. However, it must be easy to get distracted. Personally, I'd rather work in the second place, provided I could still have quiet moments when I needed to concentrate.",
+      "min": 90
+    },
+    {
+      "id": "library-vs-online", "lv": "B2", "photos": ["b2-library", "b2-online"],
+      "q": "Compare the two photographs and say what the advantages and disadvantages of studying in each way might be. Which do you think is more effective?",
+      "it": "Confronta lo studio in biblioteca (A) e lo studio o l'allenamento davanti al portatile a casa (B): vantaggi e svantaggi, e quale ti sembra più efficace.",
+      "hints": ["Whereas...", "One advantage of... is that...", "They are both..., but...", "It must be... / it might be...", "In my opinion..."],
+      "model": "In the first photograph there are a lot of people studying together in a big library, with books on the shelves behind them. In the second one a woman is sitting on the floor at home, using a laptop, and there are some weights and a phone next to her. She might be following an online class. Both ways of learning have their strengths. In a library, the silence and the presence of other students must help people concentrate, and there is easy access to books. On the other hand, you have to travel there, and it could be crowded. Learning online is certainly more flexible and comfortable, but it might be difficult to stay motivated at home. In my opinion, the library is more effective, unless the student is very disciplined.",
+      "min": 90
+    },
+    {
+      "id": "restaurant-vs-homecook", "lv": "B2", "photos": ["b2-restaurant", "b2-homecook"],
+      "q": "Compare the two photographs and say why people might choose to eat in each of these ways. Which would you prefer?",
+      "it": "Confronta il pasto servito al ristorante (A) e i dolcetti preparati in casa (B): perché si sceglie l'uno o l'altro, e quale preferiresti.",
+      "hints": ["Whereas...", "People might prefer... because...", "They are both..., but...", "It must be... / it could be...", "I'd rather..."],
+      "model": "The first photograph shows a meal with several small dishes, a bowl of soup, some rice and a salad, which looks like it has been served in a restaurant. In the second one a man and a child are decorating biscuits at home, and the table is full of colourful decorations. Both pictures are about food, but the experiences are completely different. People might choose a restaurant because it is convenient, and nobody has to cook or wash up. It could also be a good way to try new dishes. On the other hand, eating out can be expensive. Cooking at home must be cheaper, and it is certainly a lovely way to spend time with the family. The disadvantage is that it takes time and effort. I'd rather cook at home on special occasions, but I'd happily eat out when I'm busy.",
+      "min": 90
+    },
+    {
+      "id": "cycling-vs-gym", "lv": "B2", "photos": ["b2-cycling", "b2-gym"],
+      "q": "Compare the two photographs and say what the benefits and drawbacks of exercising in each place might be. Which would you choose?",
+      "it": "Confronta il ciclismo all'aperto in un parco (A) e la palestra al chiuso (B): benefici e svantaggi dell'allenarsi nei due posti, e quale sceglieresti.",
+      "hints": ["Whereas...", "One benefit of... is that...", "They are both..., but...", "It must be... / it might be...", "If I had to choose..."],
+      "model": "Both photographs show ways of keeping fit, but the settings could hardly be more different. In the first one a group of cyclists, wearing bright yellow jackets, are riding along a wide path in a park on a sunny day, whereas the second shows a large, empty gym with running machines and other equipment. Cycling outdoors must be very pleasant, because you can enjoy fresh air and nature, and it is also more sociable. However, the weather could spoil the plan, and it might not be safe in every area. In a gym, you can train whatever the weather is like, and there is plenty of equipment. The drawback is that it might feel boring and impersonal. If I had to choose, I would go cycling, as I find exercising outdoors much more motivating.",
+      "min": 90
+    }
+  ]
+}

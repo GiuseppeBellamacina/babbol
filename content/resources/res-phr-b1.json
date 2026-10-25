@@ -1,0 +1,729 @@
+{
+ "id": "res-phr-b1",
+ "kind": "phrases",
+ "lv": "B1",
+ "title": "Frasi utili: B1",
+ "intro": "Frasi funzionali più complete per reclami, lavoro, email, opinioni, consigli e racconti.",
+ "items": [
+  {
+   "en": "I'd like to make a complaint about the service.",
+   "it": "Vorrei fare un reclamo sul servizio.",
+   "group": "Reclami",
+   "ex": [
+    "I'd like to make a complaint about the service we received tonight.",
+    "Vorrei fare un reclamo sul servizio che abbiamo ricevuto stasera."
+   ]
+  },
+  {
+   "en": "I ordered this a month ago and it still hasn't arrived.",
+   "it": "L'ho ordinato un mese fa e non è ancora arrivato.",
+   "group": "Reclami",
+   "ex": [
+    "I ordered this a month ago and it still hasn't arrived. What's going on?",
+    "L'ho ordinato un mese fa e non è ancora arrivato. Che cosa succede?"
+   ]
+  },
+  {
+   "en": "This isn't what I ordered.",
+   "it": "Non è quello che ho ordinato.",
+   "group": "Reclami",
+   "ex": [
+    "Excuse me, this isn't what I ordered. I asked for the fish.",
+    "Mi scusi, non è quello che ho ordinato. Avevo chiesto il pesce."
+   ]
+  },
+  {
+   "en": "I'd like a refund, please.",
+   "it": "Vorrei un rimborso, per favore.",
+   "group": "Reclami",
+   "ex": [
+    "The product is faulty, so I'd like a refund, please.",
+    "Il prodotto è difettoso, quindi vorrei un rimborso, per favore."
+   ]
+  },
+  {
+   "en": "Can I speak to the manager?",
+   "it": "Posso parlare con il responsabile?",
+   "group": "Reclami",
+   "ex": [
+    "I'm not satisfied with this answer. Can I speak to the manager?",
+    "Non sono soddisfatto di questa risposta. Posso parlare con il responsabile?"
+   ]
+  },
+  {
+   "en": "It stopped working after only two days.",
+   "it": "Ha smesso di funzionare dopo due soli giorni.",
+   "group": "Reclami",
+   "ex": [
+    "I bought this kettle and it stopped working after only two days.",
+    "Ho comprato questo bollitore e ha smesso di funzionare dopo due soli giorni."
+   ]
+  },
+  {
+   "en": "I'm afraid that's not good enough.",
+   "it": "Temo che non sia sufficiente.",
+   "group": "Reclami",
+   "ex": [
+    "A free coffee? I'm afraid that's not good enough.",
+    "Un caffè gratis? Temo che non sia sufficiente."
+   ]
+  },
+  {
+   "en": "What are you going to do about it?",
+   "it": "Che cosa intendete fare al riguardo?",
+   "group": "Reclami",
+   "ex": [
+    "The room is dirty. What are you going to do about it?",
+    "La camera è sporca. Che cosa intendete fare al riguardo?"
+   ]
+  },
+  {
+   "en": "Thank you for inviting me to this interview.",
+   "it": "Grazie per avermi invitato a questo colloquio.",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "Thank you for inviting me to this interview. I'm very pleased to be here.",
+    "Grazie per avermi invitato a questo colloquio. Sono molto contento di essere qui."
+   ]
+  },
+  {
+   "en": "I have five years of experience in sales.",
+   "it": "Ho cinque anni di esperienza nelle vendite.",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "I have five years of experience in sales, mostly with small firms.",
+    "Ho cinque anni di esperienza nelle vendite, soprattutto con piccole aziende."
+   ]
+  },
+  {
+   "en": "My greatest strength is that I'm very organised.",
+   "it": "Il mio più grande punto di forza è che sono molto organizzato.",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "My greatest strength is that I'm very organised. I never miss a deadline.",
+    "Il mio più grande punto di forza è che sono molto organizzato. Non salto mai una scadenza."
+   ]
+  },
+  {
+   "en": "I work well under pressure.",
+   "it": "Lavoro bene sotto pressione.",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "I work well under pressure, which is useful in a busy shop.",
+    "Lavoro bene sotto pressione, il che è utile in un negozio affollato."
+   ]
+  },
+  {
+   "en": "Why do you want to work for us?",
+   "it": "Perché vuole lavorare per noi?",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "Interviewer: Why do you want to work for us?",
+    "Selezionatore: Perché vuole lavorare per noi?"
+   ]
+  },
+  {
+   "en": "I'm looking for a role where I can develop my skills.",
+   "it": "Cerco un ruolo in cui poter sviluppare le mie competenze.",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "I'm looking for a role where I can develop my skills and grow.",
+    "Cerco un ruolo in cui poter sviluppare le mie competenze e crescere."
+   ]
+  },
+  {
+   "en": "Could you tell me more about the team?",
+   "it": "Potrebbe dirmi di più sul team?",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "Could you tell me more about the team I would be working with?",
+    "Potrebbe dirmi di più sul team con cui lavorerei?"
+   ]
+  },
+  {
+   "en": "When will I hear from you?",
+   "it": "Quando riceverò vostre notizie?",
+   "group": "Colloquio di lavoro",
+   "ex": [
+    "Thank you very much. When will I hear from you?",
+    "Grazie mille. Quando riceverò vostre notizie?"
+   ]
+  },
+  {
+   "en": "Have you got a minute? I need to ask you something.",
+   "it": "Hai un minuto? Devo chiederti una cosa.",
+   "group": "Al lavoro",
+   "ex": [
+    "Have you got a minute? I need to ask you something about the report.",
+    "Hai un minuto? Devo chiederti una cosa sul rapporto."
+   ]
+  },
+  {
+   "en": "I'll get back to you by the end of the day.",
+   "it": "Ti ricontatto entro la fine della giornata.",
+   "group": "Al lavoro",
+   "ex": [
+    "I need to check the figures. I'll get back to you by the end of the day.",
+    "Devo controllare i numeri. Ti ricontatto entro la fine della giornata."
+   ]
+  },
+  {
+   "en": "Could you give me a hand with this?",
+   "it": "Potresti darmi una mano con questo?",
+   "group": "Al lavoro",
+   "ex": [
+    "The printer is jammed. Could you give me a hand with this?",
+    "La stampante è inceppata. Potresti darmi una mano con questo?"
+   ]
+  },
+  {
+   "en": "I'm snowed under at the moment.",
+   "it": "Sono sommerso di lavoro al momento.",
+   "group": "Al lavoro",
+   "ex": [
+    "Sorry, I can't help today. I'm snowed under at the moment.",
+    "Mi dispiace, oggi non posso aiutare. Sono sommerso di lavoro al momento."
+   ]
+  },
+  {
+   "en": "We need to meet the deadline on Friday.",
+   "it": "Dobbiamo rispettare la scadenza di venerdì.",
+   "group": "Al lavoro",
+   "ex": [
+    "We need to meet the deadline on Friday, so let's focus.",
+    "Dobbiamo rispettare la scadenza di venerdì, quindi concentriamoci."
+   ]
+  },
+  {
+   "en": "Can I take a day off next week?",
+   "it": "Posso prendere un giorno di ferie la settimana prossima?",
+   "group": "Al lavoro",
+   "ex": [
+    "Can I take a day off next week? I have a family event.",
+    "Posso prendere un giorno di ferie la settimana prossima? Ho un evento in famiglia."
+   ]
+  },
+  {
+   "en": "Let's go through the schedule together.",
+   "it": "Esaminiamo insieme il programma.",
+   "group": "Al lavoro",
+   "ex": [
+    "Let's go through the schedule together before the meeting.",
+    "Esaminiamo insieme il programma prima della riunione."
+   ]
+  },
+  {
+   "en": "I'm working from home tomorrow.",
+   "it": "Domani lavoro da casa.",
+   "group": "Al lavoro",
+   "ex": [
+    "I'm working from home tomorrow, but I'll be online all day.",
+    "Domani lavoro da casa, ma sarò online tutto il giorno."
+   ]
+  },
+  {
+   "en": "I'm writing to ask about the job advertised on your website.",
+   "it": "Scrivo per chiedere informazioni sul lavoro pubblicizzato sul vostro sito.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "I'm writing to ask about the job advertised on your website.",
+    "Scrivo per chiedere informazioni sul lavoro pubblicizzato sul vostro sito."
+   ]
+  },
+  {
+   "en": "Please find the document attached.",
+   "it": "In allegato trova il documento.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "Please find the document attached. Let me know if you have any questions.",
+    "In allegato trova il documento. Mi faccia sapere se ha domande."
+   ]
+  },
+  {
+   "en": "Thank you for your quick reply.",
+   "it": "Grazie per la sua rapida risposta.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "Thank you for your quick reply. That's very helpful.",
+    "Grazie per la sua rapida risposta. È molto utile."
+   ]
+  },
+  {
+   "en": "I look forward to hearing from you.",
+   "it": "Attendo una sua risposta.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "I look forward to hearing from you soon.",
+    "Attendo presto una sua risposta."
+   ]
+  },
+  {
+   "en": "Could you let me know if Thursday suits you?",
+   "it": "Potrebbe farmi sapere se giovedì le va bene?",
+   "group": "Scrivere un'email",
+   "ex": [
+    "Could you let me know if Thursday suits you? I can do the morning.",
+    "Potrebbe farmi sapere se giovedì le va bene? Posso la mattina."
+   ]
+  },
+  {
+   "en": "I'm sorry for the late reply.",
+   "it": "Mi scuso per il ritardo nella risposta.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "I'm sorry for the late reply. I've been away.",
+    "Mi scuso per il ritardo nella risposta. Sono stato via."
+   ]
+  },
+  {
+   "en": "Just a quick reminder about tomorrow's meeting.",
+   "it": "Solo un rapido promemoria sulla riunione di domani.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "Hi all, just a quick reminder about tomorrow's meeting at ten.",
+    "Ciao a tutti, solo un rapido promemoria sulla riunione di domani alle dieci."
+   ]
+  },
+  {
+   "en": "Best wishes, and have a good weekend.",
+   "it": "Cordiali saluti, e buon fine settimana.",
+   "group": "Scrivere un'email",
+   "ex": [
+    "Thanks again for your help. Best wishes, and have a good weekend.",
+    "Grazie ancora per l'aiuto. Cordiali saluti, e buon fine settimana."
+   ]
+  },
+  {
+   "en": "In my opinion, it's a good idea.",
+   "it": "Secondo me, è una buona idea.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "In my opinion, it's a good idea to start earlier.",
+    "Secondo me, è una buona idea iniziare prima."
+   ]
+  },
+  {
+   "en": "As far as I'm concerned, the price is too high.",
+   "it": "Per quanto mi riguarda, il prezzo è troppo alto.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "As far as I'm concerned, the price is too high for what you get.",
+    "Per quanto mi riguarda, il prezzo è troppo alto per quello che si ottiene."
+   ]
+  },
+  {
+   "en": "I think it depends on the situation.",
+   "it": "Penso che dipenda dalla situazione.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "Is working from home better? I think it depends on the situation.",
+    "Lavorare da casa è meglio? Penso che dipenda dalla situazione."
+   ]
+  },
+  {
+   "en": "I feel strongly that we should help.",
+   "it": "Ritengo con convinzione che dovremmo aiutare.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "I feel strongly that we should help them.",
+    "Ritengo con convinzione che dovremmo aiutarli."
+   ]
+  },
+  {
+   "en": "To be honest, I didn't enjoy the film.",
+   "it": "Ad essere sincero, il film non mi è piaciuto.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "To be honest, I didn't enjoy the film. It was too long.",
+    "Ad essere sincero, il film non mi è piaciuto. Era troppo lungo."
+   ]
+  },
+  {
+   "en": "What's your view on this?",
+   "it": "Qual è la tua opinione in merito?",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "We have to decide today. What's your view on this?",
+    "Dobbiamo decidere oggi. Qual è la tua opinione in merito?"
+   ]
+  },
+  {
+   "en": "It seems to me that nobody is listening.",
+   "it": "Mi sembra che nessuno ascolti.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "It seems to me that nobody is listening to the staff.",
+    "Mi sembra che nessuno ascolti il personale."
+   ]
+  },
+  {
+   "en": "Personally, I'd rather stay at home.",
+   "it": "Personalmente, preferirei restare a casa.",
+   "group": "Esprimere opinioni",
+   "ex": [
+    "Personally, I'd rather stay at home tonight.",
+    "Personalmente, stasera preferirei restare a casa."
+   ]
+  },
+  {
+   "en": "I couldn't agree more.",
+   "it": "Sono completamente d'accordo.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "A: It's too expensive. B: I couldn't agree more.",
+    "A: È troppo caro. B: Sono completamente d'accordo."
+   ]
+  },
+  {
+   "en": "That's exactly what I was thinking.",
+   "it": "È esattamente quello che stavo pensando.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "That's exactly what I was thinking. Let's do it.",
+    "È esattamente quello che stavo pensando. Facciamolo."
+   ]
+  },
+  {
+   "en": "I see your point, but I'm not sure.",
+   "it": "Capisco il tuo punto di vista, ma non sono sicuro.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "I see your point, but I'm not sure it will work.",
+    "Capisco il tuo punto di vista, ma non sono sicuro che funzionerà."
+   ]
+  },
+  {
+   "en": "I'm afraid I don't agree.",
+   "it": "Temo di non essere d'accordo.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "I'm afraid I don't agree. We have no time.",
+    "Temo di non essere d'accordo. Non abbiamo tempo."
+   ]
+  },
+  {
+   "en": "That's not quite how I see it.",
+   "it": "Non la vedo proprio così.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "That's not quite how I see it. The problem is the cost.",
+    "Non la vedo proprio così. Il problema è il costo."
+   ]
+  },
+  {
+   "en": "You've got a point there.",
+   "it": "Su questo hai ragione.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "You've got a point there. I hadn't thought of that.",
+    "Su questo hai ragione. Non ci avevo pensato."
+   ]
+  },
+  {
+   "en": "I'm not convinced.",
+   "it": "Non sono convinto.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "It sounds nice, but I'm not convinced.",
+    "Sembra bello, ma non sono convinto."
+   ]
+  },
+  {
+   "en": "Let's agree to disagree.",
+   "it": "Accettiamo di avere opinioni diverse.",
+   "group": "Essere d'accordo o in disaccordo",
+   "ex": [
+    "We'll never agree, so let's agree to disagree.",
+    "Non saremo mai d'accordo, quindi accettiamo di avere opinioni diverse."
+   ]
+  },
+  {
+   "en": "What would you do in my position?",
+   "it": "Che cosa faresti al mio posto?",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "I've got two job offers. What would you do in my position?",
+    "Ho due offerte di lavoro. Che cosa faresti al mio posto?"
+   ]
+  },
+  {
+   "en": "If I were you, I'd talk to him.",
+   "it": "Se fossi in te, gli parlerei.",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "If I were you, I'd talk to him before it gets worse.",
+    "Se fossi in te, gli parlerei prima che peggiori."
+   ]
+  },
+  {
+   "en": "Why don't you ask your teacher?",
+   "it": "Perché non lo chiedi al tuo insegnante?",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "Why don't you ask your teacher? She knows a lot.",
+    "Perché non lo chiedi al tuo insegnante? Sa molte cose."
+   ]
+  },
+  {
+   "en": "You'd better see a doctor.",
+   "it": "Faresti meglio ad andare dal medico.",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "That cough is awful. You'd better see a doctor.",
+    "Quella tosse è terribile. Faresti meglio ad andare dal medico."
+   ]
+  },
+  {
+   "en": "Do you have any tips for learning vocabulary?",
+   "it": "Hai qualche consiglio per imparare il vocabolario?",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "Do you have any tips for learning vocabulary quickly?",
+    "Hai qualche consiglio per imparare il vocabolario velocemente?"
+   ]
+  },
+  {
+   "en": "It might be worth trying a different approach.",
+   "it": "Potrebbe valere la pena provare un altro approccio.",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "It might be worth trying a different approach this time.",
+    "Potrebbe valere la pena provare un altro approccio questa volta."
+   ]
+  },
+  {
+   "en": "I'd advise you not to rush into it.",
+   "it": "Ti consiglio di non precipitarti.",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "I'd advise you not to rush into it. Take your time.",
+    "Ti consiglio di non precipitarti. Prenditi il tuo tempo."
+   ]
+  },
+  {
+   "en": "Take my advice and sleep on it.",
+   "it": "Dai retta a me e dormici sopra.",
+   "group": "Chiedere e dare consigli",
+   "ex": [
+    "Take my advice and sleep on it before you reply.",
+    "Dai retta a me e dormici sopra prima di rispondere."
+   ]
+  },
+  {
+   "en": "I'm really sorry for being late.",
+   "it": "Mi dispiace davvero di essere in ritardo.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "I'm really sorry for being late. The train was cancelled.",
+    "Mi dispiace davvero di essere in ritardo. Il treno è stato cancellato."
+   ]
+  },
+  {
+   "en": "I apologise for the misunderstanding.",
+   "it": "Mi scuso per il malinteso.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "I apologise for the misunderstanding. I should have been clearer.",
+    "Mi scuso per il malinteso. Avrei dovuto essere più chiaro."
+   ]
+  },
+  {
+   "en": "It was my fault. I should have checked.",
+   "it": "È stata colpa mia. Avrei dovuto controllare.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "It was my fault. I should have checked the address.",
+    "È stata colpa mia. Avrei dovuto controllare l'indirizzo."
+   ]
+  },
+  {
+   "en": "Don't worry about it. It doesn't matter.",
+   "it": "Non ti preoccupare. Non importa.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "A: I broke your cup. B: Don't worry about it. It doesn't matter.",
+    "A: Ho rotto la tua tazza. B: Non ti preoccupare. Non importa."
+   ]
+  },
+  {
+   "en": "Thank you so much for your help.",
+   "it": "Grazie mille per il tuo aiuto.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "Thank you so much for your help with the move.",
+    "Grazie mille per il tuo aiuto con il trasloco."
+   ]
+  },
+  {
+   "en": "I really appreciate it.",
+   "it": "Lo apprezzo davvero.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "You drove me all the way here. I really appreciate it.",
+    "Mi hai portato fin qui in macchina. Lo apprezzo davvero."
+   ]
+  },
+  {
+   "en": "I can't thank you enough.",
+   "it": "Non so come ringraziarti.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "You saved my project. I can't thank you enough.",
+    "Hai salvato il mio progetto. Non so come ringraziarti."
+   ]
+  },
+  {
+   "en": "It was very kind of you to invite us.",
+   "it": "È stato molto gentile da parte tua invitarci.",
+   "group": "Scusarsi e ringraziare",
+   "ex": [
+    "It was very kind of you to invite us. The dinner was perfect.",
+    "È stato molto gentile da parte tua invitarci. La cena era perfetta."
+   ]
+  },
+  {
+   "en": "Last summer I went to Scotland for the first time.",
+   "it": "L'estate scorsa sono andato in Scozia per la prima volta.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "Last summer I went to Scotland for the first time. It was beautiful.",
+    "L'estate scorsa sono andato in Scozia per la prima volta. Era bellissima."
+   ]
+  },
+  {
+   "en": "It was one of the best days of my life.",
+   "it": "È stato uno dei giorni più belli della mia vita.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "The wedding was one of the best days of my life.",
+    "Il matrimonio è stato uno dei giorni più belli della mia vita."
+   ]
+  },
+  {
+   "en": "At first I was nervous, but then I relaxed.",
+   "it": "All'inizio ero nervoso, ma poi mi sono rilassato.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "At first I was nervous, but then I relaxed and enjoyed it.",
+    "All'inizio ero nervoso, ma poi mi sono rilassato e mi sono divertito."
+   ]
+  },
+  {
+   "en": "Believe it or not, we missed the plane.",
+   "it": "Che tu ci creda o no, abbiamo perso l'aereo.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "Believe it or not, we missed the plane by two minutes.",
+    "Che tu ci creda o no, abbiamo perso l'aereo per due minuti."
+   ]
+  },
+  {
+   "en": "While I was walking home, it started to rain.",
+   "it": "Mentre tornavo a casa a piedi, ha iniziato a piovere.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "While I was walking home, it started to rain heavily.",
+    "Mentre tornavo a casa a piedi, ha iniziato a piovere forte."
+   ]
+  },
+  {
+   "en": "The funny thing is that nobody noticed.",
+   "it": "La cosa divertente è che nessuno se n'è accorto.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "I wore two different shoes. The funny thing is that nobody noticed.",
+    "Ho messo due scarpe diverse. La cosa divertente è che nessuno se n'è accorto."
+   ]
+  },
+  {
+   "en": "In the end, everything turned out fine.",
+   "it": "Alla fine tutto è andato bene.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "It was stressful, but in the end everything turned out fine.",
+    "È stato stressante, ma alla fine tutto è andato bene."
+   ]
+  },
+  {
+   "en": "It was an experience I'll never forget.",
+   "it": "È stata un'esperienza che non dimenticherò mai.",
+   "group": "Raccontare un'esperienza",
+   "ex": [
+    "Living abroad was an experience I'll never forget.",
+    "Vivere all'estero è stata un'esperienza che non dimenticherò mai."
+   ]
+  },
+  {
+   "en": "What are you doing this weekend?",
+   "it": "Che cosa fai questo fine settimana?",
+   "group": "Fare programmi",
+   "ex": [
+    "What are you doing this weekend? Fancy a walk?",
+    "Che cosa fai questo fine settimana? Ti va una passeggiata?"
+   ]
+  },
+  {
+   "en": "Shall we meet outside the cinema at seven?",
+   "it": "Ci vediamo davanti al cinema alle sette?",
+   "group": "Fare programmi",
+   "ex": [
+    "Shall we meet outside the cinema at seven? The film starts at half past.",
+    "Ci vediamo davanti al cinema alle sette? Il film inizia alle sette e mezza."
+   ]
+  },
+  {
+   "en": "I'm thinking of going to the coast.",
+   "it": "Sto pensando di andare al mare.",
+   "group": "Fare programmi",
+   "ex": [
+    "I'm thinking of going to the coast on Saturday.",
+    "Sto pensando di andare al mare sabato."
+   ]
+  },
+  {
+   "en": "How about having a picnic?",
+   "it": "Che ne dici di fare un picnic?",
+   "group": "Fare programmi",
+   "ex": [
+    "The weather is lovely. How about having a picnic?",
+    "Il tempo è bello. Che ne dici di fare un picnic?"
+   ]
+  },
+  {
+   "en": "I'm afraid I can't make it on Friday.",
+   "it": "Temo di non farcela venerdì.",
+   "group": "Fare programmi",
+   "ex": [
+    "I'm afraid I can't make it on Friday. Could we do Saturday?",
+    "Temo di non farcela venerdì. Potremmo fare sabato?"
+   ]
+  },
+  {
+   "en": "Let's decide nearer the time.",
+   "it": "Decidiamo più avanti.",
+   "group": "Fare programmi",
+   "ex": [
+    "I don't know my shifts yet. Let's decide nearer the time.",
+    "Non conosco ancora i miei turni. Decidiamo più avanti."
+   ]
+  },
+  {
+   "en": "I'll pick you up at half past six.",
+   "it": "Passo a prenderti alle sei e mezza.",
+   "group": "Fare programmi",
+   "ex": [
+    "I'll pick you up at half past six, so be ready.",
+    "Passo a prenderti alle sei e mezza, quindi fatti trovare pronto."
+   ]
+  },
+  {
+   "en": "It's all set for next Tuesday.",
+   "it": "È tutto organizzato per martedì prossimo.",
+   "group": "Fare programmi",
+   "ex": [
+    "The booking is done. It's all set for next Tuesday.",
+    "La prenotazione è fatta. È tutto organizzato per martedì prossimo."
+   ]
+  }
+ ]
+}

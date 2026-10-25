@@ -1,0 +1,386 @@
+{
+ "id": "res-mistakes-b1",
+ "kind": "mistakes",
+ "lv": "B1",
+ "title": "Errori tipici: B1",
+ "intro": "Errori frequenti su tempi, strutture verbali, preposizioni e articoli, da evitare al livello intermedio.",
+ "items": [
+  {
+   "wrong": "If I will have time, I will call you.",
+   "right": "If I have time, I will call you.",
+   "why": "Dopo «if» nella frase condizionale si usa il presente, non il futuro. In italiano si usa il futuro («se avrò tempo»).",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "If I have time, I'll call you."
+   ],
+   "more": [
+    "If I would have time, I will call you."
+   ]
+  },
+  {
+   "wrong": "If I had more money, I will buy a bigger house.",
+   "right": "If I had more money, I would buy a bigger house.",
+   "why": "Nel secondo condizionale la principale vuole «would», non «will». Si mescolano le due strutture.",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "If I had more money, I'd buy a bigger house."
+   ],
+   "more": [
+    "If I would have more money, I would buy a bigger house."
+   ]
+  },
+  {
+   "wrong": "I look forward to see you.",
+   "right": "I look forward to seeing you.",
+   "why": "In «look forward to» il «to» è una preposizione e vuole la forma in -ing. Si scambia con il «to» dell'infinito.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "I look forward for seeing you."
+   ]
+  },
+  {
+   "wrong": "She suggested me to take a taxi.",
+   "right": "She suggested that I take a taxi.",
+   "why": "«Suggest» non regge persona + infinito. Si usa «that + soggetto + verbo» oppure la forma in -ing. In italiano «mi ha suggerito di» si traduce con l'infinito.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [
+    "She suggested I take a taxi.",
+    "She suggested that I should take a taxi.",
+    "She suggested I should take a taxi.",
+    "She suggested I took a taxi.",
+    "She suggested that I took a taxi."
+   ],
+   "more": [
+    "She suggested me taking a taxi."
+   ]
+  },
+  {
+   "wrong": "He enjoys to play tennis.",
+   "right": "He enjoys playing tennis.",
+   "why": "Dopo «enjoy» si usa il gerundio (-ing), non l'infinito. L'italiano usa l'infinito («gli piace giocare»).",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "He enjoy playing tennis."
+   ]
+  },
+  {
+   "wrong": "I am used to wake up early.",
+   "right": "I am used to waking up early.",
+   "why": "«Be used to» vuole il gerundio perché «to» è una preposizione. Si confonde con «used to + infinito».",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [
+    "I'm used to waking up early."
+   ],
+   "more": [
+    "I used to waking up early."
+   ]
+  },
+  {
+   "wrong": "I have been to London last year.",
+   "right": "I went to London last year.",
+   "why": "Con «last year» il tempo è finito: serve il past simple. In italiano il passato prossimo vale per tutto.",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "I was in London last year."
+   ],
+   "more": [
+    "I did went to London last year."
+   ]
+  },
+  {
+   "wrong": "When I was a child, I have lived in Naples.",
+   "right": "When I was a child, I lived in Naples.",
+   "why": "Un periodo concluso nel passato vuole il past simple. Il present perfect lega il passato al presente.",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "I lived in Naples when I was a child."
+   ],
+   "more": [
+    "When I was a child, I was live in Naples."
+   ]
+  },
+  {
+   "wrong": "How long are you studying English?",
+   "right": "How long have you been studying English?",
+   "why": "Per un'azione iniziata nel passato e ancora in corso si usa il present perfect (continuous). L'italiano usa il presente («da quanto studi»).",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "How long have you studied English?"
+   ],
+   "more": [
+    "How long you have been studying English?"
+   ]
+  },
+  {
+   "wrong": "She asked me where did I live.",
+   "right": "She asked me where I lived.",
+   "why": "Nel discorso indiretto le domande perdono l'inversione con «do»: l'ordine è soggetto + verbo.",
+   "topic": "ordine delle parole",
+   "lv": "B1",
+   "alts": [
+    "She asked me where I live."
+   ],
+   "more": [
+    "She asked me where did I lived."
+   ]
+  },
+  {
+   "wrong": "I wish I have more time.",
+   "right": "I wish I had more time.",
+   "why": "Dopo «wish» per un desiderio irreale nel presente si usa il past simple. In italiano si usa il congiuntivo («vorrei avere»).",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "I wish that I had more time."
+   ],
+   "more": [
+    "I wish I would have more time."
+   ]
+  },
+  {
+   "wrong": "The police is looking for him.",
+   "right": "The police are looking for him.",
+   "why": "«Police» è un plurale: vuole il verbo al plurale. L'italiano «la polizia» è singolare.",
+   "topic": "plurali e singolari",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "The polices are looking for him."
+   ]
+  },
+  {
+   "wrong": "I have a lot of luggages.",
+   "right": "I have a lot of luggage.",
+   "why": "«Luggage» è non numerabile. In italiano «bagagli» è plurale.",
+   "topic": "countable/uncountable",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "I has a lot of luggage."
+   ]
+  },
+  {
+   "wrong": "We discussed about the problem.",
+   "right": "We discussed the problem.",
+   "why": "«Discuss» è transitivo e non vuole «about». In italiano «abbiamo discusso del problema» ha la preposizione.",
+   "topic": "preposizioni",
+   "lv": "B1",
+   "alts": [
+    "We talked about the problem."
+   ],
+   "more": [
+    "We discussed of the problem."
+   ]
+  },
+  {
+   "wrong": "She is interested on art.",
+   "right": "She is interested in art.",
+   "why": "Dopo «interested» si usa «in». L'italiano «interessata a» porta a sbagliare la preposizione.",
+   "topic": "preposizioni",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "She is interesting in art."
+   ]
+  },
+  {
+   "wrong": "I'm afraid from spiders.",
+   "right": "I'm afraid of spiders.",
+   "why": "«Afraid» regge «of». L'errore tipico è tradurre con «from» invece di «di».",
+   "topic": "preposizioni",
+   "lv": "B1",
+   "alts": [
+    "I'm scared of spiders.",
+    "I am afraid of spiders."
+   ],
+   "more": [
+    "I'm afraid of spider."
+   ]
+  },
+  {
+   "wrong": "He is good in maths.",
+   "right": "He is good at maths.",
+   "why": "Con «good» si usa «at» per le materie e le abilità. L'italiano «bravo in matematica» porta a «in».",
+   "topic": "preposizioni",
+   "lv": "B1",
+   "alts": [
+    "He is good at math."
+   ],
+   "more": [
+    "He is good to maths."
+   ]
+  },
+  {
+   "wrong": "This is the man who I saw him yesterday.",
+   "right": "This is the man who I saw yesterday.",
+   "why": "Nelle frasi relative il pronome relativo sostituisce già l'oggetto: non si ripete «him». Si tende a ripeterlo come nell'italiano parlato («l'uomo che l'ho visto»).",
+   "topic": "ordine delle parole",
+   "lv": "B1",
+   "alts": [
+    "This is the man whom I saw yesterday.",
+    "This is the man that I saw yesterday.",
+    "This is the man I saw yesterday."
+   ],
+   "more": [
+    "This is the man which I saw yesterday."
+   ]
+  },
+  {
+   "wrong": "I must to go now.",
+   "right": "I must go now.",
+   "why": "I modali sono seguiti dall'infinito senza «to». Per analogia con altri verbi si aggiunge «to».",
+   "topic": "modali",
+   "lv": "B1",
+   "alts": [
+    "I have to go now."
+   ],
+   "more": [
+    "I musts go now."
+   ]
+  },
+  {
+   "wrong": "He suggested to go to the cinema.",
+   "right": "He suggested going to the cinema.",
+   "why": "Dopo «suggest» si usa il gerundio o «that + verbo», non l'infinito. In italiano «ha suggerito di andare» ha l'infinito.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [
+    "He suggested that we go to the cinema.",
+    "He suggested we go to the cinema.",
+    "He suggested that we should go to the cinema."
+   ],
+   "more": [
+    "He suggested us to go to the cinema."
+   ]
+  },
+  {
+   "wrong": "I cut my hair yesterday.",
+   "right": "I had my hair cut yesterday.",
+   "why": "Quando il lavoro lo fa un altro si usa «have/get + oggetto + participio». «I cut my hair» significa che li hai tagliati tu. L'italiano «mi sono tagliato i capelli» è ambiguo.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [
+    "I got my hair cut yesterday."
+   ],
+   "more": [
+    "I had my hair cutted yesterday."
+   ]
+  },
+  {
+   "wrong": "He is the most tall boy in the class.",
+   "right": "He is the tallest boy in the class.",
+   "why": "Gli aggettivi corti formano il superlativo con «-est», non con «most». Calco di «il più alto».",
+   "topic": "altro",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "He is the taller boy in the class."
+   ]
+  },
+  {
+   "wrong": "My mother and me went to the market.",
+   "right": "My mother and I went to the market.",
+   "why": "Soggetto composto: si usa «I», non «me». In italiano «io e mia madre» non cambia forma.",
+   "topic": "altro",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "My mother and I goes to the market."
+   ]
+  },
+  {
+   "wrong": "After the lunch, we went for a walk.",
+   "right": "After lunch, we went for a walk.",
+   "why": "I pasti in senso generale non vogliono l'articolo. L'italiano «dopo il pranzo» lo usa.",
+   "topic": "articoli",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "After lunch, we goes for a walk."
+   ]
+  },
+  {
+   "wrong": "I have been waiting for you since two hours.",
+   "right": "I have been waiting for you for two hours.",
+   "why": "Per la durata si usa «for»; «since» richiede un punto di partenza (since two o'clock). L'italiano usa «da» per entrambi.",
+   "topic": "preposizioni",
+   "lv": "B1",
+   "alts": [
+    "I've been waiting for you for two hours."
+   ],
+   "more": [
+    "I am waiting for you for two hours."
+   ]
+  },
+  {
+   "wrong": "I forgot my umbrella at home.",
+   "right": "I left my umbrella at home.",
+   "why": "Se indichi dove hai lasciato qualcosa si usa «leave»; «forget» non ha un luogo. L'italiano usa «dimenticare» per entrambi.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "I left my umbrella in home."
+   ]
+  },
+  {
+   "wrong": "Can you borrow me your pen?",
+   "right": "Can you lend me your pen?",
+   "why": "«Lend» è dare in prestito, «borrow» è prendere in prestito. In italiano «prestare» e «prendere in prestito» si scambiano facilmente.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "Can you lend me you pen?"
+   ]
+  },
+  {
+   "wrong": "I want that you help me.",
+   "right": "I want you to help me.",
+   "why": "Dopo «want» si usa persona + infinito, non «that». In italiano «voglio che tu mi aiuti» ha il congiuntivo.",
+   "topic": "verbi e costruzioni",
+   "lv": "B1",
+   "alts": [],
+   "more": [
+    "I want you help me."
+   ]
+  },
+  {
+   "wrong": "It's the first time I eat sushi.",
+   "right": "It's the first time I have eaten sushi.",
+   "why": "Dopo «the first time» si usa il present perfect. In italiano si usa il presente.",
+   "topic": "tempi verbali",
+   "lv": "B1",
+   "alts": [
+    "It's the first time I've eaten sushi."
+   ],
+   "more": [
+    "It's the first time I have eat sushi."
+   ]
+  },
+  {
+   "wrong": "Despite of the rain, we went out.",
+   "right": "Despite the rain, we went out.",
+   "why": "«Despite» non vuole «of» (mentre «in spite of» sì). Si mescolano le due forme.",
+   "topic": "preposizioni",
+   "lv": "B1",
+   "alts": [
+    "In spite of the rain, we went out."
+   ],
+   "more": [
+    "Despite the rain, we have went out."
+   ]
+  }
+ ]
+}

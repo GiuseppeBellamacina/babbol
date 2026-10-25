@@ -1,0 +1,229 @@
+{
+ "id": "res-w-politics-society",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Politica e società",
+ "intro": "Venti parole utili sul tema «politica e società», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "campaign",
+   "it": "campagna",
+   "ipa": "kæmˈpeɪn",
+   "pos": "n",
+   "ex": [
+    "The campaign lasted six weeks.",
+    "La campagna è durata sei settimane."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "citizen",
+   "it": "cittadino",
+   "ipa": "ˈsɪtɪzn",
+   "pos": "n",
+   "ex": [
+    "Citizens have the right to protest peacefully.",
+    "I cittadini hanno il diritto di protestare pacificamente."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "coalition",
+   "it": "coalizione",
+   "ipa": "ˌkəʊəˈlɪʃn",
+   "pos": "n",
+   "ex": [
+    "Three parties formed a coalition government.",
+    "Tre partiti hanno formato un governo di coalizione."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "corruption",
+   "it": "corruzione",
+   "ipa": "kəˈrʌpʃn",
+   "pos": "n",
+   "ex": [
+    "Corruption damages trust in public institutions.",
+    "La corruzione danneggia la fiducia nelle istituzioni pubbliche."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "democracy",
+   "it": "democrazia",
+   "ipa": "dɪˈmɒkrəsi",
+   "pos": "n",
+   "ex": [
+    "Free speech is essential in a democracy.",
+    "La libertà di parola è essenziale in una democrazia."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "election",
+   "it": "elezione",
+   "ipa": "ɪˈlekʃn",
+   "pos": "n",
+   "ex": [
+    "The next election will be held in May.",
+    "Le prossime elezioni si terranno a maggio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "government",
+   "it": "governo",
+   "ipa": "ˈɡʌvənmənt",
+   "pos": "n",
+   "ex": [
+    "The government announced a new education plan.",
+    "Il governo ha annunciato un nuovo piano per l'istruzione."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "immigration",
+   "it": "immigrazione",
+   "ipa": "ˌɪmɪˈɡreɪʃn",
+   "pos": "n",
+   "ex": [
+    "Immigration is a topic of great debate.",
+    "L'immigrazione è un tema di grande dibattito."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "inequality",
+   "it": "disuguaglianza",
+   "ipa": "ˌɪnɪˈkwɒləti",
+   "pos": "n",
+   "ex": [
+    "Social inequality has increased in recent years.",
+    "La disuguaglianza sociale è aumentata negli ultimi anni."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "law",
+   "it": "legge",
+   "ipa": "lɔː",
+   "pos": "n",
+   "ex": [
+    "It is against the law to park here.",
+    "È contro la legge parcheggiare qui."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "mayor",
+   "it": "sindaco",
+   "ipa": "meə",
+   "pos": "n",
+   "ex": [
+    "The mayor opened the new library.",
+    "Il sindaco ha inaugurato la nuova biblioteca."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "minister",
+   "it": "ministro",
+   "ipa": "ˈmɪnɪstə",
+   "pos": "n",
+   "ex": [
+    "The minister refused to answer the question.",
+    "Il ministro ha rifiutato di rispondere alla domanda."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "parliament",
+   "it": "parlamento",
+   "ipa": "ˈpɑːləmənt",
+   "pos": "n",
+   "ex": [
+    "Parliament voted on the law yesterday.",
+    "Il parlamento ha votato la legge ieri."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "poverty",
+   "it": "povertà",
+   "ipa": "ˈpɒvəti",
+   "pos": "n",
+   "ex": [
+    "Many families live in poverty.",
+    "Molte famiglie vivono in povertà."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "protest",
+   "it": "manifestazione",
+   "ipa": "ˈprəʊtest",
+   "pos": "n",
+   "ex": [
+    "Thousands joined the protest in the capital.",
+    "Migliaia di persone hanno partecipato alla manifestazione nella capitale."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "referendum",
+   "it": "referendum",
+   "ipa": "ˌrefəˈrendəm",
+   "pos": "n",
+   "ex": [
+    "The country held a referendum on the new law.",
+    "Il paese ha indetto un referendum sulla nuova legge."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "reform",
+   "it": "riforma",
+   "ipa": "rɪˈfɔːm",
+   "pos": "n",
+   "ex": [
+    "The health service needs a serious reform.",
+    "Il servizio sanitario ha bisogno di una seria riforma."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "unemployment",
+   "it": "disoccupazione",
+   "ipa": "ˌʌnɪmˈplɔɪmənt",
+   "pos": "n",
+   "ex": [
+    "Youth unemployment is a major problem.",
+    "La disoccupazione giovanile è un grave problema."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "vote",
+   "it": "votare",
+   "ipa": "vəʊt",
+   "pos": "v",
+   "ex": [
+    "Every citizen over eighteen can vote.",
+    "Ogni cittadino maggiorenne può votare."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "welfare",
+   "it": "assistenza sociale",
+   "ipa": "ˈwelfeə",
+   "pos": "n",
+   "ex": [
+    "The country spends a lot on welfare.",
+    "Il paese spende molto per l'assistenza sociale."
+   ],
+   "lv": "B2"
+  }
+ ]
+}

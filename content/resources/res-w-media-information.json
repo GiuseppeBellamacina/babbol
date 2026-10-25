@@ -1,0 +1,229 @@
+{
+ "id": "res-w-media-information",
+ "kind": "words",
+ "lv": "B2",
+ "title": "Media e informazione",
+ "intro": "Venti parole utili sul tema «media e informazione», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "advertisement",
+   "it": "inserzione",
+   "ipa": "ədˈvɜːtɪsmənt",
+   "pos": "n",
+   "ex": [
+    "I saw an advertisement for a new phone.",
+    "Ho visto una pubblicità per un nuovo telefono."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "article",
+   "it": "articolo",
+   "ipa": "ˈɑːtɪkl",
+   "pos": "n",
+   "ex": [
+    "I read an interesting article about sleep.",
+    "Ho letto un articolo interessante sul sonno."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "bias",
+   "it": "parzialità",
+   "ipa": "ˈbaɪəs",
+   "pos": "n",
+   "ex": [
+    "The report shows a clear bias against the council.",
+    "Il rapporto mostra una chiara parzialità contro il consiglio."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "censorship",
+   "it": "censura",
+   "ipa": "ˈsensəʃɪp",
+   "pos": "n",
+   "ex": [
+    "Censorship limits freedom of expression.",
+    "La censura limita la libertà di espressione."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "channel",
+   "it": "canale",
+   "ipa": "ˈtʃænl",
+   "pos": "n",
+   "ex": [
+    "There is a new news channel on cable.",
+    "C'è un nuovo canale di notizie via cavo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "commercial",
+   "it": "spot pubblicitario",
+   "ipa": "kəˈmɜːʃl",
+   "pos": "n",
+   "ex": [
+    "The commercial lasted only thirty seconds.",
+    "Lo spot è durato solo trenta secondi."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "correspondent",
+   "it": "corrispondente",
+   "ipa": "ˌkɒrəˈspɒndənt",
+   "pos": "n",
+   "ex": [
+    "The correspondent reported from the war zone.",
+    "Il corrispondente ha riferito dalla zona di guerra."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "coverage",
+   "it": "copertura mediatica",
+   "ipa": "ˈkʌvərɪdʒ",
+   "pos": "n",
+   "ex": [
+    "The coverage of the election was very detailed.",
+    "La copertura delle elezioni è stata molto dettagliata."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "documentary",
+   "it": "documentario",
+   "ipa": "ˌdɒkjuˈmentri",
+   "pos": "n",
+   "ex": [
+    "We watched a documentary about the Arctic.",
+    "Abbiamo guardato un documentario sull'Artico."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "editor",
+   "it": "direttore, redattore",
+   "ipa": "ˈedɪtə",
+   "pos": "n",
+   "ex": [
+    "The editor corrected several mistakes in the text.",
+    "Il redattore ha corretto diversi errori nel testo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "fake news",
+   "it": "notizie false",
+   "ipa": "feɪk njuːz",
+   "pos": "phr",
+   "ex": [
+    "Fake news spreads quickly on social media.",
+    "Le notizie false si diffondono in fretta sui social."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "influencer",
+   "it": "influencer",
+   "ipa": "ˈɪnfluənsə",
+   "pos": "n",
+   "ex": [
+    "The influencer promoted a new brand of trainers.",
+    "L'influencer ha pubblicizzato una nuova marca di scarpe da ginnastica."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "journalism",
+   "it": "giornalismo",
+   "ipa": "ˈdʒɜːnəlɪzəm",
+   "pos": "n",
+   "ex": [
+    "She studied journalism at university.",
+    "Ha studiato giornalismo all'università."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "misleading",
+   "it": "ingannevole",
+   "ipa": "ˌmɪsˈliːdɪŋ",
+   "pos": "adj",
+   "ex": [
+    "The advert was misleading about the price.",
+    "La pubblicità era ingannevole sul prezzo."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "newsletter",
+   "it": "newsletter",
+   "ipa": "ˈnjuːzletə",
+   "pos": "n",
+   "ex": [
+    "I receive a weekly newsletter about science.",
+    "Ricevo una newsletter settimanale sulla scienza."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "podcast",
+   "it": "podcast",
+   "ipa": "ˈpɒdkɑːst",
+   "pos": "n",
+   "ex": [
+    "I listen to a history podcast on the bus.",
+    "Ascolto un podcast di storia sull'autobus."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "press",
+   "it": "stampa",
+   "ipa": "pres",
+   "pos": "n",
+   "ex": [
+    "The press was waiting outside the court.",
+    "La stampa aspettava fuori dal tribunale."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "source",
+   "it": "fonte",
+   "ipa": "sɔːs",
+   "pos": "n",
+   "ex": [
+    "Always check the source of a news story.",
+    "Controlla sempre la fonte di una notizia."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "trend",
+   "it": "tendenza",
+   "ipa": "trend",
+   "pos": "n",
+   "ex": [
+    "Short videos are a growing trend online.",
+    "I video brevi sono una tendenza in crescita online."
+   ],
+   "lv": "B2"
+  },
+  {
+   "en": "viral",
+   "it": "virale",
+   "ipa": "ˈvaɪrəl",
+   "pos": "adj",
+   "ex": [
+    "The video went viral in a few hours.",
+    "Il video è diventato virale in poche ore."
+   ],
+   "lv": "B2"
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "id": "res-w-family-friends",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Famiglia e amici",
+ "intro": "Venti parole utili sul tema «famiglia e amici», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "aunt",
+   "it": "zia",
+   "ipa": "ɑːnt",
+   "pos": "n",
+   "ex": [
+    "My aunt is visiting us next week.",
+    "Mia zia ci viene a trovare la settimana prossima."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "best friend",
+   "it": "migliore amico",
+   "ipa": "best frend",
+   "pos": "phr",
+   "ex": [
+    "She is my best friend since school.",
+    "È la mia migliore amica fin dai tempi della scuola."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "classmate",
+   "it": "compagno di classe",
+   "ipa": "ˈklɑːsmeɪt",
+   "pos": "n",
+   "ex": [
+    "A classmate helped me with the homework.",
+    "Un compagno di classe mi ha aiutato con i compiti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "cousin",
+   "it": "cugino",
+   "ipa": "ˈkʌzn",
+   "pos": "n",
+   "ex": [
+    "I play football with my cousin.",
+    "Gioco a calcio con mio cugino."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "divorced",
+   "it": "divorziato",
+   "ipa": "dɪˈvɔːst",
+   "pos": "adj",
+   "ex": [
+    "My aunt is divorced and lives alone.",
+    "Mia zia è divorziata e vive da sola."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "engaged",
+   "it": "fidanzato",
+   "ipa": "ɪnˈɡeɪdʒd",
+   "pos": "adj",
+   "ex": [
+    "They got engaged on holiday.",
+    "Si sono fidanzati in vacanza."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "grandfather",
+   "it": "nonno",
+   "ipa": "ˈɡrænfɑːðə",
+   "pos": "n",
+   "ex": [
+    "My grandfather tells funny stories.",
+    "Mio nonno racconta storie divertenti."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "grandmother",
+   "it": "nonna",
+   "ipa": "ˈɡrænmʌðə",
+   "pos": "n",
+   "ex": [
+    "My grandmother makes the best cakes.",
+    "Mia nonna fa le torte più buone."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "grandparents",
+   "it": "nonni",
+   "ipa": "ˈɡrænpeərənts",
+   "pos": "n",
+   "ex": [
+    "My grandparents live in a small village.",
+    "I miei nonni vivono in un piccolo paese."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "husband",
+   "it": "marito",
+   "ipa": "ˈhʌzbənd",
+   "pos": "n",
+   "ex": [
+    "Her husband cooks every Sunday.",
+    "Suo marito cucina ogni domenica."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "look after",
+   "it": "prendersi cura di",
+   "ipa": "lʊk ˈɑːftə",
+   "pos": "phr",
+   "ex": [
+    "She looks after her little brother.",
+    "Si prende cura del suo fratellino."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "nephew",
+   "it": "nipote (di zii)",
+   "ipa": "ˈnefjuː",
+   "pos": "n",
+   "ex": [
+    "My nephew is five years old.",
+    "Mio nipote ha cinque anni."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "niece",
+   "it": "nipote (femmina, di zii)",
+   "ipa": "niːs",
+   "pos": "n",
+   "ex": [
+    "My niece loves drawing animals.",
+    "Mia nipote adora disegnare animali."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "partner",
+   "it": "compagno",
+   "ipa": "ˈpɑːtnə",
+   "pos": "n",
+   "ex": [
+    "I live with my partner in the city.",
+    "Vivo con il mio compagno in città."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "relatives",
+   "it": "parenti",
+   "ipa": "ˈrelətɪvz",
+   "pos": "n",
+   "ex": [
+    "All my relatives came to the party.",
+    "Tutti i miei parenti sono venuti alla festa."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "teenager",
+   "it": "adolescente",
+   "ipa": "ˈtiːneɪdʒə",
+   "pos": "n",
+   "ex": [
+    "Our daughter is a teenager now.",
+    "Nostra figlia ora è un'adolescente."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "toddler",
+   "it": "bambino piccolo",
+   "ipa": "ˈtɒdlə",
+   "pos": "n",
+   "ex": [
+    "The toddler is learning to walk.",
+    "Il bambino piccolo sta imparando a camminare."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "twin",
+   "it": "gemello",
+   "ipa": "twɪn",
+   "pos": "n",
+   "ex": [
+    "She has a twin brother.",
+    "Ha un fratello gemello."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "uncle",
+   "it": "zio",
+   "ipa": "ˈʌŋkl",
+   "pos": "n",
+   "ex": [
+    "My uncle works as a driver.",
+    "Mio zio lavora come autista."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "wife",
+   "it": "moglie",
+   "ipa": "waɪf",
+   "pos": "n",
+   "ex": [
+    "His wife teaches at a primary school.",
+    "Sua moglie insegna alle elementari."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

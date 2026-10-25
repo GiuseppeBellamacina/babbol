@@ -1,0 +1,403 @@
+{
+ "id": "res-sayit-numbers",
+ "kind": "sayit",
+ "title": "Numeri: come si dicono",
+ "intro": "Come leggere ad alta voce numeri, anni, telefoni, frazioni e percentuali in inglese britannico.",
+ "items": [
+  {
+   "written": "7",
+   "spoken": "seven",
+   "it": "numero cardinale",
+   "group": "Cardinali",
+   "alts": []
+  },
+  {
+   "written": "13",
+   "spoken": "thirteen",
+   "it": "13: attenzione a thirteen / thirty",
+   "group": "Cardinali",
+   "alts": [],
+   "note": "Thirteen ha l'accento sulla seconda sillaba, thirty sulla prima."
+  },
+  {
+   "written": "99",
+   "spoken": "ninety-nine",
+   "it": "numero cardinale",
+   "group": "Cardinali",
+   "alts": []
+  },
+  {
+   "written": "101",
+   "spoken": "a hundred and one",
+   "it": "cento e uno",
+   "group": "Cardinali",
+   "alts": [],
+   "note": "Si può dire anche one hundred and one. In americano si omette «and»."
+  },
+  {
+   "written": "250",
+   "spoken": "two hundred and fifty",
+   "it": "numero cardinale",
+   "group": "Cardinali",
+   "alts": []
+  },
+  {
+   "written": "1,000",
+   "spoken": "one thousand",
+   "it": "mille",
+   "group": "Numeri grandi",
+   "alts": [
+    "1000"
+   ],
+   "note": "Si può dire anche a thousand."
+  },
+  {
+   "written": "1,250",
+   "spoken": "one thousand two hundred and fifty",
+   "it": "milleduecentocinquanta",
+   "group": "Numeri grandi",
+   "alts": [
+    "1250"
+   ],
+   "note": "In parlato anche twelve hundred and fifty."
+  },
+  {
+   "written": "2,500,000",
+   "spoken": "two and a half million",
+   "it": "due milioni e mezzo",
+   "group": "Numeri grandi",
+   "alts": [
+    "2500000"
+   ],
+   "note": "Forma lunga: two million five hundred thousand."
+  },
+  {
+   "written": "1,000,000,000",
+   "spoken": "one billion",
+   "it": "un miliardo",
+   "group": "Numeri grandi",
+   "alts": [
+    "1000000000"
+   ],
+   "note": "Billion è un miliardo (mille milioni), non mille miliardi."
+  },
+  {
+   "written": "1st",
+   "spoken": "first",
+   "it": "primo",
+   "group": "Ordinali",
+   "alts": [
+    "1"
+   ]
+  },
+  {
+   "written": "2nd",
+   "spoken": "second",
+   "it": "secondo",
+   "group": "Ordinali",
+   "alts": [
+    "2"
+   ]
+  },
+  {
+   "written": "3rd",
+   "spoken": "third",
+   "it": "terzo",
+   "group": "Ordinali",
+   "alts": [
+    "3"
+   ]
+  },
+  {
+   "written": "12th",
+   "spoken": "twelfth",
+   "it": "dodicesimo",
+   "group": "Ordinali",
+   "alts": [
+    "12"
+   ]
+  },
+  {
+   "written": "21st",
+   "spoken": "twenty-first",
+   "it": "ventunesimo",
+   "group": "Ordinali",
+   "alts": [
+    "21"
+   ]
+  },
+  {
+   "written": "100th",
+   "spoken": "hundredth",
+   "it": "centesimo",
+   "group": "Ordinali",
+   "alts": [
+    "100"
+   ]
+  },
+  {
+   "written": "1066",
+   "spoken": "ten sixty-six",
+   "it": "anno 1066",
+   "group": "Anni",
+   "alts": [],
+   "note": "Gli anni si leggono a coppie di cifre."
+  },
+  {
+   "written": "1805",
+   "spoken": "eighteen oh five",
+   "it": "anno 1805",
+   "group": "Anni",
+   "alts": [],
+   "note": "Lo zero si dice oh."
+  },
+  {
+   "written": "1999",
+   "spoken": "nineteen ninety-nine",
+   "it": "anno 1999",
+   "group": "Anni",
+   "alts": []
+  },
+  {
+   "written": "1900",
+   "spoken": "nineteen hundred",
+   "it": "anno 1900",
+   "group": "Anni",
+   "alts": []
+  },
+  {
+   "written": "2005",
+   "spoken": "two thousand and five",
+   "it": "anno 2005",
+   "group": "Anni",
+   "alts": [],
+   "note": "Anche twenty oh five, soprattutto negli USA."
+  },
+  {
+   "written": "2024",
+   "spoken": "twenty twenty-four",
+   "it": "anno 2024",
+   "group": "Anni",
+   "alts": [],
+   "note": "Anche two thousand and twenty-four."
+  },
+  {
+   "written": "1990s",
+   "spoken": "the nineteen nineties",
+   "it": "gli anni Novanta",
+   "group": "Anni",
+   "alts": [
+    "1990's"
+   ]
+  },
+  {
+   "written": "07700 900123",
+   "spoken": "oh seven seven double oh nine double oh one two three",
+   "it": "numero di cellulare britannico",
+   "group": "Numeri di telefono",
+   "alts": [
+    "07700900123"
+   ],
+   "note": "Si leggono le cifre una a una; 0 si dice oh e le cifre doppie si dicono double."
+  },
+  {
+   "written": "020 7946 0018",
+   "spoken": "oh two oh seven nine four six double oh one eight",
+   "it": "numero fisso di Londra",
+   "group": "Numeri di telefono",
+   "alts": [
+    "02079460018"
+   ]
+  },
+  {
+   "written": "999",
+   "spoken": "nine nine nine",
+   "it": "numero di emergenza britannico",
+   "group": "Numeri di telefono",
+   "alts": [],
+   "note": "In Gran Bretagna le emergenze si chiamano al nine nine nine."
+  },
+  {
+   "written": "007",
+   "spoken": "double oh seven",
+   "it": "il codice di James Bond",
+   "group": "Numeri di telefono",
+   "alts": [],
+   "note": "Anche oh oh seven."
+  },
+  {
+   "written": "0.5",
+   "spoken": "nought point five",
+   "it": "zero virgola cinque",
+   "group": "Decimali",
+   "alts": [
+    ".5"
+   ],
+   "note": "Negli USA zero si dice zero. Dopo la virgola si leggono le cifre una a una."
+  },
+  {
+   "written": "0.25",
+   "spoken": "nought point two five",
+   "it": "zero virgola venticinque",
+   "group": "Decimali",
+   "alts": [
+    ".25"
+   ]
+  },
+  {
+   "written": "3.14",
+   "spoken": "three point one four",
+   "it": "pi greco",
+   "group": "Decimali",
+   "alts": []
+  },
+  {
+   "written": "12.75",
+   "spoken": "twelve point seven five",
+   "it": "dodici virgola settantacinque",
+   "group": "Decimali",
+   "alts": []
+  },
+  {
+   "written": "1/2",
+   "spoken": "a half",
+   "it": "un mezzo",
+   "group": "Frazioni",
+   "alts": [
+    "half",
+    "one half"
+   ]
+  },
+  {
+   "written": "1/4",
+   "spoken": "a quarter",
+   "it": "un quarto",
+   "group": "Frazioni",
+   "alts": [
+    "one quarter",
+    "quarter"
+   ]
+  },
+  {
+   "written": "3/4",
+   "spoken": "three quarters",
+   "it": "tre quarti",
+   "group": "Frazioni",
+   "alts": []
+  },
+  {
+   "written": "2/3",
+   "spoken": "two thirds",
+   "it": "due terzi",
+   "group": "Frazioni",
+   "alts": []
+  },
+  {
+   "written": "1 1/2",
+   "spoken": "one and a half",
+   "it": "uno e mezzo",
+   "group": "Frazioni",
+   "alts": [
+    "1.5"
+   ]
+  },
+  {
+   "written": "1/8",
+   "spoken": "one eighth",
+   "it": "un ottavo",
+   "group": "Frazioni",
+   "alts": [
+    "an eighth"
+   ]
+  },
+  {
+   "written": "50%",
+   "spoken": "fifty per cent",
+   "it": "cinquanta per cento",
+   "group": "Percentuali",
+   "alts": [
+    "50 per cent",
+    "50 percent"
+   ],
+   "note": "Negli USA si scrive e si dice percent."
+  },
+  {
+   "written": "7.5%",
+   "spoken": "seven point five per cent",
+   "it": "sette virgola cinque per cento",
+   "group": "Percentuali",
+   "alts": []
+  },
+  {
+   "written": "100%",
+   "spoken": "a hundred per cent",
+   "it": "cento per cento",
+   "group": "Percentuali",
+   "alts": [
+    "100 per cent",
+    "one hundred per cent"
+   ]
+  },
+  {
+   "written": "5 + 3 = 8",
+   "spoken": "five plus three equals eight",
+   "it": "addizione",
+   "group": "Operazioni",
+   "alts": [
+    "5+3=8"
+   ],
+   "note": "Anche five plus three is eight."
+  },
+  {
+   "written": "10 - 4 = 6",
+   "spoken": "ten minus four equals six",
+   "it": "sottrazione",
+   "group": "Operazioni",
+   "alts": [
+    "10-4=6"
+   ],
+   "note": "Anche ten take away four is six."
+  },
+  {
+   "written": "6 x 7 = 42",
+   "spoken": "six times seven is forty-two",
+   "it": "moltiplicazione",
+   "group": "Operazioni",
+   "alts": [
+    "6x7=42",
+    "6 × 7 = 42"
+   ],
+   "note": "Anche six multiplied by seven equals forty-two."
+  },
+  {
+   "written": "20 / 5 = 4",
+   "spoken": "twenty divided by five is four",
+   "it": "divisione",
+   "group": "Operazioni",
+   "alts": [
+    "20/5=4",
+    "20 ÷ 5 = 4"
+   ]
+  },
+  {
+   "written": "5 squared",
+   "spoken": "five squared",
+   "it": "cinque al quadrato",
+   "group": "Operazioni",
+   "alts": [
+    "5²"
+   ],
+   "note": "Al cubo si dice cubed."
+  },
+  {
+   "written": "-5",
+   "spoken": "minus five",
+   "it": "meno cinque",
+   "group": "Operazioni",
+   "alts": [
+    "minus 5"
+   ],
+   "note": "Per le temperature anche below zero."
+  }
+ ]
+}

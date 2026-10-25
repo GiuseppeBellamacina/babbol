@@ -1,0 +1,234 @@
+{
+ "id": "res-w-school-study",
+ "kind": "words",
+ "lv": "A2",
+ "title": "Scuola e studio",
+ "intro": "Venti parole utili sul tema «scuola e studio», ciascuna con pronuncia ed esempio.",
+ "items": [
+  {
+   "en": "break",
+   "it": "intervallo",
+   "ipa": "breɪk",
+   "pos": "n",
+   "ex": [
+    "We eat a snack at break.",
+    "Mangiamo uno spuntino durante l'intervallo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "classroom",
+   "it": "aula",
+   "ipa": "ˈklɑːsruːm",
+   "pos": "n",
+   "ex": [
+    "The classroom is on the first floor.",
+    "L'aula è al primo piano."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "degree",
+   "it": "laurea",
+   "ipa": "dɪˈɡriː",
+   "pos": "n",
+   "ex": [
+    "She has a degree in biology.",
+    "Ha una laurea in biologia."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "dictionary",
+   "it": "dizionario",
+   "ipa": "ˈdɪkʃənri",
+   "pos": "n",
+   "ex": [
+    "Look the word up in a dictionary.",
+    "Cerca la parola in un dizionario."
+   ],
+   "lv": "A2",
+   "emoji": "📖"
+  },
+  {
+   "en": "exam",
+   "it": "esame",
+   "ipa": "ɪɡˈzæm",
+   "pos": "n",
+   "ex": [
+    "I have an exam on Monday morning.",
+    "Ho un esame lunedì mattina."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "fail",
+   "it": "bocciare, non superare",
+   "ipa": "feɪl",
+   "pos": "v",
+   "ex": [
+    "He failed the exam because he did not study.",
+    "Non ha superato l'esame perché non ha studiato."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "grade",
+   "it": "voto",
+   "ipa": "ɡreɪd",
+   "pos": "n",
+   "ex": [
+    "I got a good grade in maths.",
+    "Ho preso un bel voto in matematica."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "homework",
+   "it": "compiti",
+   "ipa": "ˈhəʊmwɜːk",
+   "pos": "n",
+   "ex": [
+    "Do your homework before you play.",
+    "Fai i compiti prima di giocare."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "lecture",
+   "it": "lezione universitaria",
+   "ipa": "ˈlektʃə",
+   "pos": "n",
+   "ex": [
+    "The lecture lasted two hours.",
+    "La lezione è durata due ore."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "notebook",
+   "it": "quaderno",
+   "ipa": "ˈnəʊtbʊk",
+   "pos": "n",
+   "ex": [
+    "Write the new words in your notebook.",
+    "Scrivi le parole nuove sul quaderno."
+   ],
+   "lv": "A2",
+   "emoji": "📓"
+  },
+  {
+   "en": "pass",
+   "it": "superare",
+   "ipa": "pɑːs",
+   "pos": "v",
+   "ex": [
+    "I hope I pass the driving test.",
+    "Spero di superare l'esame di guida."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "pencil",
+   "it": "matita",
+   "ipa": "ˈpensl",
+   "pos": "n",
+   "ex": [
+    "Can I borrow a pencil, please?",
+    "Posso prendere in prestito una matita, per favore?"
+   ],
+   "lv": "A2",
+   "emoji": "✏️"
+  },
+  {
+   "en": "pupil",
+   "it": "alunno",
+   "ipa": "ˈpjuːpl",
+   "pos": "n",
+   "ex": [
+    "Every pupil gets a free book.",
+    "Ogni alunno riceve un libro gratuito."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "revise",
+   "it": "ripassare",
+   "ipa": "rɪˈvaɪz",
+   "pos": "v",
+   "ex": [
+    "I revise my notes every evening.",
+    "Ripasso i miei appunti ogni sera."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "rubber",
+   "it": "gomma",
+   "ipa": "ˈrʌbə",
+   "pos": "n",
+   "ex": [
+    "I need a rubber to correct this.",
+    "Mi serve una gomma per correggere questo."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "ruler",
+   "it": "righello",
+   "ipa": "ˈruːlə",
+   "pos": "n",
+   "ex": [
+    "Use a ruler to draw a straight line.",
+    "Usa un righello per tracciare una linea retta."
+   ],
+   "lv": "A2",
+   "emoji": "📏"
+  },
+  {
+   "en": "subject",
+   "it": "materia",
+   "ipa": "ˈsʌbdʒɪkt",
+   "pos": "n",
+   "ex": [
+    "History is my favourite subject.",
+    "La storia è la mia materia preferita."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "textbook",
+   "it": "libro di testo",
+   "ipa": "ˈtekstbʊk",
+   "pos": "n",
+   "ex": [
+    "Open your textbook at page ten.",
+    "Aprite il libro di testo a pagina dieci."
+   ],
+   "lv": "A2",
+   "emoji": "📚"
+  },
+  {
+   "en": "university",
+   "it": "università",
+   "ipa": "ˌjuːnɪˈvɜːsəti",
+   "pos": "n",
+   "ex": [
+    "He studies law at university.",
+    "Studia legge all'università."
+   ],
+   "lv": "A2"
+  },
+  {
+   "en": "whiteboard",
+   "it": "lavagna bianca",
+   "ipa": "ˈwaɪtbɔːd",
+   "pos": "n",
+   "ex": [
+    "The teacher wrote the date on the whiteboard.",
+    "L'insegnante ha scritto la data sulla lavagna."
+   ],
+   "lv": "A2"
+  }
+ ]
+}

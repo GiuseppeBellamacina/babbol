@@ -348,6 +348,7 @@
     {
      "id": "a2-04-w01",
      "en": "neighbourhood",
+     "photo": "neighbourhood",
      "it": "quartiere, zona",
      "ipa": "ˈneɪbəhʊd",
      "pos": "n",
@@ -395,6 +396,7 @@
     {
      "id": "a2-04-w05",
      "en": "crossroads",
+     "photo": "crossroads",
      "it": "incrocio",
      "ipa": "ˈkrɒsrəʊdz",
      "pos": "n",
@@ -407,6 +409,7 @@
     {
      "id": "a2-04-w06",
      "en": "roundabout",
+     "photo": "roundabout",
      "it": "rotonda",
      "ipa": "ˈraʊndəbaʊt",
      "pos": "n",
@@ -418,6 +421,7 @@
     {
      "id": "a2-04-w07",
      "en": "traffic lights",
+     "photo": "traffic-lights",
      "it": "semaforo",
      "ipa": "ˈtræfɪk laɪts",
      "pos": "n",
@@ -430,6 +434,7 @@
     {
      "id": "a2-04-w08",
      "en": "pavement",
+     "photo": "pavement",
      "it": "marciapiede",
      "ipa": "ˈpeɪvmənt",
      "pos": "n",
@@ -606,6 +611,7 @@
    "steps": [
     {
      "t": "read",
+     "photo": "r-a2-04",
      "title": "Small town or big city?",
      "genre": "blog",
      "text": "I grew up in a small town near Bergamo, and now I live in Manchester. I moved here two years ago. People often ask me which place I like more, and it isn't an easy question.\n\nMy town is much quieter than Manchester. Everybody knows everybody, the air is cleaner and the mountains are only twenty minutes away. But it isn't as exciting: the cinema closed years ago and the last bus leaves at ten o'clock. If you want to go out at night, you really need a car.\n\nManchester is bigger, noisier and more crowded, and the weather is definitely worse! It rains almost every day. However, I think it's the best city I know for music. There are small concerts every evening, and you can get anywhere by tram or bus. My flat is a bit too small for two people, and the rent is higher than at home, but my neighbours are friendly and the nearest park is just round the corner.\n\nSo, which one is better? When I want peace, I choose my town. When I want to meet new people, Manchester is easily the winner. Luckily, I can have both: I go home every summer.",

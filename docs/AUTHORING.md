@@ -64,6 +64,10 @@ Se segnala una parola già presente in un'altra unità, cambia la **tua** parola
 - deve leggersi bene sia su tema chiaro sia scuro (una scena con sfondo pieno va bene ovunque)
 - controlla il risultato con `node tools/svg-preview.js` (immagine in `build/shots/svg-sheet.png`): se sembra un disegno da bambini, rifallo o non metterlo.
 
+**Foto reali.** Per oggetti, luoghi e scene: `"photo": "<id>"` (parola, `read`, `speakTask`, `write`) o `"photos": ["<id>", "<id>"]` per il confronto B2. Si cercano e si scaricano con `tools/photos.js` (Wikimedia Commons, licenze CC0/PD/CC BY/CC BY-SA, ridotte a 520x440 WebP): procedura, criteri e scelta «incluse o link» in `docs/IMAGES.md`. Dopo ogni foto nuova: `node tools/photos.js credits`.
+
+**Schemi di grammatica.** Linee del tempo e strutture: `"svg": "<nome>"` su una nota, file in `www/img/g/` (generati da `build/gen-g.js`).
+
 Per i concetti astratti niente immagini.
 
 ## Mai
