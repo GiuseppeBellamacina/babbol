@@ -383,6 +383,7 @@
      "it": "rimborsare",
      "ipa": "ˌriːɪmˈbɜːs",
      "pos": "v",
+     "syn": ["repay","refund","pay back"],
      "ex": [
       "The company will reimburse you for your travel costs.",
       "L'azienda ti rimborserà le spese di viaggio."
@@ -429,6 +430,7 @@
      "it": "preventivo, stima",
      "ipa": "ˈestɪmət",
      "pos": "n",
+     "syn": ["quote","quotation"],
      "ex": [
       "We asked three builders for an estimate.",
       "Abbiamo chiesto un preventivo a tre imprese edili."

@@ -115,7 +115,29 @@
     });
   }
 
+  // ---------------------------------------------------------------- segnalazioni di errori
+  // si mette in coda (localStorage) e si invia appena possibile: un errore di rete non fa perdere la segnalazione
+  var QKEY = "babbol.reports";
+  function flushReports() {
+    var q = read(QKEY) || [];
+    if (!q.length || !session) return Promise.resolve(!q.length);
+    var it = q[0];
+    return rpc("report_issue", { p_ref: it.ref, p_step: it.step, p_note: it.note, p_ver: it.ver }).then(function () { return true; }, function (e) {
+      if (e.status === 0 || e.status >= 500) throw e;   // offline o server giù: si riprova più tardi
+      return true;                                       // rifiutata (troppe segnalazioni, dati non validi): inutile ripetere
+    }).then(function () { q.shift(); write(QKEY, q.length ? q : null); return flushReports(); }, function () { return false; });
+  }
+
   var Cloud = B.cloud = {
+    /** Segnala un errore in un esercizio. Ritorna una Promise: true = inviata, false = in coda, da inviare appena c'è rete. */
+    report: function (info) {
+      var q = read(QKEY) || [];
+      q.push({ ref: String(info.ref || "").slice(0, 200), step: String(info.step || "").slice(0, 600), note: String(info.note || "").slice(0, 500), ver: B.VERSION });
+      write(QKEY, q.slice(-20));
+      return flushReports();
+    },
+    pendingReports: function () { return (read(QKEY) || []).length; },
+
     user: function () { return session && session.user; },
     loggedIn: function () { return !!session; },
     onChange: null,            // chiamata quando cambia lo stato di login (impostata dalla UI)
@@ -187,7 +209,7 @@
     _signedOut: function (wipe) {
       setSession(null);
       meta = { contentAt: meta.contentAt, syncAt: 0, pullAt: 0 }; saveMeta();
-      if (wipe) B.store.wipe();
+      if (wipe) { B.store.wipe(); write(QKEY, null); }
       if (Cloud.onChange) Cloud.onChange(false);
     },
 
@@ -220,6 +242,7 @@
     wake: function () {
       if (!session) return Promise.resolve();
       var jobs = [Cloud.checkContent(false).catch(function () { /* offline */ })];
+      if (read(QKEY)) jobs.push(flushReports());
       if (Date.now() - meta.pullAt > PULL_EVERY) jobs.push(pull().catch(function () { /* offline */ }));
       return Promise.all(jobs).then(function () { return Cloud.sync(false).catch(function () { /* offline */ }); });
     }

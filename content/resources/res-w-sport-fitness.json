@@ -21,6 +21,9 @@
    "it": "campione",
    "ipa": "ˈtʃæmpiən",
    "pos": "n",
+   "syn": [
+    "winner"
+   ],
    "ex": [
     "She became the national champion at sixteen.",
     "È diventata campionessa nazionale a sedici anni."
@@ -32,6 +35,9 @@
    "it": "allenatore",
    "ipa": "kəʊtʃ",
    "pos": "n",
+   "syn": [
+    "trainer"
+   ],
    "ex": [
     "Our coach is very strict.",
     "Il nostro allenatore è molto severo."
@@ -43,6 +49,9 @@
    "it": "pareggio",
    "ipa": "drɔː",
    "pos": "n",
+   "syn": [
+    "tie"
+   ],
    "ex": [
     "The match ended in a draw.",
     "La partita è finita in pareggio."
@@ -76,6 +85,10 @@
    "it": "sano",
    "ipa": "ˈhelθi",
    "pos": "adj",
+   "syn": [
+    "fit",
+    "well"
+   ],
    "ex": [
     "A healthy diet gives you more energy.",
     "Una dieta sana ti dà più energia."
@@ -109,6 +122,9 @@
    "it": "avversario",
    "ipa": "əˈpəʊnənt",
    "pos": "n",
+   "syn": [
+    "rival"
+   ],
    "ex": [
     "His opponent was much taller than him.",
     "Il suo avversario era molto più alto di lui."
@@ -188,6 +204,10 @@
    "it": "iniziare (un'attività)",
    "ipa": "teɪk ʌp",
    "pos": "phr",
+   "syn": [
+    "start",
+    "begin"
+   ],
    "ex": [
     "I took up yoga last year.",
     "Ho iniziato yoga l'anno scorso."
@@ -199,6 +219,9 @@
    "it": "torneo",
    "ipa": "ˈtʊənəmənt",
    "pos": "n",
+   "syn": [
+    "competition"
+   ],
    "ex": [
     "Our team won the tournament.",
     "La nostra squadra ha vinto il torneo."
@@ -221,6 +244,9 @@
    "it": "allenamento",
    "ipa": "ˈwɜːkaʊt",
    "pos": "n",
+   "syn": [
+    "exercise"
+   ],
    "ex": [
     "I do a short workout before breakfast.",
     "Faccio un breve allenamento prima di colazione."

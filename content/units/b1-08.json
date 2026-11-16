@@ -339,6 +339,7 @@
           "it": "pacco",
           "ipa": "ˈpɑːsl",
           "pos": "n",
+          "syn": ["package"],
           "ex": [
             "A parcel arrived for you this morning.",
             "Stamattina è arrivato un pacco per te."
@@ -377,6 +378,7 @@
           "it": "esaurito, non disponibile",
           "ipa": "aʊt əv ˈstɒk",
           "pos": "phr",
+          "syn": ["sold out"],
           "ex": [
             "The blue one is out of stock at the moment.",
             "Quello blu al momento è esaurito."
@@ -401,6 +403,7 @@
           "it": "spedire, inviare",
           "ipa": "dɪˈspætʃ",
           "pos": "v",
+          "syn": ["send","ship"],
           "ex": [
             "Orders are dispatched within 24 hours.",
             "Gli ordini vengono spediti entro 24 ore."
@@ -413,6 +416,7 @@
           "it": "resistente, durevole",
           "ipa": "ˈdjʊərəbl",
           "pos": "adj",
+          "syn": ["long-lasting","hard-wearing"],
           "ex": [
             "This backpack is durable, so it will last for years.",
             "Questo zaino è resistente, quindi durerà anni."
@@ -437,6 +441,7 @@
           "it": "elegante, alla moda",
           "ipa": "ˈstaɪlɪʃ",
           "pos": "adj",
+          "syn": ["fashionable","smart","chic"],
           "ex": [
             "She was wearing a very stylish coat.",
             "Indossava un cappotto molto elegante."
@@ -473,6 +478,7 @@
           "it": "consigliare",
           "ipa": "ˌrekəˈmend",
           "pos": "v",
+          "syn": ["suggest","advise"],
           "ex": [
             "I'd recommend this shop to anyone.",
             "Consiglierei questo negozio a chiunque."
@@ -485,6 +491,7 @@
           "it": "annullare, cancellare",
           "ipa": "ˈkænsl",
           "pos": "v",
+          "syn": ["call off"],
           "ex": [
             "I'd like to cancel my order, please.",
             "Vorrei annullare il mio ordine, per favore."

@@ -324,6 +324,7 @@
           "it": "testimone",
           "ipa": "ˈwɪtnəs",
           "pos": "n",
+          "syn": ["eyewitness"],
           "ex": [
             "A witness saw two men leaving the shop.",
             "Un testimone ha visto due uomini uscire dal negozio."
@@ -443,6 +444,7 @@
           "it": "alla fine, col tempo",
           "ipa": "ɪˈventʃuəli",
           "pos": "adv",
+          "syn": ["finally","in the end"],
           "ex": [
             "Eventually the police found the stolen car.",
             "Alla fine la polizia ha trovato l'auto rubata."
@@ -455,6 +457,7 @@
           "it": "nel frattempo",
           "ipa": "ˈmiːnwaɪl",
           "pos": "adv",
+          "syn": ["in the meantime"],
           "ex": [
             "I went to the police. Meanwhile, my friend cancelled the cards.",
             "Sono andato alla polizia. Nel frattempo, il mio amico ha bloccato le carte."

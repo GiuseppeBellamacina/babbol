@@ -201,6 +201,7 @@
           h("div", { class: "word-en" }, w.en, " ", h("span", { class: "word-pos" }, w.pos || ""), " ", B.icon("speaker", 16, "mini")),
           h("div", { class: "word-ipa" }, "/" + w.ipa + "/"),
           h("div", { class: "word-it" }, w.it),
+          B.synLine(w),
           w.note ? h("div", { class: "word-note" }, w.note) : null),
         w.ex ? h("div", { class: "word-ex", onclick: function () { B.speech.speak(w.ex[0]); } }, h("div", null, w.ex[0]), h("div", { class: "muted" }, w.ex[1])) : null));
     });
@@ -658,7 +659,9 @@
     var hintBtn = cfg.mode === "lesson" && cfg.unitId
       ? h("button", { class: "icon-btn hint-btn", "aria-label": "Suggerimento: grammatica e parole", onclick: function () { B.ui.hintSheet(cfg.unitId, cfg.kind); } }, B.icon("bulb", 22))
       : null;
-    overlay.appendChild(h("div", { class: "session" }, h("div", { class: "s-top" }, closeBtn, bar, clock, hintBtn), body, foot));
+    // segnala un errore nell'esercizio (non nei test e negli esami)
+    var reportBtn = cfg.quiet ? null : h("button", { class: "icon-btn report-btn", "aria-label": "Segnala un errore", onclick: function () { reportStep(); } }, B.icon("flag", 22));
+    overlay.appendChild(h("div", { class: "session" }, h("div", { class: "s-top" }, closeBtn, bar, clock, hintBtn, reportBtn), body, foot));
     S.ui = { bar: bar.firstChild, body: body, foot: foot, fb: fb, main: main, clock: clock, back: backBtn };
     function updateBack() { S.ui.back.style.display = S.done.length && (S.phase === "question" || S.phase === "feedback") ? "" : "none"; }
 
@@ -678,6 +681,24 @@
       press: function () { if (!S.ui.main.disabled && S.ui.main.style.display !== "none") S.ui.main.click(); },
       submit: function (result) { if (S.phase === "question") resolve(result); }
     };
+
+    function reportStep() {
+      var st = S.step;
+      if (!st) return;
+      var pick = {};
+      ["t", "q", "s", "text", "en", "it", "answers", "opts", "a", "title"].forEach(function (k) { if (st[k] != null) pick[k] = st[k]; });
+      var note = h("textarea", { class: "report-note", maxlength: "500", rows: "3", placeholder: "Che cosa non va? (facoltativo)" });
+      B.ui.modal({
+        icon: "flag", title: "Segnala un errore",
+        body: h("div", null, h("p", { class: "sheet-text" }, "Risposta sbagliata, frase strana, audio che non va? Mandaci una segnalazione su questo esercizio."), note),
+        buttons: [{ label: "ANNULLA", value: false }, { label: "INVIA", value: true, cls: "primary" }]
+      }).then(function (ok) {
+        if (!ok) return;
+        B.cloud.report({ ref: cfg.lessonId || cfg.title || cfg.mode, step: JSON.stringify(pick), note: note.value.trim() }).then(function (sent) {
+          B.ui.toast(sent ? "Grazie, segnalazione inviata" : "Segnalazione salvata: la invio appena c'è rete");
+        });
+      });
+    }
 
     function drawBar() { S.ui.bar.style.width = Math.round(100 * S.passed / S.total) + "%"; }
 

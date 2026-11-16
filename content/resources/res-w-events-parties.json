@@ -124,6 +124,9 @@
    "it": "regalo",
    "ipa": "ɡɪft",
    "pos": "n",
+   "syn": [
+    "present"
+   ],
    "ex": [
     "She gave me a small gift from Spain.",
     "Mi ha dato un piccolo regalo dalla Spagna."
@@ -136,6 +139,9 @@
    "it": "sposo",
    "ipa": "ɡruːm",
    "pos": "n",
+   "syn": [
+    "bridegroom"
+   ],
    "ex": [
     "The groom was very nervous.",
     "Lo sposo era molto agitato."
@@ -193,6 +199,10 @@
    "it": "organizzare una festa",
    "ipa": "θrəʊ ə ˈpɑːti",
    "pos": "phr",
+   "syn": [
+    "have a party",
+    "hold a party"
+   ],
    "ex": [
     "They threw a party to say goodbye.",
     "Hanno organizzato una festa per salutarsi."
@@ -215,6 +225,10 @@
    "it": "presentarsi",
    "ipa": "tɜːn ʌp",
    "pos": "phr",
+   "syn": [
+    "show up",
+    "arrive"
+   ],
    "ex": [
     "Only ten guests turned up.",
     "Si sono presentati solo dieci ospiti."

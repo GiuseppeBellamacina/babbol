@@ -10,6 +10,9 @@
    "it": "autore",
    "ipa": "ˈɔːθə",
    "pos": "n",
+   "syn": [
+    "writer"
+   ],
    "ex": [
     "The author signed copies after the talk.",
     "L'autore ha firmato delle copie dopo l'incontro."
@@ -65,6 +68,10 @@
    "it": "creativo",
    "ipa": "kriˈeɪtɪv",
    "pos": "adj",
+   "syn": [
+    "imaginative",
+    "inventive"
+   ],
    "ex": [
     "She has a very creative way of teaching.",
     "Ha un modo di insegnare molto creativo."
@@ -98,6 +105,10 @@
    "it": "ispirare",
    "ipa": "ɪnˈspaɪə",
    "pos": "v",
+   "syn": [
+    "motivate",
+    "encourage"
+   ],
    "ex": [
     "The village inspired many of his paintings.",
     "Il villaggio ha ispirato molti dei suoi dipinti."
@@ -142,6 +153,9 @@
    "it": "trama",
    "ipa": "plɒt",
    "pos": "n",
+   "syn": [
+    "storyline"
+   ],
    "ex": [
     "The plot of the film is hard to follow.",
     "La trama del film è difficile da seguire."

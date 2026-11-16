@@ -33,6 +33,7 @@
         h("div", { class: "word-en" }, w.en, " ", h("span", { class: "word-pos" }, w.pos || ""), " ", B.icon("speaker", 14, "mini")),
         h("div", { class: "word-ipa" }, "/" + w.ipa + "/"),
         h("div", { class: "word-it" }, w.it),
+        B.synLine(w),
         w.note ? h("div", { class: "word-note" }, w.note) : null,
         w.ex ? h("div", { class: "hint-ex" }, w.ex[0], h("div", { class: "muted small" }, w.ex[1])) : null));
   }

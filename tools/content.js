@@ -65,6 +65,19 @@ function validate(all) {
 
   // emoji ammesse SOLO come immagine di una parola (campo `emoji` delle words, una sola emoji); vietate ovunque altrove
   const ONE_EMOJI = /^\p{Extended_Pictographic}️?(‍\p{Extended_Pictographic}️?)*$/u;
+  // sinonimi (facoltativi) di una parola: da 1 a 4, inglese semplice, mai la parola stessa
+  function checkSyn(w, where) {
+    if (w.syn == null) return;
+    if (!(Array.isArray(w.syn) && w.syn.length >= 1 && w.syn.length <= 4)) return err(where, "syn deve essere un elenco di 1-4 sinonimi");
+    const seen = {};
+    w.syn.forEach((s) => {
+      if (!/^[a-z][a-z' -]{0,23}$/.test(s)) err(where, "syn: «" + s + "» non valido (minuscolo, solo lettere, max 24)");
+      if (s === String(w.en).toLowerCase()) err(where, "syn: «" + s + "» è la parola stessa");
+      if (seen[s]) err(where, "syn: «" + s + "» ripetuto");
+      seen[s] = 1;
+    });
+  }
+
   function scanEmoji(obj, where) {
     JSON.stringify(obj, function (k, v) {
       if (k === "emoji" && this && this.en && this.it) {
@@ -220,6 +233,7 @@ function validate(all) {
         if (!str(w.en) || !str(w.it) || !str(w.ipa) || !(Array.isArray(w.ex) && w.ex.length === 2)) err(ww, "en/it/ipa/ex");
         if (w.img && !fs.existsSync(path.join(IMG, w.img + ".svg"))) err(ww, "img mancante: www/img/v/" + w.img + ".svg");
         if (w.img && w.emoji) err(ww, "usa emoji OPPURE img, non entrambi");
+        checkSyn(w, ww);
         const k = String(w.en).toLowerCase().trim();
         if (seenWords[k]) err(ww, "parola «" + w.en + "» già presente in " + seenWords[k] + " (duplicherebbe il ripasso)");
         else seenWords[k] = l.id;
@@ -374,6 +388,7 @@ function validate(all) {
       if (it.lv != null && LEVELS.indexOf(it.lv) < 0) err(w, "lv deve essere A2, B1 o B2");
       if (it.ex != null && !(Array.isArray(it.ex) && it.ex.length === 2 && it.ex.every(str))) err(w, "ex deve essere [inglese, italiano]");
       if (it.alts != null && !arrOf(it.alts)) err(w, "alts deve essere un elenco di stringhe");
+      if (r.kind === "words") checkSyn(it, w);
       if (r.kind === "words") {
         if (!it.ex) err(w, "words: manca la frase d'esempio ex");
         if (unitWords.has(key)) err(w, "parola «" + it.en + "» già presente nelle unità");

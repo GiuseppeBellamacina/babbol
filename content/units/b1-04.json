@@ -344,6 +344,7 @@
           "it": "dispositivo",
           "ipa": "dɪˈvaɪs",
           "pos": "n",
+          "syn": ["gadget"],
           "ex": [
             "You can connect up to five devices to the network.",
             "Puoi collegare fino a cinque dispositivi alla rete."
@@ -393,6 +394,7 @@
           "it": "installare",
           "ipa": "ɪnˈstɔːl",
           "pos": "v",
+          "syn": ["set up"],
           "ex": [
             "The technician installed the new software yesterday.",
             "Il tecnico ha installato il nuovo software ieri."
@@ -441,6 +443,7 @@
           "it": "accedere (a un account)",
           "ipa": "lɒɡ ˈɪn",
           "pos": "pv",
+          "syn": ["sign in"],
           "ex": [
             "I can't log in to my account.",
             "Non riesco ad accedere al mio account."
@@ -488,6 +491,7 @@
           "it": "impostazioni",
           "ipa": "ˈsetɪŋz",
           "pos": "n",
+          "syn": ["options","preferences"],
           "ex": [
             "Go to settings and turn on Bluetooth.",
             "Vai nelle impostazioni e attiva il Bluetooth."
@@ -500,6 +504,7 @@
           "it": "piccolo difetto, intoppo",
           "ipa": "ɡlɪtʃ",
           "pos": "n",
+          "syn": ["bug","fault","hitch"],
           "ex": [
             "It's just a temporary glitch; try again later.",
             "È solo un intoppo temporaneo; riprova più tardi."

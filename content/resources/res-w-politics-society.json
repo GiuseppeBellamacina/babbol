@@ -10,6 +10,10 @@
    "it": "campagna",
    "ipa": "kæmˈpeɪn",
    "pos": "n",
+   "syn": [
+    "crusade",
+    "drive"
+   ],
    "ex": [
     "The campaign lasted six weeks.",
     "La campagna è durata sei settimane."
@@ -32,6 +36,9 @@
    "it": "coalizione",
    "ipa": "ˌkəʊəˈlɪʃn",
    "pos": "n",
+   "syn": [
+    "alliance"
+   ],
    "ex": [
     "Three parties formed a coalition government.",
     "Tre partiti hanno formato un governo di coalizione."
@@ -164,6 +171,10 @@
    "it": "manifestazione",
    "ipa": "ˈprəʊtest",
    "pos": "n",
+   "syn": [
+    "demonstration",
+    "march"
+   ],
    "ex": [
     "Thousands joined the protest in the capital.",
     "Migliaia di persone hanno partecipato alla manifestazione nella capitale."
@@ -219,6 +230,10 @@
    "it": "assistenza sociale",
    "ipa": "ˈwelfeə",
    "pos": "n",
+   "syn": [
+    "benefits",
+    "social security"
+   ],
    "ex": [
     "The country spends a lot on welfare.",
     "Il paese spende molto per l'assistenza sociale."

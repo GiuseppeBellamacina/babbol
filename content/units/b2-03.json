@@ -324,6 +324,7 @@
      "it": "indizio",
      "ipa": "kluː",
      "pos": "n",
+     "syn": ["hint","lead"],
      "ex": [
       "The torn letter was the first clue.",
       "La lettera strappata fu il primo indizio."
@@ -336,6 +337,7 @@
      "it": "ipotesi",
      "ipa": "haɪˈpɒθəsɪs",
      "pos": "n",
+     "syn": ["theory"],
      "ex": [
       "Our hypothesis is that the signal comes from the lab next door.",
       "La nostra ipotesi è che il segnale arrivi dal laboratorio accanto."
@@ -348,6 +350,7 @@
      "it": "escludere",
      "ipa": "ˌruːl ˈaʊt",
      "pos": "pv",
+     "syn": ["exclude","eliminate"],
      "ex": [
       "Doctors have ruled out a heart problem.",
       "I medici hanno escluso un problema cardiaco."
@@ -359,6 +362,7 @@
      "it": "indagare su",
      "ipa": "ˈlʊk ˌɪntuː",
      "pos": "pv",
+     "syn": ["investigate","examine"],
      "ex": [
       "The council has promised to look into the complaints.",
       "Il comune ha promesso di indagare sui reclami."
@@ -371,6 +375,7 @@
      "it": "sconcertante, incomprensibile",
      "ipa": "ˈbæflɪŋ",
      "pos": "adj",
+     "syn": ["puzzling","confusing","bewildering"],
      "ex": [
       "The disappearance of the files remains baffling.",
       "La scomparsa dei file resta incomprensibile."
@@ -383,6 +388,7 @@
      "it": "manomettere",
      "ipa": "ˈtæmpə wɪð",
      "pos": "pv",
+     "syn": ["interfere with"],
      "ex": [
       "Someone had tampered with the lock.",
       "Qualcuno aveva manomesso la serratura."
@@ -405,6 +411,7 @@
      "it": "decisivo, concludente",
      "ipa": "kənˈkluːsɪv",
      "pos": "adj",
+     "syn": ["decisive","definitive"],
      "ex": [
       "There is no conclusive proof that the water was polluted.",
       "Non c'è una prova decisiva che l'acqua fosse inquinata."
@@ -417,6 +424,7 @@
      "it": "mettere in dubbio",
      "ipa": "ˌkɑːst ˈdaʊt ɒn",
      "pos": "phr",
+     "syn": ["question"],
      "ex": [
       "The new data cast doubt on the original theory.",
       "I nuovi dati mettono in dubbio la teoria iniziale."
@@ -439,6 +447,7 @@
      "it": "risultati (di una ricerca)",
      "ipa": "ˈfaɪndɪŋz",
      "pos": "n",
+     "syn": ["results"],
      "ex": [
       "The findings of the study will be published next month.",
       "I risultati dello studio saranno pubblicati il mese prossimo."
@@ -451,6 +460,7 @@
      "it": "rintracciare; traccia",
      "ipa": "treɪs",
      "pos": "v",
+     "syn": ["track down","find"],
      "ex": [
       "Engineers traced the fault to a loose cable.",
       "Gli ingegneri hanno fatto risalire il guasto a un cavo allentato."
@@ -463,6 +473,7 @@
      "it": "plausibile",
      "ipa": "ˈplɔːzəbl",
      "pos": "adj",
+     "syn": ["believable","credible"],
      "ex": [
       "Her explanation sounded perfectly plausible.",
       "La sua spiegazione sembrava del tutto plausibile."
@@ -474,6 +485,7 @@
      "it": "inverosimile, tirato per i capelli",
      "ipa": "ˌfɑː ˈfetʃt",
      "pos": "adj",
+     "syn": ["unlikely","implausible","unbelievable"],
      "ex": [
       "The idea that the bridge was built by aliens is far-fetched.",
       "L'idea che il ponte sia stato costruito dagli alieni è inverosimile."

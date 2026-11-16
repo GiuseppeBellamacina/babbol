@@ -42,7 +42,25 @@
     var opts = B.shuffle([w[field]].concat(others(w, 3, field)));
     return Object.assign({ t: "mc", opts: opts, a: opts.indexOf(w[field]), wordId: w.id, _skill: "vocab" }, base);
   }
+  // sinonimo giusto tra parole non confondibili (stessa categoria, nessun sinonimo in comune, stessa traduzione esclusa)
+  function synStep(w) {
+    var ok = w.syn && w.syn.length;
+    if (!ok) return null;
+    var mine = [w.en.toLowerCase()].concat(w.syn);
+    var pool = R.allWords().filter(function (o) {
+      if (o.id === w.id || o.pos !== w.pos || o.it === w.it) return false;
+      var theirs = [o.en.toLowerCase()].concat(o.syn || []);
+      return !mine.some(function (m) { return theirs.indexOf(m) >= 0; });
+    });
+    var near = B.shuffle(pool.filter(function (o) { return o.level === w.level; })), rest = B.shuffle(pool);
+    var wrongs = [];
+    near.concat(rest).forEach(function (o) { if (wrongs.length < 3 && wrongs.indexOf(o.en) < 0) wrongs.push(o.en); });
+    if (wrongs.length < 3) return null;
+    var right = B.pick(w.syn), opts = B.shuffle([right].concat(wrongs));
+    return { t: "mc", q: "Quale parola ha un significato simile?", text: w.en, sub: "/" + w.ipa + "/", say: w.en, opts: opts, a: opts.indexOf(right), wordId: w.id, _skill: "vocab" };
+  }
   var WORD_STEPS = {
+    syn: function (w) { return synStep(w) || WORD_STEPS.enIt(w); },
     pic: function (w) { return mcWord({ q: "Che cos'è?", img: w.img, emoji: w.emoji, photo: w.photo, speakOnPick: true, sayAfter: w.en }, w, "en"); },
     itEn: function (w) { return mcWord({ q: "Come si dice in inglese?", text: w.it, speakOnPick: true, sayAfter: w.en }, w, "en"); },
     enIt: function (w) { return mcWord({ q: "Che cosa significa?", text: w.en, sub: "/" + w.ipa + "/", say: w.en }, w, "it"); },
@@ -61,7 +79,7 @@
   }
   // n esercizi misti, ognuno su una parola diversa finché possibile, dal riconoscimento alla produzione
   function drill(words, n) {
-    var order = ["itEn", "enIt", "listen", "pic", "useIt", "type", "listenType", "itEn", "useIt", "type"];
+    var order = ["itEn", "enIt", "listen", "pic", "useIt", "type", "syn", "listenType", "itEn", "useIt", "type"];
     var q = B.shuffle(words), out = [], i = 0;
     for (var k = 0; out.length < n; k++) {
       if (k === 3 && words.length >= 5) { out.push(matchWords(B.sample(words, 5))); continue; }
@@ -76,7 +94,7 @@
   // esercizio di ripasso adatto alla "forza" della parola
   function reviewWordStep(w, box) {
     if (box <= 1) return (B.hasPic(w) ? WORD_STEPS.pic : WORD_STEPS.itEn)(w);
-    if (box <= 3) return B.pick([WORD_STEPS.enIt, WORD_STEPS.listen, WORD_STEPS.useIt])(w);
+    if (box <= 3) return B.pick(w.syn && w.syn.length ? [WORD_STEPS.enIt, WORD_STEPS.listen, WORD_STEPS.useIt, WORD_STEPS.syn] : [WORD_STEPS.enIt, WORD_STEPS.listen, WORD_STEPS.useIt])(w);
     return B.pick([WORD_STEPS.type, WORD_STEPS.listenType, WORD_STEPS.useIt])(w);
   }
 

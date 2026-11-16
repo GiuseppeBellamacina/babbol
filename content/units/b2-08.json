@@ -412,6 +412,7 @@
      "it": "affrontare (un problema)",
      "ipa": "ˈtækl",
      "pos": "v",
+     "syn": ["deal with","address"],
      "ex": [
       "Governments must tackle climate change without delay.",
       "I governi devono affrontare il cambiamento climatico senza ritardi."
@@ -448,6 +449,7 @@
      "it": "carenza",
      "ipa": "ˈʃɔːtɪdʒ",
      "pos": "n",
+     "syn": ["lack","scarcity"],
      "ex": [
       "There is a serious shortage of drinking water in the region.",
       "C'è una grave carenza di acqua potabile nella regione."
@@ -460,6 +462,7 @@
      "it": "drastico",
      "ipa": "ˈdræstɪk",
      "pos": "adj",
+     "syn": ["extreme","severe","radical"],
      "ex": [
       "Drastic measures are needed to protect the coast.",
       "Servono misure drastiche per proteggere la costa."
@@ -472,6 +475,7 @@
      "it": "vietare",
      "ipa": "bæn",
      "pos": "v",
+     "syn": ["forbid","prohibit"],
      "ex": [
       "The council has banned cars from the old town.",
       "Il comune ha vietato le auto nel centro storico."

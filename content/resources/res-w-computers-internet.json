@@ -54,6 +54,10 @@
    "it": "cancellare",
    "ipa": "dɪˈliːt",
    "pos": "v",
+   "syn": [
+    "remove",
+    "erase"
+   ],
    "ex": [
     "Please delete the old files from your desktop.",
     "Cancella i vecchi file dal desktop, per favore."
@@ -177,6 +181,9 @@
    "it": "posta indesiderata",
    "ipa": "spæm",
    "pos": "n",
+   "syn": [
+    "junk mail"
+   ],
    "ex": [
     "Most of my emails are spam.",
     "La maggior parte delle mie email è posta indesiderata."
@@ -221,6 +228,9 @@
    "it": "sito web",
    "ipa": "ˈwebsaɪt",
    "pos": "n",
+   "syn": [
+    "site"
+   ],
    "ex": [
     "The company has a new website.",
     "L'azienda ha un nuovo sito web."

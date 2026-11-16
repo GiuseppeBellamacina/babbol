@@ -413,6 +413,7 @@
      "it": "bagagli",
      "ipa": "ˈlʌɡɪdʒ",
      "pos": "n",
+     "syn": ["baggage"],
      "ex": [
       "Our luggage arrived two hours late.",
       "I nostri bagagli sono arrivati con due ore di ritardo."
@@ -449,6 +450,7 @@
      "it": "prenotare",
      "ipa": "bʊk",
      "pos": "v",
+     "syn": ["reserve"],
      "ex": [
       "We booked the hotel online.",
       "Abbiamo prenotato l'albergo online."
@@ -499,6 +501,7 @@
      "it": "viaggio (spostamento)",
      "ipa": "ˈdʒɜːni",
      "pos": "n",
+     "syn": ["trip"],
      "ex": [
       "The journey from Turin to Paris was long.",
       "Il viaggio da Torino a Parigi è stato lungo."
@@ -511,6 +514,7 @@
      "it": "all'estero",
      "ipa": "əˈbrɔːd",
      "pos": "adv",
+     "syn": ["overseas"],
      "ex": [
       "She studied abroad for a year.",
       "Ha studiato all'estero per un anno."

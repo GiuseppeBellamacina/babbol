@@ -354,6 +354,7 @@
           "it": "giornalista",
           "ipa": "ˈdʒɜːnəlɪst",
           "pos": "n",
+          "syn": ["reporter"],
           "ex": [
             "She works as a journalist for a local paper.",
             "Fa la giornalista per un giornale locale."
@@ -366,6 +367,7 @@
           "it": "pubblicità (singola)",
           "ipa": "ˈædvɜːt",
           "pos": "n",
+          "syn": ["advertisement","ad","commercial"],
           "ex": [
             "There's a funny advert for that shampoo on TV.",
             "C'è una pubblicità divertente di quello shampoo in TV."
@@ -390,6 +392,7 @@
           "it": "voce, diceria",
           "ipa": "ˈruːmə",
           "pos": "n",
+          "syn": ["gossip"],
           "ex": [
             "There's a rumour that the shop is closing.",
             "Gira voce che il negozio chiuda."
@@ -414,6 +417,7 @@
           "it": "segreteria telefonica",
           "ipa": "ˈvɔɪsmeɪl",
           "pos": "n",
+          "syn": ["answerphone","answering machine"],
           "ex": [
             "I got your voicemail, sorry I missed your call.",
             "Ho sentito il tuo messaggio in segreteria, scusa se ho perso la chiamata."
@@ -450,6 +454,7 @@
           "it": "richiamare",
           "ipa": "kɔːl ˈbæk",
           "pos": "pv",
+          "syn": ["ring back","phone back"],
           "ex": [
             "Could you ask her to call me back?",
             "Potresti chiederle di richiamarmi?"
@@ -462,6 +467,7 @@
           "it": "passare una chiamata",
           "ipa": "ˌpʊt ˈθruː",
           "pos": "pv",
+          "syn": ["connect"],
           "ex": [
             "One moment, I'll put you through to the manager.",
             "Un attimo, le passo il direttore."
@@ -498,6 +504,7 @@
           "it": "accennare, menzionare",
           "ipa": "ˈmenʃn",
           "pos": "v",
+          "syn": ["refer to"],
           "ex": [
             "He mentioned that he was changing jobs.",
             "Ha accennato al fatto che sta cambiando lavoro."

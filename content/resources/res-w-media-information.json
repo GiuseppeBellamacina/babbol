@@ -10,6 +10,10 @@
    "it": "inserzione",
    "ipa": "ədˈvɜːtɪsmənt",
    "pos": "n",
+   "syn": [
+    "advert",
+    "ad"
+   ],
    "ex": [
     "I saw an advertisement for a new phone.",
     "Ho visto una pubblicità per un nuovo telefono."
@@ -32,6 +36,9 @@
    "it": "parzialità",
    "ipa": "ˈbaɪəs",
    "pos": "n",
+   "syn": [
+    "prejudice"
+   ],
    "ex": [
     "The report shows a clear bias against the council.",
     "Il rapporto mostra una chiara parzialità contro il consiglio."
@@ -65,6 +72,10 @@
    "it": "spot pubblicitario",
    "ipa": "kəˈmɜːʃl",
    "pos": "n",
+   "syn": [
+    "advert",
+    "ad"
+   ],
    "ex": [
     "The commercial lasted only thirty seconds.",
     "Lo spot è durato solo trenta secondi."
@@ -76,6 +87,9 @@
    "it": "corrispondente",
    "ipa": "ˌkɒrəˈspɒndənt",
    "pos": "n",
+   "syn": [
+    "reporter"
+   ],
    "ex": [
     "The correspondent reported from the war zone.",
     "Il corrispondente ha riferito dalla zona di guerra."
@@ -120,6 +134,10 @@
    "it": "notizie false",
    "ipa": "feɪk njuːz",
    "pos": "phr",
+   "syn": [
+    "misinformation",
+    "disinformation"
+   ],
    "ex": [
     "Fake news spreads quickly on social media.",
     "Le notizie false si diffondono in fretta sui social."
@@ -153,6 +171,9 @@
    "it": "ingannevole",
    "ipa": "ˌmɪsˈliːdɪŋ",
    "pos": "adj",
+   "syn": [
+    "deceptive"
+   ],
    "ex": [
     "The advert was misleading about the price.",
     "La pubblicità era ingannevole sul prezzo."
@@ -186,6 +207,9 @@
    "it": "stampa",
    "ipa": "pres",
    "pos": "n",
+   "syn": [
+    "media"
+   ],
    "ex": [
     "The press was waiting outside the court.",
     "La stampa aspettava fuori dal tribunale."

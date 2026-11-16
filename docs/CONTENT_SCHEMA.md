@@ -68,6 +68,7 @@ Lezione:
   "words": [                                      // solo per vocab (facoltativo altrove)
     { "id": "b1-03-w01", "en": "luggage", "it": "bagagli", "ipa": "ˈlʌɡɪdʒ", "pos": "n",
       "ex": ["My luggage got lost in Paris.", "I miei bagagli si sono persi a Parigi."],
+      "syn": ["bags"],                       // facoltativo: sinonimi
       "note": "Non numerabile: mai «luggages».", "emoji": "🧳" }
   ],
   "steps": [ /* vedi sotto */ ],
@@ -181,7 +182,7 @@ Tipi di `kind` e campi degli `items`:
 | `idioms` | `en`, `it`, `lit`, `ex`, `lv` |
 | `connectors` | `en`, `it`, `use`, `ex`, `lv` |
 | `pron` | `title`, `sound`, `tip`, `words` |
-| `words` | `en`, `it`, `ipa`, `ex` (`[en, it]`), opzionali `emoji` / `img` / `photo` (uno solo). Parole nuove: non devono comparire nelle unità né in un'altra lista |
+| `words` | `en`, `it`, `ipa`, `ex` (`[en, it]`), opzionali `syn` (1-4 sinonimi inglesi, mostrati come «Sinonimi: ...» su carte, lezioni, suggerimento e dizionario) ed `emoji` / `img` / `photo` (uno solo). Parole nuove: non devono comparire nelle unità né in un'altra lista |
 | `collocations` | `en`, `it`, opzionali `group`, `ex`, `lv` |
 | `mistakes` | `wrong`, `right`, `why`, `topic`, opzionali `alts` (altre correzioni valide), `more` (altre versioni sbagliate), `lv` |
 | `sayit` | `written`, `spoken` (solo parole inglesi, lette dalla voce), `it`, `group`, opzionali `alts`, `note` |

@@ -56,6 +56,9 @@
    "it": "stare bene (di misura)",
    "ipa": "fɪt",
    "pos": "v",
+   "syn": [
+    "suit"
+   ],
    "ex": [
     "These shoes do not fit me.",
     "Queste scarpe non mi stanno bene."
@@ -79,6 +82,10 @@
    "it": "maglione",
    "ipa": "ˈdʒʌmpə",
    "pos": "n",
+   "syn": [
+    "sweater",
+    "pullover"
+   ],
    "ex": [
     "Put on a jumper, it is cold outside.",
     "Mettiti un maglione, fuori fa freddo."
@@ -228,6 +235,9 @@
    "it": "cerniera",
    "ipa": "zɪp",
    "pos": "n",
+   "syn": [
+    "zipper"
+   ],
    "ex": [
     "The zip on my bag is broken.",
     "La cerniera della mia borsa è rotta."

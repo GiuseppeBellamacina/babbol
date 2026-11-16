@@ -56,7 +56,7 @@
           B.pic(w, "dict-pic"),
           h("div", { class: "grow" },
             h("div", { class: "row-title" }, w.en, " ", h("span", { class: "ipa" }, "/" + w.ipa + "/"), " ", lvTag(w.level)),
-            h("div", { class: "muted" }, w.it), w.ex ? h("div", { class: "dict-ex" }, w.ex[0]) : null),
+            h("div", { class: "muted" }, w.it), B.synLine(w), w.ex ? h("div", { class: "dict-ex" }, w.ex[0]) : null),
           h("div", { class: "box-dots", title: "Memoria" }, [0, 1, 2, 3, 4].map(function (k) { return h("i", { class: st && st.b > k ? "on" : "" }); }))));
       });
       if (shown.length > 150) list.appendChild(h("p", { class: "muted center" }, "Scrivi qualcosa per restringere la ricerca."));
@@ -68,15 +68,46 @@
   }
 
   // ---------------------------------------------------------------- flashcard
-  function flashcards() {
-    var weak = [], fresh = [], strong = [];
-    B.shuffle(R.allWords()).forEach(function (w) {
-      var st = S.word(w.id);
-      if (!st) fresh.push(w); else if (st.b <= 2) weak.push(w); else strong.push(w);
+  // tutte le parole con cui fare le carte: quelle delle unità e quelle delle liste per tema (id "rw:parola")
+  function cardWords() {
+    var out = R.allWords().slice();
+    R.resources().forEach(function (r) {
+      if (r.kind !== "words") return;
+      (r.items || []).forEach(function (x) { out.push(Object.assign({ id: "rw:" + String(x.en).toLowerCase(), level: x.lv || r.lv }, x)); });
     });
-    // prima le parole viste e deboli, poi quelle delle unità sbloccate mai viste
-    fresh = fresh.filter(function (w) { var u = R.unit(w.unit); return u && B.path.unitUnlocked(u); });
-    var deck = weak.concat(fresh, strong).slice(0, 20);
+    return out;
+  }
+  // una parola mai vista si propone solo se l'unità (o il livello, per le liste) è sbloccata
+  function cardOpen(w) {
+    var u = w.unit ? R.unit(w.unit) : R.units().filter(function (x) { return x.level === w.level; })[0];
+    return !u || B.path.unitUnlocked(u);
+  }
+  var COOLDOWN = 20 * 60 * 1000;
+  /**
+   * Mazzo a rotazione: n carte divise in parti uguali tra i tipi di parola (nome, verbo, aggettivo, espressione...).
+   * In ogni tipo si prendono prima le mai viste, poi quelle viste da più tempo (campo last; le deboli contano come più vecchie). Le carte viste da meno
+   * di 20 minuti si usano solo se mancano le altre, così due mazzi di fila non si ripetono.
+   */
+  function pickDeck(n) {
+    var now = Date.now(), groups = {}, recent = [];
+    B.shuffle(cardWords()).forEach(function (w) {
+      var st = S.word(w.id), last = st ? (st.last || 0) : -1;
+      if (last < 0 && !cardOpen(w)) return;
+      // le parole deboli (box 0-2) passano avanti come se fossero state viste 3 giorni prima
+      var item = { w: w, last: last < 0 ? last : last - (st.b <= 2 ? 3 * 86400000 : 0), raw: last };
+      if (item.raw > now - COOLDOWN) recent.push(item); else (groups[w.pos || "n"] = groups[w.pos || "n"] || []).push(item);
+    });
+    var keys = B.shuffle(Object.keys(groups)), deck = [];
+    keys.forEach(function (k) { groups[k].sort(function (a, b) { return a.last - b.last; }); });
+    while (deck.length < n && keys.some(function (k) { return groups[k].length; })) {
+      keys.forEach(function (k) { if (deck.length < n && groups[k].length) deck.push(groups[k].shift().w); });
+    }
+    recent.sort(function (a, b) { return a.last - b.last; });
+    while (deck.length < n && recent.length) deck.push(recent.shift().w);
+    return B.shuffle(deck);
+  }
+  function flashcards() {
+    var deck = pickDeck(20);
     var idx = 0, known = 0, flipped = false, t0 = Date.now();
     var root = h("div", { class: "flash" });
     function draw() {
@@ -94,6 +125,7 @@
       } else {
         card.appendChild(h("div", { class: "fc-main" }, w.en));
         card.appendChild(h("div", { class: "ipa" }, "/" + w.ipa + "/"));
+        if (w.syn && w.syn.length) card.appendChild(B.synLine(w, "fc-syn"));
         if (w.ex) { card.appendChild(h("div", { class: "fc-ex" }, w.ex[0])); card.appendChild(h("div", { class: "muted" }, w.ex[1])); }
       }
       root.appendChild(card);
@@ -177,12 +209,16 @@
           B.hasPic(x) ? h("div", { class: "wc-pic" }, B.pic(x)) : null,
           h("div", { class: "grow" },
             h("div", { class: "word-en" }, x.en, " ", x.pos ? h("span", { class: "word-pos" }, x.pos) : null, " ", B.icon("speaker", 14, "mini"), " ", lvTag(x.lv)),
-            x.ipa ? h("div", { class: "word-ipa" }, "/" + x.ipa + "/") : null, h("div", { class: "word-it" }, x.it),
+            x.ipa ? h("div", { class: "word-ipa" }, "/" + x.ipa + "/") : null, h("div", { class: "word-it" }, x.it), B.synLine(x),
             x.ex ? h("div", { class: "hint-ex" }, x.ex[0], h("div", { class: "muted small" }, x.ex[1])) : null));
       },
       quiz: function (items) {
         return B.sample(items, 10).map(function (x, i) {
           var wrongs = B.sample(items.filter(function (o) { return o !== x; }), 6);
+          if (i % 4 === 3 && x.syn && x.syn.length) {
+            var sw = items.filter(function (o) { return o !== x && o.pos === x.pos && o.en !== x.en && x.syn.indexOf(o.en) < 0 && (o.syn || []).indexOf(x.en) < 0 && !(o.syn || []).some(function (s) { return x.syn.indexOf(s) >= 0; }); });
+            if (sw.length >= 3) return mcStep({ q: "Quale parola ha un significato simile?", text: x.en, sub: x.ipa ? "/" + x.ipa + "/" : null, say: x.en }, B.pick(x.syn), B.sample(sw, 3).map(function (o) { return o.en; }));
+          }
           if (i % 4 === 0) return { t: "type", q: "Scrivi in inglese", text: x.it, answers: [x.en].concat(x.alts || []), sayAfter: x.en, word: true, _skill: "vocab" };
           if (i % 4 === 1) return mcStep({ q: "Che cosa significa?", text: x.en, sub: x.ipa ? "/" + x.ipa + "/" : null, say: x.en }, x.it, wrongs.map(function (o) { return o.it; }));
           if (i % 4 === 2 && B.hasPic(x)) return mcStep({ q: "Che cos'è?", emoji: x.emoji, photo: x.photo, img: x.img, sayAfter: x.en }, x.en, wrongs.map(function (o) { return o.en; }));
@@ -337,7 +373,7 @@
     root.appendChild(UI.sectionTitle("Studia e consulta", "Tutto quello che serve oltre alle lezioni"));
     root.appendChild(UI.rowCard("puzzle", "Grammatica", R.grammarSheets().length + " argomenti, dall'A2 al B2", null, function () { UI.push("Grammatica", grammarList); }));
     root.appendChild(UI.rowCard("search", "Dizionario", R.allWords().length + " parole del corso", null, function () { UI.push("Dizionario", dictionary); }));
-    root.appendChild(UI.rowCard("cards", "Flashcard", "Mazzi da 20 parole, le più deboli prima", null, function () { UI.push("Flashcard", flashcards); }));
+    root.appendChild(UI.rowCard("cards", "Flashcard", "Mazzi da 20 parole a rotazione: prima le nuove e quelle viste da più tempo", null, function () { UI.push("Flashcard", flashcards); }));
     var byKind = {}, order = [];
     R.resources().forEach(function (res) {
       if (!KINDS[res.kind]) return;

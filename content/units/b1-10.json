@@ -314,6 +314,7 @@
           "it": "lite, discussione accesa",
           "ipa": "ˈɑːɡjumənt",
           "pos": "n",
+          "syn": ["quarrel","row","disagreement"],
           "ex": [
             "They had an argument about who should do the washing-up.",
             "Hanno litigato su chi dovesse lavare i piatti."
@@ -326,6 +327,7 @@
           "it": "scusarsi",
           "ipa": "əˈpɒlədʒaɪz",
           "pos": "v",
+          "syn": ["say sorry"],
           "ex": [
             "He apologised for being late.",
             "Si è scusato per il ritardo."
@@ -338,6 +340,7 @@
           "it": "malinteso",
           "ipa": "ˌmɪsʌndəˈstændɪŋ",
           "pos": "n",
+          "syn": ["mix-up"],
           "ex": [
             "It was all a misunderstanding.",
             "Era tutto un malinteso."
@@ -349,6 +352,7 @@
           "it": "litigare (e rompere)",
           "ipa": "fɔːl ˈaʊt",
           "pos": "pv",
+          "syn": ["quarrel","have a row"],
           "ex": [
             "They fell out over money.",
             "Hanno litigato per una questione di soldi."
@@ -361,6 +365,7 @@
           "it": "fare pace",
           "ipa": "meɪk ˈʌp",
           "pos": "pv",
+          "syn": ["patch things up"],
           "ex": [
             "We had a row, but we made up the next day.",
             "Abbiamo litigato, ma abbiamo fatto pace il giorno dopo."
@@ -418,6 +423,7 @@
           "it": "geloso, invidioso",
           "ipa": "ˈdʒeləs",
           "pos": "adj",
+          "syn": ["envious"],
           "ex": [
             "He was jealous of his brother's success.",
             "Era geloso del successo del fratello."
@@ -430,6 +436,7 @@
           "it": "coinquilino",
           "ipa": "ˈflætmeɪt",
           "pos": "n",
+          "syn": ["housemate"],
           "ex": [
             "My flatmate always leaves dirty plates in the sink.",
             "Il mio coinquilino lascia sempre i piatti sporchi nel lavandino."

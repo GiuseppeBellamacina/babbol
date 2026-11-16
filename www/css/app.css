@@ -320,7 +320,10 @@ img.fc-pic { width: 110px; height: 110px; }
 .word-row:not(:has(.word-pic)) .word-main, .word-row:not(:has(.word-pic)) .word-ex { grid-column: 1 / -1; }
 .word-en { font-weight: 900; font-size: 1.25rem; } .word-pos { font-size: .72rem; color: var(--muted); font-weight: 700; }
 .word-ipa { color: var(--muted); font-size: .85rem; } .word-it { font-weight: 700; color: var(--green-fg); }
+.report-note { width: 100%; box-sizing: border-box; margin-top: 8px; padding: 10px; border: 2px solid var(--line); border-radius: 12px; background: var(--card, transparent); color: inherit; font: inherit; resize: vertical; }
 .word-note { font-size: .82rem; color: var(--orange); margin-top: 2px; }
+.word-syn { font-size: .84rem; color: var(--muted); margin-top: 2px; } .word-syn b { color: var(--text); font-weight: 800; }
+.fc-syn { font-size: .95rem; color: var(--muted); margin-top: 6px; } .fc-syn b { color: var(--text); }
 .word-ex { grid-column: 2; font-size: .88rem; border-top: 1px dashed var(--line); padding-top: 6px; margin-top: 4px; cursor: pointer; }
 .note-step { padding-bottom: 10px; }
 .note-step.center { text-align: center; display: flex; flex-direction: column; align-items: center; gap: 8px; }

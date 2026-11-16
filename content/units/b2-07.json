@@ -418,6 +418,7 @@
      "it": "itinerario",
      "ipa": "aɪˈtɪnərəri",
      "pos": "n",
+     "syn": ["route"],
      "ex": [
       "Our itinerary included three cities in six days.",
       "Il nostro itinerario comprendeva tre città in sei giorni."
@@ -454,6 +455,7 @@
      "it": "vivace, pieno di vita e colore",
      "ipa": "ˈvaɪbrənt",
      "pos": "adj",
+     "syn": ["lively","colourful","dynamic"],
      "ex": [
       "The market is a vibrant place full of colour and music.",
       "Il mercato è un luogo vivace pieno di colori e musica."
@@ -476,6 +478,7 @@
      "it": "ingresso, biglietto d'entrata",
      "ipa": "ədˈmɪʃn",
      "pos": "n",
+     "syn": ["entry","entrance"],
      "ex": [
       "Admission is free on the first Sunday of the month.",
       "L'ingresso è gratuito la prima domenica del mese."

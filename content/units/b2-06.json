@@ -348,6 +348,7 @@
      "it": "verificare i fatti",
      "ipa": "ˈfækt tʃek",
      "pos": "v",
+     "syn": ["verify"],
      "ex": [
       "We always fact-check our stories before we publish them.",
       "Verifichiamo sempre i fatti prima di pubblicare le notizie."
@@ -383,6 +384,7 @@
      "it": "fare da testimonial, sostenere",
      "ipa": "ɪnˈdɔːs",
      "pos": "v",
+     "syn": ["support"],
      "ex": [
       "The footballer endorses a well-known brand of trainers.",
       "Il calciatore fa da testimonial a una nota marca di scarpe sportive."
@@ -395,6 +397,7 @@
      "it": "ritrattare, ritirare (una notizia)",
      "ipa": "rɪˈtrækt",
      "pos": "v",
+     "syn": ["withdraw","take back"],
      "ex": [
       "The paper had to retract the story and publish an apology.",
       "Il giornale ha dovuto ritrattare la notizia e pubblicare delle scuse."
@@ -406,6 +409,7 @@
      "it": "slogan",
      "ipa": "ˈsləʊɡən",
      "pos": "n",
+     "syn": ["catchphrase","motto"],
      "ex": [
       "Their slogan is short, rhythmic and easy to remember.",
       "Il loro slogan è breve, ritmico e facile da ricordare."
@@ -439,6 +443,7 @@
      "it": "credulone, ingenuo",
      "ipa": "ˈɡʌləbl",
      "pos": "adj",
+     "syn": ["naive"],
      "ex": [
       "Only the most gullible readers believed the story.",
       "Solo i lettori più creduloni hanno creduto alla storia."
@@ -451,6 +456,7 @@
      "it": "di parte, parziale",
      "ipa": "ˈbaɪəst",
      "pos": "adj",
+     "syn": ["prejudiced","one-sided"],
      "ex": [
       "The report seemed biased in favour of the government.",
       "Il rapporto sembrava di parte a favore del governo."

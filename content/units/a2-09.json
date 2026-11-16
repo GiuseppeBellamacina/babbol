@@ -387,6 +387,7 @@
      "it": "orario (dei treni)",
      "ipa": "ˈtaɪmteɪbl",
      "pos": "n",
+     "syn": ["schedule"],
      "ex": [
       "Let's check the timetable first.",
       "Controlliamo prima l'orario."
@@ -399,6 +400,7 @@
      "it": "biglietto di sola andata",
      "ipa": "ˈsɪŋɡl",
      "pos": "n",
+     "syn": ["one-way ticket"],
      "ex": [
       "A single to Bath, please.",
       "Un'andata per Bath, per favore."
@@ -494,6 +496,7 @@
      "it": "salire (su treno, autobus, aereo)",
      "ipa": "get ɒn",
      "pos": "pv",
+     "syn": ["board"],
      "ex": [
       "We got on the train at Manchester.",
       "Siamo saliti sul treno a Manchester."

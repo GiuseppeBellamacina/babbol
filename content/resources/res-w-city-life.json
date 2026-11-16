@@ -67,6 +67,10 @@
    "it": "zona",
    "ipa": "ˈdɪstrɪkt",
    "pos": "n",
+   "syn": [
+    "area",
+    "neighbourhood"
+   ],
    "ex": [
     "This district is famous for its restaurants.",
     "Questa zona è famosa per i suoi ristoranti."
@@ -90,6 +94,9 @@
    "it": "via principale",
    "ipa": "haɪ striːt",
    "pos": "phr",
+   "syn": [
+    "main street"
+   ],
    "ex": [
     "Most shops on the high street close at six.",
     "La maggior parte dei negozi della via principale chiude alle sei."
@@ -101,6 +108,10 @@
    "it": "rumore",
    "ipa": "nɔɪz",
    "pos": "n",
+   "syn": [
+    "din",
+    "racket"
+   ],
    "ex": [
     "I cannot sleep because of the noise.",
     "Non riesco a dormire a causa del rumore."
@@ -145,6 +156,10 @@
    "it": "centro commerciale",
    "ipa": "ˈʃɒpɪŋ ˈsentə",
    "pos": "phr",
+   "syn": [
+    "shopping mall",
+    "mall"
+   ],
    "ex": [
     "We spent the afternoon at the shopping centre.",
     "Abbiamo passato il pomeriggio al centro commerciale."
@@ -178,6 +193,9 @@
    "it": "periferia",
    "ipa": "ˈsʌbɜːb",
    "pos": "n",
+   "syn": [
+    "outskirts"
+   ],
    "ex": [
     "They live in a quiet suburb of Milan.",
     "Vivono in una tranquilla periferia di Milano."
@@ -189,6 +207,9 @@
    "it": "centro città",
    "ipa": "taʊn ˈsentə",
    "pos": "phr",
+   "syn": [
+    "city centre"
+   ],
    "ex": [
     "The town centre is closed to cars.",
     "Il centro città è chiuso alle auto."
@@ -211,6 +232,10 @@
    "it": "ingorgo",
    "ipa": "ˈtræfɪk dʒæm",
    "pos": "phr",
+   "syn": [
+    "tailback",
+    "gridlock"
+   ],
    "ex": [
     "We were stuck in a traffic jam for an hour.",
     "Siamo rimasti bloccati in un ingorgo per un'ora."

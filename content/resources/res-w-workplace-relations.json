@@ -10,6 +10,11 @@
    "it": "valutazione del personale",
    "ipa": "əˈpreɪzl",
    "pos": "n",
+   "syn": [
+    "evaluation",
+    "assessment",
+    "review"
+   ],
    "ex": [
     "My annual appraisal is next week.",
     "La mia valutazione annuale è la settimana prossima."
@@ -21,6 +26,9 @@
    "it": "capo",
    "ipa": "bɒs",
    "pos": "n",
+   "syn": [
+    "manager"
+   ],
    "ex": [
     "My boss is away until Thursday.",
     "Il mio capo è via fino a giovedì."
@@ -32,6 +40,10 @@
    "it": "conflitto",
    "ipa": "ˈkɒnflɪkt",
    "pos": "n",
+   "syn": [
+    "dispute",
+    "disagreement"
+   ],
    "ex": [
     "The two colleagues had a conflict over money.",
     "I due colleghi hanno avuto un conflitto per questioni di soldi."
@@ -43,6 +55,9 @@
    "it": "contratto",
    "ipa": "ˈkɒntrækt",
    "pos": "n",
+   "syn": [
+    "agreement"
+   ],
    "ex": [
     "He signed a two-year contract.",
     "Ha firmato un contratto biennale."
@@ -54,6 +69,9 @@
    "it": "collaborare",
    "ipa": "kəʊˈɒpəreɪt",
    "pos": "v",
+   "syn": [
+    "work together"
+   ],
    "ex": [
     "The departments must cooperate more closely.",
     "I reparti devono collaborare più strettamente."
@@ -76,6 +94,10 @@
    "it": "licenziare",
    "ipa": "dɪsˈmɪs",
    "pos": "v",
+   "syn": [
+    "sack",
+    "fire"
+   ],
    "ex": [
     "The company dismissed three workers last month.",
     "L'azienda ha licenziato tre lavoratori il mese scorso."
@@ -87,6 +109,9 @@
    "it": "dipendente",
    "ipa": "ɪmˈplɔɪiː",
    "pos": "n",
+   "syn": [
+    "worker"
+   ],
    "ex": [
     "The company has two hundred employees.",
     "L'azienda ha duecento dipendenti."
@@ -98,6 +123,9 @@
    "it": "andare d'accordo con",
    "ipa": "ɡet əˈlɒŋ wɪð",
    "pos": "phr",
+   "syn": [
+    "get on with"
+   ],
    "ex": [
     "I get along with all my colleagues except one.",
     "Vado d'accordo con tutti i colleghi tranne uno."
@@ -131,6 +159,9 @@
    "it": "aumento di stipendio",
    "ipa": "reɪz",
    "pos": "n",
+   "syn": [
+    "rise"
+   ],
    "ex": [
     "I asked my boss for a raise.",
     "Ho chiesto un aumento al mio capo."
@@ -142,6 +173,10 @@
    "it": "assumere",
    "ipa": "rɪˈkruːt",
    "pos": "v",
+   "syn": [
+    "hire",
+    "employ"
+   ],
    "ex": [
     "The firm plans to recruit ten new staff.",
     "L'azienda prevede di assumere dieci nuovi dipendenti."
@@ -175,6 +210,10 @@
    "it": "personale",
    "ipa": "stɑːf",
    "pos": "n",
+   "syn": [
+    "personnel",
+    "employees"
+   ],
    "ex": [
     "The staff are friendly and helpful.",
     "Il personale è cordiale e disponibile."
@@ -197,6 +236,10 @@
    "it": "lavoro di squadra",
    "ipa": "ˈtiːmwɜːk",
    "pos": "n",
+   "syn": [
+    "collaboration",
+    "cooperation"
+   ],
    "ex": [
     "Good teamwork made the project a success.",
     "Il buon lavoro di squadra ha reso il progetto un successo."
@@ -208,6 +251,10 @@
    "it": "tirocinante",
    "ipa": "ˌtreɪˈniː",
    "pos": "n",
+   "syn": [
+    "apprentice",
+    "intern"
+   ],
    "ex": [
     "The trainee learns fast and asks good questions.",
     "Il tirocinante impara in fretta e fa buone domande."

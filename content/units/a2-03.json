@@ -438,6 +438,7 @@
      "it": "verdure",
      "ipa": "ˈvedʒtəbəlz",
      "pos": "n",
+     "syn": ["veg"],
      "ex": [
       "We eat a lot of vegetables in summer.",
       "In estate mangiamo molta verdura."
@@ -451,6 +452,7 @@
      "it": "spesa (alimentari)",
      "ipa": "ˈɡrəʊsəriz",
      "pos": "n",
+     "syn": ["shopping"],
      "ex": [
       "I'm carrying the groceries upstairs.",
       "Porto su la spesa."
@@ -487,6 +489,7 @@
      "it": "antipasto, primo piatto",
      "ipa": "ˈstɑːtə",
      "pos": "n",
+     "syn": ["appetiser","first course"],
      "ex": [
       "I'll have the soup as a starter.",
       "Come antipasto prendo la zuppa."
@@ -499,6 +502,7 @@
      "it": "piatto principale",
      "ipa": "ˌmeɪn ˈkɔːs",
      "pos": "n",
+     "syn": ["main"],
      "ex": [
       "For the main course, I'd like the chicken.",
       "Come piatto principale vorrei il pollo."
@@ -511,6 +515,7 @@
      "it": "dolce, dessert",
      "ipa": "dɪˈzɜːt",
      "pos": "n",
+     "syn": ["pudding","sweet"],
      "ex": [
       "Shall we share a dessert?",
       "Dividiamo un dolce?"
@@ -548,6 +553,7 @@
      "it": "mancia",
      "ipa": "tɪp",
      "pos": "n",
+     "syn": ["gratuity"],
      "ex": [
       "We left a ten per cent tip.",
       "Abbiamo lasciato il dieci per cento di mancia."

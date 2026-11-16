@@ -148,6 +148,10 @@
    "it": "sentiero",
    "ipa": "pɑːθ",
    "pos": "n",
+   "syn": [
+    "track",
+    "trail"
+   ],
    "ex": [
     "Follow the path to the waterfall.",
     "Segui il sentiero fino alla cascata."
@@ -193,6 +197,10 @@
    "it": "alba",
    "ipa": "ˈsʌnraɪz",
    "pos": "n",
+   "syn": [
+    "dawn",
+    "daybreak"
+   ],
    "ex": [
     "We watched the sunrise from the top.",
     "Abbiamo guardato l'alba dalla cima."
@@ -205,6 +213,10 @@
    "it": "tramonto",
    "ipa": "ˈsʌnset",
    "pos": "n",
+   "syn": [
+    "dusk",
+    "sundown"
+   ],
    "ex": [
     "The sunset over the sea was beautiful.",
     "Il tramonto sul mare era bellissimo."

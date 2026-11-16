@@ -348,6 +348,7 @@
           "it": "severo, rigido",
           "ipa": "strɪkt",
           "pos": "adj",
+          "syn": ["firm","stern","harsh"],
           "ex": [
             "Our teacher was very strict about homework.",
             "La nostra insegnante era molto severa sui compiti."
@@ -371,6 +372,7 @@
           "it": "paghetta",
           "ipa": "ˈpɒkɪt ˈmʌni",
           "pos": "n",
+          "syn": ["allowance"],
           "ex": [
             "I got five pounds pocket money a week.",
             "Ricevevo cinque sterline di paghetta a settimana."
@@ -395,6 +397,7 @@
           "it": "crescere, allevare (un figlio)",
           "ipa": "brɪŋ ˈʌp",
           "pos": "pv",
+          "syn": ["raise"],
           "ex": [
             "She was brought up by her grandparents.",
             "È stata cresciuta dai nonni."
@@ -407,6 +410,7 @@
           "it": "rimproverare",
           "ipa": "ˌtel ˈɒf",
           "pos": "pv",
+          "syn": ["scold"],
           "ex": [
             "My teacher told me off for talking in class.",
             "L'insegnante mi ha rimproverato perché parlavo in classe."
@@ -430,6 +434,7 @@
           "it": "nostalgico",
           "ipa": "nɒˈstældʒɪk",
           "pos": "adj",
+          "syn": ["wistful"],
           "ex": [
             "Old photos make my grandmother nostalgic.",
             "Le vecchie foto rendono nostalgica mia nonna."
@@ -442,6 +447,7 @@
           "it": "all'antica, fuori moda",
           "ipa": "ˌəʊld ˈfæʃnd",
           "pos": "adj",
+          "syn": ["outdated","dated"],
           "ex": [
             "My grandfather has some old-fashioned ideas.",
             "Mio nonno ha qualche idea all'antica."
@@ -476,6 +482,7 @@
           "it": "stile di vita",
           "ipa": "ˈlaɪfstaɪl",
           "pos": "n",
+          "syn": ["way of life"],
           "ex": [
             "A healthy lifestyle means sleeping well.",
             "Uno stile di vita sano significa dormire bene."

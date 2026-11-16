@@ -166,6 +166,10 @@
    "it": "traslocare",
    "ipa": "muːv haʊs",
    "pos": "phr",
+   "syn": [
+    "relocate",
+    "move out"
+   ],
    "ex": [
     "They moved house last month.",
     "Hanno traslocato il mese scorso."
@@ -199,6 +203,10 @@
    "it": "scale",
    "ipa": "steəz",
    "pos": "n",
+   "syn": [
+    "staircase",
+    "steps"
+   ],
    "ex": [
     "Our flat is up three flights of stairs.",
     "Il nostro appartamento è su tre rampe di scale."
@@ -210,6 +218,10 @@
    "it": "mettere in ordine",
    "ipa": "ˈtaɪdi ʌp",
    "pos": "phr",
+   "syn": [
+    "clean up",
+    "straighten up"
+   ],
    "ex": [
     "Please tidy up your room before dinner.",
     "Metti in ordine la tua stanza prima di cena."

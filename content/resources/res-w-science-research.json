@@ -10,6 +10,11 @@
    "it": "analizzare",
    "ipa": "ˈænəlaɪz",
    "pos": "v",
+   "syn": [
+    "examine",
+    "study",
+    "assess"
+   ],
    "ex": [
     "We need time to analyse all the data.",
     "Ci serve tempo per analizzare tutti i dati."
@@ -32,6 +37,10 @@
    "it": "scoperta",
    "ipa": "dɪˈskʌvəri",
    "pos": "n",
+   "syn": [
+    "finding",
+    "breakthrough"
+   ],
    "ex": [
     "The discovery of penicillin saved millions of lives.",
     "La scoperta della penicillina ha salvato milioni di vite."
@@ -43,6 +52,9 @@
    "it": "prove",
    "ipa": "ˈevɪdəns",
    "pos": "n",
+   "syn": [
+    "proof"
+   ],
    "ex": [
     "There is no evidence that the drug works.",
     "Non ci sono prove che il farmaco funzioni."
@@ -54,6 +66,10 @@
    "it": "esperimento",
    "ipa": "ɪkˈsperɪmənt",
    "pos": "n",
+   "syn": [
+    "test",
+    "trial"
+   ],
    "ex": [
     "The students carried out an experiment in the lab.",
     "Gli studenti hanno condotto un esperimento in laboratorio."
@@ -87,6 +103,9 @@
    "it": "misurare",
    "ipa": "ˈmeʒə",
    "pos": "v",
+   "syn": [
+    "gauge"
+   ],
    "ex": [
     "The device measures temperature very accurately.",
     "Lo strumento misura la temperatura con grande precisione."
@@ -120,6 +139,10 @@
    "it": "esito",
    "ipa": "ˈaʊtkʌm",
    "pos": "n",
+   "syn": [
+    "result",
+    "consequence"
+   ],
    "ex": [
     "The outcome of the trial surprised everyone.",
     "L'esito della sperimentazione ha sorpreso tutti."
@@ -142,6 +165,10 @@
    "it": "dimostrare",
    "ipa": "pruːv",
    "pos": "v",
+   "syn": [
+    "demonstrate",
+    "confirm"
+   ],
    "ex": [
     "The test proved that the method was safe.",
     "Il test ha dimostrato che il metodo era sicuro."
@@ -186,6 +213,10 @@
    "it": "sondaggio",
    "ipa": "ˈsɜːveɪ",
    "pos": "n",
+   "syn": [
+    "poll",
+    "questionnaire"
+   ],
    "ex": [
     "A survey of a thousand adults was carried out.",
     "È stato condotto un sondaggio su mille adulti."
@@ -208,6 +239,9 @@
    "it": "teoria",
    "ipa": "ˈθɪəri",
    "pos": "n",
+   "syn": [
+    "hypothesis"
+   ],
    "ex": [
     "Einstein's theory changed modern physics.",
     "La teoria di Einstein ha cambiato la fisica moderna."

@@ -10,6 +10,10 @@
    "it": "intervallo",
    "ipa": "breɪk",
    "pos": "n",
+   "syn": [
+    "interval",
+    "recess"
+   ],
    "ex": [
     "We eat a snack at break.",
     "Mangiamo uno spuntino durante l'intervallo."
@@ -55,6 +59,10 @@
    "it": "esame",
    "ipa": "ɪɡˈzæm",
    "pos": "n",
+   "syn": [
+    "test",
+    "examination"
+   ],
    "ex": [
     "I have an exam on Monday morning.",
     "Ho un esame lunedì mattina."
@@ -77,6 +85,10 @@
    "it": "voto",
    "ipa": "ɡreɪd",
    "pos": "n",
+   "syn": [
+    "mark",
+    "score"
+   ],
    "ex": [
     "I got a good grade in maths.",
     "Ho preso un bel voto in matematica."
@@ -122,6 +134,9 @@
    "it": "superare",
    "ipa": "pɑːs",
    "pos": "v",
+   "syn": [
+    "get through"
+   ],
    "ex": [
     "I hope I pass the driving test.",
     "Spero di superare l'esame di guida."
@@ -145,6 +160,10 @@
    "it": "alunno",
    "ipa": "ˈpjuːpl",
    "pos": "n",
+   "syn": [
+    "student",
+    "schoolchild"
+   ],
    "ex": [
     "Every pupil gets a free book.",
     "Ogni alunno riceve un libro gratuito."
@@ -156,6 +175,10 @@
    "it": "ripassare",
    "ipa": "rɪˈvaɪz",
    "pos": "v",
+   "syn": [
+    "go over",
+    "study"
+   ],
    "ex": [
     "I revise my notes every evening.",
     "Ripasso i miei appunti ogni sera."
@@ -167,6 +190,9 @@
    "it": "gomma",
    "ipa": "ˈrʌbə",
    "pos": "n",
+   "syn": [
+    "eraser"
+   ],
    "ex": [
     "I need a rubber to correct this.",
     "Mi serve una gomma per correggere questo."

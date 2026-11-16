@@ -44,6 +44,9 @@
    "it": "tagliare a pezzi",
    "ipa": "tʃɒp",
    "pos": "v",
+   "syn": [
+    "cut up"
+   ],
    "ex": [
     "Chop the tomatoes into small pieces.",
     "Taglia i pomodori a pezzetti."
@@ -55,6 +58,9 @@
    "it": "fornello",
    "ipa": "ˈkʊkə",
    "pos": "n",
+   "syn": [
+    "stove"
+   ],
    "ex": [
     "Do not leave the cooker on.",
     "Non lasciare i fornelli accesi."
@@ -89,6 +95,9 @@
    "it": "frigorifero",
    "ipa": "frɪdʒ",
    "pos": "n",
+   "syn": [
+    "refrigerator"
+   ],
    "ex": [
     "There is some milk in the fridge.",
     "C'è del latte nel frigorifero."
@@ -134,6 +143,10 @@
    "it": "mescolare",
    "ipa": "mɪks",
    "pos": "v",
+   "syn": [
+    "blend",
+    "combine"
+   ],
    "ex": [
     "Mix the eggs and the sugar together.",
     "Mescola insieme le uova e lo zucchero."
@@ -224,6 +237,10 @@
    "it": "lavare i piatti",
    "ipa": "wɒʃ ʌp",
    "pos": "phr",
+   "syn": [
+    "do the dishes",
+    "wash the dishes"
+   ],
    "ex": [
     "I wash up after every meal.",
     "Lavo i piatti dopo ogni pasto."

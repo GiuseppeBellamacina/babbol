@@ -10,6 +10,11 @@
    "it": "arrogante",
    "ipa": "ˈærəɡənt",
    "pos": "adj",
+   "syn": [
+    "conceited",
+    "haughty",
+    "big-headed"
+   ],
    "ex": [
     "His arrogant attitude annoyed everyone.",
     "Il suo atteggiamento arrogante infastidiva tutti."
@@ -21,6 +26,9 @@
    "it": "comportarsi",
    "ipa": "bɪˈheɪv",
    "pos": "v",
+   "syn": [
+    "act"
+   ],
    "ex": [
     "The children behaved well during the visit.",
     "I bambini si sono comportati bene durante la visita."
@@ -32,6 +40,9 @@
    "it": "curioso",
    "ipa": "ˈkjʊəriəs",
    "pos": "adj",
+   "syn": [
+    "inquisitive"
+   ],
    "ex": [
     "Children are naturally curious about the world.",
     "I bambini sono per natura curiosi del mondo."
@@ -43,6 +54,10 @@
    "it": "tranquillo, alla mano",
    "ipa": "ˌiːzi ˈɡəʊɪŋ",
    "pos": "adj",
+   "syn": [
+    "relaxed",
+    "laid-back"
+   ],
    "ex": [
     "Our boss is easy-going and rarely gets angry.",
     "Il nostro capo è alla mano e raramente si arrabbia."
@@ -65,6 +80,9 @@
    "it": "modo di fare",
    "ipa": "ˈmænə",
    "pos": "n",
+   "syn": [
+    "way"
+   ],
    "ex": [
     "His polite manner impressed the interviewer.",
     "I suoi modi educati hanno colpito l'intervistatore."
@@ -76,6 +94,9 @@
    "it": "maturo",
    "ipa": "məˈtʃʊə",
    "pos": "adj",
+   "syn": [
+    "grown-up"
+   ],
    "ex": [
     "She is very mature for her age.",
     "È molto matura per la sua età."
@@ -87,6 +108,10 @@
    "it": "modesto",
    "ipa": "ˈmɒdɪst",
    "pos": "adj",
+   "syn": [
+    "humble",
+    "unassuming"
+   ],
    "ex": [
     "Despite his success, he remains modest.",
     "Nonostante il successo, rimane modesto."
@@ -98,6 +123,9 @@
    "it": "lunatico",
    "ipa": "ˈmuːdi",
    "pos": "adj",
+   "syn": [
+    "temperamental"
+   ],
    "ex": [
     "My brother is moody in the morning.",
     "Mio fratello è lunatico la mattina."
@@ -109,6 +137,10 @@
    "it": "ottimista",
    "ipa": "ˌɒptɪˈmɪstɪk",
    "pos": "adj",
+   "syn": [
+    "positive",
+    "hopeful"
+   ],
    "ex": [
     "She is optimistic about the future.",
     "È ottimista riguardo al futuro."
@@ -120,6 +152,10 @@
    "it": "pessimista",
    "ipa": "ˌpesɪˈmɪstɪk",
    "pos": "adj",
+   "syn": [
+    "negative",
+    "gloomy"
+   ],
    "ex": [
     "Don't be so pessimistic, we can still win.",
     "Non essere così pessimista, possiamo ancora vincere."
@@ -131,6 +167,10 @@
    "it": "riservato",
    "ipa": "rɪˈzɜːvd",
    "pos": "adj",
+   "syn": [
+    "shy",
+    "quiet"
+   ],
    "ex": [
     "She is reserved and rarely talks about herself.",
     "È riservata e parla raramente di sé."
@@ -153,6 +193,10 @@
    "it": "fare lo sbruffone",
    "ipa": "ʃəʊ ɒf",
    "pos": "phr",
+   "syn": [
+    "boast",
+    "brag"
+   ],
    "ex": [
     "He likes to show off in front of his friends.",
     "Gli piace fare lo sbruffone davanti agli amici."
@@ -164,6 +208,10 @@
    "it": "socievole",
    "ipa": "ˈsəʊʃəbl",
    "pos": "adj",
+   "syn": [
+    "outgoing",
+    "friendly"
+   ],
    "ex": [
     "He is sociable and makes friends easily.",
     "È socievole e fa amicizia facilmente."
@@ -175,6 +223,9 @@
    "it": "testardo",
    "ipa": "ˈstʌbən",
    "pos": "adj",
+   "syn": [
+    "obstinate"
+   ],
    "ex": [
     "My brother is too stubborn to say sorry.",
     "Mio fratello è troppo testardo per chiedere scusa."
@@ -186,6 +237,10 @@
    "it": "tendere a",
    "ipa": "tend tuː",
    "pos": "phr",
+   "syn": [
+    "be inclined to",
+    "be likely to"
+   ],
    "ex": [
     "I tend to worry about small things.",
     "Tendo a preoccuparmi per piccole cose."
@@ -197,6 +252,10 @@
    "it": "premuroso",
    "ipa": "ˈθɔːtfl",
    "pos": "adj",
+   "syn": [
+    "considerate",
+    "caring"
+   ],
    "ex": [
     "It was thoughtful of you to call.",
     "È stato premuroso da parte tua chiamare."
@@ -208,6 +267,10 @@
    "it": "tollerante",
    "ipa": "ˈtɒlərənt",
    "pos": "adj",
+   "syn": [
+    "open-minded",
+    "broad-minded"
+   ],
    "ex": [
     "We should be tolerant of different opinions.",
     "Dovremmo essere tolleranti verso opinioni diverse."
@@ -219,6 +282,10 @@
    "it": "spiritoso",
    "ipa": "ˈwɪti",
    "pos": "adj",
+   "syn": [
+    "funny",
+    "clever"
+   ],
    "ex": [
     "He is a witty speaker and always makes us laugh.",
     "È un oratore spiritoso e ci fa sempre ridere."

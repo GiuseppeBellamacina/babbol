@@ -319,6 +319,7 @@
      "it": "aspirare a",
      "ipa": "əˈspaɪə tuː",
      "pos": "pv",
+     "syn": ["aim for"],
      "ex": [
       "She aspires to run her own studio one day.",
       "Aspira a dirigere un giorno uno studio tutto suo."
@@ -343,6 +344,7 @@
      "it": "sforare (tempi o budget)",
      "ipa": "ˌəʊvəˈrʌn",
      "pos": "v",
+     "syn": ["exceed","go over"],
      "ex": [
       "The project overran by three weeks and cost twice as much.",
       "Il progetto ha sforato di tre settimane e ha costato il doppio."
@@ -412,6 +414,7 @@
      "it": "dimettersi (da un incarico)",
      "ipa": "step daʊn",
      "pos": "pv",
+     "syn": ["resign","quit"],
      "ex": [
       "She will step down as chair in June.",
       "A giugno lascerà la presidenza."
@@ -424,6 +427,7 @@
      "it": "passare (un incarico), consegnare",
      "ipa": "hænd ˈəʊvə",
      "pos": "pv",
+     "syn": ["pass on"],
      "ex": [
       "I will hand over the project to Sam before I go on leave.",
       "Passerò il progetto a Sam prima di andare in congedo."
@@ -435,6 +439,7 @@
      "it": "rinviare, spostare in avanti",
      "ipa": "pʊʃ bæk",
      "pos": "pv",
+     "syn": ["postpone","delay"],
      "ex": [
       "We have had to push the launch back to March.",
       "Abbiamo dovuto spostare il lancio a marzo."

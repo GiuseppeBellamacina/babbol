@@ -311,6 +311,7 @@
      "it": "resiliente, capace di riprendersi",
      "ipa": "rɪˈzɪliənt",
      "pos": "adj",
+     "syn": ["tough"],
      "ex": [
       "She's resilient: she bounced back after the redundancy.",
       "È resiliente: si è ripresa dopo il licenziamento."
@@ -323,6 +324,7 @@
      "it": "adattabile",
      "ipa": "əˈdæptəbl",
      "pos": "adj",
+     "syn": ["flexible"],
      "ex": [
       "We need someone adaptable who can switch between projects.",
       "Cerchiamo qualcuno adattabile, che sappia passare da un progetto all'altro."
@@ -334,6 +336,7 @@
      "it": "che sa farsi valere",
      "ipa": "əˈsɜːtɪv",
      "pos": "adj",
+     "syn": ["confident","forceful"],
      "ex": [
       "Be assertive without being aggressive.",
       "Sappiti far valere senza essere aggressivo."
@@ -346,6 +349,7 @@
      "it": "meticoloso",
      "ipa": "məˈtɪkjələs",
      "pos": "adj",
+     "syn": ["thorough","careful","painstaking"],
      "ex": [
       "He's meticulous about checking every figure.",
       "È meticoloso nel controllare ogni cifra."
@@ -357,6 +361,7 @@
      "it": "coscienzioso, scrupoloso",
      "ipa": "ˌkɒnʃiˈenʃəs",
      "pos": "adj",
+     "syn": ["diligent","careful"],
      "ex": [
       "A conscientious employee, she never misses a deadline.",
       "Una dipendente coscienziosa, non salta mai una scadenza."
@@ -369,6 +374,7 @@
      "it": "ambizioso",
      "ipa": "æmˈbɪʃəs",
      "pos": "adj",
+     "syn": ["determined","driven"],
      "ex": [
       "He's ambitious and hopes to be a director by forty.",
       "È ambizioso e spera di diventare direttore a quarant'anni."
@@ -437,6 +443,7 @@
      "it": "raggiungere un obiettivo",
      "ipa": "miːt ə ˈtɑːɡɪt",
      "pos": "phr",
+     "syn": ["hit a target","reach a target"],
      "ex": [
       "The team met its monthly target for the first time.",
       "Il team ha raggiunto per la prima volta l'obiettivo mensile."

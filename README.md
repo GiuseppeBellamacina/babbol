@@ -15,7 +15,7 @@ Account e progressi su Supabase. Anche i contenuti delle lezioni stanno su Supab
 | **Esami** | Simulazioni in stile A2 Key, B1 Preliminary e B2 First, con parti a tempo, punteggio per parte e stima indicativa della scala Cambridge. |
 | **Esercizi** | Scelta multipla, completamento, traduzione scritta, frasi da riordinare, key word transformation, word formation, correzione di errori, cloze (a scelta, aperto, word formation), testi con domande, ascolti a più voci, dettati, dialoghi da completare, frasi da ripetere a voce, risposte orali libere, testi scritti con autovalutazione e testo modello. |
 | **Ripasso** | Ripetizione spaziata delle parole (intervalli di 1, 3, 7, 14, 30 e 60 giorni), esercizi sbagliati da rifare, allenamento per abilità. |
-| **Risorse** | Schede di grammatica (dalle lezioni), dizionario, flashcard, verbi irregolari, phrasal verbs, falsi amici, modi di dire, connettivi, pronuncia per italiani; in più 24 liste di parole per tema (480 parole nuove), collocazioni, errori tipici degli italiani, come si dicono numeri/orari/prezzi, frasi utili per situazione e «Descrivi la foto» (stile Cambridge, con due foto da confrontare al B2). Ogni elenco ha un quiz veloce. |
+| **Risorse** | Schede di grammatica (dalle lezioni), dizionario, flashcard, verbi irregolari, phrasal verbs, falsi amici, modi di dire, connettivi, pronuncia per italiani; in più 24 liste di parole per tema (480 parole nuove), collocazioni, errori tipici degli italiani, come si dicono numeri/orari/prezzi, frasi utili per situazione e «Descrivi la foto» (stile Cambridge, con due foto da confrontare al B2). Ogni elenco ha un quiz veloce. Le parole hanno i sinonimi (carte, lezioni, suggerimento, dizionario); le flashcard sono a rotazione: mazzi da 20 divisi tra i tipi di parola, prima le mai viste e quelle viste da più tempo, mai le stesse carte in due mazzi di fila. |
 | **Foto e schemi** | Circa 100 foto libere (Wikimedia Commons, incluse nell'app, ridotte a circa 25 KB l'una) per parole, testi di lettura e descrizioni; 13 schemi SVG (linee del tempo, strutture) nelle note di grammatica. Crediti in [CREDITS.md](CREDITS.md) e nel Profilo. Scelta e criteri in [docs/IMAGES.md](docs/IMAGES.md). |
 | **Progressi** | Minuti di studio al giorno, serie, punteggio per abilità, livello stimato, traguardi. Niente vite e niente attese: si studia quanto si vuole. |
 | **Voce** | Text-to-Speech del telefono (gratuito): nei dialoghi ogni speaker ha una voce maschile o femminile a seconda del nome (o del genere indicato nei contenuti), con accenti diversi; riconoscimento vocale per il parlato. Nessuna API a pagamento. |
@@ -102,6 +102,13 @@ La chiave di pubblicazione è in `.secrets/publish-key`, fuori da git: conserval
 - Per eliminare qualcosa si imposta `deleted = true`, non si cancella la riga.
 
 Ricordati poi di riportare la modifica in `content/`, altrimenti il prossimo `publish` la sovrascrive.
+
+## Segnalazioni di errori
+
+Ogni esercizio (non test ed esami) ha il pulsante **bandierina** in alto: l'utente descrive il problema e la segnalazione arriva nella tabella `issue_reports` di Supabase (una sola richiesta; se è offline resta in coda e parte da sola).
+- Si leggono dal dashboard: Table Editor > `issue_reports`. Il campo `ref` è la lezione, `step` l'esercizio, `note` il testo dell'utente.
+- Dopo la correzione si imposta `done = true`.
+- Limite: 20 segnalazioni al giorno per utente (funzione `report_issue`, migrazione `006_issue_reports.sql`).
 
 ## Da fare nel dashboard Supabase
 

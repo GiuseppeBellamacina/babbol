@@ -423,6 +423,7 @@
      "it": "valutare, soppesare",
      "ipa": "ˌweɪ ˈʌp",
      "pos": "pv",
+     "syn": ["consider","assess"],
      "ex": [
       "You should weigh up the options before you sign anything.",
       "Dovresti valutare le alternative prima di firmare qualsiasi cosa."
@@ -457,6 +458,7 @@
      "it": "con il senno di poi",
      "ipa": "ɪn ˈhaɪndsaɪt",
      "pos": "phr",
+     "syn": ["looking back"],
      "ex": [
       "In hindsight, we should have asked for a second opinion.",
       "Con il senno di poi, avremmo dovuto chiedere un secondo parere."
@@ -468,6 +470,7 @@
      "it": "avere dei ripensamenti",
      "ipa": "hæv ˌsekənd ˈθɔːts",
      "pos": "phr",
+     "syn": ["change your mind"],
      "ex": [
       "She started having second thoughts the night before the wedding.",
       "Ha iniziato ad avere dei ripensamenti la sera prima del matrimonio."
@@ -490,6 +493,7 @@
      "it": "non rischiare, andare sul sicuro",
      "ipa": "ˌpleɪ ɪt ˈseɪf",
      "pos": "phr",
+     "syn": ["take no risks"],
      "ex": [
       "I would rather play it safe than lose my savings.",
       "Preferisco non rischiare piuttosto che perdere i miei risparmi."
@@ -513,6 +517,7 @@
      "it": "riluttante",
      "ipa": "rɪˈlʌktənt",
      "pos": "adj",
+     "syn": ["unwilling","hesitant"],
      "ex": [
       "He was reluctant to admit that he had made a mistake.",
       "Era riluttante ad ammettere di aver sbagliato."
@@ -525,6 +530,7 @@
      "it": "rimorso",
      "ipa": "rɪˈmɔːs",
      "pos": "n",
+     "syn": ["regret","guilt"],
      "ex": [
       "The driver showed no remorse after the accident.",
       "L'autista non mostrò alcun rimorso dopo l'incidente."
@@ -537,6 +543,7 @@
      "it": "assumersi la colpa",
      "ipa": "teɪk ðə ˈbleɪm",
      "pos": "phr",
+     "syn": ["accept responsibility"],
      "ex": [
       "The manager took the blame for the failed launch.",
       "Il responsabile si è assunto la colpa del lancio fallito."
@@ -561,6 +568,7 @@
      "it": "indeciso (di carattere)",
      "ipa": "ˌɪndɪˈsaɪsɪv",
      "pos": "adj",
+     "syn": ["undecided","hesitant"],
      "ex": [
       "Our indecisive boss changes the plan every week.",
       "Il nostro capo indeciso cambia piano ogni settimana."

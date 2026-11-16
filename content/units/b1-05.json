@@ -345,6 +345,7 @@
           "it": "reddito, entrate",
           "ipa": "ˈɪŋkʌm",
           "pos": "n",
+          "syn": ["earnings"],
           "ex": [
             "Her income is lower than her expenses.",
             "Le sue entrate sono inferiori alle spese."
@@ -357,6 +358,7 @@
           "it": "prelevare",
           "ipa": "wɪðˈdrɔː",
           "pos": "v",
+          "syn": ["take out"],
           "ex": [
             "I withdrew two hundred pounds from the cash machine.",
             "Ho prelevato duecento sterline al bancomat."
@@ -381,6 +383,7 @@
           "it": "commissione, quota",
           "ipa": "fiː",
           "pos": "n",
+          "syn": ["charge"],
           "ex": [
             "There's a small fee for withdrawals abroad.",
             "C'è una piccola commissione per i prelievi all'estero."
@@ -405,6 +408,7 @@
           "it": "sprecare / spreco, rifiuti",
           "ipa": "weɪst",
           "pos": "v",
+          "syn": ["squander"],
           "ex": [
             "Don't waste water while you brush your teeth.",
             "Non sprecare l'acqua mentre ti lavi i denti."
@@ -463,6 +467,7 @@
           "it": "di seconda mano, usato",
           "ipa": "ˌsekənd ˈhænd",
           "pos": "adj",
+          "syn": ["used","pre-owned"],
           "ex": [
             "I bought a second-hand bike for fifty pounds.",
             "Ho comprato una bici usata per cinquanta sterline."
@@ -475,6 +480,7 @@
           "it": "affare, occasione",
           "ipa": "ˈbɑːɡɪn",
           "pos": "n",
+          "syn": ["good deal"],
           "ex": [
             "At ten pounds, this jacket is a real bargain.",
             "A dieci sterline, questa giacca è un vero affare."

@@ -298,6 +298,7 @@
      "it": "hobby, passatempo",
      "ipa": "ˈhɒbi",
      "pos": "n",
+     "syn": ["pastime","interest"],
      "ex": [
       "My hobby is photography.",
       "Il mio hobby è la fotografia."
@@ -323,6 +324,7 @@
      "it": "partita",
      "ipa": "mætʃ",
      "pos": "n",
+     "syn": ["game"],
      "ex": [
       "Did you watch the match last night?",
       "Hai visto la partita ieri sera?"
@@ -336,6 +338,7 @@
      "it": "mostra",
      "ipa": "ˌeksɪˈbɪʃn",
      "pos": "n",
+     "syn": ["show","display"],
      "ex": [
       "There's a Picasso exhibition at the museum.",
       "C'è una mostra di Picasso al museo."
@@ -348,6 +351,7 @@
      "it": "spettacolo, esibizione",
      "ipa": "pəˈfɔːməns",
      "pos": "n",
+     "syn": ["show"],
      "ex": [
       "The evening performance starts at eight.",
       "Lo spettacolo serale inizia alle otto."
@@ -407,6 +411,7 @@
      "it": "tenersi in forma",
      "ipa": "kiːp fɪt",
      "pos": "phr",
+     "syn": ["stay in shape"],
      "ex": [
       "She swims twice a week to keep fit.",
       "Nuota due volte alla settimana per tenersi in forma."
@@ -418,6 +423,7 @@
      "it": "essere appassionato di",
      "ipa": "bi ˈɪntuː",
      "pos": "phr",
+     "syn": ["be keen on","be fond of"],
      "ex": [
       "I'm really into jazz at the moment.",
       "In questo periodo sono appassionato di jazz."
@@ -431,6 +437,7 @@
      "it": "botteghino",
      "ipa": "ˈbɒks ɒfɪs",
      "pos": "n",
+     "syn": ["ticket office"],
      "ex": [
       "You can buy tickets at the box office.",
       "Puoi comprare i biglietti al botteghino."
@@ -455,6 +462,7 @@
      "it": "pallone, calcio",
      "ipa": "ˈfʊtbɔːl",
      "pos": "n",
+     "syn": ["soccer"],
      "ex": [
       "The children are playing football in the park.",
       "I bambini giocano a calcio nel parco."

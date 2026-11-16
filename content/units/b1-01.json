@@ -395,6 +395,7 @@
           "it": "candidato",
           "ipa": "ˈkændɪdət",
           "pos": "n",
+          "syn": ["applicant"],
           "ex": [
             "We interviewed six candidates yesterday.",
             "Ieri abbiamo intervistato sei candidati."
@@ -406,6 +407,7 @@
           "it": "dimettersi",
           "ipa": "rɪˈzaɪn",
           "pos": "v",
+          "syn": ["quit","step down"],
           "ex": [
             "He resigned after an argument with his boss.",
             "Si è dimesso dopo una discussione con il capo."
@@ -477,6 +479,7 @@
           "it": "far fronte a, gestire",
           "ipa": "kəʊp wɪð",
           "pos": "pv",
+          "syn": ["deal with","handle","manage"],
           "ex": [
             "How do you cope with so much stress?",
             "Come fai a gestire così tanto stress?"
@@ -512,6 +515,7 @@
           "it": "gratificante",
           "ipa": "rɪˈwɔːdɪŋ",
           "pos": "adj",
+          "syn": ["fulfilling","satisfying"],
           "ex": [
             "Teaching can be tiring, but it is very rewarding.",
             "Insegnare può essere stancante, ma è molto gratificante."

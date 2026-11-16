@@ -99,6 +99,11 @@ function makeServer() {
       cur.state = body.p_state; cur.rev++;
       return json(200, { ok: true, rev: cur.rev });
     }
+    if (p === "/rest/v1/rpc/report_issue") {
+      if (S.failReports) return json(503, { message: "down" });
+      (S.reports = S.reports || []).push(body);
+      return json(200, null);
+    }
     if (p === "/rest/v1/rpc/delete_my_account") { delete S.users[uid]; delete S.progress[uid]; return json(200, null); }
     return json(404, { message: "not mocked " + p });
   };
@@ -246,7 +251,7 @@ async function play(page, cfgExpr, mode, seen, arg) {
   const page = await ctx.newPage();
   const errors = [];
   page.on("pageerror", (e) => errors.push("pageerror: " + e.message));
-  page.on("console", (m) => { if (m.type() === "error" && !/status of (400|401|404)|net::ERR_FILE_NOT_FOUND|net::ERR_FAILED/.test(m.text())) errors.push("console: " + m.text()); });
+  page.on("console", (m) => { if (m.type() === "error" && !/status of (400|401|404|503)|net::ERR_FILE_NOT_FOUND|net::ERR_FAILED/.test(m.text())) errors.push("console: " + m.text()); });
   page.on("dialog", (d) => d.dismiss());
   const shot = (name) => page.screenshot({ path: path.join(SHOTS, name + ".png") });
   const noEmoji = async (where) => {
@@ -532,6 +537,62 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await page.waitForFunction(() => { const i = document.querySelector(".reading .photos img.photo"); return i && i.complete && i.naturalWidth > 0; });
   ok(true, "testo di lettura con la foto di apertura");
   await shot("24-reading-photo");
+  await page.evaluate(() => B.session._state().close());
+
+  // flashcard: mazzi a rotazione senza ripetizioni consecutive, tipi di parola mescolati, sinonimi sul retro
+  console.log("Flashcard");
+  await page.evaluate(() => B.ui.goTab("resources"));
+  await page.locator(".screen .row-card", { hasText: "Flashcard" }).first().click();
+  const playDeck = async (shotName) => {
+    const seen = [], pos = [];
+    let syn = 0;
+    await page.waitForSelector(".fcard");
+    for (let g = 0; g < 40; g++) {
+      if (await page.locator(".end").count()) break;
+      await page.locator(".fcard").click();
+      seen.push((await page.locator(".fcard .fc-main").innerText()).trim().toLowerCase());
+      if (await page.locator(".fcard .fc-syn").count()) syn++;
+      if (shotName && seen.length === 1) await shot(shotName);
+      await page.locator(".btn.primary", { hasText: "LA SAPEVO" }).click();
+    }
+    return { seen, syn };
+  };
+  const deck1 = await playDeck("25-flashcard-back");
+  ok(deck1.seen.length === 20 && new Set(deck1.seen).size === 20, "flashcard: mazzo di 20 carte diverse (" + deck1.seen.length + ")");
+  await page.locator(".btn.ghost", { hasText: "UN ALTRO MAZZO" }).click();
+  const deck2 = await playDeck();
+  ok(deck2.seen.length === 20 && deck2.seen.filter((x) => deck1.seen.includes(x)).length === 0, "flashcard: il mazzo successivo non ripete nessuna carta del precedente");
+  const kinds = await page.evaluate((ws) => { const all = B.repo.allWords().concat(B.repo.resources().filter((r) => r.kind === "words").flatMap((r) => r.items)); return new Set(ws.map((w) => (all.find((x) => x.en.toLowerCase() === w) || {}).pos)).size; }, deck1.seen.concat(deck2.seen));
+  ok(kinds >= 3, "flashcard: carte di più tipi di parola (nomi, verbi, aggettivi...) mescolate (" + kinds + " tipi)");
+  ok(deck1.syn + deck2.syn > 0, "flashcard: sul retro compaiono i sinonimi (" + (deck1.syn + deck2.syn) + " carte su 40)");
+  await page.locator(".btn.primary", { hasText: "FINITO" }).click();
+  await page.evaluate(() => B.ui.goTab("resources"));
+
+  // segnalazione di un errore: pulsante nelle lezioni, non nei test; in coda se il server non risponde
+  console.log("Segnalazioni");
+  await page.evaluate(() => B.session.start(B.engine.lessonSession("a2-01-vocab")));
+  await page.waitForSelector(".session .report-btn");
+  await page.locator(".session .report-btn").click();
+  await page.waitForSelector(".modal.open textarea");
+  await page.locator(".modal textarea").fill("La traduzione non mi convince");
+  await page.locator(".modal .btn.primary", { hasText: "INVIA" }).click();
+  await page.waitForFunction(() => document.querySelector(".toast"));
+  const rep = server.reports || [];
+  ok(rep.length === 1 && rep[0].p_ref === "a2-01-vocab" && rep[0].p_note === "La traduzione non mi convince" && rep[0].p_step.length > 2, "segnalazione inviata con lezione, esercizio e nota");
+  server.failReports = true;
+  await page.locator(".session .report-btn").click();
+  await page.waitForSelector(".modal.open textarea");
+  await page.locator(".modal .btn.primary", { hasText: "INVIA" }).click();
+  await page.waitForFunction(() => /salvata/.test((document.querySelector(".toast") || {}).textContent || ""), null, { timeout: 8000 });
+  ok(await page.evaluate(() => B.cloud.pendingReports()) === 1 && (server.reports || []).length === 1, "server giù: la segnalazione resta in coda");
+  server.failReports = false;
+  await page.evaluate(() => B.cloud.wake());
+  await page.waitForFunction(() => B.cloud.pendingReports() === 0, null, { timeout: 8000 });
+  ok((server.reports || []).length === 2, "tornata la rete la segnalazione in coda parte da sola");
+  await page.evaluate(() => B.session._state().close());
+  await page.evaluate(() => B.session.start(B.engine.lessonSession("a2-01-test")));
+  await page.waitForSelector(".session");
+  ok(await page.locator(".session .report-btn").count() === 0, "nei test il pulsante di segnalazione non c'è");
   await page.evaluate(() => B.session._state().close());
 
   // ---------------------------------------------------------------- foto

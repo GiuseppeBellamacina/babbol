@@ -389,6 +389,7 @@
      "it": "febbre",
      "ipa": "ˈfiːvə",
      "pos": "n",
+     "syn": ["temperature","high temperature"],
      "ex": [
       "She has a high fever.",
       "Ha la febbre alta."
@@ -436,6 +437,7 @@
      "it": "farmacia",
      "ipa": "ˈfɑːməsi",
      "pos": "n",
+     "syn": ["chemist's"],
      "ex": [
       "The pharmacy closes at six.",
       "La farmacia chiude alle sei."
@@ -461,6 +463,7 @@
      "it": "medicina, farmaco",
      "ipa": "ˈmedsn",
      "pos": "n",
+     "syn": ["medication","drug"],
      "ex": [
       "Take this medicine after meals.",
       "Prendi questa medicina dopo i pasti."
@@ -473,6 +476,7 @@
      "it": "stare meglio, guarire",
      "ipa": "get ˈbetə",
      "pos": "phr",
+     "syn": ["recover"],
      "ex": [
       "I hope you get better soon.",
       "Spero che tu guarisca presto."
@@ -484,6 +488,7 @@
      "it": "prendersela con calma, riposarsi",
      "ipa": "teɪk ɪt ˈiːzi",
      "pos": "phr",
+     "syn": ["relax","rest"],
      "ex": [
       "Take it easy for a few days.",
       "Prenditela con calma per qualche giorno."
@@ -507,6 +512,7 @@
      "it": "compressa, pastiglia",
      "ipa": "ˈtæblət",
      "pos": "n",
+     "syn": ["pill"],
      "ex": [
       "Take two tablets with water.",
       "Prendi due compresse con l'acqua."

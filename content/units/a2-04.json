@@ -352,6 +352,7 @@
      "it": "quartiere, zona",
      "ipa": "ˈneɪbəhʊd",
      "pos": "n",
+     "syn": ["area","district"],
      "ex": [
       "It's a quiet neighbourhood with a lot of parks.",
       "È un quartiere tranquillo con molti parchi."
@@ -376,6 +377,7 @@
      "it": "affollato",
      "ipa": "ˈkraʊdɪd",
      "pos": "adj",
+     "syn": ["packed","busy"],
      "ex": [
       "The centre is very crowded on Saturdays.",
       "Il centro è molto affollato il sabato."
@@ -387,6 +389,7 @@
      "it": "comodo (per posizione)",
      "ipa": "kənˈviːniənt",
      "pos": "adj",
+     "syn": ["handy"],
      "ex": [
       "The flat is convenient for the station.",
       "L'appartamento è comodo per la stazione."
@@ -400,6 +403,7 @@
      "it": "incrocio",
      "ipa": "ˈkrɒsrəʊdz",
      "pos": "n",
+     "syn": ["junction"],
      "ex": [
       "Turn right at the crossroads.",
       "Gira a destra all'incrocio."
@@ -425,6 +429,7 @@
      "it": "semaforo",
      "ipa": "ˈtræfɪk laɪts",
      "pos": "n",
+     "syn": ["traffic signals"],
      "ex": [
       "The bank is just after the traffic lights.",
       "La banca è subito dopo il semaforo."
@@ -450,6 +455,7 @@
      "it": "di fronte a",
      "ipa": "ˈɒpəzɪt",
      "pos": "phr",
+     "syn": ["facing","across from"],
      "ex": [
       "The café is opposite the library.",
       "Il bar è di fronte alla biblioteca."
@@ -473,6 +479,7 @@
      "it": "sempre dritto",
      "ipa": "streɪt ɒn",
      "pos": "phr",
+     "syn": ["straight ahead"],
      "ex": [
       "Go straight on for about two hundred metres.",
       "Vai sempre dritto per circa duecento metri."
@@ -509,6 +516,7 @@
      "it": "divano",
      "ipa": "ˈsəʊfə",
      "pos": "n",
+     "syn": ["couch","settee"],
      "ex": [
       "We watch TV on the sofa every evening.",
       "Guardiamo la TV sul divano ogni sera."

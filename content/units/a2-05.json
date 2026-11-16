@@ -352,6 +352,7 @@
      "it": "umido, afoso",
      "ipa": "ˈhjuːmɪd",
      "pos": "adj",
+     "syn": ["muggy","sticky"],
      "ex": [
       "It's very humid in July.",
       "A luglio è molto afoso."
@@ -364,6 +365,7 @@
      "it": "gelido",
      "ipa": "ˈfriːzɪŋ",
      "pos": "adj",
+     "syn": ["icy"],
      "ex": [
       "It's freezing outside, take a scarf.",
       "Fuori si gela, prendi una sciarpa."
@@ -375,6 +377,7 @@
      "it": "nebbioso",
      "ipa": "ˈfɒɡi",
      "pos": "adj",
+     "syn": ["misty"],
      "ex": [
       "It's too foggy to see the mountains.",
       "C'è troppa nebbia per vedere le montagne."
@@ -410,6 +413,7 @@
      "it": "restare a casa",
      "ipa": "steɪ ɪn",
      "pos": "pv",
+     "syn": ["stay home"],
      "ex": [
       "It's raining, so we're staying in.",
       "Piove, quindi restiamo a casa."
@@ -421,6 +425,7 @@
      "it": "ritrovarsi, vedersi",
      "ipa": "ɡet təˈɡeðə",
      "pos": "pv",
+     "syn": ["meet up"],
      "ex": [
       "We get together every Sunday for lunch.",
       "Ci ritroviamo ogni domenica a pranzo."
@@ -432,6 +437,7 @@
      "it": "avere voglia di",
      "ipa": "ˈfænsi",
      "pos": "v",
+     "syn": ["feel like"],
      "ex": [
       "Do you fancy a walk?",
       "Ti va di fare una passeggiata?"
@@ -444,6 +450,7 @@
      "it": "essere libero, non avere impegni",
      "ipa": "bi friː",
      "pos": "phr",
+     "syn": ["be available"],
      "ex": [
       "Are you free on Saturday evening?",
       "Sei libero sabato sera?"

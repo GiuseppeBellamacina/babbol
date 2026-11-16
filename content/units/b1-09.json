@@ -327,6 +327,7 @@
           "it": "con le vertigini, stordito",
           "ipa": "ˈdɪzi",
           "pos": "adj",
+          "syn": ["giddy","light-headed"],
           "ex": [
             "I felt dizzy when I stood up too quickly.",
             "Mi sono sentito stordito quando mi sono alzato troppo in fretta."
@@ -338,6 +339,7 @@
           "it": "slogare; slogatura",
           "ipa": "spreɪn",
           "pos": "v",
+          "syn": ["twist"],
           "ex": [
             "She sprained her wrist playing tennis.",
             "Si è slogata il polso giocando a tennis."
@@ -431,6 +433,7 @@
           "it": "guarire, riprendersi",
           "ipa": "rɪˈkʌvə",
           "pos": "v",
+          "syn": ["get better"],
           "ex": [
             "It took him a month to recover from the flu.",
             "Ci ha messo un mese a riprendersi dall'influenza."

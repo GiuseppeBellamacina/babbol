@@ -10,6 +10,11 @@
    "it": "ansia",
    "ipa": "æŋˈzaɪəti",
    "pos": "n",
+   "syn": [
+    "worry",
+    "nervousness",
+    "unease"
+   ],
    "ex": [
     "He suffers from anxiety before public speaking.",
     "Soffre d'ansia prima di parlare in pubblico."
@@ -32,6 +37,10 @@
    "it": "farcela",
    "ipa": "kəʊp",
    "pos": "v",
+   "syn": [
+    "manage",
+    "get by"
+   ],
    "ex": [
     "I cannot cope with so much work.",
     "Non ce la faccio con così tanto lavoro."
@@ -54,6 +63,11 @@
    "it": "esausto",
    "ipa": "ɪɡˈzɔːstɪd",
    "pos": "adj",
+   "syn": [
+    "tired out",
+    "worn out",
+    "drained"
+   ],
    "ex": [
     "I was exhausted after the long journey.",
     "Ero esausto dopo il lungo viaggio."
@@ -65,6 +79,10 @@
    "it": "lutto",
    "ipa": "ɡriːf",
    "pos": "n",
+   "syn": [
+    "mourning",
+    "sorrow"
+   ],
    "ex": [
     "He was filled with grief after her death.",
     "Era pieno di dolore dopo la sua morte."
@@ -98,6 +116,10 @@
    "it": "motivazione",
    "ipa": "ˌməʊtɪˈveɪʃn",
    "pos": "n",
+   "syn": [
+    "drive",
+    "incentive"
+   ],
    "ex": [
     "I have lost all my motivation to study.",
     "Ho perso ogni motivazione a studiare."
@@ -109,6 +131,9 @@
    "it": "confidarsi",
    "ipa": "ˈəʊpən ʌp",
    "pos": "phr",
+   "syn": [
+    "confide"
+   ],
    "ex": [
     "It took him months to open up to his friends.",
     "Gli ci sono voluti mesi per confidarsi con gli amici."
@@ -131,6 +156,10 @@
    "it": "panico",
    "ipa": "ˈpænɪk",
    "pos": "n",
+   "syn": [
+    "alarm",
+    "fear"
+   ],
    "ex": [
     "There was panic when the lights went out.",
     "C'è stato il panico quando si sono spente le luci."
@@ -142,6 +171,10 @@
    "it": "rilassarsi",
    "ipa": "rɪˈlæks",
    "pos": "v",
+   "syn": [
+    "unwind",
+    "rest"
+   ],
    "ex": [
     "A walk in the park helps me relax.",
     "Una passeggiata nel parco mi aiuta a rilassarmi."
@@ -153,6 +186,9 @@
    "it": "resilienza",
    "ipa": "rɪˈzɪliəns",
    "pos": "n",
+   "syn": [
+    "toughness"
+   ],
    "ex": [
     "Children show great resilience after a move.",
     "I bambini mostrano grande resilienza dopo un trasloco."
@@ -164,6 +200,10 @@
    "it": "autostima",
    "ipa": "ˌself ɪˈstiːm",
    "pos": "n",
+   "syn": [
+    "self-respect",
+    "self-worth"
+   ],
    "ex": [
     "Praise can help build a child's self-esteem.",
     "Le lodi possono aiutare a costruire l'autostima di un bambino."
@@ -175,6 +215,11 @@
    "it": "stress",
    "ipa": "stres",
    "pos": "n",
+   "syn": [
+    "pressure",
+    "strain",
+    "tension"
+   ],
    "ex": [
     "Too much stress can make you ill.",
     "Troppo stress può farti ammalare."
@@ -186,6 +231,10 @@
    "it": "sostegno",
    "ipa": "səˈpɔːt",
    "pos": "n",
+   "syn": [
+    "help",
+    "backing"
+   ],
    "ex": [
     "Family support is very important in hard times.",
     "Il sostegno della famiglia è molto importante nei momenti difficili."
@@ -208,6 +257,9 @@
    "it": "terapia",
    "ipa": "ˈθerəpi",
    "pos": "n",
+   "syn": [
+    "treatment"
+   ],
    "ex": [
     "She started therapy to cope with her grief.",
     "Ha iniziato una terapia per superare il suo lutto."

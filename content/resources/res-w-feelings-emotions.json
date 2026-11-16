@@ -21,6 +21,10 @@
    "it": "infastidito",
    "ipa": "əˈnɔɪd",
    "pos": "adj",
+   "syn": [
+    "irritated",
+    "cross"
+   ],
    "ex": [
     "He was annoyed by the loud music.",
     "Era infastidito dalla musica alta."
@@ -32,6 +36,11 @@
    "it": "ansioso",
    "ipa": "ˈæŋkʃəs",
    "pos": "adj",
+   "syn": [
+    "worried",
+    "nervous",
+    "uneasy"
+   ],
    "ex": [
     "She was anxious about the test results.",
     "Era in ansia per i risultati del test."
@@ -54,6 +63,9 @@
    "it": "scoppiare in lacrime",
    "ipa": "bɜːst ˈɪntə tɪəz",
    "pos": "phr",
+   "syn": [
+    "start to cry"
+   ],
    "ex": [
     "She burst into tears at the airport.",
     "È scoppiata in lacrime all'aeroporto."
@@ -65,6 +77,10 @@
    "it": "calmarsi",
    "ipa": "kɑːm daʊn",
    "pos": "phr",
+   "syn": [
+    "settle down",
+    "relax"
+   ],
    "ex": [
     "Please calm down and tell me what happened.",
     "Calmati e dimmi cosa è successo."
@@ -76,6 +92,9 @@
    "it": "tirarsi su",
    "ipa": "tʃɪər ʌp",
    "pos": "phr",
+   "syn": [
+    "perk up"
+   ],
    "ex": [
     "Cheer up, things will get better soon.",
     "Tirati su, le cose andranno meglio presto."
@@ -87,6 +106,10 @@
    "it": "sicuro di sé",
    "ipa": "ˈkɒnfɪdənt",
    "pos": "adj",
+   "syn": [
+    "self-assured",
+    "assured"
+   ],
    "ex": [
     "I feel confident about the interview.",
     "Mi sento sicuro per il colloquio."
@@ -109,6 +132,9 @@
    "it": "stufo",
    "ipa": "fed ʌp",
    "pos": "phr",
+   "syn": [
+    "sick and tired"
+   ],
    "ex": [
     "I am fed up with this noisy street.",
     "Sono stufo di questa strada rumorosa."
@@ -120,6 +146,10 @@
    "it": "furioso",
    "ipa": "ˈfjʊəriəs",
    "pos": "adj",
+   "syn": [
+    "angry",
+    "livid"
+   ],
    "ex": [
     "He was furious when he saw the damage.",
     "Era furioso quando ha visto i danni."
@@ -131,6 +161,9 @@
    "it": "andare d'accordo",
    "ipa": "ɡet əˈlɒŋ",
    "pos": "phr",
+   "syn": [
+    "get on"
+   ],
    "ex": [
     "The two brothers get along very well.",
     "I due fratelli vanno molto d'accordo."
@@ -142,6 +175,9 @@
    "it": "riconoscente",
    "ipa": "ˈɡreɪtfl",
    "pos": "adj",
+   "syn": [
+    "thankful"
+   ],
    "ex": [
     "I am grateful for your help.",
     "Ti sono riconoscente per il tuo aiuto."
@@ -164,6 +200,11 @@
    "it": "infelice",
    "ipa": "ˈmɪzrəbl",
    "pos": "adj",
+   "syn": [
+    "unhappy",
+    "sad",
+    "wretched"
+   ],
    "ex": [
     "The rain made everyone feel miserable.",
     "La pioggia metteva tutti di cattivo umore."
@@ -175,6 +216,11 @@
    "it": "agitato",
    "ipa": "ˈnɜːvəs",
    "pos": "adj",
+   "syn": [
+    "anxious",
+    "edgy",
+    "worried"
+   ],
    "ex": [
     "I always feel nervous before an exam.",
     "Mi sento sempre agitato prima di un esame."
@@ -208,6 +254,11 @@
    "it": "entusiasta",
    "ipa": "θrɪld",
    "pos": "adj",
+   "syn": [
+    "delighted",
+    "excited",
+    "overjoyed"
+   ],
    "ex": [
     "They were thrilled to win the prize.",
     "Erano entusiasti di vincere il premio."
@@ -219,6 +270,10 @@
    "it": "sconvolto",
    "ipa": "ʌpˈset",
    "pos": "adj",
+   "syn": [
+    "distressed",
+    "troubled"
+   ],
    "ex": [
     "She was upset by the bad news.",
     "Era sconvolta dalla brutta notizia."

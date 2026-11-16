@@ -76,6 +76,10 @@
    "it": "nonno",
    "ipa": "ˈɡrænfɑːðə",
    "pos": "n",
+   "syn": [
+    "grandad",
+    "grandpa"
+   ],
    "ex": [
     "My grandfather tells funny stories.",
     "Mio nonno racconta storie divertenti."
@@ -87,6 +91,10 @@
    "it": "nonna",
    "ipa": "ˈɡrænmʌðə",
    "pos": "n",
+   "syn": [
+    "grandma",
+    "granny"
+   ],
    "ex": [
     "My grandmother makes the best cakes.",
     "Mia nonna fa le torte più buone."
@@ -120,6 +128,10 @@
    "it": "prendersi cura di",
    "ipa": "lʊk ˈɑːftə",
    "pos": "phr",
+   "syn": [
+    "take care of",
+    "care for"
+   ],
    "ex": [
     "She looks after her little brother.",
     "Si prende cura del suo fratellino."
@@ -164,6 +176,9 @@
    "it": "parenti",
    "ipa": "ˈrelətɪvz",
    "pos": "n",
+   "syn": [
+    "relations"
+   ],
    "ex": [
     "All my relatives came to the party.",
     "Tutti i miei parenti sono venuti alla festa."
@@ -175,6 +190,9 @@
    "it": "adolescente",
    "ipa": "ˈtiːneɪdʒə",
    "pos": "n",
+   "syn": [
+    "adolescent"
+   ],
    "ex": [
     "Our daughter is a teenager now.",
     "Nostra figlia ora è un'adolescente."

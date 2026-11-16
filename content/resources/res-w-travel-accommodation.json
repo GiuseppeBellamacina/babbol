@@ -21,6 +21,9 @@
    "it": "zaino",
    "ipa": "ˈbækpæk",
    "pos": "n",
+   "syn": [
+    "rucksack"
+   ],
    "ex": [
     "He travelled with only a small backpack.",
     "Ha viaggiato con un piccolo zaino."
@@ -45,6 +48,9 @@
    "it": "lasciare l'albergo",
    "ipa": "tʃek aʊt",
    "pos": "phr",
+   "syn": [
+    "leave"
+   ],
    "ex": [
     "We must check out before eleven.",
     "Dobbiamo lasciare la camera prima delle undici."
@@ -112,6 +118,9 @@
    "it": "guida turistica",
    "ipa": "ˈɡaɪdbʊk",
    "pos": "n",
+   "syn": [
+    "guide"
+   ],
    "ex": [
     "The guidebook recommends a quiet restaurant.",
     "La guida consiglia un ristorante tranquillo."
@@ -156,6 +165,9 @@
    "it": "prenotazione",
    "ipa": "ˌrezəˈveɪʃn",
    "pos": "n",
+   "syn": [
+    "booking"
+   ],
    "ex": [
     "I made a reservation for two nights.",
     "Ho fatto una prenotazione per due notti."
@@ -189,6 +201,10 @@
    "it": "partire",
    "ipa": "set ɒf",
    "pos": "phr",
+   "syn": [
+    "leave",
+    "depart"
+   ],
    "ex": [
     "We set off at dawn to avoid the traffic.",
     "Siamo partiti all'alba per evitare il traffico."

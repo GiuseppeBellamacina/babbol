@@ -107,5 +107,9 @@
     if (o.img) return B.h("img", { class: "pic " + (cls || ""), src: "img/v/" + o.img + ".svg", alt: "" });
     return null;
   };
+  // riga dei sinonimi di una parola (campo facoltativo syn); null se non ce ne sono
+  B.synLine = function (w, cls) {
+    return w && w.syn && w.syn.length ? B.h("div", { class: cls || "word-syn" }, B.h("b", null, "Sinonimi: "), w.syn.join(", ")) : null;
+  };
   B.hasPic = function (o) { return !!(o && (o.emoji || o.img || o.photo)); };
 })(window.B);

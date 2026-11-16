@@ -334,6 +334,7 @@
           "it": "difettoso",
           "ipa": "ˈfɔːlti",
           "pos": "adj",
+          "syn": ["defective","broken"],
           "ex": [
             "The hairdryer was faulty, so I took it back.",
             "L'asciugacapelli era difettoso, quindi l'ho riportato indietro."
@@ -370,6 +371,7 @@
           "it": "garanzia (del prodotto)",
           "ipa": "ˈwɒrənti",
           "pos": "n",
+          "syn": ["guarantee"],
           "ex": [
             "The washing machine is still under warranty.",
             "La lavatrice è ancora in garanzia."
@@ -405,6 +407,7 @@
           "it": "fabbricare, produrre in serie",
           "ipa": "ˌmænjuˈfæktʃə",
           "pos": "v",
+          "syn": ["make","produce"],
           "ex": [
             "The shoes are manufactured in Portugal.",
             "Le scarpe sono fabbricate in Portogallo."
@@ -477,6 +480,7 @@
           "it": "riportare indietro (in negozio)",
           "ipa": "teɪk ˈbæk",
           "pos": "pv",
+          "syn": ["return"],
           "ex": [
             "I'm going to take this jumper back because it's too small.",
             "Riporto indietro questo maglione perché è troppo piccolo."

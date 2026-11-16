@@ -351,6 +351,7 @@
      "it": "collega",
      "ipa": "ˈkɒliːɡ",
      "pos": "n",
+     "syn": ["co-worker","workmate"],
      "ex": [
       "My colleague Marta sits next to me.",
       "La mia collega Marta siede accanto a me."
@@ -363,6 +364,7 @@
      "it": "responsabile, capo",
      "ipa": "ˈmænɪdʒə",
      "pos": "n",
+     "syn": ["boss"],
      "ex": [
       "I need to ask my manager first.",
       "Devo prima chiedere al mio responsabile."
@@ -419,6 +421,7 @@
      "it": "stipendio",
      "ipa": "ˈsæləri",
      "pos": "n",
+     "syn": ["pay"],
      "ex": [
       "The salary is good, but the hours are long.",
       "Lo stipendio è buono, ma gli orari sono lunghi."
@@ -476,6 +479,7 @@
      "it": "essere responsabile di",
      "ipa": "bi ɪn ˈtʃɑːdʒ əv",
      "pos": "phr",
+     "syn": ["be responsible for"],
      "ex": [
       "Anna is in charge of the new project.",
       "Anna è responsabile del nuovo progetto."

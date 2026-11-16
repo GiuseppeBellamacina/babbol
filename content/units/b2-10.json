@@ -450,6 +450,7 @@
      "it": "borsa di studio",
      "ipa": "ˈskɒləʃɪp",
      "pos": "n",
+     "syn": ["grant","bursary"],
      "ex": [
       "She won a scholarship to study engineering in Edinburgh.",
       "Ha vinto una borsa di studio per studiare ingegneria a Edimburgo."
@@ -474,6 +475,7 @@
      "it": "tesi (di laurea)",
      "ipa": "ˌdɪsəˈteɪʃn",
      "pos": "n",
+     "syn": ["thesis"],
      "ex": [
       "He is writing his dissertation on renewable energy.",
       "Sta scrivendo la tesi sulle energie rinnovabili."
@@ -498,6 +500,7 @@
      "it": "all'avanguardia",
      "ipa": "ˌkʌtɪŋ ˈedʒ",
      "pos": "adj",
+     "syn": ["state-of-the-art","advanced","innovative"],
      "ex": [
       "The laboratory uses cutting-edge technology.",
       "Il laboratorio usa tecnologia all'avanguardia."
@@ -571,6 +574,7 @@
      "it": "programma di studi",
      "ipa": "kəˈrɪkjələm",
      "pos": "n",
+     "syn": ["syllabus"],
      "ex": [
       "Coding is now part of the school curriculum.",
       "Programmare ora fa parte del programma scolastico."

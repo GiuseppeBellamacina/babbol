@@ -10,6 +10,9 @@
    "it": "fallito",
    "ipa": "ˈbæŋkrʌpt",
    "pos": "adj",
+   "syn": [
+    "insolvent"
+   ],
    "ex": [
     "The firm went bankrupt after the crisis.",
     "L'azienda è fallita dopo la crisi."
@@ -32,6 +35,9 @@
    "it": "concorrente",
    "ipa": "kəmˈpetɪtə",
    "pos": "n",
+   "syn": [
+    "rival"
+   ],
    "ex": [
     "Our main competitor has lowered its prices.",
     "Il nostro principale concorrente ha abbassato i prezzi."
@@ -43,6 +49,9 @@
    "it": "clientela",
    "ipa": "ˈkʌstəmə beɪs",
    "pos": "phr",
+   "syn": [
+    "clientele"
+   ],
    "ex": [
     "The firm is trying to widen its customer base.",
     "L'azienda cerca di ampliare la propria clientela."
@@ -76,6 +85,9 @@
    "it": "fattura",
    "ipa": "ˈɪnvɔɪs",
    "pos": "n",
+   "syn": [
+    "bill"
+   ],
    "ex": [
     "Please send the invoice by the end of the week.",
     "Invii la fattura entro la fine della settimana, per favore."
@@ -87,6 +99,10 @@
    "it": "lanciare",
    "ipa": "lɔːntʃ",
    "pos": "v",
+   "syn": [
+    "introduce",
+    "release"
+   ],
    "ex": [
     "The company will launch a new product in May.",
     "L'azienda lancerà un nuovo prodotto a maggio."
@@ -142,6 +158,9 @@
    "it": "spese generali",
    "ipa": "ˈəʊvəhedz",
    "pos": "n",
+   "syn": [
+    "running costs"
+   ],
    "ex": [
     "High overheads make it hard to stay profitable.",
     "Le spese generali elevate rendono difficile restare redditizi."
@@ -153,6 +172,10 @@
    "it": "profitto",
    "ipa": "ˈprɒfɪt",
    "pos": "n",
+   "syn": [
+    "gain",
+    "earnings"
+   ],
    "ex": [
     "They made a small profit last year.",
     "Hanno realizzato un piccolo profitto l'anno scorso."
@@ -164,6 +187,10 @@
    "it": "ricavi",
    "ipa": "ˈrevənjuː",
    "pos": "n",
+   "syn": [
+    "income",
+    "takings"
+   ],
    "ex": [
     "The company's revenue grew by ten per cent.",
     "I ricavi dell'azienda sono cresciuti del dieci per cento."
@@ -175,6 +202,9 @@
    "it": "azionista",
    "ipa": "ˈʃeəhəʊldə",
    "pos": "n",
+   "syn": [
+    "stockholder"
+   ],
    "ex": [
     "The shareholders approved the new plan.",
     "Gli azionisti hanno approvato il nuovo piano."
@@ -186,6 +216,9 @@
    "it": "borsa valori",
    "ipa": "stɒk ˈmɑːkɪt",
    "pos": "phr",
+   "syn": [
+    "stock exchange"
+   ],
    "ex": [
     "The stock market fell sharply on Monday.",
     "La borsa è scesa bruscamente lunedì."
@@ -197,6 +230,9 @@
    "it": "fornitore",
    "ipa": "səˈplaɪə",
    "pos": "n",
+   "syn": [
+    "vendor"
+   ],
    "ex": [
     "We are looking for a cheaper supplier.",
     "Stiamo cercando un fornitore più economico."

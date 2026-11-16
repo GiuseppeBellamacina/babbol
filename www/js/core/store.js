@@ -23,7 +23,7 @@
       goal: 30,                   // minuti al giorno
       lessons: {},                // id -> { best: 0..100, runs, at }
       exams: {},                  // id -> { best, parts: {partId: pct}, runs, at }
-      words: {},                  // id -> { b, due: "AAAA-MM-GG", ok, ko }
+      words: {},                  // id -> { b, due: "AAAA-MM-GG", ok, ko, last: ms dell'ultima volta vista, n: volte viste }
       mistakes: {},               // "lessonId#indice" -> { n, at, fixed }
       skills: {},                 // skill -> [corrette, totali]
       days: {},                   // "AAAA-MM-GG" -> { xp, s }
@@ -218,6 +218,7 @@
     recordWord: function (id, ok) {
       var w = state.words[id] || { b: 0, due: B.dayKey(), ok: 0, ko: 0 };
       if (ok) { w.b = Math.min(BOX_DAYS.length - 1, w.b + 1); w.ok++; } else { w.b = 0; w.ko++; }
+      w.last = Date.now(); w.n = (w.n || 0) + 1;       // serve a ruotare le flashcard (vedi resources.js)
       var d = new Date(); d.setDate(d.getDate() + BOX_DAYS[w.b]);
       w.due = B.dayKey(d);
       state.words[id] = w;
@@ -227,6 +228,7 @@
       var today = B.dayKey(), out = [];
       for (var id in state.words) {
         var w = state.words[id];
+        if (id.indexOf("rw:") === 0) continue;   // parole delle liste per tema: solo flashcard, non entrano nel ripasso
         if (w.due <= today) out.push({ id: id, b: w.b, due: w.due });
       }
       out.sort(function (a, b) { return a.b - b.b || (a.due < b.due ? -1 : 1); });

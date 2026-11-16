@@ -66,7 +66,7 @@ Se segnala una parola già presente in un'altra unità, cambia la **tua** parola
 
 **Foto reali.** Per oggetti, luoghi e scene: `"photo": "<id>"` (parola, `read`, `speakTask`, `write`) o `"photos": ["<id>", "<id>"]` per il confronto B2. Si cercano e si scaricano con `tools/photos.js` (Wikimedia Commons, licenze CC0/PD/CC BY/CC BY-SA, ridotte a 520x440 WebP): procedura, criteri e scelta «incluse o link» in `docs/IMAGES.md`. Dopo ogni foto nuova: `node tools/photos.js credits`.
 
-**Schemi di grammatica.** Linee del tempo e strutture: `"svg": "<nome>"` su una nota, file in `www/img/g/` (generati da `build/gen-g.js`).
+**Schemi di grammatica.** Linee del tempo e strutture: `"svg": "<nome>"` su una nota, file in `www/img/g/` (generati da `tools/gen-g.js`: si modifica lo script e lo si rilancia con `node tools/gen-g.js`, le SVG sono il risultato).
 
 Per i concetti astratti niente immagini.
 
