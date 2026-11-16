@@ -577,6 +577,7 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await page.locator(".modal textarea").fill("La traduzione non mi convince");
   await page.locator(".modal .btn.primary", { hasText: "INVIA" }).click();
   await page.waitForFunction(() => document.querySelector(".toast"));
+  ok(await page.evaluate(() => { const r = document.querySelector(".toast").getBoundingClientRect(); return Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2; }), "il messaggio entra già al centro (non da destra)");
   const rep = server.reports || [];
   ok(rep.length === 1 && rep[0].p_ref === "a2-01-vocab" && rep[0].p_note === "La traduzione non mi convince" && rep[0].p_step.length > 2, "segnalazione inviata con lezione, esercizio e nota");
   server.failReports = true;

@@ -114,7 +114,8 @@ h4 { margin: 14px 2px 8px; }
 .sheet h3 { font-size: 1.2rem; margin-bottom: 8px; text-align: center; }
 .sheet-text { color: var(--muted); margin-bottom: 10px; white-space: pre-line; }
 .sheet-actions { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
-.toast { position: fixed; bottom: 90px; left: 50%; transform: translateX(-50%); background: #222; color: #fff; padding: 10px 16px; border-radius: 12px; z-index: 99; font-weight: 700; animation: up .2s ease; max-width: 90%; }
+.toast { position: fixed; bottom: 90px; left: 50%; transform: translateX(-50%); background: #222; color: #fff; padding: 10px 16px; border-radius: 12px; z-index: 99; font-weight: 700; animation: toast-in .2s ease; max-width: 90%; }
+@keyframes toast-in { from { transform: translate(-50%, 40px); opacity: 0; } to { transform: translateX(-50%); opacity: 1; } }
 .toast.out { opacity: 0; transition: opacity .4s; }
 @keyframes up { from { transform: translateY(40px); opacity: 0; } to { transform: none; opacity: 1; } }
 

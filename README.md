@@ -54,7 +54,9 @@ docs/                      CONTENT_SCHEMA.md, CURRICULUM.md, AUTHORING.md, DATA_
 | `user_progress` | Una riga per utente (stato JSON), protetta da RLS. |
 | `save_progress(state, base_rev)` | Salva i progressi; se un altro dispositivo ha salvato nel frattempo, restituisce lo stato del server e l'app unisce. |
 | `delete_my_account()` | Cancellazione dell'account (richiesta da Google Play). |
-| `publish_content(key, rows)` | Pubblicazione dal repository, protetta da una chiave segreta: gli avvisi dell'advisor su questa funzione sono attesi. |
+| `publish_content(key, rows)` | Pubblicazione dal repository: solo un utente autenticato registrato in `private.publishers` e con la chiave segreta. L'avviso dell'advisor su questa funzione è atteso. |
+
+**Sicurezza** (migrazioni 007 e 008): chi non ha fatto l'accesso non ha nessun permesso su tabelle, sequenze e funzioni; chi l'ha fatto legge i contenuti, legge e scrive solo la propria riga dei progressi e può solo inviare segnalazioni (mai leggerle). Le cose create in futuro non ricevono permessi automatici. RLS è attivo su ogni tabella; non è forzato sul proprietario perché le funzioni `security definer` ne hanno bisogno. Gli avvisi dell'advisor su `delete_my_account`, `report_issue` e `publish_content` sono attesi: devono essere eseguibili dagli utenti autenticati, e ognuna controlla chi la chiama.
 
 **Richieste per utente**:
 - token rinnovato solo quando scade
@@ -95,7 +97,7 @@ All'avvio l'app (solo su Android) chiede a GitHub l'ultima release, con una sola
 - Ciò che hai tolto viene segnato come eliminato.
 - Le app scaricano le modifiche entro 24 ore.
 
-La chiave di pubblicazione è in `.secrets/publish-key`, fuori da git: conservala.
+Servono due cose, entrambe in `.secrets/` (fuori da git, conservale): la chiave di pubblicazione (`publish-key`) e l'account publisher (`publisher-login`: email e password su due righe; l'utente deve essere registrato in `private.publishers`).
 
 **Dal dashboard Supabase.** Si modifica il campo `data` della riga nella tabella `content` (Table Editor).
 - Il `rev` si aggiorna da solo.

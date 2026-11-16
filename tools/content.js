@@ -454,9 +454,18 @@ async function publish(all) {
   const keyFile = path.join(ROOT, ".secrets", "publish-key");
   const key = (process.env.BABBOL_PUBLISH_KEY || (fs.existsSync(keyFile) ? fs.readFileSync(keyFile, "utf8") : "")).trim();
   if (!key) throw new Error("manca la chiave di pubblicazione (.secrets/publish-key o BABBOL_PUBLISH_KEY)");
+  // la pubblicazione richiede un account "publisher" (registrato in private.publishers) oltre alla chiave: email e password
+  // in .secrets/publisher-login (due righe) oppure BABBOL_PUBLISHER_EMAIL / BABBOL_PUBLISHER_PASSWORD
+  const loginFile = path.join(ROOT, ".secrets", "publisher-login");
+  const [fEmail, fPass] = fs.existsSync(loginFile) ? fs.readFileSync(loginFile, "utf8").split(/\r?\n/) : [];
+  const email = (process.env.BABBOL_PUBLISHER_EMAIL || fEmail || "").trim(), password = (process.env.BABBOL_PUBLISHER_PASSWORD || fPass || "").trim();
+  if (!email || !password) throw new Error("manca l'account publisher (.secrets/publisher-login: email e password su due righe)");
+  const lr = await fetch(url + "/auth/v1/token?grant_type=password", { method: "POST", headers: { apikey, "Content-Type": "application/json" }, body: JSON.stringify({ email, password }) });
+  const lj = await lr.json();
+  if (!lr.ok || !lj.access_token) throw new Error("accesso del publisher non riuscito: " + (lj.msg || lj.error_description || lr.status));
   const r = rows(all), ids = r.map((x) => x.id);
   const call = async (body) => {
-    const res = await fetch(url + "/rest/v1/rpc/publish_content", { method: "POST", headers: { apikey, "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    const res = await fetch(url + "/rest/v1/rpc/publish_content", { method: "POST", headers: { apikey, Authorization: "Bearer " + lj.access_token, "Content-Type": "application/json" }, body: JSON.stringify(body) });
     const t = await res.text();
     if (!res.ok) throw new Error("HTTP " + res.status + " " + t.slice(0, 300));
     return JSON.parse(t);
