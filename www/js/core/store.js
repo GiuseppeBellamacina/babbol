@@ -76,7 +76,8 @@
     m.xp = Math.max(a.xp || 0, b.xp || 0);
     m.bestStreak = Math.max(a.bestStreak || 0, b.bestStreak || 0);
     var later = (a.lastDay || "") >= (b.lastDay || "") ? a : b;
-    m.lastDay = later.lastDay; m.streak = later.streak;
+    m.lastDay = later.lastDay;
+    m.streak = a.lastDay === b.lastDay ? Math.max(a.streak || 0, b.streak || 0) : later.streak;   // stesso giorno: vale la serie più lunga
     m.lessons = maxMap(a.lessons || {}, b.lessons || {}, function (x, y) {
       return { best: Math.max(x.best, y.best), runs: Math.max(x.runs, y.runs), at: Math.max(x.at || 0, y.at || 0) };
     });
