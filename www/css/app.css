@@ -473,3 +473,9 @@ img.dict-pic.photo, .dict-pic.photo-ph { width: 52px; height: 40px; flex: none; 
 .pt-pics { display: flex; gap: 4px; flex: none; }
 .pt-pic.photo, .pt-pic.photo-ph { width: 74px; height: 56px; min-height: 0; padding: 0; }
 .pt-pic.photo-ph span { display: none; }
+
+/* ---------- tira per aggiornare e conferma con pressione prolungata ---------- */
+.ptr { position: absolute; top: 56px; left: 50%; z-index: 20; background: var(--soft); color: var(--fg); border: 2px solid var(--line); border-radius: 999px; padding: 6px 14px; font-weight: 700; font-size: .85rem; pointer-events: none; transition: opacity .15s; }
+.hold-btn { position: relative; overflow: hidden; touch-action: none; user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; width: 100%; margin-top: 10px; }
+.hold-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--red); opacity: .3; }
+.hold-label { position: relative; }

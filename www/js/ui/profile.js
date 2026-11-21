@@ -110,6 +110,23 @@
         function () { B.session.start(E.placementSession()); }) : null);
   }
 
+  function changePassword() {
+    function f(ph, auto) { return h("input", { class: "answer", type: "password", placeholder: ph, autocomplete: auto }); }
+    var cur = f("Password attuale", "current-password"), p1 = f("Nuova password (8+ caratteri, lettere e numeri)", "new-password"), p2 = f("Ripeti la nuova password", "new-password");
+    var err = h("div", { class: "auth-err" }), body = h("div", null, cur, p1, p2, err);
+    function ask() {
+      return UI.modal({ icon: "lock", title: "Cambia password", body: body, buttons: [{ label: "SALVA", value: true, cls: "primary" }, { label: "ANNULLA", value: false }] }).then(function (ok) {
+        if (!ok) return;
+        if (!cur.value) { err.textContent = "Inserisci la password attuale."; return ask(); }
+        if (p1.value.length < 8 || !/[A-Za-z]/.test(p1.value) || !/\d/.test(p1.value)) { err.textContent = "La nuova password deve avere almeno 8 caratteri, con lettere e numeri."; return ask(); }
+        if (p1.value !== p2.value) { err.textContent = "Le due password nuove non coincidono."; return ask(); }
+        return B.cloud.changePassword(cur.value, p1.value).then(function () { UI.toast("Password aggiornata"); },
+          function (e) { err.textContent = e.code === "invalid_credentials" ? "La password attuale non è corretta." : e.message; return ask(); });
+      });
+    }
+    ask();
+  }
+
   function account() {
     return h("div", { class: "card settings" },
       action("Esci", "I progressi restano salvati sul tuo account", function () {
@@ -122,12 +139,13 @@
           });
         });
       }),
+      action("Cambia password", "Serve la password attuale", changePassword),
       action("Azzera i progressi", "Ricomincia da capo (le impostazioni restano)", function () {
-        UI.confirm({ title: "Azzerare tutto?", text: "Perderai XP, serie, lezioni, esami e ripasso, anche sul server.", ok: "AZZERA", cancel: "ANNULLA", danger: true })
+        UI.holdConfirm({ title: "Azzerare tutto?", text: "Perderai XP, serie, lezioni, esami e ripasso, anche sul server.", ok: "AZZERA", cancel: "ANNULLA", seconds: 3 })
           .then(function (y) { if (y) { S.reset(); B.cloud.sync(true).catch(function () {}); UI.toast("Progressi azzerati"); UI.refresh(true); } });
       }, true),
       action("Elimina l'account", "Cancella definitivamente account e progressi", function () {
-        UI.confirm({ title: "Eliminare l'account?", text: "L'operazione è definitiva: account e progressi verranno cancellati dal server.", ok: "ELIMINA", cancel: "ANNULLA", danger: true })
+        UI.holdConfirm({ title: "Eliminare l'account?", text: "L'operazione è definitiva: account e progressi verranno cancellati dal server.", phrase: "I want to delete my account", ok: "ELIMINA", cancel: "ANNULLA", seconds: 5 })
           .then(function (y) {
             if (!y) return;
             B.cloud.deleteAccount().then(function () { UI.toast("Account eliminato"); }, function (e) { UI.alert("Impossibile eliminare l'account", e.message + " Riprova con la connessione attiva."); });

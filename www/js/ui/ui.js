@@ -41,7 +41,31 @@
       }));
       app.appendChild(els.top); app.appendChild(els.screen); app.appendChild(els.tabs);
       tab = "home"; stack = []; firstHome = true;
+      UI.pullToRefresh(els.screen);
       UI.refresh(true);
+    },
+
+    // scroll verso il basso dalla cima della schermata: scarica i progressi dal server e ridisegna
+    pullToRefresh: function (screen) {
+      var y0 = null, dy = 0, busy = false, hint = h("div", { class: "ptr" }, "Tira per aggiornare");
+      document.getElementById("app").appendChild(hint);
+      function reset() { hint.style.opacity = "0"; hint.style.transform = "translate(-50%, -30px)"; y0 = null; dy = 0; }
+      reset();
+      screen.addEventListener("touchstart", function (e) { y0 = !busy && screen.scrollTop <= 0 ? e.touches[0].clientY : null; dy = 0; }, { passive: true });
+      screen.addEventListener("touchmove", function (e) {
+        if (y0 == null) return;
+        dy = e.touches[0].clientY - y0;
+        if (dy <= 0 || screen.scrollTop > 0) { reset(); return; }
+        hint.textContent = dy > 90 ? "Rilascia per aggiornare" : "Tira per aggiornare";
+        hint.style.opacity = String(Math.min(1, dy / 90)); hint.style.transform = "translate(-50%, " + Math.min(dy / 2, 50) + "px)";
+      }, { passive: true });
+      screen.addEventListener("touchend", function () {
+        var go = y0 != null && dy > 90;
+        if (!go) return reset();
+        busy = true; hint.textContent = "Aggiorno...";
+        B.cloud.refresh().then(function () { UI.toast("Aggiornato"); }, function () { UI.toast("Non riesco a collegarmi"); })
+          .then(function () { busy = false; reset(); if (!(B.session && B.session.isOpen())) UI.refresh(); });
+      }, { passive: true });
     },
 
     applyTheme: function () {
@@ -162,6 +186,33 @@
         { label: o.cancel || "ANNULLA", value: false, cls: "primary" },
         { label: o.ok || "OK", value: true, cls: o.danger ? "danger-outline" : "ghost" }
       ] });
+    },
+    /**
+     * Conferma "pesante" per azioni distruttive: bisogna tenere premuto il tasto per o.seconds secondi
+     * e, se c'è o.phrase, scrivere prima quella frase (in inglese) mostrata nella finestra.
+     */
+    holdConfirm: function (o) {
+      var secs = o.seconds || 3, timer = null, t0 = 0;
+      var inp = o.phrase ? h("input", { class: "answer", type: "text", placeholder: o.phrase, autocomplete: "off", autocapitalize: "none", autocorrect: "off", spellcheck: "false" }) : null;
+      var err = h("div", { class: "auth-err" });
+      var fill = h("div", { class: "hold-fill" });
+      var btn = h("button", { class: "btn danger-outline hold-btn", type: "button", oncontextmenu: function (e) { e.preventDefault(); } },
+        fill, h("span", { class: "hold-label" }, (o.ok || "ELIMINA") + " (tieni premuto " + secs + " s)"));
+      function stop() { if (timer) cancelAnimationFrame(timer); timer = null; fill.style.width = "0"; }
+      function tick() {
+        var p = Math.min(1, (Date.now() - t0) / (secs * 1000));
+        fill.style.width = Math.round(p * 100) + "%";
+        if (p < 1) { timer = requestAnimationFrame(tick); return; }
+        timer = null;
+        if (inp && inp.value.trim().toLowerCase() !== o.phrase.toLowerCase()) { err.textContent = "La frase non coincide: scrivila esattamente come sopra."; stop(); return; }
+        UI.closeModal(true);
+      }
+      function start(e) { e.preventDefault(); if (timer) return; err.textContent = ""; t0 = Date.now(); timer = requestAnimationFrame(tick); }
+      ["pointerup", "pointercancel", "pointerleave"].forEach(function (ev) { btn.addEventListener(ev, stop); });
+      btn.addEventListener("pointerdown", start);
+      var body = h("div", null, h("p", { class: "sheet-text" }, o.text),
+        o.phrase ? h("p", { class: "sheet-text" }, "Per continuare scrivi questa frase: ", h("b", null, o.phrase)) : null, inp, err, btn);
+      return UI.modal({ title: o.title, body: body, center: true, buttons: [{ label: o.cancel || "ANNULLA", value: false, cls: "primary" }] });
     },
     alert: function (title, text) {
       return UI.modal({ title: title, body: text, center: true, buttons: [{ label: "OK", value: true, cls: "primary" }] });

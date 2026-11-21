@@ -541,6 +541,7 @@ async function play(page, cfgExpr, mode, seen, arg) {
 
   // flashcard: mazzi a rotazione senza ripetizioni consecutive, tipi di parola mescolati, sinonimi sul retro
   console.log("Flashcard");
+  await page.evaluate(() => B.store.setSetting("unlockAll", true));   // con una sola unità aperta non ci sono 40 carte diverse
   await page.evaluate(() => B.ui.goTab("resources"));
   await page.locator(".screen .row-card", { hasText: "Flashcard" }).first().click();
   const playDeck = async (shotName) => {
@@ -566,6 +567,7 @@ async function play(page, cfgExpr, mode, seen, arg) {
   ok(kinds >= 3, "flashcard: carte di più tipi di parola (nomi, verbi, aggettivi...) mescolate (" + kinds + " tipi)");
   ok(deck1.syn + deck2.syn > 0, "flashcard: sul retro compaiono i sinonimi (" + (deck1.syn + deck2.syn) + " carte su 40)");
   await page.locator(".btn.primary", { hasText: "FINITO" }).click();
+  await page.evaluate(() => B.store.setSetting("unlockAll", false));
   await page.evaluate(() => B.ui.goTab("resources"));
 
   // segnalazione di un errore: pulsante nelle lezioni, non nei test; in coda se il server non risponde

@@ -165,6 +165,11 @@
     recover: function (email) {
       return request("POST", "/auth/v1/recover?redirect_to=" + encodeURIComponent(CFG.authRedirect), { email: email });
     },
+    // verifica la password attuale (senza toccare la sessione) e imposta la nuova
+    changePassword: function (current, password) {
+      return request("POST", "/auth/v1/token?grant_type=password", { email: session.user.email, password: current })
+        .then(function () { return Cloud.updatePassword(password); });
+    },
     updatePassword: function (password) {
       return token().then(function (t) { return request("PUT", "/auth/v1/user", { password: password }, { token: t }); });
     },
@@ -201,9 +206,9 @@
 
     _afterLogin: function () {
       B.store.claim(session.user.id);
-      if (Cloud.onChange) Cloud.onChange(true);
-      // progressi del server (nuovo dispositivo o nuovo utente) + eventuali contenuti nuovi
-      return Promise.all([pull().catch(function (e) { console.warn("pull", e); }), Cloud.checkContent(true).catch(function () { /* offline */ })]);
+      // progressi del server (nuovo dispositivo o nuovo utente) + eventuali contenuti nuovi; la UI si disegna DOPO, altrimenti mostra i dati vuoti
+      return Promise.all([pull().catch(function (e) { console.warn("pull", e); }), Cloud.checkContent(true).catch(function () { /* offline */ })])
+        .then(function (r) { if (Cloud.onChange) Cloud.onChange(true); return r; });
     },
     // wipe = true solo per uscita volontaria o account eliminato
     _signedOut: function (wipe) {
@@ -220,6 +225,12 @@
       if (syncing) return syncing;
       syncing = save(false).then(function (r) { syncing = null; return r; }, function (e) { syncing = null; throw e; });
       return syncing;
+    },
+
+    /** Aggiornamento manuale (scroll verso il basso): scarica e unisce i progressi del server, li salva, controlla i contenuti. */
+    refresh: function () {
+      if (!session) return Promise.resolve();
+      return pull().then(function () { return Cloud.sync(true); }).then(function () { return Cloud.checkContent(true); });
     },
 
     /** Scarica i contenuti cambiati (al massimo una volta ogni contentCheckHours, salvo force). */
