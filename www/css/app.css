@@ -479,3 +479,45 @@ img.dict-pic.photo, .dict-pic.photo-ph { width: 52px; height: 40px; flex: none; 
 .hold-btn { position: relative; overflow: hidden; touch-action: none; user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; width: 100%; margin-top: 10px; }
 .hold-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--red); opacity: .3; }
 .hold-label { position: relative; }
+
+/* ---------- missioni, gettoni, album e carte delle creature ---------- */
+.mission { display: flex; align-items: center; gap: 12px; }
+.mission .bar { margin: 6px 0 2px; } .mission.claimed { opacity: .6; } .mission.bonus { border-color: var(--yellow); }
+.m-reward { font-weight: 800; color: var(--orange); flex: none; } .m-done { color: var(--green); flex: none; } .mission .grow { min-width: 0; }
+.mission .btn.m-claim { width: auto; flex: none; white-space: nowrap; padding: 10px 12px; margin: 0; }
+.coins .coin-num { font-size: 1.6rem; font-weight: 800; display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+.mission-card .dots { margin: 4px 0; }
+.album-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.mini { position: relative; border: 3px solid var(--rc); border-radius: 16px; background: var(--card); padding: 8px 4px 6px; text-align: center; color: var(--fg); font: inherit; }
+.mini img { width: 100%; max-width: 72px; aspect-ratio: 1; display: block; margin: 0 auto 4px; }
+.mini.locked { border-color: var(--line); } .mini.locked img { filter: brightness(0); opacity: .3; }
+.mini-name { font-size: .78rem; font-weight: 700; line-height: 1.1; min-height: 1.7em; }
+.mini-n { position: absolute; top: 4px; right: 6px; font-size: .72rem; font-weight: 800; color: var(--muted); }
+.mini.r3:not(.locked) { box-shadow: 0 0 10px -2px var(--rc); } .mini.r4:not(.locked) { box-shadow: 0 0 12px 0 var(--rc); } .mini.r5:not(.locked) { box-shadow: 0 0 14px 1px var(--rc); }
+.rar-row { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; margin: 10px 0; }
+.rar-chip { border-bottom: 4px solid var(--rc); text-align: center; font-size: .66rem; line-height: 1.2; padding-bottom: 3px; } .rar-chip b { display: block; font-size: .9rem; }
+.reveal { min-height: 220px; display: flex; align-items: center; justify-content: center; }
+.gift-box { font-size: 5rem; animation: box-shake .35s ease-in-out infinite; }
+@keyframes box-shake { 0%,100% { transform: rotate(-9deg) scale(1); } 50% { transform: rotate(9deg) scale(1.12); } }
+.reveal.done .ccard { animation: card-in .5s cubic-bezier(.2,1.4,.4,1); }
+@keyframes card-in { from { transform: scale(.3) rotate(-8deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.ccard { --rc: #d7dde3; position: relative; overflow: hidden; border: 4px solid var(--rc); border-radius: 22px; padding: 12px 14px 14px; text-align: center; background: var(--card); width: 100%; }
+.ccard .c-rar { display: inline-block; background: var(--rc); color: #111; font-weight: 800; font-size: .72rem; letter-spacing: .06em; text-transform: uppercase; padding: 2px 10px; border-radius: 99px; }
+.ccard .c-img { width: 130px; height: 130px; display: block; margin: 10px auto 4px; position: relative; z-index: 1; filter: drop-shadow(0 3px 4px rgba(0,0,0,.25)); }
+.ccard .c-name { font-size: 1.35rem; font-weight: 800; position: relative; z-index: 1; }
+.ccard .c-fact { margin-top: 8px; font-size: .92rem; position: relative; z-index: 1; } .ccard .c-dup { margin-top: 8px; font-weight: 800; color: var(--orange); position: relative; z-index: 1; }
+.ccard.r1 { box-shadow: 0 0 10px -3px var(--rc); }
+.ccard.r2 { box-shadow: 0 0 16px -2px var(--rc); background: linear-gradient(160deg, var(--card) 60%, rgba(56,182,255,.18)); }
+.ccard.r3 { background: linear-gradient(160deg, var(--card) 55%, rgba(162,89,255,.22)); animation: glow-purple 2.4s ease-in-out infinite; }
+@keyframes glow-purple { 0%,100% { box-shadow: 0 0 12px -2px var(--rc); } 50% { box-shadow: 0 0 26px 2px var(--rc); } }
+.ccard.r4 { background: linear-gradient(160deg, var(--card) 50%, rgba(245,180,0,.25)); box-shadow: 0 0 22px 0 var(--rc); }
+.ccard.r4::after { content: ""; position: absolute; inset: -40% -60%; background: linear-gradient(100deg, transparent 42%, rgba(255,240,170,.55) 50%, transparent 58%); animation: shimmer 3s linear infinite; pointer-events: none; }
+@keyframes shimmer { from { transform: translateX(-60%); } to { transform: translateX(60%); } }
+.ccard.r5 { background: radial-gradient(circle at 50% 100%, rgba(255,70,30,.55), rgba(120,0,10,.35) 55%, var(--card) 100%); animation: ember 1.6s ease-in-out infinite, breathe 3s ease-in-out infinite; }
+@keyframes ember { 0%,100% { box-shadow: 0 0 18px 2px #ff3b3b, 0 0 40px 4px rgba(255,120,0,.45); } 50% { box-shadow: 0 0 30px 6px #ff5a1f, 0 0 64px 12px rgba(255,60,0,.5); } }
+@keyframes breathe { 0%,100% { transform: scale(1); } 50% { transform: scale(1.025); } }
+.ccard .spark { position: absolute; bottom: -6px; width: 6px; height: 6px; border-radius: 50%; background: #ffb84d; box-shadow: 0 0 8px 2px #ff7a1a; animation: rise 2.4s linear infinite; opacity: 0; z-index: 0; }
+.ccard .s0 { left: 10%; animation-delay: 0s; } .ccard .s1 { left: 24%; animation-delay: .6s; } .ccard .s2 { left: 38%; animation-delay: 1.3s; } .ccard .s3 { left: 52%; animation-delay: .3s; }
+.ccard .s4 { left: 66%; animation-delay: 1.8s; } .ccard .s5 { left: 80%; animation-delay: .9s; } .ccard .s6 { left: 92%; animation-delay: 1.5s; }
+@keyframes rise { 0% { transform: translateY(0) scale(1); opacity: 0; } 15% { opacity: 1; } 100% { transform: translateY(-260px) scale(.3); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .ccard, .ccard::after, .ccard .spark, .gift-box, .reveal.done .ccard { animation: none !important; } }

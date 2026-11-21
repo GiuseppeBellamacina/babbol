@@ -571,6 +571,82 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await page.evaluate(() => B.ui.goTab("resources"));
 
   // segnalazione di un errore: pulsante nelle lezioni, non nei test; in coda se il server non risponde
+  // missioni, gettoni, scatole e album
+  console.log("Missioni e creature");
+  const mi = await page.evaluate(() => {
+    const M = B.missions, S = B.store, out = {};
+    const a1 = M.list("d").map((m) => m.key + m.target).join(), a2 = M.list("d").map((m) => m.key + m.target).join();
+    out.same = a1 === a2;
+    const d1 = M.list("d", Date.now()), d2 = M.list("d", Date.now() + 86400000 * 3);
+    out.otherDay = d1[0].key !== d2[0].key;
+    out.counts = [M.list("d").length, M.list("w").length, M.list("m").length];
+    // il progresso viene dai contatori del giorno
+    const skill = M.list("d")[1].metric.slice(6);
+    for (let i = 0; i < 30; i++) S.recordSkill(skill, 1, 1);
+    const day = S.get().days[B.dayKey()];
+    out.counters = day.a >= 30 && day.k[skill] >= 30;
+    const done = M.list("d").filter((m) => m.done && !m.bonus);
+    out.doneSome = done.length >= 1;
+    out.pending = M.pending().length >= 1;
+    const before = M.balance(), m0 = done[0];
+    out.claim1 = M.claim(m0); out.claim2 = M.claim(M.list("d").filter((m) => m.key === m0.key)[0]);
+    out.coins = M.balance() - before === m0.reward;
+    // scatola deterministica e garanzie
+    out.det = B.album.pickAt(7).id === B.album.pickAt(7).id;
+    out.pity5 = B.album.pickAt(4).r >= 1 && B.album.pickAt(11).r >= 2 && B.album.pickAt(24).r >= 3 && B.album.pickAt(59).r >= 4 && B.album.pickAt(149).r === 5;
+    out.all = B.album.list.length >= 70 && [0, 1, 2, 3, 4, 5].every((r) => B.album.list.some((a) => a.r === r));
+    // unione tra due telefoni
+    const A = JSON.parse(JSON.stringify(S.snapshot())), Bb = JSON.parse(JSON.stringify(S.snapshot()));
+    A.rewards = { claimed: { x: { t: 5, c: 5 } }, boxes: 2, animals: { cat: { n: 1, at: 9 } }, gift: 50 };
+    Bb.rewards = { claimed: { x: { t: 3, c: 5 }, y: { t: 7, c: 8 } }, boxes: 1, animals: { cat: { n: 3, at: 4 }, dog: { n: 1, at: 8 } }, gift: 0 };
+    A.days["2030-01-01"] = { xp: 1, s: 10, a: 5, k: { vocab: 2 } }; Bb.days["2030-01-01"] = { xp: 3, s: 5, w: 4, k: { vocab: 7, reading: 1 } };
+    const mg = S.merge(A, Bb), d = mg.days["2030-01-01"];
+    out.merge = mg.rewards.boxes === 2 && mg.rewards.claimed.x.t === 3 && !!mg.rewards.claimed.y && mg.rewards.animals.cat.n === 3 && !!mg.rewards.animals.dog && mg.rewards.gift === 50
+      && d.xp === 3 && d.s === 10 && d.a === 5 && d.w === 4 && d.k.vocab === 7 && d.k.reading === 1;
+    // le parole che non contano: liste per tema e unità non sbloccate
+    const seen0 = S.seenCount();
+    S.get().words["rw:test"] = { b: 5, due: "2000-01-01", ok: 1, ko: 0 };
+    S.get().words["b2-10-w01"] = { b: 5, due: "2000-01-01", ok: 1, ko: 0 };
+    out.countable = !S.countable("rw:test") && !S.countable("b2-10-w01") && S.countable("a2-01-w01");
+    out.seenIgnores = S.seenCount() === seen0;
+    delete S.get().words["rw:test"]; delete S.get().words["b2-10-w01"];
+    return out;
+  });
+  ok(mi.same && mi.otherDay, "missioni: uguali a parità di giorno (stesso seme), diverse in un altro giorno");
+  ok(mi.counts.join() === "4,4,4", "missioni: 3 più il premio per aver finito tutte, per giorno, settimana e mese (" + mi.counts + ")");
+  ok(mi.counters && mi.doneSome && mi.pending, "missioni: il progresso viene dai contatori del giorno e quelle finite risultano da riscattare");
+  ok(mi.claim1 === true && mi.claim2 === false && mi.coins, "missioni: il premio si riscatta una volta sola e aggiunge i gettoni");
+  ok(mi.det && mi.pity5 && mi.all, "scatole: stessa scatola = stessa creatura; garanzie di rarità ogni 5/12/25/60/150; tutte le 6 rarità presenti");
+  ok(mi.merge, "unione tra dispositivi: riscatti, scatole, creature e contatori dei giorni (massimo per campo)");
+  ok(mi.countable && mi.seenIgnores, "parole viste/consolidate: le liste per tema e le unità non sbloccate non contano");
+  await page.evaluate(() => { B.store.takeGift(); B.ui.goTab("home"); });
+  await page.waitForSelector(".mission-card");
+  await page.locator(".mission-card").click();
+  await page.waitForSelector(".coins");
+  ok(await page.locator(".mission").count() === 4, "pagina Missioni: tre missioni più il premio finale");
+  await page.locator(".seg-b", { hasText: "Settimana" }).click();
+  ok(await page.locator(".mission").count() === 4, "pagina Missioni: scheda Settimana");
+  await shot("26-missioni");
+  const bx0 = await page.evaluate(() => ({ boxes: B.store.get().rewards.boxes, bal: B.missions.balance() }));
+  await page.locator(".coins .btn.primary").click();
+  await page.waitForSelector(".reveal.done .ccard", { timeout: 8000 });
+  const bx1 = await page.evaluate(() => ({ boxes: B.store.get().rewards.boxes, bal: B.missions.balance(), n: B.album.count() }));
+  ok(bx1.boxes === bx0.boxes + 1 && bx1.n === 1 && bx1.bal === bx0.bal - 30, "aprire una scatola: costa 30 gettoni e aggiunge una creatura all'album");
+  await shot("27-scatola");
+  await page.locator(".modal .btn.primary", { hasText: "OK" }).click();
+  await page.evaluate(() => B.album.page());
+  await page.waitForSelector(".album-grid");
+  ok(await page.locator(".album-grid .mini").count() === await page.evaluate(() => B.album.list.length) && await page.locator(".album-grid .mini:not(.locked)").count() === 1, "album: una sagoma per creatura, una sola già trovata");
+  await shot("28-album");
+  await page.evaluate(() => { B.ui.goTab("home"); });
+  // carte per rarità (immagini ed effetti): controllo visivo
+  await page.evaluate(() => { const g = document.createElement("div"); g.id = "gallery"; g.style.cssText = "position:fixed;inset:0;z-index:200;background:var(--bg);overflow:auto;padding:12px;display:grid;grid-template-columns:1fr 1fr;gap:10px"; [0, 1, 2, 3, 4, 5].forEach((r) => g.appendChild(B.album.card(B.album.list.filter((a) => a.r === r)[0], { big: true }))); document.body.appendChild(g); });
+  const imgsOk = await page.waitForFunction(() => [...document.querySelectorAll("#gallery img")].every((i) => i.complete && i.naturalWidth > 0), null, { timeout: 6000 }).then(() => true, () => false);
+  await page.waitForTimeout(700);
+  await shot("29-rarita");
+  ok(imgsOk, "carte: tutte le illustrazioni si caricano");
+  await page.evaluate(() => document.getElementById("gallery").remove());
+
   console.log("Segnalazioni");
   await page.evaluate(() => B.session.start(B.engine.lessonSession("a2-01-vocab")));
   await page.waitForSelector(".session .report-btn");
@@ -724,7 +800,12 @@ async function play(page, cfgExpr, mode, seen, arg) {
       getVersionName: () => "1.1.2",
       downloadUpdate: (u, sha) => window.__bridge.push(["downloadUpdate", u, sha]),
       cancelUpdate: () => window.__bridge.push(["cancelUpdate"]),
-      openReleasePage: (u) => window.__bridge.push(["openReleasePage", u])
+      openReleasePage: (u) => window.__bridge.push(["openReleasePage", u]),
+      scheduleReminders: (j) => window.__bridge.push(["sched", j]),
+      cancelReminders: () => window.__bridge.push(["unsched"]),
+      notificationsAllowed: () => true,
+      askNotificationPermission: () => window.__bridge.push(["askNotif"]),
+      testReminder: (t, x, s) => window.__bridge.push(["test", t, x, s])
     };
   });
   const p3 = await ctx3.newPage();
@@ -901,6 +982,21 @@ async function play(page, cfgExpr, mode, seen, arg) {
   await clickBtn("PIÙ TARDI");
   // il guscio rifiuta indirizzi che non siano di una release del progetto (verificato nel codice Java: RELEASES + "download/")
 
+  // promemoria: una notifica al giorno, mai oggi se ha già studiato, ora configurabile, spenta = annullata
+  const lastSched = () => p3.evaluate(() => JSON.parse((window.__bridge.filter((c) => c[0] === "sched").pop() || [0, "[]"])[1]));
+  await p3.evaluate(() => { window.__bridge.length = 0; B.remind.refresh(); });
+  const sc = await lastSched();
+  ok(sc.length >= 6 && sc.length <= 7 && sc.every((r) => new Date(r.at).getHours() === 19 && r.title && r.text && r.at > Date.now()), "promemoria: 6-7 giorni, tutti alle 19:00 e nel futuro (" + sc.length + ")");
+  ok(new Set(sc.map((r) => new Date(r.at).toDateString())).size === sc.length, "promemoria: una sola notifica al giorno");
+  await p3.evaluate(() => { B.store.get().lastDay = B.dayKey(); window.__bridge.length = 0; B.remind.setHour(21); });
+  const sc2 = await lastSched();
+  ok(sc2.length > 0 && sc2.every((r) => new Date(r.at).getHours() === 21) && !sc2.some((r) => new Date(r.at).toDateString() === new Date().toDateString()), "promemoria: ora cambiata a 21:00 e niente per oggi se ha già studiato");
+  await p3.evaluate(() => { window.__bridge.length = 0; B.remind.setOn(false); });
+  ok(await p3.evaluate(() => window.__bridge.some((c) => c[0] === "unsched") && !window.__bridge.some((c) => c[0] === "sched")), "promemoria spenti: annullati nel guscio");
+  await p3.evaluate(() => { B.store.get().lastDay = "2020-01-01"; window.__bridge.length = 0; B.remind.setOn(true); });
+  ok((await lastSched()).length === 0, "promemoria: dopo più di 14 giorni senza studiare si smette");
+  await p3.evaluate(() => B.ui.goTab("profile"));
+  ok(await p3.locator(".section-title", { hasText: "Promemoria" }).count() === 1, "Profilo: sezione Promemoria (solo con il guscio Android)");
   ok(err3.length === 0, "nessun errore con il ponte nativo " + (err3.length ? JSON.stringify(err3) : ""));
   await ctx3.close();
 

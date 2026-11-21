@@ -56,6 +56,7 @@ import java.util.Set;
 public class MainActivity extends Activity {
 
     private static final int REQ_SPEECH = 4711;
+    private static final int REQ_NOTIF = 4712;
     private static final String START_URL = "file:///android_asset/index.html";
 
     private WebView web;
@@ -467,6 +468,54 @@ public class MainActivity extends Activity {
             });
         }
 
+        /** Promemoria: lista JSON di { at (ms), title, text }; sostituisce quelli precedenti. */
+        @JavascriptInterface
+        public void scheduleReminders(String json) {
+            try {
+                Reminders.schedule(MainActivity.this, json);
+            } catch (RuntimeException e) {
+                // le notifiche sono un di più: l'app non deve rompersi
+            }
+        }
+
+        @JavascriptInterface
+        public void cancelReminders() {
+            try {
+                Reminders.cancel(MainActivity.this);
+            } catch (RuntimeException e) {
+                // vedi sopra
+            }
+        }
+
+        @JavascriptInterface
+        public void testReminder(String title, String text, int seconds) {
+            try {
+                Reminders.test(MainActivity.this, title, text, seconds);
+            } catch (RuntimeException e) {
+                // vedi sopra
+            }
+        }
+
+        @JavascriptInterface
+        public boolean notificationsAllowed() {
+            return Reminders.allowed(MainActivity.this);
+        }
+
+        /** Android 13+: chiede il permesso delle notifiche. Esito alla pagina: __onNotifPermission(true/false). */
+        @JavascriptInterface
+        public void askNotificationPermission() {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    if (Build.VERSION.SDK_INT >= 33 && checkSelfPermission("android.permission.POST_NOTIFICATIONS") != PackageManager.PERMISSION_GRANTED) {
+                        requestPermissions(new String[]{"android.permission.POST_NOTIFICATIONS"}, REQ_NOTIF);
+                    } else {
+                        runJs("window.__onNotifPermission && window.__onNotifPermission(" + Reminders.allowed(MainActivity.this) + ")");
+                    }
+                }
+            });
+        }
+
         @JavascriptInterface
         public void setStatusBar(final boolean dark) {
             runOnUiThread(new Runnable() {
@@ -478,6 +527,15 @@ public class MainActivity extends Activity {
                     }
                 }
             });
+        }
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (requestCode == REQ_NOTIF) {
+            boolean ok = grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED;
+            runJs("window.__onNotifPermission && window.__onNotifPermission(" + ok + ")");
         }
     }
 

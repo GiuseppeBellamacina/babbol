@@ -160,6 +160,13 @@
       for (var i = P.startIndex(); i < us.length; i++) if (P.unitUnlocked(us[i]) && !P.unitPassed(us[i])) return us[i];
       return null;
     },
+    // prossima lezione consigliata: la prima non fatta dell'unità corrente (il test per ultimo)
+    nextLesson: function () {
+      var u = P.currentUnit();
+      if (!u) return null;
+      var ls = R.lessons(u.id);
+      return ls.filter(function (l) { return !S().lessonDone(l.id) && l.kind !== "test"; })[0] || ls.filter(function (l) { return l.kind === "test"; })[0] || null;
+    },
     unitProgress: function (u) {
       var ls = R.lessons(u.id), done = ls.filter(function (l) { return S().lessonDone(l.id); }).length;
       return { done: done, total: ls.length };

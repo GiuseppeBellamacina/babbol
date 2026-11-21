@@ -26,10 +26,11 @@
       words: {},                  // id -> { b, due: "AAAA-MM-GG", ok, ko, last: ms dell'ultima volta vista, n: volte viste }
       mistakes: {},               // "lessonId#indice" -> { n, at, fixed }
       skills: {},                 // skill -> [corrette, totali]
-      days: {},                   // "AAAA-MM-GG" -> { xp, s }
+      days: {},                   // "AAAA-MM-GG" -> { xp, s (secondi), a (risposte), l (lezioni), w (parole ripassate), k: {abilità: risposte} }
       badges: {},                 // id -> timestamp
+      rewards: { claimed: {}, boxes: 0, animals: {}, gift: 0 },   // missioni riscattate {chiave:{t,c}}, scatole aperte, creature {id:{n,at}}, regalo di benvenuto
       stats: { answered: 0, correct: 0, sessions: 0, seconds: 0, spoken: 0, written: 0 },
-      settings: { accent: "en-GB", rate: 0.95, slowRate: 0.55, slowGap: 350, sound: true, theme: "auto", roast: false, unlockAll: false }
+      settings: { accent: "en-GB", rate: 0.95, slowRate: 0.55, slowGap: 350, sound: true, theme: "auto", roast: false, unlockAll: false, remind: { on: true, hour: 19 } }
     };
   }
 
@@ -59,6 +60,11 @@
     clearTimeout(saveTimer);
     try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { /* ignorato */ }
   }
+  // voce del giorno corrente nel registro (minuti, risposte, lezioni, parole...)
+  function today() {
+    var k = B.dayKey();
+    return state.days[k] || (state.days[k] = { xp: 0, s: 0 });
+  }
   function touch() { state.dirty = true; state.t = Date.now(); }
   function emit() { listeners.forEach(function (f) { try { f(state); } catch (e) { console.error(e); } }); }
   function commit() { touch(); persist(); emit(); }
@@ -69,6 +75,21 @@
     for (k in a) out[k] = a[k];
     for (k in b) out[k] = out[k] == null ? b[k] : pick(out[k], b[k]);
     return out;
+  }
+  function mergeDay(x, y) {
+    var o = { xp: Math.max(x.xp || 0, y.xp || 0), s: Math.max(x.s || 0, y.s || 0) };
+    ["a", "l", "w"].forEach(function (f) { var v = Math.max(x[f] || 0, y[f] || 0); if (v) o[f] = v; });
+    var k = maxMap(x.k || {}, y.k || {}, Math.max);
+    if (Object.keys(k).length) o.k = k;
+    return o;
+  }
+  function mergeRewards(x, y) {
+    return {
+      claimed: maxMap(x.claimed || {}, y.claimed || {}, function (p, q) { return (p.t || 0) <= (q.t || 0) ? p : q; }),
+      boxes: Math.max(x.boxes || 0, y.boxes || 0),
+      animals: maxMap(x.animals || {}, y.animals || {}, function (p, q) { return { n: Math.max(p.n, q.n), at: Math.min(p.at || 0, q.at || 0) }; }),
+      gift: x.gift && y.gift ? Math.min(x.gift, y.gift) : (x.gift || y.gift || 0)
+    };
   }
   function merge(a, b) {
     var newer = (a.t || 0) >= (b.t || 0) ? a : b;
@@ -91,7 +112,8 @@
     });
     m.mistakes = maxMap(a.mistakes || {}, b.mistakes || {}, function (x, y) { return (x.at || 0) >= (y.at || 0) ? x : y; });
     m.skills = maxMap(a.skills || {}, b.skills || {}, function (x, y) { return x[1] >= y[1] ? x : y; });
-    m.days = maxMap(a.days || {}, b.days || {}, function (x, y) { return { xp: Math.max(x.xp, y.xp), s: Math.max(x.s, y.s) }; });
+    m.days = maxMap(a.days || {}, b.days || {}, mergeDay);
+    m.rewards = mergeRewards(a.rewards || {}, b.rewards || {});
     m.badges = maxMap(a.badges || {}, b.badges || {}, Math.min);
     m.stats = maxMap(a.stats || {}, b.stats || {}, Math.max);
     var pa = a.placement, pb = b.placement;
@@ -169,6 +191,7 @@
       var cur = state.lessons[id] || { best: 0, runs: 0 };
       cur.best = Math.max(cur.best, pct); cur.runs++; cur.at = Date.now();
       state.lessons[id] = cur;
+      var dl = today(); dl.l = (dl.l || 0) + 1;
       commit();
     },
     examResult: function (id) { return state.exams[id] || null; },
@@ -191,6 +214,7 @@
       s[0] += right; s[1] += total;
       state.skills[skill] = s;
       state.stats.answered += total; state.stats.correct += right;
+      var da = today(); da.a = (da.a || 0) + total; da.k = da.k || {}; da.k[skill] = (da.k[skill] || 0) + total;
       touch(); persist();
     },
     skillPct: function (skill) { var s = state.skills[skill]; return s && s[1] ? Math.round(100 * s[0] / s[1]) : null; },
@@ -220,26 +244,47 @@
       var w = state.words[id] || { b: 0, due: B.dayKey(), ok: 0, ko: 0 };
       if (ok) { w.b = Math.min(BOX_DAYS.length - 1, w.b + 1); w.ok++; } else { w.b = 0; w.ko++; }
       w.last = Date.now(); w.n = (w.n || 0) + 1;       // serve a ruotare le flashcard (vedi resources.js)
+      var dw = today(); dw.w = (dw.w || 0) + 1;
       var d = new Date(); d.setDate(d.getDate() + BOX_DAYS[w.b]);
       w.due = B.dayKey(d);
       state.words[id] = w;
       touch(); persist();
     },
+    // una parola conta (viste, consolidate, ripasso) solo se è di un'unità già sbloccata: le liste per tema (rw:) e gli id sconosciuti no
+    countable: function (id) {
+      var w = B.repo.word(id), u = w && B.repo.unit(w.unit);
+      return !!u && B.path.unitUnlocked(u);
+    },
     dueWords: function () {
       var today = B.dayKey(), out = [];
       for (var id in state.words) {
         var w = state.words[id];
-        if (id.indexOf("rw:") === 0) continue;   // parole delle liste per tema: solo flashcard, non entrano nel ripasso
+        if (!S.countable(id)) continue;
         if (w.due <= today) out.push({ id: id, b: w.b, due: w.due });
       }
       out.sort(function (a, b) { return a.b - b.b || (a.due < b.due ? -1 : 1); });
       return out;
     },
-    seenCount: function () { return Object.keys(state.words).length; },
+    seenCount: function () { return Object.keys(state.words).filter(S.countable).length; },
     masteredCount: function () {
       var n = 0;
-      for (var id in state.words) if (state.words[id].b >= 4) n++;
+      for (var id in state.words) if (state.words[id].b >= 4 && S.countable(id)) n++;
       return n;
+    },
+
+    // ---------- missioni e creature ----------
+    rewards: function () { return state.rewards; },
+    claimMission: function (key, coins) {
+      if (state.rewards.claimed[key]) return;
+      state.rewards.claimed[key] = { t: Date.now(), c: coins };
+      commit();
+    },
+    takeGift: function () { if (!state.rewards.gift) { state.rewards.gift = Date.now(); commit(); } },
+    // l'indice della scatola decide la creatura (vedi album.js): stessa scatola = stessa creatura su ogni telefono
+    openedBox: function (animalId) {
+      var rw = state.rewards, a = rw.animals[animalId] || { n: 0, at: Date.now() };
+      a.n++; rw.animals[animalId] = a; rw.boxes++;
+      commit();
     },
 
     // ---------- statistiche, badge ----------

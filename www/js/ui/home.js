@@ -9,13 +9,7 @@
       h("div", { class: "ring-in" }, inner));
   }
 
-  // prossima lezione consigliata: la prima non fatta dell'unità corrente (il test per ultimo)
-  function nextLesson() {
-    var u = P.currentUnit();
-    if (!u) return null;
-    var ls = R.lessons(u.id);
-    return ls.filter(function (l) { return !S.lessonDone(l.id) && l.kind !== "test"; })[0] || ls.filter(function (l) { return l.kind === "test"; })[0] || null;
-  }
+  var nextLesson = P.nextLesson;
   function startLesson(l) { B.session.start(E.lessonSession(l.id)); }
 
   function todayCard() {
@@ -90,6 +84,7 @@
     var pc = placementCard();
     if (pc) root.appendChild(pc);
     root.appendChild(todayCard());
+    root.appendChild(B.missionsCard());
     var cur = P.currentUnit();
     R.LEVELS.forEach(function (lv) {
       var units = R.units(lv);

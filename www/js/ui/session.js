@@ -904,6 +904,7 @@
         stat("clock", fmtTime(secs), "Tempo", "blue")));
       if (root._extra) root.appendChild(root._extra);
       newBadges.forEach(function (b) { root.appendChild(h("div", { class: "banner gold" }, B.icon(b.icon, 20), " Nuovo traguardo: " + b.name)); });
+      B.missions.announce().forEach(function (m) { root.appendChild(h("div", { class: "banner gold" }, B.icon("target", 20), " Missione completata: " + m.title + " (+" + m.reward + " gettoni: riscattali in Percorso > Missioni)")); });
       if (S.review.length) {
         var rv = h("div", { class: "card review-list" }, h("h4", { class: "no-top" }, "Da rivedere (" + S.review.length + ")"));
         S.review.forEach(function (r) {

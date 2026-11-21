@@ -105,3 +105,9 @@ Sono state ridimensionate (massimo 520 px) e convertite in WebP. Le condizioni d
 | `team.webp` | Iraq football team.jpg | Doha Stadium Plus Qatar | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [pagina](https://commons.wikimedia.org/wiki/File:Iraq_football_team.jpg) |
 | `timetable.webp` | Departure board at Hackerbrücke S-Bahn station in München.jpg | Robert von Oliva (naruciakk) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [pagina](https://commons.wikimedia.org/wiki/File:Departure_board_at_Hackerbr%C3%BCcke_S-Bahn_station_in_M%C3%BCnchen.jpg) |
 | `traffic-lights.webp` | Traffic lights in Turin 2021.jpg | Reddalo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [pagina](https://commons.wikimedia.org/wiki/File:Traffic_lights_in_Turin_2021.jpg) |
+
+## Creature della collezione (www/img/a)
+
+Illustrazioni vettoriali da [Noto Emoji](https://github.com/googlefonts/noto-emoji) (Google), cartella `2D/svg`, licenza
+[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). Scaricate da `tools/fetch-creatures.js` (elenco in `www/js/data/animals.js`).
+I riferimenti alla cultura pop nelle curiosità sono allusioni testuali: nessun personaggio, logo o immagine ufficiale è incluso.

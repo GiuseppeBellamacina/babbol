@@ -92,7 +92,7 @@
     var now = Date.now(), groups = {}, recent = [];
     B.shuffle(cardWords()).forEach(function (w) {
       var st = S.word(w.id), last = st ? (st.last || 0) : -1;
-      if (last < 0 && !cardOpen(w)) return;
+      if (!cardOpen(w)) return;   // anche se la parola ha già uno stato (es. liste per tema finite nelle carte per errore)
       // le parole deboli (box 0-2) passano avanti come se fossero state viste 3 giorni prima
       var item = { w: w, last: last < 0 ? last : last - (st.b <= 2 ? 3 * 86400000 : 0), raw: last };
       if (item.raw > now - COOLDOWN) recent.push(item); else (groups[w.pos || "n"] = groups[w.pos || "n"] || []).push(item);
@@ -138,6 +138,7 @@
     function answer(ok) { S.recordWord(deck[idx].id, ok); if (ok) known++; idx++; flipped = false; draw(); }
     function end() {
       S.addXp(Math.min(15, known), Math.round((Date.now() - t0) / 1000));
+      B.missions.announce().forEach(function (m) { UI.toast("Missione completata: " + m.title); });
       B.sfx.win();
       root.appendChild(h("div", { class: "end" }, h("div", { class: "end-icon" }, B.icon("cards", 54)), h("h2", null, "Mazzo finito"),
         h("p", { class: "muted center" }, "Sapevi " + known + " carte su " + deck.length),

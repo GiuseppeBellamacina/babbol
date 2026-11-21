@@ -100,6 +100,18 @@
       toggle("Sblocca tutto", "Tutte le unità e gli esami accessibili subito", "unlockAll"));
   }
 
+  function reminders() {
+    var c = B.remind.config();
+    return h("div", { class: "card settings" },
+      h("button", { class: "set-row", onclick: function () { B.remind.setOn(!c.on); UI.refresh(); } },
+        h("div", { class: "grow" }, h("div", { class: "row-title" }, "Promemoria di studio"), h("div", { class: "muted small" }, "Una notifica al giorno, solo se non hai ancora studiato")),
+        h("div", { class: "switch" + (c.on ? " on" : "") }, h("i"))),
+      c.on ? h("div", { class: "set-block" }, h("div", { class: "row-title" }, "A che ora"),
+        segmented(B.remind.hours.map(function (x) { return [x, x + ":00"]; }), c.hour, function (v) { B.remind.setHour(v); UI.refresh(); }),
+        h("div", { class: "muted small" }, "L'orario può slittare di qualche minuto col risparmio energetico.")) : null,
+      c.on ? action("Prova una notifica", "Arriva tra 5 secondi", function () { B.remind.test(); UI.toast("Arriva tra 5 secondi: esci dall'app per vederla"); }) : null);
+  }
+
   function startLevel() {
     var pl = S.get().placement;
     return h("div", { class: "card settings" },
@@ -141,7 +153,7 @@
       }),
       action("Cambia password", "Serve la password attuale", changePassword),
       action("Azzera i progressi", "Ricomincia da capo (le impostazioni restano)", function () {
-        UI.holdConfirm({ title: "Azzerare tutto?", text: "Perderai XP, serie, lezioni, esami e ripasso, anche sul server.", ok: "AZZERA", cancel: "ANNULLA", seconds: 3 })
+        UI.holdConfirm({ title: "Azzerare tutto?", text: "Perderai XP, serie, lezioni, esami, ripasso, missioni e collezione di creature, anche sul server.", ok: "AZZERA", cancel: "ANNULLA", seconds: 3 })
           .then(function (y) { if (y) { S.reset(); B.cloud.sync(true).catch(function () {}); UI.toast("Progressi azzerati"); UI.refresh(true); } });
       }, true),
       action("Elimina l'account", "Cancella definitivamente account e progressi", function () {
@@ -157,6 +169,8 @@
   function credits() {
     var c = B.data.credits || {}, ids = Object.keys(c).sort();
     var root = h("div", { class: "list" }, h("p", { class: "muted" }, "Le foto vengono da Wikimedia Commons, con licenze che ne permettono il riuso. Sono state ridimensionate e convertite; le condizioni di ogni licenza restano quelle dell'originale."));
+    root.appendChild(h("div", { class: "card credit" }, h("div", { class: "grow" }, h("div", { class: "row-title" }, "Creature della collezione"),
+      h("div", { class: "muted small" }, "Illustrazioni di Noto Emoji (Google), licenza Apache 2.0: github.com/googlefonts/noto-emoji. Le frasi di curiosità sono originali; i riferimenti alla cultura pop sono solo strizzate d'occhio: nessun personaggio o immagine ufficiale."))));
     ids.forEach(function (id) {
       root.appendChild(h("div", { class: "card credit" }, B.photo(id, "credit-pic", c[id][0]),
         h("div", { class: "grow" }, h("div", { class: "row-title" }, c[id][0]), h("div", { class: "muted small" }, c[id][1] + " - " + c[id][2]))));
@@ -174,6 +188,7 @@
     root.appendChild(badges());
     root.appendChild(UI.sectionTitle("Impostazioni"));
     root.appendChild(settings());
+    if (B.remind.available()) { root.appendChild(UI.sectionTitle("Promemoria")); root.appendChild(reminders()); }
     root.appendChild(UI.sectionTitle("Percorso"));
     root.appendChild(startLevel());
     root.appendChild(UI.sectionTitle("Account"));

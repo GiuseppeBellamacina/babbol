@@ -21,6 +21,13 @@
     { id: "words_300", icon: "cards", name: "Vocabolario", desc: "Incontra 300 parole", test: function () { return S.seenCount() >= 300; } },
     { id: "mastered_200", icon: "brain", name: "Memoria di ferro", desc: "Consolida 200 parole nel ripasso", test: function () { return S.masteredCount() >= 200; } },
     { id: "speaker", icon: "mic", name: "Voce sicura", desc: "Pronuncia bene 50 frasi", test: function () { return (S.get().stats.spoken || 0) >= 50; } },
+    { id: "creature_1", icon: "seed", name: "Prima creatura", desc: "Apri la tua prima scatola a sorpresa", test: function () { return B.album.count() >= 1; } },
+    { id: "creature_10", icon: "cards", name: "Collezionista", desc: "Trova 10 creature", test: function () { return B.album.count() >= 10; } },
+    { id: "creature_25", icon: "cards", name: "Piccolo zoo", desc: "Trova 25 creature", test: function () { return B.album.count() >= 25; } },
+    { id: "creature_50", icon: "medal", name: "Grande collezione", desc: "Trova 50 creature", test: function () { return B.album.count() >= 50; } },
+    { id: "creature_gold", icon: "star", name: "Colpo di fortuna", desc: "Trova una creatura leggendaria", test: function () { return B.album.list.some(function (a) { return a.r === 4 && B.album.owned()[a.id]; }); } },
+    { id: "creature_red", icon: "flame", name: "Mitico!", desc: "Trova una creatura mitica", test: function () { return B.album.list.some(function (a) { return a.r === 5 && B.album.owned()[a.id]; }); } },
+    { id: "creature_pop", icon: "bulb", name: "Cinefilo", desc: "Trova 10 creature che ti ricordano qualcosa", test: function () { return B.album.pop.filter(function (id) { return B.album.owned()[id]; }).length >= 10; } },
     { id: "writer", icon: "pencil", name: "Penna sciolta", desc: "Scrivi 2000 parole in inglese", test: function () { return (S.get().stats.written || 0) >= 2000; } }
   ];
 

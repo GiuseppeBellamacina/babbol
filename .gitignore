@@ -5,6 +5,6 @@ node_modules/
 dist/
 .secrets/
 
-# chiavi di firma Android: chi le ha può pubblicare "aggiornamenti" falsi dell'app. Conservarle a parte (backup!).
+# chiavi di firma Android: chi le ha può pubblicare "aggiornamenti" falsi dell'app. Backup nel database Supabase (private.secrets): vedi docs/SECRETS.md.
 *.keystore
 *.jks

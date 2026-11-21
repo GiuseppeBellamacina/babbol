@@ -18,6 +18,8 @@
     if (B.cloud.loggedIn()) {
       B.badges.check();
       B.cloud.wake();
+      B.remind.refresh();
+      B.remind.askOnce();
     }
     B.update.checkAtStart();   // nuova versione su GitHub? (solo su Android, una richiesta)
     // link arrivato mentre l'app si avviava (lo passa il guscio Android)
