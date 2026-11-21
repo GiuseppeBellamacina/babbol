@@ -4,6 +4,7 @@ App Android per adulti italiani che vogliono passare da un inglese "scolastico" 
 Account e progressi su Supabase. Anche i contenuti delle lezioni stanno su Supabase e si aggiornano senza pubblicare una nuova versione dell'app.
 
 **APK**: `dist/babbol-debug.apk` (firmato con chiave di debug, Android 6.0+), generato da `build.sh`.
+La chiave di firma (`android/debug.keystore`, gitignored) sta nel repo privato `babbol-secrets`: copiarla in `android/` prima di buildare da un altro PC.
 
 ## Il corso
 

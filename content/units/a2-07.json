@@ -766,7 +766,7 @@
       ],
       [
        "Marco",
-       "Twice. And today I can't eat anything."
+       "Yes, twice. And today I can't eat anything."
       ],
       [
        "Doctor",
@@ -855,7 +855,17 @@
        "q": "Which number can you call in an emergency in the UK? (the doctor gives two)",
        "answers": [
         "999",
-        "112"
+        "112",
+        "999 112",
+        "999-112",
+        "999, 112",
+        "999 and 112",
+        "999 or 112",
+        "999/112",
+        "112 999",
+        "112-999",
+        "112 and 999",
+        "112 or 999"
        ]
       }
      ]

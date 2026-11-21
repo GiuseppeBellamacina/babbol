@@ -77,10 +77,10 @@
     });
     return out;
   }
-  // una parola mai vista si propone solo se l'unità (o il livello, per le liste) è sbloccata
+  // una parola mai vista si propone solo se la sua unità è sbloccata; le parole delle liste per tema (senza unità) solo se già viste
   function cardOpen(w) {
-    var u = w.unit ? R.unit(w.unit) : R.units().filter(function (x) { return x.level === w.level; })[0];
-    return !u || B.path.unitUnlocked(u);
+    var u = w.unit && R.unit(w.unit);
+    return !!u && B.path.unitUnlocked(u);
   }
   var COOLDOWN = 20 * 60 * 1000;
   /**
