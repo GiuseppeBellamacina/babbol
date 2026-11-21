@@ -252,6 +252,7 @@
     },
     // una parola conta (viste, consolidate, ripasso) solo se è di un'unità già sbloccata: le liste per tema (rw:) e gli id sconosciuti no
     countable: function (id) {
+      if (id.indexOf("rw:") === 0) { var t = B.repo.themeWord(id); return !!t && B.path.themeOpen(t.level); }
       var w = B.repo.word(id), u = w && B.repo.unit(w.unit);
       return !!u && B.path.unitUnlocked(u);
     },
@@ -259,7 +260,7 @@
       var today = B.dayKey(), out = [];
       for (var id in state.words) {
         var w = state.words[id];
-        if (!S.countable(id)) continue;
+        if (id.indexOf("rw:") === 0 || !S.countable(id)) continue;   // le parole per tema: solo flashcard, non entrano nel ripasso
         if (w.due <= today) out.push({ id: id, b: w.b, due: w.due });
       }
       out.sort(function (a, b) { return a.b - b.b || (a.due < b.due ? -1 : 1); });

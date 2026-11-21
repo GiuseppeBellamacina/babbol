@@ -619,6 +619,16 @@ async function play(page, cfgExpr, mode, seen, arg) {
   ok(mi.det && mi.pity5 && mi.all, "scatole: stessa scatola = stessa creatura; garanzie di rarità ogni 5/12/25/60/150; tutte le 6 rarità presenti");
   ok(mi.merge, "unione tra dispositivi: riscatti, scatole, creature e contatori dei giorni (massimo per campo)");
   ok(mi.countable && mi.seenIgnores, "parole viste/consolidate: le liste per tema e le unità non sbloccate non contano");
+  const th = await page.evaluate(() => {
+    const S = B.store, P = B.path, out = {};
+    out.closed = !P.themeOpen("A2") && !S.countable("rw:armchair");
+    S.setSetting("unlockAll", true);
+    out.open = P.themeOpen("A2") && S.countable("rw:armchair");
+    out.noReview = !S.dueWords().some((w) => w.id.indexOf("rw:") === 0);
+    S.setSetting("unlockAll", false);
+    return out;
+  });
+  ok(th.closed && th.open && th.noReview, "parole per tema: chiuse finché non hai superato 5 unità del livello, poi contano e vanno nelle flashcard (mai nel ripasso)");
   await page.evaluate(() => { B.store.takeGift(); B.ui.goTab("home"); });
   await page.waitForSelector(".mission-card");
   await page.locator(".mission-card").click();

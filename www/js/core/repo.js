@@ -37,6 +37,10 @@
     i.units.forEach(function (u, n) { u.index = n; });
     Object.keys(i.unitLessons).forEach(function (k) { i.unitLessons[k].sort(byPos); });
     i.resources.sort(byPos);
+    i.themeWords = {};            // "rw:parola" -> livello (le liste per tema non appartengono a nessuna unità)
+    i.resources.forEach(function (r) {
+      if (r.kind === "words") (r.items || []).forEach(function (x) { i.themeWords["rw:" + String(x.en).toLowerCase()] = { level: x.lv || r.lv }; });
+    });
     i.units.forEach(function (u) {
       (i.unitLessons[u.id] || []).forEach(function (l) {
         (l.words || []).forEach(function (w) {
@@ -123,6 +127,7 @@
     exam: function (level) { return idx.exams[level] || null; },
     placement: function () { return idx.placement; },
     resources: function () { return idx.resources; },
+    themeWord: function (id) { return idx.themeWords[id] || null; },
     resource: function (id) { return idx.resources.filter(function (r) { return r.id === id; })[0] || null; },
     word: function (id) { return idx.words[id] || null; },
     allWords: function () { return idx.wordList; },
@@ -171,6 +176,9 @@
       var ls = R.lessons(u.id), done = ls.filter(function (l) { return S().lessonDone(l.id); }).length;
       return { done: done, total: ls.length };
     },
+    // le parole per tema di un livello si aprono (flashcard, conteggi) quando ne hai superato la metà delle unità
+    THEME_OPEN_AT: 5,
+    themeOpen: function (level) { return !!S().settings().unlockAll || P.levelPassedUnits(level) >= P.THEME_OPEN_AT; },
     levelPassedUnits: function (level) { return R.units(level).filter(P.unitPassed).length; },
     examUnlocked: function (level) {
       if (S().settings().unlockAll) return true;

@@ -77,9 +77,10 @@
     });
     return out;
   }
-  // una parola mai vista si propone solo se la sua unità è sbloccata; le parole delle liste per tema (senza unità) solo se già viste
+  // una carta si propone solo se la sua unità è sbloccata; le parole delle liste per tema (senza unità) quando hai superato 5 unità del loro livello
   function cardOpen(w) {
-    var u = w.unit && R.unit(w.unit);
+    if (!w.unit) return B.path.themeOpen(w.level);
+    var u = R.unit(w.unit);
     return !!u && B.path.unitUnlocked(u);
   }
   var COOLDOWN = 20 * 60 * 1000;
