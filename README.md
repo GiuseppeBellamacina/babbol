@@ -100,7 +100,7 @@ All'avvio l'app (solo su Android) chiede a GitHub l'ultima release, con una sola
 - Ciò che hai tolto viene segnato come eliminato.
 - Le app scaricano le modifiche entro 24 ore.
 
-Servono due cose, entrambe in `.secrets/` (fuori da git, conservale): la chiave di pubblicazione (`publish-key`) e l'account publisher (`publisher-login`: email e password su due righe; l'utente deve essere registrato in `private.publishers`).
+Servono due cose, entrambe in `.secrets/` (fuori da git): la chiave di pubblicazione (`publish-key`) e l'account publisher (`publisher-login`: email e password su due righe; l'utente deve essere registrato in `private.publishers`). Se mancano su un PC nuovo, si recuperano dal database (tabella `private.secrets`, vedi [docs/SECRETS.md](docs/SECRETS.md)); in alternativa si passano come variabili d'ambiente `BABBOL_PUBLISH_KEY`, `BABBOL_PUBLISHER_EMAIL`, `BABBOL_PUBLISHER_PASSWORD`.
 
 **Dal dashboard Supabase.** Si modifica il campo `data` della riga nella tabella `content` (Table Editor).
 - Il `rev` si aggiorna da solo.
@@ -131,5 +131,5 @@ Ogni esercizio (non test ed esami) ha il pulsante **bandierina** in alto: l'uten
   - Il contratto JS<->Java è verificato con un ponte simulato.
 - **Voce dei dialoghi**: dipende dalle voci inglesi installate sul telefono (Impostazioni > Sintesi vocale). Se manca la voce US, si sente comunque il tono diverso.
 - **Chiave di firma**: l'APK è firmato con `android/debug.keystore`, fuori da git perché chi la possiede può firmare finti aggiornamenti dell'app.
-  - **Fanne un backup**: se la perdi, `build.sh` ne crea una nuova e gli APK firmati con quella non si installano sopra quelli già sui telefoni (bisogna disinstallare e si perdono i dati locali).
+  - **Backup**: la chiave sta anche nel database (`private.secrets`, segreto `android-keystore`). Se `android/debug.keystore` manca, `build.sh` si ferma con un errore e non ne crea una nuova (gli APK firmati con una chiave diversa non si installano sopra quelli già sui telefoni: bisogna disinstallare e si perdono i dati locali). Per un progetto nuovo senza utenti: `BABBOL_NEW_KEYSTORE=1 ./build.sh`.
   - Per il Play Store serve una chiave di release, da tenere anch'essa fuori da git.

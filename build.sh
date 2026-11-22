@@ -60,6 +60,12 @@ cp "$OUT/resources.ap_" "$OUT/unsigned.apk"
 zipalign -f -p 4 "$OUT/unsigned.apk" "$OUT/aligned.apk"
 
 if [ ! -f "$KEYSTORE" ]; then
+  # una chiave nuova = APK non installabile sopra quelli già sui telefoni: mai crearla per sbaglio (vedi docs/SECRETS.md)
+  if [ "${BABBOL_NEW_KEYSTORE:-}" != "1" ]; then
+    echo "ERRORE: manca android/debug.keystore. Recuperala dal database (docs/SECRETS.md, segreto android-keystore)." >&2
+    echo "        Solo per un progetto nuovo, senza utenti da aggiornare: BABBOL_NEW_KEYSTORE=1 ./build.sh" >&2
+    exit 1
+  fi
   echo "==> creo la chiave di debug"
   keytool -genkeypair -keystore "$KEYSTORE" -storepass android -keypass android -alias babbol-debug \
     -keyalg RSA -keysize 2048 -validity 36500 -dname "CN=Babbol Debug,O=Babbol,C=IT" >/dev/null 2>&1

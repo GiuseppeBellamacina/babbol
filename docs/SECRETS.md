@@ -10,14 +10,25 @@ cioè con il plugin/MCP Supabase (`execute_sql`) o dal dashboard (SQL editor).
 | Segreto in `private.secrets` | Va salvato in | A cosa serve | Nel database |
 |---|---|---|---|
 | `android-keystore` | `android/debug.keystore` | firma dell'APK (`build.sh`). Senza la stessa chiave Android rifiuta l'aggiornamento: l'utente dovrebbe disinstallare e reinstallare | già inserita (file in base64) |
-| `publish-key` | `.secrets/publish-key` | chiave per `node tools/content.js publish` (pubblica i contenuti) | **da inserire** (in DB c'è solo l'hash in `private.publish_keys`, il valore in chiaro non è ricavabile) |
-| `publisher-login` | `.secrets/publisher-login` (email e password, due righe) | account "publisher" per `content.js publish` | **da inserire** |
+| `publish-key` | `.secrets/publish-key` | chiave per `node tools/content.js publish` (pubblica i contenuti) | inserita (valore in chiaro; il suo hash, usato dal server, è in `private.publish_keys`) |
+| `publisher-login` | `.secrets/publisher-login` (email e password, due righe) | account "publisher" per `content.js publish` | inserito |
 
 `android/debug.keystore` e `.secrets/` sono in `.gitignore`: non vanno mai committati. Se mancano i file locali, o un agente li
 cerca in una sessione nuova, si recuperano da qui.
 
 Senza `.secrets/` si può comunque aggiornare un contenuto con `node tools/content.js sql` (genera l'SQL) + `execute_sql`, poi
 `node tools/content.js bundle <rev>`; vedi `docs/CONTENT_SCHEMA.md`.
+
+## Altre tabelle dello schema `private` (non sono vecchie, non vanno tolte)
+
+| Tabella | A cosa serve |
+|---|---|
+| `private.secrets` | i valori dei segreti (questa pagina) |
+| `private.publish_keys` | hash SHA-256 della `publish-key`: lo controlla `publish_content` |
+| `private.publishers` | utenti autorizzati a pubblicare: lo controlla `publish_content` |
+
+`publish_content` legge `publish_keys` e `publishers`: cancellarle blocca la pubblicazione. Verifica che la chiave in `secrets` sia quella giusta:
+`select encode(extensions.digest(content, 'sha256'), 'hex') from private.secrets where name = 'publish-key';` deve dare lo stesso valore di `select hash from private.publish_keys;`.
 
 ## Leggere (recuperare)
 
