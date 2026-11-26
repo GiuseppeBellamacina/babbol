@@ -815,7 +815,8 @@ async function play(page, cfgExpr, mode, seen, arg) {
       cancelReminders: () => window.__bridge.push(["unsched"]),
       notificationsAllowed: () => true,
       askNotificationPermission: () => window.__bridge.push(["askNotif"]),
-      testReminder: (t, x, s) => window.__bridge.push(["test", t, x, s])
+      testReminder: (t, x, s) => window.__bridge.push(["test", t, x, s]),
+      openAppSettings: () => window.__bridge.push(["appsettings"])
     };
   });
   const p3 = await ctx3.newPage();
@@ -996,7 +997,7 @@ async function play(page, cfgExpr, mode, seen, arg) {
   const lastSched = () => p3.evaluate(() => JSON.parse((window.__bridge.filter((c) => c[0] === "sched").pop() || [0, "[]"])[1]));
   await p3.evaluate(() => { window.__bridge.length = 0; B.remind.refresh(); });
   const sc = await lastSched();
-  ok(sc.length >= 6 && sc.length <= 7 && sc.every((r) => new Date(r.at).getHours() === 19 && r.title && r.text && r.at > Date.now()), "promemoria: 6-7 giorni, tutti alle 19:00 e nel futuro (" + sc.length + ")");
+  ok(sc.length >= 13 && sc.length <= 14 && sc.every((r) => new Date(r.at).getHours() === 19 && r.h === 19 && /^\d{4}-\d{2}-\d{2}$/.test(r.day) && r.title && r.text && r.at > Date.now()), "promemoria: 13-14 giorni, tutti alle 19:00 (con giorno e ora per seguire il fuso) e nel futuro (" + sc.length + ")");
   ok(new Set(sc.map((r) => new Date(r.at).toDateString())).size === sc.length, "promemoria: una sola notifica al giorno");
   await p3.evaluate(() => { B.store.get().lastDay = B.dayKey(); window.__bridge.length = 0; B.remind.setHour(21); });
   const sc2 = await lastSched();
@@ -1007,6 +1008,9 @@ async function play(page, cfgExpr, mode, seen, arg) {
   ok((await lastSched()).length === 0, "promemoria: dopo più di 14 giorni senza studiare si smette");
   await p3.evaluate(() => B.ui.goTab("profile"));
   ok(await p3.locator(".section-title", { hasText: "Promemoria" }).count() === 1, "Profilo: sezione Promemoria (solo con il guscio Android)");
+  await p3.evaluate(() => { window.__bridge.length = 0; });
+  await p3.locator(".set-row", { hasText: "Non ti arrivano?" }).click();
+  ok(await p3.evaluate(() => window.__bridge.some((c) => c[0] === "appsettings")), "«Non ti arrivano?» apre le impostazioni dell'app nel guscio");
   ok(err3.length === 0, "nessun errore con il ponte nativo " + (err3.length ? JSON.stringify(err3) : ""));
   await ctx3.close();
 

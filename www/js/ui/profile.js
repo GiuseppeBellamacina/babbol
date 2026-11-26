@@ -109,7 +109,9 @@
       c.on ? h("div", { class: "set-block" }, h("div", { class: "row-title" }, "A che ora"),
         segmented(B.remind.hours.map(function (x) { return [x, x + ":00"]; }), c.hour, function (v) { B.remind.setHour(v); UI.refresh(); }),
         h("div", { class: "muted small" }, "L'orario può slittare di qualche minuto col risparmio energetico.")) : null,
-      c.on ? action("Prova una notifica", "Arriva tra 5 secondi", function () { B.remind.test(); UI.toast("Arriva tra 5 secondi: esci dall'app per vederla"); }) : null);
+      c.on && !B.remind.allowed() ? action("Notifiche disattivate", "Attivale nelle impostazioni del telefono per ricevere i promemoria", function () { B.remind.openSettings(); }, true) : null,
+      c.on ? action("Prova una notifica", "Arriva tra 5 secondi", function () { B.remind.test(); UI.toast("Arriva tra 5 secondi: esci dall'app per vederla"); }) : null,
+      c.on ? action("Non ti arrivano?", "Alcuni telefoni fermano le app chiuse: apri le impostazioni di Babbol e togli le limitazioni alla batteria", function () { B.remind.openSettings(); }) : null);
   }
 
   function startLevel() {

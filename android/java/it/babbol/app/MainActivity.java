@@ -496,6 +496,21 @@ public class MainActivity extends Activity {
             }
         }
 
+        /** Apre la pagina di sistema dell'app (notifiche, batteria): serve ai telefoni che fermano le sveglie delle app chiuse. */
+        @JavascriptInterface
+        public void openAppSettings() {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        startActivity(new Intent(android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS, Uri.parse("package:" + getPackageName())));
+                    } catch (RuntimeException e) {
+                        // nessuna pagina disponibile: pazienza
+                    }
+                }
+            });
+        }
+
         @JavascriptInterface
         public boolean notificationsAllowed() {
             return Reminders.allowed(MainActivity.this);

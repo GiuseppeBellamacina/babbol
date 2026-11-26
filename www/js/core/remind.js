@@ -1,7 +1,7 @@
 /*
  * Promemoria di studio (notifiche locali, solo Android).
  *
- * La pagina calcola i prossimi 7 giorni e li passa al guscio nativo (AndroidBridge.scheduleReminders): una sola notifica al
+ * La pagina calcola i prossimi 14 giorni e li passa al guscio nativo (AndroidBridge.scheduleReminders): una sola notifica al
  * giorno, all'ora scelta (default 19:00), mai oggi se si è già studiato. Si ricalcola all'avvio, quando l'app va in
  * background e a ogni modifica dei progressi, così quello che c'è scritto resta aggiornato. Dopo 14 giorni senza studiare
  * si smette (niente spam). Fuori da Android non fa nulla.
@@ -10,7 +10,7 @@
   "use strict";
   var native = window.AndroidBridge || null;
   var S = B.store, R = B.repo, P = B.path;
-  var HOURS = [9, 13, 19, 21], DAYS = 7, GIVE_UP = 14, timer = null;
+  var HOURS = [9, 13, 19, 21], DAYS = 14, GIVE_UP = 14, timer = null;   // 14 giorni armati: restano anche se l'app non si apre per due settimane
 
   function cfg() { var r = S.settings().remind; return { on: !r || r.on !== false, hour: r && HOURS.indexOf(r.hour) >= 0 ? r.hour : 19 }; }
   function dayNum(key) { return Math.floor(new Date(key + "T12:00:00").getTime() / 86400000); }
@@ -47,13 +47,14 @@
       if (st.lastDay && dayNum(key) - dayNum(st.lastDay) > GIVE_UP) break;
       if (d === 0 && st.lastDay === today) continue;       // oggi ha già studiato
       var m = message(date, key);
-      out.push({ at: date.getTime(), title: m[0], text: m[1] });
+      out.push({ at: date.getTime(), day: key, h: c.hour, title: m[0], text: m[1] });   // day+h: il guscio segue il fuso orario
     }
     return out;
   }
 
   var Remind = B.remind = {
     available: function () { return can("scheduleReminders"); },
+    openSettings: function () { if (can("openAppSettings")) native.openAppSettings(); },
     config: cfg,
     hours: HOURS,
     allowed: function () { return can("notificationsAllowed") ? !!native.notificationsAllowed() : false; },

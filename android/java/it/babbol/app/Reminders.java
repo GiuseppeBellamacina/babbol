@@ -14,7 +14,8 @@ import org.json.JSONObject;
 
 /**
  * Promemoria locali (nessun server): la pagina calcola i prossimi giorni e li passa a scheduleReminders(json),
- * una lista di { at: millisecondi, title, text }. Le sveglie sono inesatte (setAndAllowWhileIdle): l'ora può slittare un po',
+ * una lista di { day: "AAAA-MM-GG", h: ora, title, text } (la sveglia è all'ora locale di quel giorno, quindi segue il fuso
+ * del telefono; at in millisecondi è il ripiego per i dati vecchi). Le sveglie sono inesatte (setAndAllowWhileIdle): l'ora può slittare un po',
  * ma non serve il permesso delle sveglie esatte. Dopo il riavvio le riarma BootReceiver dalle SharedPreferences.
  *
  * La toolchain di build compila contro android.jar API 23: ciò che esiste solo da Android 7/8 (canale delle notifiche,
@@ -37,7 +38,7 @@ final class Reminders {
             long now = System.currentTimeMillis();
             for (int i = 0; i < in.length() && keep.length() < MAX; i++) {
                 JSONObject o = in.getJSONObject(i);
-                if (o.getLong("at") > now) {
+                if (when(o) > now) {
                     keep.put(o);
                 }
             }
@@ -46,6 +47,18 @@ final class Reminders {
             prefs(c).edit().remove(KEY).apply();
         }
         arm(c);
+    }
+
+    /** Istante della sveglia: ora locale del giorno indicato, altrimenti il valore assoluto at. */
+    private static long when(JSONObject o) throws org.json.JSONException {
+        String day = o.optString("day", "");
+        if (day.matches("\\d{4}-\\d{2}-\\d{2}") && o.has("h")) {
+            java.util.Calendar cal = java.util.Calendar.getInstance();
+            cal.clear();
+            cal.set(Integer.parseInt(day.substring(0, 4)), Integer.parseInt(day.substring(5, 7)) - 1, Integer.parseInt(day.substring(8, 10)), o.getInt("h"), 0, 0);
+            return cal.getTimeInMillis();
+        }
+        return o.getLong("at");
     }
 
     static void cancel(Context c) {
@@ -60,8 +73,9 @@ final class Reminders {
             long now = System.currentTimeMillis();
             for (int i = 0; i < list.length() && i < MAX; i++) {
                 JSONObject o = list.getJSONObject(i);
-                if (o.getLong("at") > now) {
-                    set(c, i, o.getLong("at"), o.optString("title", "Babbol"), o.optString("text", ""));
+                long at = when(o);
+                if (at > now) {
+                    set(c, i, at, o.optString("title", "Babbol"), o.optString("text", ""));
                 }
             }
         } catch (Exception e) {
@@ -93,7 +107,11 @@ final class Reminders {
         in.putExtra("text", text);
         in.putExtra("code", code);
         PendingIntent pi = PendingIntent.getBroadcast(c, code, in, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
-        am.setAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, at, pi);
+        try {
+            am.setAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, at, pi);
+        } catch (RuntimeException e) {
+            // troppe sveglie o permesso negato dal produttore: l'app resta stabile, il promemoria salta
+        }
     }
 
     private static void cancelAlarms(Context c) {
